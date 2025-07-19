@@ -17,6 +17,7 @@ from core.config import *
 from core.wow_facts import get_wow_fact, create_trivia_from_wow_fact
 from core.daily_facts import get_todays_fact
 from core.database import TriviaDatabase
+from core.points_system import get_streak_emoji, format_points_display
 
 def setup_openai():
     """Initialize OpenAI client"""
@@ -182,10 +183,10 @@ def save_leaderboard(leaderboard):
     db.export_compressed_data()
 
 def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
-    """Get top users from leaderboard"""
+    """Get top users from leaderboard sorted by points, then streak"""
     sorted_users = sorted(
         leaderboard.items(), 
-        key=lambda x: (x[1]['current_streak'], x[1]['total_correct']), 
+        key=lambda x: (x[1]['total_points'], x[1]['current_streak'], x[1]['total_correct']), 
         reverse=True
     )
     return sorted_users[:max_entries]
@@ -272,15 +273,17 @@ def update_readme(trivia_data, leaderboard):
 
 ## 🏆 Leaderboard
 
-| Rank | User | Current Streak | Total Correct |
-|------|------|----------------|---------------|
+| Rank | User | Streak | Points | Total Correct |
+|------|------|--------|--------|---------------|
 """
     
     for i, (username, stats) in enumerate(top_users, 1):
-        readme_content += f"| {i} | @{username} | 🔥 {stats['current_streak']} | ✅ {stats['total_correct']} |\n"
+        streak_emoji = get_streak_emoji(stats['current_streak'])
+        points_display = format_points_display(stats['total_points'])
+        readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} |\n"
     
     if not top_users:
-        readme_content += "| - | *No participants yet* | - | - |\n"
+        readme_content += "| - | *No participants yet* | - | - | - |\n"
     
     readme_content += f"""
 ---
@@ -293,12 +296,15 @@ def update_readme(trivia_data, leaderboard):
 3. **Submit your answer** via the GitHub issue that opens
 4. **Check back tomorrow** to see if you were correct and view the leaderboard!
 
-## 🔥 Streak System
+## 🔥 Points & Streak System
 
-- **Correct Answer:** +1 to your streak
+- **Correct Answer:** +1 point + streak bonus
+- **3-Day Streak:** +1 bonus point 🏆
+- **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
+- **After 7 days:** Cycle repeats (10-day = +1, 14-day = +1, etc.)
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
-- **Leaderboard:** Top {MAX_LEADERBOARD_ENTRIES} users with highest current streaks
+- **Leaderboard:** Top {MAX_LEADERBOARD_ENTRIES} users with highest total points
 
 ---
 

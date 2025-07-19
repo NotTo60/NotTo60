@@ -14,6 +14,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from core.config import *
 from core.database import TriviaDatabase
+from core.points_system import calculate_points_for_streak, get_streak_bonus_info, format_points_display
 import random
 
 def get_github_issues():
@@ -143,11 +144,12 @@ def can_user_answer_today(leaderboard, username, current_trivia_date):
     return True, None
 
 def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
-    """Update user statistics in leaderboard with trivia date tracking"""
+    """Update user statistics in leaderboard with trivia date tracking and points system"""
     if username not in leaderboard:
         leaderboard[username] = {
             'current_streak': 0,
             'total_correct': 0,
+            'total_points': 0,
             'total_answered': 0,
             'last_answered': None,
             'last_trivia_date': None,
@@ -177,8 +179,17 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
     if is_correct:
         user_stats['current_streak'] += 1
         user_stats['total_correct'] += 1
+        
+        # Calculate points with streak bonuses
+        points_earned = calculate_points_for_streak(user_stats['current_streak'])
+        user_stats['total_points'] += points_earned
+        
+        # Get bonus info for comment
+        bonus_info = get_streak_bonus_info(user_stats['current_streak'])
+        return points_earned, bonus_info
     else:
         user_stats['current_streak'] = 0
+        return 0, None
 
 def close_issue(issue_number, comment):
     """Close a GitHub issue with a comment"""
@@ -243,25 +254,44 @@ def process_answers():
         
         # Process answer
         is_correct = answer == correct_answer
-        update_user_stats(leaderboard, username, is_correct, current_trivia_date)
+        points_earned, bonus_info = update_user_stats(leaderboard, username, is_correct, current_trivia_date)
         
         # Get WOW fact if available
         wow_fact = current_trivia.get('wow_fact', '')
         wow_fact_display = f"\n\n{wow_fact}" if wow_fact else ""
         
-        # Create response comment with WOW effect
+        # Create response comment with WOW effect and points system
         if is_correct:
             correct_message = random.choice(CORRECT_MESSAGES)
+            streak = leaderboard[username]['current_streak']
+            points_display = format_points_display(points_earned)
+            
             comment = f"""{correct_message} @{username}
 
 Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely right!
 
 **Explanation:** {current_trivia['explanation']}{wow_fact_display}
 
-🔥 Your current streak: **{leaderboard[username]['current_streak']}**
+🔥 Your current streak: **{streak}**
 ✅ Total correct answers: **{leaderboard[username]['total_correct']}**
-
-Come back tomorrow for another AMAZING question!"""
+🏆 Points earned: **{points_display}**
+💎 Total points: **{leaderboard[username]['total_points']}**"""
+            
+            # Add bonus information
+            if bonus_info and (bonus_info['has_3_day_bonus'] or bonus_info['has_7_day_bonus']):
+                comment += "\n\n🎉 **Streak Bonuses:**\n"
+                if bonus_info['has_3_day_bonus']:
+                    comment += "• +1 point for 3-day streak! 🏆\n"
+                if bonus_info['has_7_day_bonus']:
+                    comment += "• +1 point for 7-day streak! 🏆🏆\n"
+            
+            # Show next milestone
+            if bonus_info['next_3_day_bonus'] > 0:
+                comment += f"\n🎯 **Next 3-day bonus:** {bonus_info['next_3_day_bonus']} more day(s)\n"
+            elif bonus_info['next_7_day_bonus'] > 0:
+                comment += f"🎯 **Next 7-day bonus:** {bonus_info['next_7_day_bonus']} more day(s)\n"
+            
+            comment += "\nCome back tomorrow for another AMAZING question!"
         else:
             incorrect_message = random.choice(INCORRECT_MESSAGES)
             comment = f"""{incorrect_message} @{username}

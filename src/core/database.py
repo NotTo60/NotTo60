@@ -21,6 +21,7 @@ class TriviaDatabase:
                     username TEXT PRIMARY KEY,
                     current_streak INTEGER DEFAULT 0,
                     total_correct INTEGER DEFAULT 0,
+                    total_points INTEGER DEFAULT 0,
                     total_answered INTEGER DEFAULT 0,
                     last_answered TEXT,
                     last_trivia_date TEXT,
@@ -76,13 +77,14 @@ class TriviaDatabase:
                 compressed_history = self.compress_data(data.get('answer_history', []))
                 cursor.execute('''
                     INSERT INTO leaderboard 
-                    (username, current_streak, total_correct, total_answered, 
+                    (username, current_streak, total_correct, total_points, total_answered, 
                      last_answered, last_trivia_date, answer_history)
-                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
                     username,
                     data.get('current_streak', 0),
                     data.get('total_correct', 0),
+                    data.get('total_points', 0),
                     data.get('total_answered', 0),
                     data.get('last_answered'),
                     data.get('last_trivia_date'),
@@ -100,10 +102,11 @@ class TriviaDatabase:
             
             leaderboard = {}
             for row in rows:
-                username, streak, correct, answered, last_answered, last_date, compressed_history = row
+                username, streak, correct, points, answered, last_answered, last_date, compressed_history = row
                 leaderboard[username] = {
                     'current_streak': streak,
                     'total_correct': correct,
+                    'total_points': points,
                     'total_answered': answered,
                     'last_answered': last_answered,
                     'last_trivia_date': last_date,
