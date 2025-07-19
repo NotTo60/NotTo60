@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Little known fact: In every episode of Seinfeld there is a Superman somewhere.
+Did you know? In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
 
 ---
 
