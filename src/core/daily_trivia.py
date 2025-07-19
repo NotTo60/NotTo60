@@ -129,9 +129,9 @@ def create_answer_links():
     """Create GitHub issue links for answer buttons"""
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={ISSUE_TEMPLATE.format(answer='A')}",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={ISSUE_TEMPLATE.format(answer='B')}", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={ISSUE_TEMPLATE.format(answer='C')}"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={ISSUE_TEMPLATE}&labels=trivia",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={ISSUE_TEMPLATE}&labels=trivia", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={ISSUE_TEMPLATE}&labels=trivia"
     }
 
 def update_readme(trivia_data, leaderboard):

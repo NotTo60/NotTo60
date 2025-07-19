@@ -16,11 +16,11 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 <div align="center">
 
-[![Answer A](https://img.shields.io/badge/A-This%20space%20fact%20is%20c-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=I choose A)
+[![Answer A](https://img.shields.io/badge/A-This%20space%20fact%20is%20c-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
-[![Answer B](https://img.shields.io/badge/B-This%20space%20fact%20has%20-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=I choose B)
+[![Answer B](https://img.shields.io/badge/B-This%20space%20fact%20has%20-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
-[![Answer C](https://img.shields.io/badge/C-This%20space%20fact%20is%20s-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=I choose C)
+[![Answer C](https://img.shields.io/badge/C-This%20space%20fact%20is%20s-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
 </div>
 
