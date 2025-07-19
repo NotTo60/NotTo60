@@ -1,1 +1,16 @@
-{}
+{
+  "NotTo60": {
+    "current_streak": 1,
+    "total_correct": 1,
+    "total_answered": 1,
+    "last_answered": "2025-07-19T22:44:31.941355",
+    "last_trivia_date": "19.07.2025",
+    "answer_history": [
+      {
+        "date": "19.07.2025",
+        "timestamp": "2025-07-19T22:44:31.941365",
+        "correct": true
+      }
+    ]
+  }
+}

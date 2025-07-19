@@ -27,7 +27,7 @@ Today's discovery: Only female mosquito’s` bite and most are attracted to the 
 
 | Rank | User | Current Streak | Total Correct |
 |------|------|----------------|---------------|
-| 1 | @NotTo60 | 🔥 1 | ✅ 1 |
+| - | *No participants yet* | - | - |
 
 ---
 
