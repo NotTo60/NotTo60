@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Today's discovery: A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.
+Here's something interesting: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
 
 ---
 
