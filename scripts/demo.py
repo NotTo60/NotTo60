@@ -74,63 +74,20 @@ def demo_trivia_generation():
     daily_fact = get_todays_fact()
     print(f"💡 Daily Fact: {daily_fact['fact']}")
     
-    # Create demo leaderboard with new structure
-    demo_leaderboard = {
-        "demo_user1": {
-            "current_streak": 5,
-            "total_correct": 12,
-            "total_answered": 15,
-            "last_answered": datetime.now().isoformat(),
-            "last_trivia_date": demo_trivia["date"],
-            "answer_history": [
-                {
-                    "date": demo_trivia["date"],
-                    "timestamp": datetime.now().isoformat(),
-                    "correct": True
-                }
-            ]
-        },
-        "demo_user2": {
-            "current_streak": 3,
-            "total_correct": 8,
-            "total_answered": 10,
-            "last_answered": datetime.now().isoformat(),
-            "last_trivia_date": demo_trivia["date"],
-            "answer_history": [
-                {
-                    "date": demo_trivia["date"],
-                    "timestamp": datetime.now().isoformat(),
-                    "correct": True
-                }
-            ]
-        },
-        "demo_user3": {
-            "current_streak": 1,
-            "total_correct": 3,
-            "total_answered": 5,
-            "last_answered": datetime.now().isoformat(),
-            "last_trivia_date": demo_trivia["date"],
-            "answer_history": [
-                {
-                    "date": demo_trivia["date"],
-                    "timestamp": datetime.now().isoformat(),
-                    "correct": False
-                }
-            ]
-        }
-    }
+    # Create empty leaderboard (no demo users)
+    empty_leaderboard = {}
     
-    save_leaderboard(demo_leaderboard)
+    save_leaderboard(empty_leaderboard)
     
     # Update README
-    update_readme(trivia_data, demo_leaderboard)
+    update_readme(trivia_data, empty_leaderboard)
     
     print("\n📊 Demo Data Created:")
     print(f"   - Trivia question: {demo_trivia['question']}")
     print(f"   - Correct answer: {demo_trivia['correct_answer']}) {demo_trivia['options'][demo_trivia['correct_answer']]}")
     print(f"   - Daily Fact: {daily_fact['fact']}")
-    print(f"   - Demo users: {len(demo_leaderboard)}")
-    print(f"   - README updated with trivia, daily fact, and leaderboard")
+    print(f"   - Leaderboard: Empty (no demo users)")
+    print(f"   - README updated with trivia, daily fact, and empty leaderboard")
     
     print("\n🎮 How to Test:")
     print("   1. Check the README.md file for the trivia question")

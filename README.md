@@ -27,9 +27,7 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 | Rank | User | Current Streak | Total Correct |
 |------|------|----------------|---------------|
-| 1 | @demo_user1 | 🔥 5 | ✅ 12 |
-| 2 | @demo_user2 | 🔥 3 | ✅ 8 |
-| 3 | @demo_user3 | 🔥 1 | ✅ 3 |
+| - | *No participants yet* | - | - |
 
 ---
 
