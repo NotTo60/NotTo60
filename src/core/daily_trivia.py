@@ -175,9 +175,9 @@ def create_answer_links():
     encoded_body = urllib.parse.quote(ISSUE_TEMPLATE)
     
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={encoded_body}&labels=trivia",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={encoded_body}&labels=trivia", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={encoded_body}&labels=trivia"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={encoded_body}",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={encoded_body}", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={encoded_body}"
     }
 
 def update_readme(trivia_data, leaderboard):

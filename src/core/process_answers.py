@@ -29,7 +29,6 @@ def get_github_issues():
     url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/issues"
     params = {
         'state': 'open',
-        'labels': ISSUE_LABEL,
         'per_page': 100
     }
     
@@ -194,6 +193,12 @@ def process_answers():
     for issue in issues:
         issue_number = issue['number']
         username = issue['user']['login']
+        
+        # Only process issues that look like trivia answers
+        title = issue.get('title', '')
+        if not title.startswith('Trivia Answer'):
+            continue
+            
         answer = parse_answer_from_issue(issue)
         
         if not answer:
