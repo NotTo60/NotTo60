@@ -1,10 +1,10 @@
 {
   "current": {
-    "fact": "Fascinating tidbit: The Minneapolis phone book has 21 pages of Andersons.",
+    "fact": "Mind-blowing fact: The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
     "source": "fetch_random_fact",
     "category": "general",
-    "raw_fact": "The Minneapolis phone book has 21 pages of Andersons.",
-    "date": "19.07.2025"
+    "raw_fact": "The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+    "date": "20.07.2025"
   },
   "history": [
     {
@@ -27,6 +27,13 @@
       "category": "general",
       "raw_fact": "The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.",
       "date": "19.07.2025"
+    },
+    {
+      "fact": "Fascinating tidbit: The Minneapolis phone book has 21 pages of Andersons.",
+      "source": "fetch_random_fact",
+      "category": "general",
+      "raw_fact": "The Minneapolis phone book has 21 pages of Andersons.",
+      "date": "20.07.2025"
     }
   ]
 }

@@ -173,10 +173,15 @@ def create_answer_links():
     
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
     
+    # Load current trivia to get answer texts
+    trivia_data = load_trivia_data()
+    current_trivia = trivia_data.get("current", {})
+    options = current_trivia.get("options", {"A": "A", "B": "B", "C": "C"})
+    
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='A'))}",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='B'))}", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='C'))}"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['A']))}",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['B']))}", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['C']))}"
     }
 
 def update_readme(trivia_data, leaderboard):

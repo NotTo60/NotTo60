@@ -53,13 +53,23 @@ def parse_answer_from_issue(issue):
     elif 'Trivia Answer C' in title:
         return 'C'
     
-    # Look for answer in body (new format)
+    # Look for answer in body (new format with actual answer text)
+    # First check for letter format
     if '**Answer:** A' in body:
         return 'A'
     elif '**Answer:** B' in body:
         return 'B'
     elif '**Answer:** C' in body:
         return 'C'
+    
+    # Then check for actual answer text (like "2007", "Jupiter", etc.)
+    trivia_data = load_trivia_data()
+    current_trivia = trivia_data.get("current", {})
+    options = current_trivia.get("options", {})
+    
+    for option, text in options.items():
+        if f'**Answer:** {text}' in body:
+            return option
     
     # Look for answer in body (old format)
     if 'I choose A' in body:
