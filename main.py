@@ -17,9 +17,8 @@ def main():
     print("Available commands:")
     print("  1. python main.py trivia     - Generate daily trivia")
     print("  2. python main.py process    - Process answers")
-    print("  3. python main.py ui         - Generate interactive UI")
-    print("  4. python main.py demo       - Run demo")
-    print("  5. python main.py test       - Test all modules")
+    print("  3. python main.py demo       - Run demo")
+    print("  4. python main.py test       - Test all modules")
     print()
     
     if len(sys.argv) < 2:
@@ -34,9 +33,6 @@ def main():
     elif command == "process":
         from core.process_answers import main as process_main
         process_main()
-    elif command == "ui":
-        from ui.generate_ui import generate_html_ui
-        generate_html_ui()
     elif command == "demo":
         from scripts.demo import demo_trivia_generation
         demo_trivia_generation()
@@ -46,7 +42,7 @@ def main():
         test_daily_facts_module()
     else:
         print(f"Unknown command: {command}")
-        print("Available commands: trivia, process, ui, demo, test")
+        print("Available commands: trivia, process, demo, test")
 
 if __name__ == "__main__":
     main() 

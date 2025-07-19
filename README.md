@@ -12,8 +12,6 @@ Today's discovery: Giraffes have no vocal cords.
 
 ## 🎯 Today's Trivia (2025-07-20)
 
-**[🎮 Play Interactive Version](assets/trivia_ui.html)** *(Beautiful UI with real buttons!)*
-
 🚀 **JAW-DROPPING FACT:** The Sun makes up 99.86% of our solar system's mass!
 
 **Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**

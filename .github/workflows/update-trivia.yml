@@ -32,13 +32,6 @@ jobs:
       run: |
         python src/core/daily_trivia.py
         
-    - name: Generate interactive UI
-      env:
-        GITHUB_USERNAME: ${{ github.repository_owner }}
-        GITHUB_REPO: ${{ github.event.repository.name }}
-      run: |
-        python src/ui/generate_ui.py
-        
     - name: Process answers
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
