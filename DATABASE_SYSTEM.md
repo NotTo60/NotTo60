@@ -62,10 +62,10 @@ CREATE TABLE trivia_questions (
 
 ```
 src/data/
-├── trivia.db                    # Main SQLite database
-├── leaderboard.db.gz           # Compressed leaderboard export
-├── daily_facts.db.gz           # Compressed daily facts export
-└── trivia_questions.db.gz      # Compressed trivia questions export
+├── trivia.db                    # Main SQLite database (local only)
+├── leaderboard.db.gz           # Compressed leaderboard (tracked in git)
+├── daily_facts.db.gz           # Compressed daily facts (tracked in git)
+└── trivia_questions.db.gz      # Compressed trivia questions (tracked in git)
 ```
 
 ## 🔄 Database Operations
@@ -142,9 +142,21 @@ decompressed = db.decompress_data(compressed)
 The GitHub Actions workflow now includes:
 
 1. **SQLite installation** verification
-2. **Database migration** step
+2. **Database operations** and updates
 3. **Compressed file** generation
-4. **Automatic commits** with compressed data
+4. **Daily database history** commits to git
+5. **Complete audit trail** of all changes
+
+### **Daily Database History**
+Each day, the workflow:
+1. **Loads current data** from database
+2. **Generates new trivia** and facts
+3. **Updates leaderboard** with new answers
+4. **Exports compressed snapshots** of all data
+5. **Commits to git** with daily timestamp
+6. **Creates historical record** for analysis
+
+This provides a complete audit trail of all trivia questions, daily facts, and leaderboard changes over time.
 
 ### **Workflow Steps**
 ```yaml
@@ -174,10 +186,11 @@ The GitHub Actions workflow now includes:
 ## 🔒 Security & Reliability
 
 ### **Data Protection**
-- **Automatic backups** via compressed exports
-- **Version control** friendly file sizes
+- **Daily database history** via compressed exports in git
+- **Version control** with complete data history
 - **Crash recovery** with SQLite journaling
 - **Atomic operations** prevent data corruption
+- **Historical tracking** of all trivia and leaderboard changes
 
 ### **Error Handling**
 - **Graceful fallbacks** to JSON if database unavailable
@@ -203,10 +216,11 @@ The GitHub Actions workflow now includes:
 ## 📝 Migration Notes
 
 ### **Data Integrity**
-- **Automatic backups** via compressed exports
+- **Daily database snapshots** in git history
 - **ACID compliance** with SQLite transactions
 - **Crash recovery** with database journaling
-- **Version control** friendly compressed files
+- **Complete audit trail** of all data changes
+- **Historical analysis** capabilities
 
 ### **Data Validation**
 - **Integrity checks** during database operations
