@@ -7,10 +7,10 @@ def calculate_points_for_streak(streak):
     """
     Calculate points based on streak length with bonus system:
     - 1 point for correct answer
-    - +1 bonus point for 3-day streak
+    - +1 bonus point for 3-day streak (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
     - +1 bonus point for 7-day streak (total 3 points for 7th day)
     - Pattern repeats every 7 days: 10-day = +1, 13-day = +1, 17-day = +1, 20-day = +1, etc.
-    - Example: Day 3=2pts, Day 7=3pts, Day 10=2pts, Day 13=2pts, Day 14=3pts, Day 17=2pts, Day 20=2pts
+    - Example: Day 3=2pts, Day 6=2pts, Day 7=3pts, Day 9=2pts, Day 10=2pts, Day 12=2pts, Day 13=2pts, Day 14=3pts, Day 15=2pts, Day 17=2pts, Day 18=2pts, Day 20=2pts, Day 21=3pts
     """
     if streak <= 0:
         return 0
@@ -19,8 +19,8 @@ def calculate_points_for_streak(streak):
     points = 1
     
     # Calculate bonus points based on streak milestones
-    # 3-day milestone bonus (3, 10, 13, 17, 20, 24, 27, etc.)
-    if streak == 3 or (streak > 7 and (streak - 3) % 7 == 0) or (streak > 7 and (streak - 6) % 7 == 0):
+    # 3-day milestone bonus (3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
+    if streak % 3 == 0:
         points += 1
     
     # 7-day milestone bonus (and every 7 days after: 14, 21, 28, etc.)
