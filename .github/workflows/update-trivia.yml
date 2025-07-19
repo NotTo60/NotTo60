@@ -55,5 +55,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + WOW facts + Daily fact + Database history - $(date +'%Y-%m-%d')"
-        git pull origin main --strategy-option=theirs
-        git push origin main 
+        git push origin main --strategy-option=theirs 
