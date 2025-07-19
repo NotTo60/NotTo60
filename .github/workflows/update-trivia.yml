@@ -31,15 +31,6 @@ jobs:
         # Install SQLite (usually available by default)
         python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
         
-    - name: Initialize database and migrate data
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        GITHUB_USERNAME: ${{ github.repository_owner }}
-        GITHUB_REPO: ${{ github.event.repository.name }}
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        python scripts/migrate_to_db.py
-        
     - name: Generate daily trivia with WOW facts and daily fact
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

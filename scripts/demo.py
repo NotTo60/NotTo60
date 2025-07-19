@@ -81,9 +81,8 @@ def demo_trivia_generation():
     print("   5. Daily facts are fetched from real APIs when available")
     
     print("\n📁 Generated Files:")
-    print("   - trivia.json (current trivia data)")
-    print("   - daily_facts.json (daily facts data)")
-    print("   - leaderboard.json (user statistics)")
+    print("   - trivia.db (SQLite database)")
+    print("   - *.db.gz (compressed data exports)")
     print("   - README.md (updated with trivia, daily fact, and leaderboard)")
 
 def show_answer_links():

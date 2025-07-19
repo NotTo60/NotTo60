@@ -215,7 +215,7 @@ class TriviaDatabase:
             f.write(compressed_trivia)
     
     def import_compressed_data(self, input_dir="src/data"):
-        """Import compressed data files into database"""
+        """Import compressed data files into database (for backup restoration)"""
         # Import leaderboard
         leaderboard_path = f"{input_dir}/leaderboard.db.gz"
         if os.path.exists(leaderboard_path):

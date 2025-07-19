@@ -4,20 +4,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.07.2025
+## 💡 Did You Know? • 20.07.2025
 
-Mind-blowing fact: The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.
+Fascinating tidbit: The Minneapolis phone book has 21 pages of Andersons.
 
 ---
 
-## 🎯 Today's Trivia • 19.07.2025
+## 🎯 Today's Trivia • 20.07.2025
 
-**What year did the first iPhone launch?**
+**What is the largest planet in our solar system?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Jupiter)** - 2007
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Saturn)** - 2005
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neptune)** - 2009
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Jupiter)** - Jupiter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Saturn)** - Saturn
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neptune)** - Neptune
 
 📝 *Click a button above to submit your answer!*
 
@@ -27,12 +27,12 @@ Mind-blowing fact: The value of Pi will be officially "rounded down" to 3.14 fro
 
 | Rank | User | Current Streak | Total Correct |
 |------|------|----------------|---------------|
-| 1 | @NotTo60 | 🔥 1 | ✅ 1 |
+| - | *No participants yet* | - | - |
 
 ---
 
 
-### 📊 Yesterday's Results • 19.07.2025
+### 📊 Yesterday's Results • Previous Day
 
 
 
