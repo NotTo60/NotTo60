@@ -209,14 +209,15 @@ def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
     )
     return sorted_users[:max_entries]
 
-def create_answer_links():
+def create_answer_links(trivia_data=None):
     """Create GitHub issue links for answer buttons"""
     import urllib.parse
     
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
     
-    # Load current trivia to get answer texts
-    trivia_data = load_trivia_data()
+    # Load current trivia to get answer texts if not provided
+    if trivia_data is None:
+        trivia_data = load_trivia_data()
     current_trivia = trivia_data.get("current", {})
     options = current_trivia.get("options", {"A": "A", "B": "B", "C": "C"})
     
@@ -228,33 +229,45 @@ def create_answer_links():
 
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
-    today = datetime.now().strftime(DATE_FORMAT)
-    
-    # Get current trivia
-    current_trivia = trivia_data.get("current")
-    if not current_trivia:
-        return
-    
-    # Get today's daily fact
-    daily_fact = get_todays_fact()
-    
-    # Create answer links
-    answer_links = create_answer_links()
-    
-    # Get top leaderboard
-    top_users = get_top_leaderboard(leaderboard)
-    
-    # Get category emoji
-    category = current_trivia.get('category', 'general')
-    emoji = EMOJI_MAPPING.get(category, "💡")
-    
-    # Yesterday's stats
-    yesterday_stats = ""
-    if trivia_data.get("history"):
-        yesterday = trivia_data["history"][-1]
-        yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
-        yesterday_date = yesterday.get('date', 'Previous Day')
-        yesterday_stats = f"""
+    try:
+        print("DEBUG: Starting update_readme function")
+        today = datetime.now().strftime(DATE_FORMAT)
+        
+        # Get current trivia
+        print("DEBUG: Getting current trivia")
+        current_trivia = trivia_data.get("current")
+        if not current_trivia:
+            print("DEBUG: No current trivia found")
+            return
+        print("DEBUG: Current trivia found")
+        
+        # Get today's daily fact
+        print("DEBUG: Getting daily fact")
+        daily_fact = get_todays_fact()
+        print("DEBUG: Daily fact obtained")
+        
+        # Create answer links
+        print("DEBUG: Creating answer links")
+        answer_links = create_answer_links(trivia_data)
+        print("DEBUG: Answer links created")
+        
+        # Get top leaderboard
+        top_users = get_top_leaderboard(leaderboard)
+        print(f"DEBUG: Found {len(top_users)} top users")
+        for i, (username, stats) in enumerate(top_users, 1):
+            print(f"DEBUG: {i}. @{username}: {stats['total_points']} points")
+        
+        # Get category emoji
+        category = current_trivia.get('category', 'general')
+        emoji = EMOJI_MAPPING.get(category, "💡")
+        
+        # Yesterday's stats
+        yesterday_stats = ""
+        if trivia_data.get("history"):
+            yesterday = trivia_data["history"][-1]
+            yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
+            yesterday_date = yesterday.get('date', 'Previous Day')
+            yesterday_stats = f"""
 ### 📊 Yesterday's Results • {yesterday_date}
 
 {yesterday.get('wow_fact', '')}
@@ -263,8 +276,8 @@ def update_readme(trivia_data, leaderboard):
 **Correct Answer:** {yesterday['correct_answer']}) {yesterday['options'][yesterday['correct_answer']]}
 **Explanation:** {yesterday['explanation']}
 """
-    
-    readme_content = f"""# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
+        
+        readme_content = f"""# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
 
 👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
 
@@ -294,16 +307,18 @@ def update_readme(trivia_data, leaderboard):
 | Rank | User | Streak | Points | Total Correct |
 |------|------|--------|--------|---------------|
 """
-    
-    for i, (username, stats) in enumerate(top_users, 1):
-        streak_emoji = get_streak_emoji(stats['current_streak'])
-        points_display = format_points_display(stats['total_points'])
-        readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} |\n"
-    
-    if not top_users:
-        readme_content += "| - | *No participants yet* | - | - | - |\n"
-    
-    readme_content += f"""
+        
+        for i, (username, stats) in enumerate(top_users, 1):
+            streak_emoji = get_streak_emoji(stats['current_streak'])
+            points_display = format_points_display(stats['total_points'])
+            readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} |\n"
+            print(f"DEBUG: Added user {i}: @{username}")
+        
+        if not top_users:
+            readme_content += "| - | *No participants yet* | - | - | - |\n"
+            print("DEBUG: No top users found, adding 'No participants yet'")
+        
+        readme_content += f"""
 ---
 
 {yesterday_stats}
@@ -327,9 +342,14 @@ def update_readme(trivia_data, leaderboard):
 
 *Questions and facts are automatically generated daily at 12:00 AM UTC!*
 """
-    
-    with open("README.md", "w") as f:
-        f.write(readme_content)
+        
+        with open("README.md", "w") as f:
+            f.write(readme_content)
+        print("DEBUG: README file written successfully")
+    except Exception as e:
+        print(f"DEBUG: Error in update_readme: {e}")
+        import traceback
+        traceback.print_exc()
 
 def main():
     """Main function to generate and update trivia"""
