@@ -216,9 +216,9 @@ def update_readme(trivia_data, leaderboard):
 **Explanation:** {yesterday['explanation']}
 """
     
-    readme_content = f"""# 🧠 Interactive AI-Powered Trivia Profile
+    readme_content = f"""# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
 
-Welcome to my GitHub profile! Every day, I post a new AI-generated trivia question with **AMAZING WOW FACTS** from real APIs! Test your knowledge and compete with others!
+👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
 
 ---
 
