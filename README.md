@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Today's discovery: There are more plastic flamingos in the U.S that there are real ones.
+Little known fact: In every episode of Seinfeld there is a Superman somewhere.
 
 ---
 
