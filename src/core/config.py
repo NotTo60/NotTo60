@@ -105,7 +105,7 @@ def get_latest_model():
 MODEL = get_latest_model()
 
 # GitHub Issue Configuration
-ISSUE_LABEL = "trivia-answer"
+ISSUE_LABEL = "trivia"
 ISSUE_TEMPLATE = "🎯 Just click 'Submit new issue' to submit your answer! No need to change anything else - your choice is already in the title! 🚀"
 
 # Display Configuration
