@@ -76,7 +76,33 @@ MAX_RETRIES = 3
 # Trivia Generation Settings
 MAX_TOKENS = 400
 TEMPERATURE = 0.8
-MODEL = "gpt-4o-mini"
+# Auto-detect latest model
+def get_latest_model():
+    """Get the latest available GPT model"""
+    try:
+        from openai import OpenAI
+        client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+        models = client.models.list()
+        
+        # Priority order for latest models
+        latest_models = [
+            "gpt-4o",           # Latest flagship model
+            "gpt-4o-mini",      # Latest mini model
+            "gpt-4-turbo",      # Previous flagship
+            "gpt-3.5-turbo"     # Fallback
+        ]
+        
+        available_models = [model.id for model in models.data]
+        
+        for model in latest_models:
+            if model in available_models:
+                return model
+        
+        return "gpt-4o-mini"  # Default fallback
+    except:
+        return "gpt-4o-mini"  # Fallback if API call fails
+
+MODEL = get_latest_model()
 
 # GitHub Issue Configuration
 ISSUE_LABEL = "trivia-answer"
