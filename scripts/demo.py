@@ -25,27 +25,12 @@ def demo_trivia_generation():
         print("⚠️  No OpenAI API key found. Using WOW facts from APIs and fallback trivia.")
         print("   Set OPENAI_API_KEY environment variable for AI-generated questions.")
     
-    # Test WOW facts from APIs
-    print("\n🌟 Testing WOW Facts from APIs...")
-    test_categories = ["science", "space", "animals", "human_body", "general"]
-    
-    for category in test_categories:
-        print(f"\n📡 Fetching {category} WOW fact...")
-        wow_result = get_wow_fact(category)
-        print(f"✅ {wow_result['fact']}")
-        print(f"   Source: {wow_result['source']}")
-        print(f"   Category: {wow_result['category']}")
-    
-    # Test daily facts from APIs
-    print("\n💡 Testing Daily Facts from APIs...")
-    daily_categories = ["random", "food", "time", "countries", "general"]
-    
-    for category in daily_categories:
-        print(f"\n📡 Fetching {category} daily fact...")
-        daily_result = get_daily_fact(category)
-        print(f"✅ {daily_result['fact']}")
-        print(f"   Source: {daily_result['source']}")
-        print(f"   Category: {daily_result['category']}")
+    # Test single daily fact (what's actually needed per day)
+    print("\n💡 Testing Daily Fact (1 per day)...")
+    daily_fact = get_todays_fact()
+    print(f"✅ {daily_fact['fact']}")
+    print(f"   Source: {daily_fact['source']}")
+    print(f"   Category: {daily_fact['category']}")
     
     # Generate trivia with WOW facts
     print("\n🔄 Generating trivia question with WOW facts...")
@@ -117,42 +102,18 @@ def show_answer_links():
     for option, link in links.items():
         print(f"   {option}) {link}")
 
-def test_wow_facts_module():
-    """Test the WOW facts module independently"""
-    print("\n🧪 Testing WOW Facts Module")
+def test_single_fact():
+    """Test single fact generation (what's actually needed)"""
+    print("\n🧪 Testing Single Fact Generation")
     print("=" * 40)
     
-    # Test different categories
-    categories = ["science", "space", "animals", "human_body", "general"]
-    
-    for category in categories:
-        print(f"\n📡 Fetching {category} fact...")
-        result = get_wow_fact(category)
-        print(f"✅ {result['fact']}")
-        print(f"   Source: {result['source']}")
-        print(f"   Category: {result['category']}")
-
-def test_daily_facts_module():
-    """Test the daily facts module independently"""
-    print("\n🧪 Testing Daily Facts Module")
-    print("=" * 40)
-    
-    # Test different categories
-    categories = ["random", "food", "time", "countries", "general"]
-    
-    for category in categories:
-        print(f"\n📡 Fetching {category} daily fact...")
-        result = get_daily_fact(category)
-        print(f"✅ {result['fact']}")
-        print(f"   Source: {result['source']}")
-        print(f"   Category: {result['category']}")
-    
-    # Test today's fact
+    # Test today's fact (the only one needed per day)
     print(f"\n📅 Today's fact:")
     today_fact = get_todays_fact()
     print(f"✅ {today_fact['fact']}")
     print(f"   Date: {today_fact['date']}")
     print(f"   Source: {today_fact['source']}")
+    print(f"   Category: {today_fact['category']}")
 
 def show_configuration():
     """Show the current configuration"""
@@ -174,10 +135,9 @@ def show_configuration():
 if __name__ == "__main__":
     demo_trivia_generation()
     show_answer_links()
-    test_wow_facts_module()
-    test_daily_facts_module()
+    test_single_fact()
     show_configuration()
     
-    print("\n🎉 Demo complete! Check the generated files to see the trivia system with WOW facts and daily facts in action.")
-    print("🌟 The system now fetches AMAZING facts from real APIs and adds a daily 'Did You Know?' section!")
-    print("💡 Every day, users will see a new interesting fact alongside the trivia question!") 
+    print("\n🎉 Demo complete! Check the generated files to see the trivia system in action.")
+    print("🌟 The system fetches 1 daily fact and generates 1 trivia question per day!")
+    print("💡 Simple, efficient, and focused on what's actually needed!") 
