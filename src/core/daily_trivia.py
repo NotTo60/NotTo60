@@ -230,32 +230,21 @@ def create_answer_links(trivia_data=None):
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
     try:
-        print("DEBUG: Starting update_readme function")
         today = datetime.now().strftime(DATE_FORMAT)
         
         # Get current trivia
-        print("DEBUG: Getting current trivia")
         current_trivia = trivia_data.get("current")
         if not current_trivia:
-            print("DEBUG: No current trivia found")
             return
-        print("DEBUG: Current trivia found")
         
         # Get today's daily fact
-        print("DEBUG: Getting daily fact")
         daily_fact = get_todays_fact()
-        print("DEBUG: Daily fact obtained")
         
         # Create answer links
-        print("DEBUG: Creating answer links")
         answer_links = create_answer_links(trivia_data)
-        print("DEBUG: Answer links created")
         
         # Get top leaderboard
         top_users = get_top_leaderboard(leaderboard)
-        print(f"DEBUG: Found {len(top_users)} top users")
-        for i, (username, stats) in enumerate(top_users, 1):
-            print(f"DEBUG: {i}. @{username}: {stats['total_points']} points")
         
         # Get category emoji
         category = current_trivia.get('category', 'general')
@@ -312,11 +301,9 @@ def update_readme(trivia_data, leaderboard):
             streak_emoji = get_streak_emoji(stats['current_streak'])
             points_display = format_points_display(stats['total_points'])
             readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} |\n"
-            print(f"DEBUG: Added user {i}: @{username}")
         
         if not top_users:
             readme_content += "| - | *No participants yet* | - | - | - |\n"
-            print("DEBUG: No top users found, adding 'No participants yet'")
         
         readme_content += f"""
 ---
@@ -345,9 +332,8 @@ def update_readme(trivia_data, leaderboard):
         
         with open("README.md", "w") as f:
             f.write(readme_content)
-        print("DEBUG: README file written successfully")
     except Exception as e:
-        print(f"DEBUG: Error in update_readme: {e}")
+        print(f"Error in update_readme: {e}")
         import traceback
         traceback.print_exc()
 
