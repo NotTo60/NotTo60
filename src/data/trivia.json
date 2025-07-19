@@ -1,15 +1,28 @@
 {
   "current": {
-    "question": "What is the largest planet in our solar system?",
+    "question": "What year did the first iPhone launch?",
     "options": {
-      "A": "Jupiter",
-      "B": "Saturn",
-      "C": "Neptune"
+      "A": "2007",
+      "B": "2005",
+      "C": "2009"
     },
     "correct_answer": "A",
-    "category": "space",
-    "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of Saturn.",
-    "date": "20.07.2025"
+    "category": "general",
+    "explanation": "The first iPhone was launched by Apple in 2007.",
+    "date": "19.07.2025"
   },
-  "history": []
+  "history": [
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": {
+        "A": "Jupiter",
+        "B": "Saturn",
+        "C": "Neptune"
+      },
+      "correct_answer": "A",
+      "category": "space",
+      "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of Saturn.",
+      "date": "19.07.2025"
+    }
+  ]
 }
