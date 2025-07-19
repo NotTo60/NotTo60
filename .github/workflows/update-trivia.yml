@@ -9,10 +9,15 @@ on:
 jobs:
   update-trivia:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -43,11 +48,9 @@ jobs:
         python src/core/process_answers.py
         
     - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + WOW facts + Daily fact - $(date +'%Y-%m-%d')"
-        git push origin main 
+        git push 
