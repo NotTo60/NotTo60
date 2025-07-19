@@ -29,8 +29,7 @@ def demo_trivia_generation():
     print("\n💡 Testing Daily Fact (1 per day)...")
     daily_fact = get_todays_fact()
     print(f"✅ {daily_fact['fact']}")
-    print(f"   Source: {daily_fact['source']}")
-    print(f"   Category: {daily_fact['category']}")
+    print(f"   Timestamp: {daily_fact.get('timestamp', 'N/A')}")
     
     # Generate trivia with WOW facts
     print("\n🔄 Generating trivia question with WOW facts...")
@@ -94,9 +93,9 @@ def show_answer_links():
     
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
     links = {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={ISSUE_TEMPLATE.format(answer='A')}",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={ISSUE_TEMPLATE.format(answer='B')}", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={ISSUE_TEMPLATE.format(answer='C')}"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={ISSUE_TEMPLATE.format(answer_text='A')}",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={ISSUE_TEMPLATE.format(answer_text='B')}", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={ISSUE_TEMPLATE.format(answer_text='C')}"
     }
     
     for option, link in links.items():
@@ -111,9 +110,7 @@ def test_single_fact():
     print(f"\n📅 Today's fact:")
     today_fact = get_todays_fact()
     print(f"✅ {today_fact['fact']}")
-    print(f"   Date: {today_fact['date']}")
-    print(f"   Source: {today_fact['source']}")
-    print(f"   Category: {today_fact['category']}")
+    print(f"   Timestamp: {today_fact.get('timestamp', 'N/A')}")
 
 def show_configuration():
     """Show the current configuration"""

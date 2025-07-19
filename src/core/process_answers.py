@@ -13,6 +13,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from core.config import *
+from core.database import TriviaDatabase
 import random
 
 def get_github_issues():
@@ -82,23 +83,32 @@ def parse_answer_from_issue(issue):
     return None
 
 def load_trivia_data():
-    """Load current trivia data"""
-    if os.path.exists(TRIVIA_FILE):
-        with open(TRIVIA_FILE, 'r') as f:
-            return json.load(f)
-    return {"current": None, "history": []}
+    """Load current trivia data from database"""
+    db = TriviaDatabase()
+    trivia_questions = db.get_trivia_questions()
+    
+    # Convert to expected format
+    current = None
+    history = []
+    
+    for date, question_data in trivia_questions.items():
+        if current is None:
+            current = question_data
+        else:
+            history.append(question_data)
+    
+    return {"current": current, "history": history}
 
 def load_leaderboard():
-    """Load leaderboard data"""
-    if os.path.exists(LEADERBOARD_FILE):
-        with open(LEADERBOARD_FILE, 'r') as f:
-            return json.load(f)
-    return {}
+    """Load leaderboard data from database"""
+    db = TriviaDatabase()
+    return db.get_leaderboard()
 
 def save_leaderboard(leaderboard):
-    """Save leaderboard data"""
-    with open(LEADERBOARD_FILE, 'w') as f:
-        json.dump(leaderboard, f, indent=2)
+    """Save leaderboard data to database"""
+    db = TriviaDatabase()
+    db.update_leaderboard(leaderboard)
+    db.export_compressed_data()
 
 def can_user_answer_today(leaderboard, username, current_trivia_date):
     """Check if user can answer today's trivia with timezone and grace period handling"""

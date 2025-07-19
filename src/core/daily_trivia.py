@@ -16,6 +16,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from core.config import *
 from core.wow_facts import get_wow_fact, create_trivia_from_wow_fact
 from core.daily_facts import get_todays_fact
+from core.database import TriviaDatabase
 
 def setup_openai():
     """Initialize OpenAI client"""
@@ -135,28 +136,50 @@ def create_standalone_trivia(category):
     return category_questions.get(category, category_questions["general"])
 
 def load_trivia_data():
-    """Load existing trivia data"""
-    if os.path.exists(TRIVIA_FILE):
-        with open(TRIVIA_FILE, 'r') as f:
-            return json.load(f)
-    return {"current": None, "history": []}
+    """Load existing trivia data from database"""
+    db = TriviaDatabase()
+    trivia_questions = db.get_trivia_questions()
+    
+    # Convert to expected format
+    current = None
+    history = []
+    
+    for date, question_data in trivia_questions.items():
+        if current is None:
+            current = question_data
+        else:
+            history.append(question_data)
+    
+    return {"current": current, "history": history}
 
 def save_trivia_data(trivia_data):
-    """Save trivia data to file"""
-    with open(TRIVIA_FILE, 'w') as f:
-        json.dump(trivia_data, f, indent=2)
+    """Save trivia data to database"""
+    db = TriviaDatabase()
+    
+    # Convert to database format
+    trivia_questions = {}
+    if trivia_data.get("current"):
+        today = datetime.now().strftime(DATE_FORMAT)
+        trivia_questions[today] = trivia_data["current"]
+    
+    for i, question in enumerate(trivia_data.get("history", [])):
+        # Use a date format for history entries
+        date = f"history_{i}"
+        trivia_questions[date] = question
+    
+    db.update_trivia_questions(trivia_questions)
+    db.export_compressed_data()
 
 def load_leaderboard():
-    """Load leaderboard data"""
-    if os.path.exists(LEADERBOARD_FILE):
-        with open(LEADERBOARD_FILE, 'r') as f:
-            return json.load(f)
-    return {}
+    """Load leaderboard data from database"""
+    db = TriviaDatabase()
+    return db.get_leaderboard()
 
 def save_leaderboard(leaderboard):
-    """Save leaderboard data"""
-    with open(LEADERBOARD_FILE, 'w') as f:
-        json.dump(leaderboard, f, indent=2)
+    """Save leaderboard data to database"""
+    db = TriviaDatabase()
+    db.update_leaderboard(leaderboard)
+    db.export_compressed_data()
 
 def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
     """Get top users from leaderboard"""
@@ -211,8 +234,9 @@ def update_readme(trivia_data, leaderboard):
     if trivia_data.get("history"):
         yesterday = trivia_data["history"][-1]
         yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
+        yesterday_date = yesterday.get('date', 'Previous Day')
         yesterday_stats = f"""
-### 📊 Yesterday's Results • {yesterday['date']}
+### 📊 Yesterday's Results • {yesterday_date}
 
 {yesterday.get('wow_fact', '')}
 

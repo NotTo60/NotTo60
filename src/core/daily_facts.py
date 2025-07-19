@@ -14,6 +14,7 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from core.config import *
+from core.database import TriviaDatabase
 
 def fetch_random_fact() -> Optional[str]:
     """Fetch a random fact from uselessfacts API"""
@@ -193,42 +194,38 @@ def get_daily_fact(category: str = None) -> Dict[str, str]:
     }
 
 def load_daily_facts():
-    """Load existing daily facts data"""
-    if os.path.exists(DAILY_FACTS_FILE):
-        with open(DAILY_FACTS_FILE, 'r') as f:
-            return json.load(f)
-    return {"current": None, "history": []}
+    """Load existing daily facts data from database"""
+    db = TriviaDatabase()
+    return db.get_daily_facts()
 
 def save_daily_facts(daily_facts_data):
-    """Save daily facts data to file"""
-    with open(DAILY_FACTS_FILE, 'w') as f:
-        json.dump(daily_facts_data, f, indent=2)
+    """Save daily facts data to database"""
+    db = TriviaDatabase()
+    db.update_daily_facts(daily_facts_data)
+    db.export_compressed_data()
 
 def get_todays_fact() -> Dict[str, str]:
     """Get today's fact, generating a new one if needed"""
     daily_facts_data = load_daily_facts()
     today = datetime.now().strftime(DATE_FORMAT)
     
-    current_fact = daily_facts_data.get("current")
-    
     # Check if we already have a fact for today
-    if current_fact and current_fact.get("date") == today:
-        return current_fact
-    
-    # Move current fact to history if it exists
-    if current_fact:
-        current_fact["date"] = today
-        daily_facts_data["history"].append(current_fact)
+    if today in daily_facts_data:
+        return daily_facts_data[today]
     
     # Generate new fact
     new_fact = get_daily_fact()
-    new_fact["date"] = today
     
-    # Save to data
-    daily_facts_data["current"] = new_fact
+    # Convert to database format
+    daily_facts_data[today] = {
+        "fact": new_fact["fact"],
+        "timestamp": datetime.now().isoformat()
+    }
+    
+    # Save to database
     save_daily_facts(daily_facts_data)
     
-    return new_fact
+    return daily_facts_data[today]
 
 if __name__ == "__main__":
     # Test the daily facts module
