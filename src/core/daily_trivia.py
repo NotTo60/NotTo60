@@ -271,38 +271,9 @@ Welcome to my GitHub profile! Every day, I post a new AI-generated trivia questi
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top {MAX_LEADERBOARD_ENTRIES} users with highest current streaks
 
-## 🤖 About
-
-This profile uses:
-- **OpenAI GPT-3.5** for generating daily trivia questions
-- **Real APIs** for AMAZING WOW facts (Numbers API, Cat Facts, Space News, etc.)
-- **Daily Facts APIs** for interesting "Did You Know?" facts
-- **GitHub Issues** for answer submission
-- **GitHub Actions** for automated daily updates
-- **Python** for processing and scoring
-
-## 🌟 WOW Facts Sources
-
-- **Numbers API**: Random number facts
-- **Cat Facts API**: Amazing cat facts
-- **Dog Facts API**: Incredible dog facts  
-- **Space News API**: Mind-blowing space facts
-- **Animal Facts API**: Fascinating animal facts
-- **Fallback Facts**: Curated amazing facts when APIs are unavailable
-
-## 📚 Daily Facts Sources
-
-- **Useless Facts API**: Random interesting facts
-- **Joke API**: Educational jokes and puns
-- **Quotable API**: Inspiring quotes
-- **Food API**: Delicious food facts
-- **Time API**: Current time facts around the world
-- **Countries API**: Fascinating country information
-- **Fallback Facts**: Curated interesting facts
-
 ---
 
-*Questions and facts are automatically generated daily at 12:00 AM UTC with REAL WOW FACTS from APIs!*
+*Questions and facts are automatically generated daily at 12:00 AM UTC!*
 """
     
     with open("README.md", "w") as f:
