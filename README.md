@@ -4,20 +4,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.07.2025
+## 💡 Did You Know? • 19.07.2025
 
-Amazing discovery: You can`t kill yourself by holding your breath.  
+Incredible fact: If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".
 
 ---
 
-## 🎯 Today's Trivia • 20.07.2025
+## 🎯 Today's Trivia • 19.07.2025
 
-**Which animal has the longest lifespan?**
+**What year did the first iPhone launch?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Greenland%20Shark)** - Greenland Shark
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Giant%20Tortoise)** - Giant Tortoise
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bowhead%20Whale)** - Bowhead Whale
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%202007)** - 2007
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%202005)** - 2005
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%202009)** - 2009
 
 📝 *Click a button above to submit your answer!*
 
@@ -27,11 +27,7 @@ Amazing discovery: You can`t kill yourself by holding your breath.  
 
 | Rank | User | Streak | Points | Total Correct |
 |------|------|--------|--------|---------------|
-| 1 | @charlie_quiz | 🔥🔥🔥 7 | 25 points | ✅ 15 |
-| 2 | @alice_dev | 🔥🔥 5 | 18 points | ✅ 12 |
-| 3 | @bob_coder | 🔥🔥 3 | 12 points | ✅ 8 |
-| 4 | @diana_smart | 🔥 2 | 8 points | ✅ 6 |
-| 5 | @eddie_brain | 🔥 1 | 5 points | ✅ 4 |
+| - | *No participants yet* | - | - | - |
 
 ---
 
