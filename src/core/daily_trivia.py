@@ -189,11 +189,17 @@ Welcome to my GitHub profile! Every day, I post a new AI-generated trivia questi
 
 **{current_trivia['question']}**
 
-- [A) {current_trivia['options']['A']}]({answer_links['A']})
-- [B) {current_trivia['options']['B']}]({answer_links['B']})
-- [C) {current_trivia['options']['C']}]({answer_links['C']})
+<div align="center">
 
-📝 *Click your answer above to submit!*
+[![Answer A](https://img.shields.io/badge/A-{current_trivia['options']['A'][:20].replace(' ', '%20')}-blue?style=for-the-badge&logo=github)]({answer_links['A']})
+
+[![Answer B](https://img.shields.io/badge/B-{current_trivia['options']['B'][:20].replace(' ', '%20')}-green?style=for-the-badge&logo=github)]({answer_links['B']})
+
+[![Answer C](https://img.shields.io/badge/C-{current_trivia['options']['C'][:20].replace(' ', '%20')}-orange?style=for-the-badge&logo=github)]({answer_links['C']})
+
+</div>
+
+📝 *Click a button above to submit your answer!*
 
 ---
 

@@ -12,15 +12,21 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 ## 🎯 Today's Trivia • 20.07.2025
 
-🚀 **PHENOMENAL FACT:** One million Earths could fit inside the Sun!
+🚀 **MIND-BOGGLING FACT:** There are more stars in the universe than grains of sand on Earth!
 
 **Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**
 
-- [A) This space fact is completely accurate](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=I choose A)
-- [B) This space fact has been proven false](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=I choose B)
-- [C) This space fact is still being debated by scientists](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=I choose C)
+<div align="center">
 
-📝 *Click your answer above to submit!*
+[![Answer A](https://img.shields.io/badge/A-This%20space%20fact%20is%20c-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=I choose A)
+
+[![Answer B](https://img.shields.io/badge/B-This%20space%20fact%20has%20-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=I choose B)
+
+[![Answer C](https://img.shields.io/badge/C-This%20space%20fact%20is%20s-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=I choose C)
+
+</div>
+
+📝 *Click a button above to submit your answer!*
 
 ---
 
