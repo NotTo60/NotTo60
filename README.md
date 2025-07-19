@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Did you know? In 1778, fashionable women of Paris never went out in blustery weather without a lightning rod attached to their hats.
+Today's discovery: There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.
 
 ---
 
