@@ -16,13 +16,18 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 <div align="center">
 
-[![Answer A](https://img.shields.io/badge/A-Jupiter-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer A](https://img.shields.io/badge/A-Answer-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
 
-[![Answer B](https://img.shields.io/badge/B-Saturn-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer B](https://img.shields.io/badge/B-Answer-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
 
-[![Answer C](https://img.shields.io/badge/C-Neptune-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer C](https://img.shields.io/badge/C-Answer-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
 
 </div>
+
+**Options:**
+- **A)** Jupiter
+- **B)** Saturn
+- **C)** Neptune
 
 📝 *Click a button above to submit your answer!*
 

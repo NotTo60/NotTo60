@@ -3,12 +3,12 @@
     "current_streak": 5,
     "total_correct": 12,
     "total_answered": 15,
-    "last_answered": "2025-07-20T00:57:50.931482",
+    "last_answered": "2025-07-20T00:59:04.490162",
     "last_trivia_date": "20.07.2025",
     "answer_history": [
       {
         "date": "20.07.2025",
-        "timestamp": "2025-07-20T00:57:50.931487",
+        "timestamp": "2025-07-20T00:59:04.490167",
         "correct": true
       }
     ]
@@ -17,12 +17,12 @@
     "current_streak": 3,
     "total_correct": 8,
     "total_answered": 10,
-    "last_answered": "2025-07-20T00:57:50.931491",
+    "last_answered": "2025-07-20T00:59:04.490170",
     "last_trivia_date": "20.07.2025",
     "answer_history": [
       {
         "date": "20.07.2025",
-        "timestamp": "2025-07-20T00:57:50.931493",
+        "timestamp": "2025-07-20T00:59:04.490172",
         "correct": true
       }
     ]
@@ -31,12 +31,12 @@
     "current_streak": 1,
     "total_correct": 3,
     "total_answered": 5,
-    "last_answered": "2025-07-20T00:57:50.931496",
+    "last_answered": "2025-07-20T00:59:04.490175",
     "last_trivia_date": "20.07.2025",
     "answer_history": [
       {
         "date": "20.07.2025",
-        "timestamp": "2025-07-20T00:57:50.931498",
+        "timestamp": "2025-07-20T00:59:04.490177",
         "correct": false
       }
     ]

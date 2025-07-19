@@ -168,11 +168,15 @@ def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
 
 def create_answer_links():
     """Create GitHub issue links for answer buttons"""
+    import urllib.parse
+    
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
+    encoded_body = urllib.parse.quote(ISSUE_TEMPLATE)
+    
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={ISSUE_TEMPLATE}&labels=trivia",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={ISSUE_TEMPLATE}&labels=trivia", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={ISSUE_TEMPLATE}&labels=trivia"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={encoded_body}&labels=trivia",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={encoded_body}&labels=trivia", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={encoded_body}&labels=trivia"
     }
 
 def update_readme(trivia_data, leaderboard):
@@ -230,13 +234,18 @@ Welcome to my GitHub profile! Every day, I post a new AI-generated trivia questi
 
 <div align="center">
 
-[![Answer A](https://img.shields.io/badge/A-{current_trivia['options']['A'][:20].replace(' ', '%20')}-blue?style=for-the-badge&logo=github)]({answer_links['A']})
+[![Answer A](https://img.shields.io/badge/A-Answer-blue?style=for-the-badge&logo=github)]({answer_links['A']})
 
-[![Answer B](https://img.shields.io/badge/B-{current_trivia['options']['B'][:20].replace(' ', '%20')}-green?style=for-the-badge&logo=github)]({answer_links['B']})
+[![Answer B](https://img.shields.io/badge/B-Answer-green?style=for-the-badge&logo=github)]({answer_links['B']})
 
-[![Answer C](https://img.shields.io/badge/C-{current_trivia['options']['C'][:20].replace(' ', '%20')}-orange?style=for-the-badge&logo=github)]({answer_links['C']})
+[![Answer C](https://img.shields.io/badge/C-Answer-orange?style=for-the-badge&logo=github)]({answer_links['C']})
 
 </div>
+
+**Options:**
+- **A)** {current_trivia['options']['A']}
+- **B)** {current_trivia['options']['B']}
+- **C)** {current_trivia['options']['C']}
 
 📝 *Click a button above to submit your answer!*
 
