@@ -1,16 +1,14 @@
 {
   "current": {
-    "question": "Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?",
+    "question": "What is the largest planet in our solar system?",
     "options": {
-      "A": "This space fact is completely accurate",
-      "B": "This space fact has been proven false",
-      "C": "This space fact is still being debated by scientists"
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Neptune"
     },
     "correct_answer": "A",
     "category": "space",
-    "explanation": "This is a verified space fact that has been confirmed by multiple astronomical observations and calculations.",
-    "wow_fact": "\ud83d\ude80 **MARVELOUS FACT:** The footprints on the Moon will last for 100 million years!",
-    "fact_source": "fallback_generated",
+    "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of Saturn.",
     "date": "20.07.2025"
   },
   "history": []

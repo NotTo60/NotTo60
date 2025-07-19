@@ -32,23 +32,23 @@ def generate_trivia_question():
     wow_fact = wow_fact_result.get('fact', '')
     fact_source = wow_fact_result.get('source', '')
     
-    # Create enhanced prompt with WOW fact
-    prompt = f"""Generate an INCREDIBLE trivia question about {category}. 
+    # Create enhanced prompt for standalone trivia
+    prompt = f"""Generate an INCREDIBLE standalone trivia question about {category}. 
 
-    WOW FACT CONTEXT: {wow_fact}
-    
     Requirements:
-    - Make the question AMAZING and mind-blowing like the WOW fact above
+    - Create a completely original question NOT based on any specific fact
+    - Make the question AMAZING and mind-blowing
     - Question should be engaging and create a "WOW" effect
     - Provide exactly 3 multiple choice options (A, B, C)
     - One option must be correct
     - Make the incorrect options plausible but wrong
     - Keep the question and answers concise but fascinating
     - Use {random.choice(WOW_KEYWORDS)} language to make it exciting
+    - DO NOT reference any specific fact or say "Based on this fact"
     
     Format your response as JSON:
     {{
-        "question": "Your AMAZING question here?",
+        "question": "Your AMAZING standalone question here?",
         "options": {{
             "A": "First option",
             "B": "Second option", 
@@ -56,9 +56,7 @@ def generate_trivia_question():
         }},
         "correct_answer": "A",
         "category": "{category}",
-        "explanation": "FASCINATING explanation of why the answer is correct",
-        "wow_fact": "{wow_fact}",
-        "fact_source": "{fact_source}"
+        "explanation": "FASCINATING explanation of why the answer is correct"
     }}
     
     Only return the JSON, no other text."""
@@ -89,8 +87,51 @@ def generate_trivia_question():
         
     except Exception as e:
         print(f"Error generating trivia with OpenAI: {e}")
-        # Fallback to WOW fact-based trivia
-        return create_trivia_from_wow_fact(wow_fact, category)
+        # Fallback to standalone trivia
+        return create_standalone_trivia(category)
+
+def create_standalone_trivia(category):
+    """Create standalone trivia question without being based on facts"""
+    category_questions = {
+        "space": {
+            "question": "What is the largest planet in our solar system?",
+            "options": {"A": "Jupiter", "B": "Saturn", "C": "Neptune"},
+            "correct_answer": "A",
+            "category": "space",
+            "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of Saturn."
+        },
+        "science": {
+            "question": "What is the chemical symbol for gold?",
+            "options": {"A": "Au", "B": "Ag", "C": "Fe"},
+            "correct_answer": "A",
+            "category": "science",
+            "explanation": "Au comes from the Latin word 'aurum' which means gold."
+        },
+        "animals": {
+            "question": "Which animal has the longest lifespan?",
+            "options": {"A": "Greenland Shark", "B": "Giant Tortoise", "C": "Bowhead Whale"},
+            "correct_answer": "A",
+            "category": "animals",
+            "explanation": "Greenland sharks can live for over 400 years, making them the longest-living vertebrates."
+        },
+        "human_body": {
+            "question": "How many bones are in the adult human body?",
+            "options": {"A": "206", "B": "212", "C": "198"},
+            "correct_answer": "A",
+            "category": "human_body",
+            "explanation": "The adult human body has exactly 206 bones."
+        },
+        "general": {
+            "question": "What year did the first iPhone launch?",
+            "options": {"A": "2007", "B": "2005", "C": "2009"},
+            "correct_answer": "A",
+            "category": "general",
+            "explanation": "The first iPhone was launched by Apple in 2007."
+        }
+    }
+    
+    # Get question for category or use general as fallback
+    return category_questions.get(category, category_questions["general"])
 
 def load_trivia_data():
     """Load existing trivia data"""
@@ -306,11 +347,11 @@ def main():
             except ValueError:
                 new_trivia["date"] = today
         
-        # Add WOW fact if not present
-        if 'wow_fact' not in new_trivia:
-            wow_fact_result = get_wow_fact(new_trivia.get('category', 'general'))
-            new_trivia['wow_fact'] = wow_fact_result.get('fact', '')
-            new_trivia['fact_source'] = wow_fact_result.get('source', '')
+        # Ensure no WOW fact references
+        if 'wow_fact' in new_trivia:
+            del new_trivia['wow_fact']
+        if 'fact_source' in new_trivia:
+            del new_trivia['fact_source']
         
         trivia_data["current"] = new_trivia
         

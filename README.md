@@ -12,15 +12,15 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 ## 🎯 Today's Trivia • 20.07.2025
 
-**Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**
+**What is the largest planet in our solar system?**
 
 <div align="center">
 
-[![Answer A](https://img.shields.io/badge/A-This%20space%20fact%20is%20c-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer A](https://img.shields.io/badge/A-Jupiter-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
-[![Answer B](https://img.shields.io/badge/B-This%20space%20fact%20has%20-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer B](https://img.shields.io/badge/B-Saturn-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
-[![Answer C](https://img.shields.io/badge/C-This%20space%20fact%20is%20s-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
+[![Answer C](https://img.shields.io/badge/C-Neptune-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please do not change the title. Just click "Submit new issue". You don't need to do anything else :D&labels=trivia)
 
 </div>
 

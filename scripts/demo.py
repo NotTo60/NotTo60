@@ -51,22 +51,17 @@ def demo_trivia_generation():
     print("\n🔄 Generating trivia question with WOW facts...")
     trivia_data = load_trivia_data()
     
-    # Create demo trivia with WOW fact
-    wow_fact_result = get_wow_fact("space")
-    wow_fact = wow_fact_result.get('fact', '🚀 **AMAZING FACT:** The Sun makes up 99.86% of our solar system\'s mass!')
-    
+    # Create demo trivia (standalone, not based on facts)
     demo_trivia = {
-        "question": "Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?",
+        "question": "What is the largest planet in our solar system?",
         "options": {
-            "A": "This space fact is completely accurate",
-            "B": "This space fact has been proven false", 
-            "C": "This space fact is still being debated by scientists"
+            "A": "Jupiter",
+            "B": "Saturn", 
+            "C": "Neptune"
         },
         "correct_answer": "A",
         "category": "space",
-        "explanation": "This is a verified space fact that has been confirmed by multiple astronomical observations and calculations.",
-        "wow_fact": wow_fact,
-        "fact_source": wow_fact_result.get('source', 'demo'),
+        "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of Saturn.",
         "date": datetime.now().strftime(DATE_FORMAT)
     }
     
@@ -74,7 +69,6 @@ def demo_trivia_generation():
     save_trivia_data(trivia_data)
     
     print(f"✅ Generated trivia: {demo_trivia['question']}")
-    print(f"🌟 WOW Fact: {demo_trivia['wow_fact']}")
     
     # Get today's daily fact
     daily_fact = get_todays_fact()
@@ -134,23 +128,22 @@ def demo_trivia_generation():
     print("\n📊 Demo Data Created:")
     print(f"   - Trivia question: {demo_trivia['question']}")
     print(f"   - Correct answer: {demo_trivia['correct_answer']}) {demo_trivia['options'][demo_trivia['correct_answer']]}")
-    print(f"   - WOW Fact: {demo_trivia['wow_fact']}")
     print(f"   - Daily Fact: {daily_fact['fact']}")
     print(f"   - Demo users: {len(demo_leaderboard)}")
-    print(f"   - README updated with trivia, WOW facts, daily fact, and leaderboard")
+    print(f"   - README updated with trivia, daily fact, and leaderboard")
     
     print("\n🎮 How to Test:")
-    print("   1. Check the README.md file for the trivia question with WOW fact")
+    print("   1. Check the README.md file for the trivia question")
     print("   2. Look for the 'Did You Know?' section with daily fact")
     print("   3. The answer links will point to GitHub issues")
     print("   4. In a real setup, users would click these links to answer")
-    print("   5. WOW facts and daily facts are fetched from real APIs when available")
+    print("   5. Daily facts are fetched from real APIs when available")
     
     print("\n📁 Generated Files:")
-    print("   - trivia.json (current trivia data with WOW facts)")
+    print("   - trivia.json (current trivia data)")
     print("   - daily_facts.json (daily facts data)")
     print("   - leaderboard.json (user statistics)")
-    print("   - README.md (updated with trivia, WOW facts, daily fact, and leaderboard)")
+    print("   - README.md (updated with trivia, daily fact, and leaderboard)")
 
 def show_answer_links():
     """Show what the answer links would look like"""
