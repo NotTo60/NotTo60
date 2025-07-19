@@ -242,49 +242,40 @@ class TriviaDatabase:
             return trivia
     
     def export_compressed_data(self, output_dir="src/data"):
-        """Export database to compressed files for GitHub Actions"""
+        """Export all database tables to a single compressed file for GitHub Actions"""
         Path(output_dir).mkdir(parents=True, exist_ok=True)
         
-        # Export leaderboard
-        leaderboard = self.get_leaderboard()
-        compressed_leaderboard = self.compress_data(leaderboard)
-        with open(f"{output_dir}/leaderboard.db.gz", "wb") as f:
-            f.write(compressed_leaderboard)
+        # Collect all data from all tables
+        all_data = {
+            "leaderboard": self.get_leaderboard(),
+            "daily_facts": self.get_daily_facts(),
+            "trivia_questions": self.get_trivia_questions(),
+            "export_timestamp": datetime.now().isoformat()
+        }
         
-        # Export daily facts
-        facts = self.get_daily_facts()
-        compressed_facts = self.compress_data(facts)
-        with open(f"{output_dir}/daily_facts.db.gz", "wb") as f:
-            f.write(compressed_facts)
+        # Export to single compressed file
+        compressed_data = self.compress_data(all_data)
+        with open(f"{output_dir}/trivia_database.db.gz", "wb") as f:
+            f.write(compressed_data)
         
-        # Export trivia questions
-        trivia = self.get_trivia_questions()
-        compressed_trivia = self.compress_data(trivia)
-        with open(f"{output_dir}/trivia_questions.db.gz", "wb") as f:
-            f.write(compressed_trivia)
+        print("✅ Database exported to single compressed file")
     
     def import_compressed_data(self, input_dir="src/data"):
-        """Import compressed data files into database (for backup restoration)"""
-        # Import leaderboard
-        leaderboard_path = f"{input_dir}/leaderboard.db.gz"
-        if os.path.exists(leaderboard_path):
-            with open(leaderboard_path, "rb") as f:
+        """Import single compressed data file into database (for backup restoration)"""
+        database_path = f"{input_dir}/trivia_database.db.gz"
+        if os.path.exists(database_path):
+            with open(database_path, "rb") as f:
                 compressed_data = f.read()
-                leaderboard = self.decompress_data(compressed_data)
-                self.update_leaderboard(leaderboard)
-        
-        # Import daily facts
-        facts_path = f"{input_dir}/daily_facts.db.gz"
-        if os.path.exists(facts_path):
-            with open(facts_path, "rb") as f:
-                compressed_data = f.read()
-                facts = self.decompress_data(compressed_data)
-                self.update_daily_facts(facts)
-        
-        # Import trivia questions
-        trivia_path = f"{input_dir}/trivia_questions.db.gz"
-        if os.path.exists(trivia_path):
-            with open(trivia_path, "rb") as f:
-                compressed_data = f.read()
-                trivia = self.decompress_data(compressed_data)
-                self.update_trivia_questions(trivia) 
+                all_data = self.decompress_data(compressed_data)
+                
+                # Import each table
+                if "leaderboard" in all_data:
+                    self.update_leaderboard(all_data["leaderboard"])
+                if "daily_facts" in all_data:
+                    self.update_daily_facts(all_data["daily_facts"])
+                if "trivia_questions" in all_data:
+                    self.update_trivia_questions(all_data["trivia_questions"])
+                
+                print("✅ Database imported from single compressed file")
+        else:
+            print("❌ No compressed database file found") 

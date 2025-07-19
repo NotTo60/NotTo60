@@ -4,7 +4,9 @@
 *.sqlite3
 
 # Compressed data files (tracked in git for daily history)
-# *.db.gz - REMOVED: We want to track these for daily database history
+# Only track the single database file for daily history
+*.db.gz
+!src/data/trivia_database.db.gz
 
 # Environment variables
 .env
