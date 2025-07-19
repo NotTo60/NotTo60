@@ -1,0 +1,18 @@
+{
+  "current": {
+    "fact": "Today's discovery: Giraffes have no vocal cords.",
+    "source": "fetch_random_fact",
+    "category": "general",
+    "raw_fact": "Giraffes have no vocal cords.",
+    "date": "2025-07-20"
+  },
+  "history": [
+    {
+      "fact": "Fascinating tidbit: Leonardo Da Vinci invented the scissors.",
+      "source": "fetch_random_fact",
+      "category": "general",
+      "raw_fact": "Leonardo Da Vinci invented the scissors.",
+      "date": "2025-07-20"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "current": {
+    "question": "Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?",
+    "options": {
+      "A": "This space fact is completely accurate",
+      "B": "This space fact has been proven false",
+      "C": "This space fact is still being debated by scientists"
+    },
+    "correct_answer": "A",
+    "category": "space",
+    "explanation": "This is a verified space fact that has been confirmed by multiple astronomical observations and calculations.",
+    "wow_fact": "\ud83d\ude80 **JAW-DROPPING FACT:** The Sun makes up 99.86% of our solar system's mass!",
+    "fact_source": "fallback_generated",
+    "date": "2025-07-20"
+  },
+  "history": []
+}
