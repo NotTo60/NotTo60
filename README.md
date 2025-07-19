@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Here's something interesting: If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.
+Today's discovery: There are more plastic flamingos in the U.S that there are real ones.
 
 ---
 
@@ -42,8 +42,9 @@ Here's something interesting: If we had the same mortality rate now as in 1900, 
 ## 🔥 Points & Streak System
 
 - **Correct Answer:** +1 point + streak bonus
-- **3-Day Streak:** +1 bonus point 🏆 (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
+- **3-Day Streak:** +1 bonus point 🏆
 - **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
+- **After 7 days:** Cycle repeats (10-day = +1, 14-day = +1, etc.)
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top 5 users with highest total points
