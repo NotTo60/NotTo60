@@ -12,8 +12,6 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 ## 🎯 Today's Trivia • 20.07.2025
 
-🚀 **MIND-BOGGLING FACT:** There are more stars in the universe than grains of sand on Earth!
-
 **Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**
 
 <div align="center">

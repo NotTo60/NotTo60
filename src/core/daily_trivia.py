@@ -185,8 +185,6 @@ Welcome to my GitHub profile! Every day, I post a new AI-generated trivia questi
 
 ## 🎯 Today's Trivia • {today}
 
-{current_trivia.get('wow_fact', '')}
-
 **{current_trivia['question']}**
 
 <div align="center">
