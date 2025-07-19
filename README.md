@@ -14,20 +14,10 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 **What is the largest planet in our solar system?**
 
-<div align="center">
-
-[![Answer A](https://img.shields.io/badge/A-Answer-blue?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
-
-[![Answer B](https://img.shields.io/badge/B-Answer-green?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
-
-[![Answer C](https://img.shields.io/badge/C-Answer-orange?style=for-the-badge&logo=github)](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)
-
-</div>
-
 **Options:**
-- **A)** Jupiter
-- **B)** Saturn
-- **C)** Neptune
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Jupiter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Saturn
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Neptune
 
 📝 *Click a button above to submit your answer!*
 
