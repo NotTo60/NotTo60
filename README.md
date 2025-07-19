@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Did you know? The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
+Here's something interesting: On average, people fear spiders more than they do death.
 
 ---
 
