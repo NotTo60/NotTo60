@@ -317,9 +317,8 @@ def update_readme(trivia_data, leaderboard):
 ## 🔥 Points & Streak System
 
 - **Correct Answer:** +1 point + streak bonus
-- **3-Day Streak:** +1 bonus point 🏆
+- **3-Day Streak:** +1 bonus point 🏆 (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
 - **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
-- **After 7 days:** Cycle repeats (10-day = +1, 14-day = +1, etc.)
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top {MAX_LEADERBOARD_ENTRIES} users with highest total points
