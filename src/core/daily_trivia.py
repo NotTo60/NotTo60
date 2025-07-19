@@ -8,7 +8,7 @@ import json
 import os
 import random
 from datetime import datetime, timedelta
-import openai
+from openai import OpenAI
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
@@ -21,7 +21,7 @@ def setup_openai():
     """Initialize OpenAI client"""
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
-    openai.api_key = OPENAI_API_KEY
+    return OpenAI(api_key=OPENAI_API_KEY)
 
 def generate_trivia_question():
     """Generate a trivia question using OpenAI and WOW facts"""
@@ -62,7 +62,8 @@ def generate_trivia_question():
     Only return the JSON, no other text."""
     
     try:
-        response = openai.ChatCompletion.create(
+        client = setup_openai()
+        response = client.chat.completions.create(
             model=MODEL,
             messages=[{"role": "user", "content": prompt}],
             max_tokens=MAX_TOKENS,
@@ -284,7 +285,7 @@ def main():
     print("🎯 Generating daily trivia with WOW facts and daily fact...")
     
     # Setup OpenAI
-    setup_openai()
+    client = setup_openai()
     
     # Load existing data
     trivia_data = load_trivia_data()
