@@ -44,7 +44,7 @@ Incredible fact: Americans travel 1,144,721,000 miles by air every day
 - **Correct Answer:** +1 point + streak bonus
 - **3-Day Streak:** +1 bonus point 🏆
 - **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
-- **After 7 days:** Cycle repeats (10-day = +1, 14-day = +1, etc.)
+- **Pattern repeats:** 10-day = +1, 13-day = +1, 17-day = +1, 20-day = +1, etc.
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top 5 users with highest total points
