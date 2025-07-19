@@ -106,7 +106,7 @@ MODEL = get_latest_model()
 
 # GitHub Issue Configuration
 ISSUE_LABEL = "trivia"
-ISSUE_TEMPLATE = "🎯 Just click 'Submit new issue' to submit your answer! No need to change anything else - your choice is already in the title! 🚀"
+ISSUE_TEMPLATE = "🎯 Just click 'Submit new issue' to submit your answer! No need to change anything else - your choice is already in the title! 🚀\n\n**Answer:** {answer}"
 
 # Display Configuration
 EMOJI_MAPPING = {

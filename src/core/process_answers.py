@@ -41,7 +41,7 @@ def get_github_issues():
         return []
 
 def parse_answer_from_issue(issue):
-    """Extract answer choice from issue title"""
+    """Extract answer choice from issue title and body"""
     title = issue.get('title', '')
     body = issue.get('body', '')
     
@@ -53,7 +53,15 @@ def parse_answer_from_issue(issue):
     elif 'Trivia Answer C' in title:
         return 'C'
     
-    # Look for answer in body
+    # Look for answer in body (new format)
+    if '**Answer:** A' in body:
+        return 'A'
+    elif '**Answer:** B' in body:
+        return 'B'
+    elif '**Answer:** C' in body:
+        return 'C'
+    
+    # Look for answer in body (old format)
     if 'I choose A' in body:
         return 'A'
     elif 'I choose B' in body:

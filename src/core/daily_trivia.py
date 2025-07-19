@@ -172,12 +172,11 @@ def create_answer_links():
     import urllib.parse
     
     base_url = f"https://github.com/{GITHUB_USERNAME}/{GITHUB_REPO}"
-    encoded_body = urllib.parse.quote(ISSUE_TEMPLATE)
     
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={encoded_body}",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={encoded_body}", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={encoded_body}"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='A'))}",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='B'))}", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer='C'))}"
     }
 
 def update_readme(trivia_data, leaderboard):
