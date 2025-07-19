@@ -1,10 +1,10 @@
 {
   "current": {
-    "fact": "Mind-blowing fact: The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+    "fact": "Today's discovery: Only female mosquito\u2019s` bite and most are attracted to the color blue twice as much as to any other color.",
     "source": "fetch_random_fact",
     "category": "general",
-    "raw_fact": "The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
-    "date": "20.07.2025"
+    "raw_fact": "Only female mosquito\u2019s` bite and most are attracted to the color blue twice as much as to any other color.",
+    "date": "19.07.2025"
   },
   "history": [
     {
@@ -34,6 +34,13 @@
       "category": "general",
       "raw_fact": "The Minneapolis phone book has 21 pages of Andersons.",
       "date": "20.07.2025"
+    },
+    {
+      "fact": "Mind-blowing fact: The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+      "source": "fetch_random_fact",
+      "category": "general",
+      "raw_fact": "The value of Pi will be officially \"rounded down\" to 3.14 from 3.14159265359 on December 31, 1999.",
+      "date": "19.07.2025"
     }
   ]
 }
