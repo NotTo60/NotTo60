@@ -15,9 +15,9 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 **What is the largest planet in our solar system?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Jupiter
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Saturn
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.%20You%20don%27t%20need%20to%20do%20anything%20else%20%3AD&labels=trivia)** - Neptune
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80&labels=trivia)** - Jupiter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80&labels=trivia)** - Saturn
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80&labels=trivia)** - Neptune
 
 📝 *Click a button above to submit your answer!*
 

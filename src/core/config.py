@@ -80,7 +80,7 @@ MODEL = "gpt-3.5-turbo"
 
 # GitHub Issue Configuration
 ISSUE_LABEL = "trivia-answer"
-ISSUE_TEMPLATE = "Please do not change the title. Just click \"Submit new issue\". You don't need to do anything else :D"
+ISSUE_TEMPLATE = "🎯 Just click 'Submit new issue' to submit your answer! No need to change anything else - your choice is already in the title! 🚀"
 
 # Display Configuration
 EMOJI_MAPPING = {
