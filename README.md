@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 19.07.2025
 
-Incredible fact: If one spells out numbers, they would have to count to One Thousand before coming across the letter "A".
+Did you know? The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
 
 ---
 
