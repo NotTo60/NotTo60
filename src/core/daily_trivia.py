@@ -162,7 +162,7 @@ def update_readme(trivia_data, leaderboard):
         yesterday = trivia_data["history"][-1]
         yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
         yesterday_stats = f"""
-### 📊 Yesterday's Results ({yesterday['date']})
+### 📊 Yesterday's Results • {yesterday['date']}
 
 {yesterday.get('wow_fact', '')}
 
@@ -177,13 +177,13 @@ Welcome to my GitHub profile! Every day, I post a new AI-generated trivia questi
 
 ---
 
-## 💡 Did You Know? ({today})
+## 💡 Did You Know? • {today}
 
 {daily_fact['fact']}
 
 ---
 
-## 🎯 Today's Trivia ({today})
+## 🎯 Today's Trivia • {today}
 
 {current_trivia.get('wow_fact', '')}
 
