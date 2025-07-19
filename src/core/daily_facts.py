@@ -195,14 +195,23 @@ def get_daily_fact(category: str = None) -> Dict[str, str]:
 
 def load_daily_facts():
     """Load existing daily facts data from database"""
-    db = TriviaDatabase()
-    return db.get_daily_facts()
+    try:
+        db = TriviaDatabase()
+        return db.get_daily_facts()
+    except Exception as e:
+        print(f"Error loading daily facts from database: {e}")
+        # Return empty facts as fallback
+        return {}
 
 def save_daily_facts(daily_facts_data):
     """Save daily facts data to database"""
-    db = TriviaDatabase()
-    db.update_daily_facts(daily_facts_data)
-    db.export_compressed_data()
+    try:
+        db = TriviaDatabase()
+        db.update_daily_facts(daily_facts_data)
+        db.export_compressed_data()
+    except Exception as e:
+        print(f"Error saving daily facts to database: {e}")
+        # Continue without saving if database fails
 
 def get_todays_fact() -> Dict[str, str]:
     """Get today's fact, generating a new one if needed"""

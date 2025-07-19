@@ -8,49 +8,95 @@ from pathlib import Path
 class TriviaDatabase:
     def __init__(self, db_path="src/data/trivia.db"):
         self.db_path = db_path
+        # Ensure the directory exists
+        Path(db_path).parent.mkdir(parents=True, exist_ok=True)
         self.init_database()
     
     def init_database(self):
         """Initialize the database with required tables"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            
-            # Create leaderboard table
-            cursor.execute('''
-                CREATE TABLE IF NOT EXISTS leaderboard (
-                    username TEXT PRIMARY KEY,
-                    current_streak INTEGER DEFAULT 0,
-                    total_correct INTEGER DEFAULT 0,
-                    total_points INTEGER DEFAULT 0,
-                    total_answered INTEGER DEFAULT 0,
-                    last_answered TEXT,
-                    last_trivia_date TEXT,
-                    answer_history TEXT
-                )
-            ''')
-            
-            # Create daily_facts table
-            cursor.execute('''
-                CREATE TABLE IF NOT EXISTS daily_facts (
-                    date TEXT PRIMARY KEY,
-                    fact TEXT NOT NULL,
-                    timestamp TEXT NOT NULL
-                )
-            ''')
-            
-            # Create trivia_questions table
-            cursor.execute('''
-                CREATE TABLE IF NOT EXISTS trivia_questions (
-                    date TEXT PRIMARY KEY,
-                    question TEXT NOT NULL,
-                    options TEXT NOT NULL,
-                    correct_answer TEXT NOT NULL,
-                    explanation TEXT,
-                    timestamp TEXT NOT NULL
-                )
-            ''')
-            
-            conn.commit()
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                
+                # Create leaderboard table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS leaderboard (
+                        username TEXT PRIMARY KEY,
+                        current_streak INTEGER DEFAULT 0,
+                        total_correct INTEGER DEFAULT 0,
+                        total_points INTEGER DEFAULT 0,
+                        total_answered INTEGER DEFAULT 0,
+                        last_answered TEXT,
+                        last_trivia_date TEXT,
+                        answer_history TEXT
+                    )
+                ''')
+                
+                # Create daily_facts table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS daily_facts (
+                        date TEXT PRIMARY KEY,
+                        fact TEXT NOT NULL,
+                        timestamp TEXT NOT NULL
+                    )
+                ''')
+                
+                # Create trivia_questions table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS trivia_questions (
+                        date TEXT PRIMARY KEY,
+                        question TEXT NOT NULL,
+                        options TEXT NOT NULL,
+                        correct_answer TEXT NOT NULL,
+                        explanation TEXT,
+                        timestamp TEXT NOT NULL
+                    )
+                ''')
+                
+                conn.commit()
+        except Exception as e:
+            print(f"Error initializing database: {e}")
+            # Try to create directory and retry
+            Path(self.db_path).parent.mkdir(parents=True, exist_ok=True)
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                
+                # Create leaderboard table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS leaderboard (
+                        username TEXT PRIMARY KEY,
+                        current_streak INTEGER DEFAULT 0,
+                        total_correct INTEGER DEFAULT 0,
+                        total_points INTEGER DEFAULT 0,
+                        total_answered INTEGER DEFAULT 0,
+                        last_answered TEXT,
+                        last_trivia_date TEXT,
+                        answer_history TEXT
+                    )
+                ''')
+                
+                # Create daily_facts table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS daily_facts (
+                        date TEXT PRIMARY KEY,
+                        fact TEXT NOT NULL,
+                        timestamp TEXT NOT NULL
+                    )
+                ''')
+                
+                # Create trivia_questions table
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS trivia_questions (
+                        date TEXT PRIMARY KEY,
+                        question TEXT NOT NULL,
+                        options TEXT NOT NULL,
+                        correct_answer TEXT NOT NULL,
+                        explanation TEXT,
+                        timestamp TEXT NOT NULL
+                    )
+                ''')
+                
+                conn.commit()
     
     def compress_data(self, data):
         """Compress data using gzip"""

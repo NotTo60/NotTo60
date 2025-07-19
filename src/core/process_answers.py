@@ -85,31 +85,45 @@ def parse_answer_from_issue(issue):
 
 def load_trivia_data():
     """Load current trivia data from database"""
-    db = TriviaDatabase()
-    trivia_questions = db.get_trivia_questions()
-    
-    # Convert to expected format
-    current = None
-    history = []
-    
-    for date, question_data in trivia_questions.items():
-        if current is None:
-            current = question_data
-        else:
-            history.append(question_data)
-    
-    return {"current": current, "history": history}
+    try:
+        db = TriviaDatabase()
+        trivia_questions = db.get_trivia_questions()
+        
+        # Convert to expected format
+        current = None
+        history = []
+        
+        for date, question_data in trivia_questions.items():
+            if current is None:
+                current = question_data
+            else:
+                history.append(question_data)
+        
+        return {"current": current, "history": history}
+    except Exception as e:
+        print(f"Error loading trivia data from database: {e}")
+        # Return empty data structure as fallback
+        return {"current": None, "history": []}
 
 def load_leaderboard():
     """Load leaderboard data from database"""
-    db = TriviaDatabase()
-    return db.get_leaderboard()
+    try:
+        db = TriviaDatabase()
+        return db.get_leaderboard()
+    except Exception as e:
+        print(f"Error loading leaderboard from database: {e}")
+        # Return empty leaderboard as fallback
+        return {}
 
 def save_leaderboard(leaderboard):
     """Save leaderboard data to database"""
-    db = TriviaDatabase()
-    db.update_leaderboard(leaderboard)
-    db.export_compressed_data()
+    try:
+        db = TriviaDatabase()
+        db.update_leaderboard(leaderboard)
+        db.export_compressed_data()
+    except Exception as e:
+        print(f"Error saving leaderboard to database: {e}")
+        # Continue without saving if database fails
 
 def can_user_answer_today(leaderboard, username, current_trivia_date):
     """Check if user can answer today's trivia with timezone and grace period handling"""

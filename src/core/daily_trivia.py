@@ -138,49 +138,67 @@ def create_standalone_trivia(category):
 
 def load_trivia_data():
     """Load existing trivia data from database"""
-    db = TriviaDatabase()
-    trivia_questions = db.get_trivia_questions()
-    
-    # Convert to expected format
-    current = None
-    history = []
-    
-    for date, question_data in trivia_questions.items():
-        if current is None:
-            current = question_data
-        else:
-            history.append(question_data)
-    
-    return {"current": current, "history": history}
+    try:
+        db = TriviaDatabase()
+        trivia_questions = db.get_trivia_questions()
+        
+        # Convert to expected format
+        current = None
+        history = []
+        
+        for date, question_data in trivia_questions.items():
+            if current is None:
+                current = question_data
+            else:
+                history.append(question_data)
+        
+        return {"current": current, "history": history}
+    except Exception as e:
+        print(f"Error loading trivia data from database: {e}")
+        # Return empty data structure as fallback
+        return {"current": None, "history": []}
 
 def save_trivia_data(trivia_data):
     """Save trivia data to database"""
-    db = TriviaDatabase()
-    
-    # Convert to database format
-    trivia_questions = {}
-    if trivia_data.get("current"):
-        today = datetime.now().strftime(DATE_FORMAT)
-        trivia_questions[today] = trivia_data["current"]
-    
-    for i, question in enumerate(trivia_data.get("history", [])):
-        # Use a date format for history entries
-        date = f"history_{i}"
-        trivia_questions[date] = question
-    
-    db.update_trivia_questions(trivia_questions)
-    db.export_compressed_data()
+    try:
+        db = TriviaDatabase()
+        
+        # Convert to database format
+        trivia_questions = {}
+        if trivia_data.get("current"):
+            today = datetime.now().strftime(DATE_FORMAT)
+            trivia_questions[today] = trivia_data["current"]
+        
+        for i, question in enumerate(trivia_data.get("history", [])):
+            # Use a date format for history entries
+            date = f"history_{i}"
+            trivia_questions[date] = question
+        
+        db.update_trivia_questions(trivia_questions)
+        db.export_compressed_data()
+    except Exception as e:
+        print(f"Error saving trivia data to database: {e}")
+        # Continue without saving if database fails
 
 def load_leaderboard():
     """Load leaderboard data from database"""
-    db = TriviaDatabase()
-    return db.get_leaderboard()
+    try:
+        db = TriviaDatabase()
+        return db.get_leaderboard()
+    except Exception as e:
+        print(f"Error loading leaderboard from database: {e}")
+        # Return empty leaderboard as fallback
+        return {}
 
 def save_leaderboard(leaderboard):
     """Save leaderboard data to database"""
-    db = TriviaDatabase()
-    db.update_leaderboard(leaderboard)
-    db.export_compressed_data()
+    try:
+        db = TriviaDatabase()
+        db.update_leaderboard(leaderboard)
+        db.export_compressed_data()
+    except Exception as e:
+        print(f"Error saving leaderboard to database: {e}")
+        # Continue without saving if database fails
 
 def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
     """Get top users from leaderboard sorted by points, then streak"""
