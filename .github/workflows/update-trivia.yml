@@ -29,14 +29,14 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPO: ${{ github.event.repository.name }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python src/core/daily_trivia.py
         
     - name: Process answers
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPO: ${{ github.event.repository.name }}
       run: |

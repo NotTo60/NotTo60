@@ -4,7 +4,7 @@ import os
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # GitHub Configuration
-GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+GITHUB_TOKEN = os.getenv('GH_TOKEN')
 GITHUB_USERNAME = os.getenv('GITHUB_USERNAME', 'NotTo60')
 GITHUB_REPO = os.getenv('GITHUB_REPO', 'NotTo60')
 
