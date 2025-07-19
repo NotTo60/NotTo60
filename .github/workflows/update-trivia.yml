@@ -29,6 +29,7 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPO: ${{ github.event.repository.name }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python src/core/daily_trivia.py
         

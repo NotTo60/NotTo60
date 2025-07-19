@@ -28,10 +28,10 @@ def main():
     command = sys.argv[1].lower()
     
     if command == "trivia":
-        from core.daily_trivia import main as trivia_main
+        from src.core.daily_trivia import main as trivia_main
         trivia_main()
     elif command == "process":
-        from core.process_answers import main as process_main
+        from src.core.process_answers import main as process_main
         process_main()
     elif command == "demo":
         from scripts.demo import demo_trivia_generation
