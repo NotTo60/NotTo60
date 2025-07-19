@@ -67,7 +67,7 @@ def demo_trivia_generation():
         "explanation": "This is a verified space fact that has been confirmed by multiple astronomical observations and calculations.",
         "wow_fact": wow_fact,
         "fact_source": wow_fact_result.get('source', 'demo'),
-        "date": datetime.now().strftime("%Y-%m-%d")
+        "date": datetime.now().strftime("%d.%m.%Y")
     }
     
     trivia_data["current"] = demo_trivia

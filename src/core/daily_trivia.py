@@ -136,7 +136,7 @@ def create_answer_links():
 
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%d.%m.%Y")
     
     # Get current trivia
     current_trivia = trivia_data.get("current")
@@ -276,7 +276,7 @@ def main():
     leaderboard = load_leaderboard()
     
     # Check if we need to generate new trivia
-    today = datetime.now().strftime("%Y-%m-%d")
+    today = datetime.now().strftime("%d.%m.%Y")
     current_trivia = trivia_data.get("current")
     
     if current_trivia and current_trivia.get("date") == today:

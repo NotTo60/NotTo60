@@ -4,15 +4,15 @@
 
 ---
 
-## 💡 Did You Know? (2025-07-20)
+## 💡 Did You Know? (20.07.2025)
 
-Today's discovery: Giraffes have no vocal cords.
+Amazing discovery: The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.
 
 ---
 
-## 🎯 Today's Trivia (2025-07-20)
+## 🎯 Today's Trivia (20.07.2025)
 
-🚀 **JAW-DROPPING FACT:** The Sun makes up 99.86% of our solar system's mass!
+🚀 **MIND-BLOWING FACT:** One million Earths could fit inside the Sun!
 
 **Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**
 
@@ -49,7 +49,34 @@ Today's discovery: Giraffes have no vocal cords.
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top 5 users with highest current streaks
 
+## 🤖 About
 
+This profile uses:
+- **OpenAI GPT-3.5** for generating daily trivia questions
+- **Real APIs** for AMAZING WOW facts (Numbers API, Cat Facts, Space News, etc.)
+- **Daily Facts APIs** for interesting "Did You Know?" facts
+- **GitHub Issues** for answer submission
+- **GitHub Actions** for automated daily updates
+- **Python** for processing and scoring
+
+## 🌟 WOW Facts Sources
+
+- **Numbers API**: Random number facts
+- **Cat Facts API**: Amazing cat facts
+- **Dog Facts API**: Incredible dog facts  
+- **Space News API**: Mind-blowing space facts
+- **Animal Facts API**: Fascinating animal facts
+- **Fallback Facts**: Curated amazing facts when APIs are unavailable
+
+## 📚 Daily Facts Sources
+
+- **Useless Facts API**: Random interesting facts
+- **Joke API**: Educational jokes and puns
+- **Quotable API**: Inspiring quotes
+- **Food API**: Delicious food facts
+- **Time API**: Current time facts around the world
+- **Countries API**: Fascinating country information
+- **Fallback Facts**: Curated interesting facts
 
 ---
 
