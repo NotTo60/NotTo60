@@ -67,7 +67,7 @@ def demo_trivia_generation():
         "explanation": "This is a verified space fact that has been confirmed by multiple astronomical observations and calculations.",
         "wow_fact": wow_fact,
         "fact_source": wow_fact_result.get('source', 'demo'),
-        "date": datetime.now().strftime("%d.%m.%Y")
+        "date": datetime.now().strftime(DATE_FORMAT)
     }
     
     trivia_data["current"] = demo_trivia
@@ -80,25 +80,49 @@ def demo_trivia_generation():
     daily_fact = get_todays_fact()
     print(f"💡 Daily Fact: {daily_fact['fact']}")
     
-    # Create demo leaderboard
+    # Create demo leaderboard with new structure
     demo_leaderboard = {
         "demo_user1": {
             "current_streak": 5,
             "total_correct": 12,
             "total_answered": 15,
-            "last_answered": datetime.now().isoformat()
+            "last_answered": datetime.now().isoformat(),
+            "last_trivia_date": demo_trivia["date"],
+            "answer_history": [
+                {
+                    "date": demo_trivia["date"],
+                    "timestamp": datetime.now().isoformat(),
+                    "correct": True
+                }
+            ]
         },
         "demo_user2": {
             "current_streak": 3,
             "total_correct": 8,
             "total_answered": 10,
-            "last_answered": datetime.now().isoformat()
+            "last_answered": datetime.now().isoformat(),
+            "last_trivia_date": demo_trivia["date"],
+            "answer_history": [
+                {
+                    "date": demo_trivia["date"],
+                    "timestamp": datetime.now().isoformat(),
+                    "correct": True
+                }
+            ]
         },
         "demo_user3": {
             "current_streak": 1,
             "total_correct": 3,
             "total_answered": 5,
-            "last_answered": datetime.now().isoformat()
+            "last_answered": datetime.now().isoformat(),
+            "last_trivia_date": demo_trivia["date"],
+            "answer_history": [
+                {
+                    "date": demo_trivia["date"],
+                    "timestamp": datetime.now().isoformat(),
+                    "correct": False
+                }
+            ]
         }
     }
     

@@ -149,4 +149,12 @@ DAILY_FACT_TEMPLATES = [
 # GitHub Actions Schedule
 DAILY_CRON = "0 0 * * *"  # Daily at midnight UTC
 HOURLY_CRON = "0 * * * *"  # Every hour (for testing)
-WEEKLY_CRON = "0 0 * * 1"  # Weekly on Monday 
+WEEKLY_CRON = "0 0 * * 1"  # Weekly on Monday
+
+# Timezone and Grace Period Settings
+TIMEZONE = "UTC"  # Default timezone for date calculations
+GRACE_PERIOD_HOURS = 2  # Grace period for timezone differences
+
+# Date Format Settings
+DATE_FORMAT = "%d.%m.%Y"  # DD.MM.YYYY format
+DATETIME_FORMAT = "%d.%m.%Y %H:%M:%S"  # DD.MM.YYYY HH:MM:SS format 

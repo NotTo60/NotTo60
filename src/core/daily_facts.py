@@ -207,7 +207,7 @@ def save_daily_facts(daily_facts_data):
 def get_todays_fact() -> Dict[str, str]:
     """Get today's fact, generating a new one if needed"""
     daily_facts_data = load_daily_facts()
-    today = datetime.now().strftime("%d.%m.%Y")
+    today = datetime.now().strftime(DATE_FORMAT)
     
     current_fact = daily_facts_data.get("current")
     

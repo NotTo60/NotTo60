@@ -1,6 +1,6 @@
-# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
+# 🧠 Interactive AI-Powered Trivia Profile
 
-👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
+Welcome to my GitHub profile! Every day, I post a new AI-generated trivia question with **AMAZING WOW FACTS** from real APIs! Test your knowledge and compete with others!
 
 ---
 
@@ -12,7 +12,7 @@ Amazing discovery: The very first song played on MTV was `Video Killed The Radio
 
 ## 🎯 Today's Trivia (20.07.2025)
 
-🚀 **MIND-BLOWING FACT:** One million Earths could fit inside the Sun!
+🚀 **MIND-BOGGLING FACT:** There are more stars in the universe than grains of sand on Earth!
 
 **Based on this SPACE fact: 'The Sun makes up 99.86% of our solar system's mass!', which statement is TRUE?**
 

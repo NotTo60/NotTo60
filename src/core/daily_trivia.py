@@ -136,7 +136,7 @@ def create_answer_links():
 
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
-    today = datetime.now().strftime("%d.%m.%Y")
+    today = datetime.now().strftime(DATE_FORMAT)
     
     # Get current trivia
     current_trivia = trivia_data.get("current")
@@ -276,7 +276,7 @@ def main():
     leaderboard = load_leaderboard()
     
     # Check if we need to generate new trivia
-    today = datetime.now().strftime("%d.%m.%Y")
+    today = datetime.now().strftime(DATE_FORMAT)
     current_trivia = trivia_data.get("current")
     
     if current_trivia and current_trivia.get("date") == today:
@@ -292,6 +292,15 @@ def main():
         # Generate new trivia
         new_trivia = generate_trivia_question()
         new_trivia["date"] = today
+        
+        # Ensure the date is in DD.MM.YYYY format
+        if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
+            # Convert YYYY-MM-DD to DD.MM.YYYY if needed
+            try:
+                date_obj = datetime.strptime(new_trivia["date"], "%Y-%m-%d")
+                new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
+            except ValueError:
+                new_trivia["date"] = today
         
         # Add WOW fact if not present
         if 'wow_fact' not in new_trivia:

@@ -3,18 +3,42 @@
     "current_streak": 5,
     "total_correct": 12,
     "total_answered": 15,
-    "last_answered": "2025-07-20T00:18:21.999118"
+    "last_answered": "2025-07-20T00:23:16.366312",
+    "last_trivia_date": "20.07.2025",
+    "answer_history": [
+      {
+        "date": "20.07.2025",
+        "timestamp": "2025-07-20T00:23:16.366319",
+        "correct": true
+      }
+    ]
   },
   "demo_user2": {
     "current_streak": 3,
     "total_correct": 8,
     "total_answered": 10,
-    "last_answered": "2025-07-20T00:18:21.999140"
+    "last_answered": "2025-07-20T00:23:16.366322",
+    "last_trivia_date": "20.07.2025",
+    "answer_history": [
+      {
+        "date": "20.07.2025",
+        "timestamp": "2025-07-20T00:23:16.366324",
+        "correct": true
+      }
+    ]
   },
   "demo_user3": {
     "current_streak": 1,
     "total_correct": 3,
     "total_answered": 5,
-    "last_answered": "2025-07-20T00:18:21.999144"
+    "last_answered": "2025-07-20T00:23:16.366327",
+    "last_trivia_date": "20.07.2025",
+    "answer_history": [
+      {
+        "date": "20.07.2025",
+        "timestamp": "2025-07-20T00:23:16.366329",
+        "correct": false
+      }
+    ]
   }
 }

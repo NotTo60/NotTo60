@@ -6,7 +6,7 @@ Process GitHub issues to score trivia answers and update leaderboard
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 import requests
 import sys
 import os
@@ -83,19 +83,69 @@ def save_leaderboard(leaderboard):
     with open(LEADERBOARD_FILE, 'w') as f:
         json.dump(leaderboard, f, indent=2)
 
-def update_user_stats(leaderboard, username, is_correct):
-    """Update user statistics in leaderboard"""
+def can_user_answer_today(leaderboard, username, current_trivia_date):
+    """Check if user can answer today's trivia with timezone and grace period handling"""
+    user_stats = leaderboard.get(username, {})
+    last_trivia_date = user_stats.get('last_trivia_date')
+    
+    # If user has never answered, they can answer
+    if not last_trivia_date:
+        return True, None
+    
+    # If user already answered this exact trivia date, they cannot answer again
+    if last_trivia_date == current_trivia_date:
+        return False, f"Already answered trivia for {current_trivia_date}"
+    
+    # Check if user answered recently (grace period for timezone differences)
+    last_answered = user_stats.get('last_answered')
+    if last_answered:
+        try:
+            last_time = datetime.fromisoformat(last_answered)
+            current_time = datetime.now()
+            time_diff = current_time - last_time
+            
+            # If answered within grace period and it's the same calendar day, prevent duplicate
+            if time_diff < timedelta(hours=GRACE_PERIOD_HOURS):
+                last_date = last_time.date()
+                current_date = current_time.date()
+                if last_date == current_date:
+                    return False, f"Answered recently (within {GRACE_PERIOD_HOURS} hours grace period)"
+        except Exception as e:
+            print(f"Error parsing last_answered time for {username}: {e}")
+    
+    return True, None
+
+def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
+    """Update user statistics in leaderboard with trivia date tracking"""
     if username not in leaderboard:
         leaderboard[username] = {
             'current_streak': 0,
             'total_correct': 0,
             'total_answered': 0,
-            'last_answered': None
+            'last_answered': None,
+            'last_trivia_date': None,
+            'answer_history': []
         }
     
     user_stats = leaderboard[username]
     user_stats['total_answered'] += 1
     user_stats['last_answered'] = datetime.now().isoformat()
+    
+    # Track which trivia date this answer is for
+    if trivia_date:
+        user_stats['last_trivia_date'] = trivia_date
+    
+    # Add to answer history
+    answer_record = {
+        'date': trivia_date or datetime.now().strftime(DATE_FORMAT),
+        'timestamp': datetime.now().isoformat(),
+        'correct': is_correct
+    }
+    user_stats['answer_history'].append(answer_record)
+    
+    # Keep only last 30 days of history
+    if len(user_stats['answer_history']) > 30:
+        user_stats['answer_history'] = user_stats['answer_history'][-30:]
     
     if is_correct:
         user_stats['current_streak'] += 1
@@ -135,6 +185,7 @@ def process_answers():
         return
     
     correct_answer = current_trivia['correct_answer']
+    current_trivia_date = current_trivia.get('date', datetime.now().strftime(DATE_FORMAT))
     
     # Get GitHub issues
     issues = get_github_issues()
@@ -149,22 +200,17 @@ def process_answers():
             print(f"⚠️  Could not parse answer from issue #{issue_number}")
             continue
         
-        # Check if user already answered today
-        user_stats = leaderboard.get(username, {})
-        last_answered = user_stats.get('last_answered')
+        # Check if user can answer today's trivia
+        can_answer, reason = can_user_answer_today(leaderboard, username, current_trivia_date)
         
-        if last_answered:
-            last_date = datetime.fromisoformat(last_answered).date()
-            today = datetime.now().date()
-            
-            if last_date == today:
-                # User already answered today, close issue
-                close_issue(issue_number, f"@{username} You've already answered today's trivia! Come back tomorrow for a new question.")
-                continue
+        if not can_answer:
+            # User cannot answer, close issue with explanation
+            close_issue(issue_number, f"@{username} {reason}! Come back tomorrow for a new question.")
+            continue
         
         # Process answer
         is_correct = answer == correct_answer
-        update_user_stats(leaderboard, username, is_correct)
+        update_user_stats(leaderboard, username, is_correct, current_trivia_date)
         
         # Get WOW fact if available
         wow_fact = current_trivia.get('wow_fact', '')
