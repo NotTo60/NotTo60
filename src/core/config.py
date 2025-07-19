@@ -76,7 +76,7 @@ MAX_RETRIES = 3
 # Trivia Generation Settings
 MAX_TOKENS = 400
 TEMPERATURE = 0.8
-MODEL = "gpt-3.5-turbo"
+MODEL = "gpt-4o-mini"
 
 # GitHub Issue Configuration
 ISSUE_LABEL = "trivia-answer"
