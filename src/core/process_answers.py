@@ -6,7 +6,7 @@ Process GitHub issues to score trivia answers and update leaderboard
 import json
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import requests
 import sys
 import os
@@ -157,6 +157,9 @@ def can_user_answer_today(leaderboard, username, current_trivia_date):
     
     return True, None
 
+def get_utc_today():
+    return datetime.now(timezone.utc).strftime(DATE_FORMAT)
+
 def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
     """Update user statistics in leaderboard with trivia date tracking and points system"""
     if username not in leaderboard:
@@ -167,7 +170,8 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
             'total_answered': 0,
             'last_answered': None,
             'last_trivia_date': None,
-            'answer_history': []
+            'answer_history': [],
+            'first_correct_date': None,  # Track first correct answer date
         }
     
     user_stats = leaderboard[username]
@@ -180,7 +184,7 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
     
     # Add to answer history
     answer_record = {
-        'date': trivia_date or datetime.now().strftime(DATE_FORMAT),
+        'date': trivia_date or get_utc_today(),
         'timestamp': datetime.now().isoformat(),
         'correct': is_correct
     }
@@ -193,6 +197,10 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
     if is_correct:
         user_stats['current_streak'] += 1
         user_stats['total_correct'] += 1
+        
+        # Set first_correct_date if not already set
+        if not user_stats.get('first_correct_date'):
+            user_stats['first_correct_date'] = get_utc_today()
         
         # Calculate points with streak bonuses
         points_earned = calculate_points_for_streak(user_stats['current_streak'])
