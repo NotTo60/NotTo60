@@ -32,7 +32,7 @@ def generate_trivia_question():
     Requirements:
     - Create a completely original question NOT based on any specific fact
     - Make the question AMAZING and mind-blowing
-    - Question should be engaging and create a "WOW" effect
+    - Question should be engaging and create a strong effect
     - Provide exactly 3 multiple choice options (A, B, C)
     - One option must be correct
     - Make the incorrect options plausible but wrong
@@ -353,7 +353,7 @@ def update_readme(trivia_data, leaderboard):
 
 def main():
     """Main function to generate and update trivia"""
-    print("🎯 Generating daily trivia with WOW facts and daily fact...")
+    print("🎯 Generating daily trivia and daily fact...")
     
     # Setup OpenAI
     client = setup_openai()
