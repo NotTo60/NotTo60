@@ -313,16 +313,16 @@ def update_readme(trivia_data, leaderboard):
 
 ## 🏆 Leaderboard
 
-| Rank | User | Streak | Points | Total Correct | First Correct |
-|------|------|--------|--------|---------------|--------------|
+| Rank | User | Streak | Points | Total Correct | Day Joined |
+|------|------|--------|--------|---------------|------------|
 """
-
+    
     for i, (username, stats) in enumerate(top_users, 1):
         streak_emoji = get_streak_emoji(stats['current_streak'])
         points_display = format_points_display(stats['total_points'])
-        first_correct = stats.get('first_correct_date', '-') or '-'
-        readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} | {first_correct} |\n"
-
+        day_joined = stats.get('first_correct_date', '-') or '-'
+        readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} | {day_joined} |\n"
+    
     if not top_users:
         readme_content += "| - | *No participants yet* | - | - | - | - |\n"
 
