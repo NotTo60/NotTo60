@@ -209,10 +209,28 @@ def create_answer_links(trivia_data=None):
         "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['C']))}"
     }
 
-def get_wikipedia_link(answer_text):
-    """Generate a Wikipedia link for the answer text (AI-style, simple heuristic)."""
+def get_wikipedia_link(answer_text, question_text):
+    """Use OpenAI to get a Wikipedia link for the answer in the context of the question."""
+    try:
+        client = setup_openai()
+        prompt = (
+            f"give me a wikipedia link to this answer: {answer_text} for this question: {question_text} "
+            "for further reading or support that shows the answer is correct. "
+            "Return only the full Wikipedia URL, nothing else."
+        )
+        response = client.chat.completions.create(
+            model=MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=100,
+            temperature=0.2
+        )
+        url = response.choices[0].message.content.strip()
+        if url.startswith("http"):
+            return url
+    except Exception as e:
+        print(f"Error getting Wikipedia link from OpenAI: {e}")
+    # Fallback: heuristic
     import urllib.parse
-    # Remove leading/trailing whitespace and parenthesis, and encode for URL
     clean = str(answer_text).strip().replace(' ', '_')
     return f"https://en.wikipedia.org/wiki/{urllib.parse.quote(clean)}"
 
@@ -249,7 +267,7 @@ def update_readme(trivia_data, leaderboard):
             correct_letter = yesterday['correct_answer']
             correct_text = yesterday['options'][correct_letter]
             explanation = yesterday['explanation']
-            wiki_link = get_wikipedia_link(correct_text)
+            wiki_link = get_wikipedia_link(correct_text, question)
             yesterday_stats = f"""
 ### 📊 Yesterday's Results • {yesterday_date}
 
