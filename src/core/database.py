@@ -54,6 +54,21 @@ class TriviaDatabase:
                 ''')
                 
                 conn.commit()
+                
+                # Import compressed data if database is empty and compressed file exists
+                cursor.execute("SELECT COUNT(*) FROM leaderboard")
+                leaderboard_count = cursor.fetchone()[0]
+                
+                cursor.execute("SELECT COUNT(*) FROM daily_facts")
+                facts_count = cursor.fetchone()[0]
+                
+                cursor.execute("SELECT COUNT(*) FROM trivia_questions")
+                trivia_count = cursor.fetchone()[0]
+                
+                if leaderboard_count == 0 and facts_count == 0 and trivia_count == 0:
+                    print("📥 Importing compressed data from git...")
+                    self.import_compressed_data()
+                
         except Exception as e:
             print(f"Error initializing database: {e}")
             # Try to create directory and retry
@@ -97,6 +112,20 @@ class TriviaDatabase:
                 ''')
                 
                 conn.commit()
+                
+                # Import compressed data if database is empty and compressed file exists
+                cursor.execute("SELECT COUNT(*) FROM leaderboard")
+                leaderboard_count = cursor.fetchone()[0]
+                
+                cursor.execute("SELECT COUNT(*) FROM daily_facts")
+                facts_count = cursor.fetchone()[0]
+                
+                cursor.execute("SELECT COUNT(*) FROM trivia_questions")
+                trivia_count = cursor.fetchone()[0]
+                
+                if leaderboard_count == 0 and facts_count == 0 and trivia_count == 0:
+                    print("📥 Importing compressed data from git...")
+                    self.import_compressed_data()
     
     def compress_data(self, data):
         """Compress data using gzip"""
