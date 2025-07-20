@@ -27,12 +27,12 @@ Here's something interesting: A bull can inseminate 300 cows from one single eja
 
 | Rank | User | Streak | Points | Total Correct |
 |------|------|--------|--------|---------------|
-| - | *No participants yet* | - | - | - |
+| 1 | @NotTo60 | 🔥 1 | 1 point | ✅ 1 |
 
 ---
 
 
-### 📊 Yesterday's Results • 20.07.2025
+### 📊 Yesterday's Results • Previous Day
 
 **Question:** What year did the first iPhone launch?
 **Correct Answer:** A) 2007
