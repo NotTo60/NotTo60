@@ -45,7 +45,7 @@ DAILY_FACTS_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "daily_
 
 # Streak configuration
 MIN_STREAK_FOR_LEADERBOARD = 1
-MAX_LEADERBOARD_ENTRIES = 5
+MAX_LEADERBOARD_ENTRIES = 10
 
 # API Request Configuration
 API_TIMEOUT = 10  # seconds
@@ -149,6 +149,75 @@ DAILY_FACT_TEMPLATES = [
     "Surprising fact: {fact}",
     "Little known fact: {fact}"
 ]
+
+# README Content Templates
+README_TEMPLATE = """# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
+
+👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
+
+---
+
+## 💡 Did You Know? • {today}
+
+{daily_fact}
+
+---
+
+## 🎯 Today's Trivia • {today}
+
+**{question}**
+
+**Options:**
+- **[Answer A]({answer_link_a})** - {option_a}
+- **[Answer B]({answer_link_b})** - {option_b}
+- **[Answer C]({answer_link_c})** - {option_c}
+
+📝 *Click a button above to submit your answer!*
+
+---
+
+## 🏆 Leaderboard
+
+| Rank | User | Streak | Points | Total Correct | Day Joined |
+|------|------|--------|--------|---------------|------------|
+{leaderboard_rows}
+{no_participants_row}
+---
+
+{yesterday_stats}
+{how_to_play}
+{points_system}
+
+*Questions and facts are automatically generated daily at 12:00 AM UTC!*"""
+
+YESTERDAY_STATS_TEMPLATE = """
+### 📊 Yesterday's Results • {yesterday_date}
+
+**Question:** {question}
+**Correct Answer:** {correct_letter}) {correct_text} ([Wikipedia]({wiki_link}))
+**Explanation:** {explanation}
+"""
+
+HOW_TO_PLAY_TEMPLATE = """
+## 🎮 How to Play
+
+1. **Read the daily trivia question** above
+2. **Click one of the answer options** (A, B, or C)
+3. **Submit your answer** via the GitHub issue that opens
+4. **Check back tomorrow** to see if you were correct and view the leaderboard!
+"""
+
+POINTS_SYSTEM_TEMPLATE = """
+## 🔥 Points & Streak System
+
+- **Correct Answer:** +1 point + streak bonus
+- **3-Day Streak:** +1 bonus point 🏆 (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
+- **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
+- **Wrong Answer:** Streak resets to 0
+- **Miss a Day:** Streak continues (no penalty)
+- **Leaderboard:** Top {max_leaderboard_entries} users with highest total points
+---
+"""
 
 # GitHub Actions Schedule
 DAILY_CRON = "0 0 * * *"  # Daily at midnight UTC

@@ -244,29 +244,16 @@ def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
     try:
         today = datetime.now().strftime(DATE_FORMAT)
-        
-        # Get current trivia
         current_trivia = trivia_data.get("current")
         if not current_trivia:
             return
-        
-        # Get today's daily fact
         daily_fact = get_todays_fact()
-        
-        # Create answer links
         answer_links = create_answer_links(trivia_data)
-        
-        # Get top leaderboard
         top_users = get_top_leaderboard(leaderboard)
-        
-        # Get category emoji
         category = current_trivia.get('category', 'general')
         emoji = EMOJI_MAPPING.get(category, "💡")
-        
-        # Yesterday's stats
         yesterday_stats = ""
         yesterday_date = get_utc_yesterday()
-        # Find the trivia in history with yesterday's date
         yesterday_trivia = None
         for t in reversed(trivia_data.get("history", [])):
             if t.get("date") == yesterday_date:
@@ -278,79 +265,44 @@ def update_readme(trivia_data, leaderboard):
             correct_text = yesterday_trivia['options'][correct_letter]
             explanation = yesterday_trivia['explanation']
             wiki_link = get_wikipedia_link(correct_text, question)
-            yesterday_stats = f"""
-### 📊 Yesterday's Results • {yesterday_date}
-
-**Question:** {question}
-**Correct Answer:** {correct_letter}) {correct_text} ([Wikipedia]({wiki_link}))
-**Explanation:** {explanation}
-"""
-        
-        readme_content = f"""# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
-
-👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
-
----
-
-## 💡 Did You Know? • {today}
-
-{daily_fact['fact']}
-
----
-
-## 🎯 Today's Trivia • {today}
-
-**{current_trivia['question']}**
-
-**Options:**
-- **[Answer A]({answer_links['A']})** - {current_trivia['options']['A']}
-- **[Answer B]({answer_links['B']})** - {current_trivia['options']['B']}
-- **[Answer C]({answer_links['C']})** - {current_trivia['options']['C']}
-
-📝 *Click a button above to submit your answer!*
-
----
-
-## 🏆 Leaderboard
-
-| Rank | User | Streak | Points | Total Correct | Day Joined |
-|------|------|--------|--------|---------------|------------|
-"""
-    
-    for i, (username, stats) in enumerate(top_users, 1):
-        streak_emoji = get_streak_emoji(stats['current_streak'])
-        points_display = format_points_display(stats['total_points'])
-        day_joined = stats.get('first_correct_date', '-') or '-'
-        readme_content += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | ✅ {stats['total_correct']} | {day_joined} |\n"
-    
-    if not top_users:
-        readme_content += "| - | *No participants yet* | - | - | - | - |\n"
-
-        readme_content += f"""
----
-
-{yesterday_stats}
-## 🎮 How to Play
-
-1. **Read the daily trivia question** above
-2. **Click one of the answer options** (A, B, or C)
-3. **Submit your answer** via the GitHub issue that opens
-4. **Check back tomorrow** to see if you were correct and view the leaderboard!
-
-## 🔥 Points & Streak System
-
-- **Correct Answer:** +1 point + streak bonus
-- **3-Day Streak:** +1 bonus point 🏆 (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
-- **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
-- **Wrong Answer:** Streak resets to 0
-- **Miss a Day:** Streak continues (no penalty)
-- **Leaderboard:** Top {MAX_LEADERBOARD_ENTRIES} users with highest total points
-
----
-
-*Questions and facts are automatically generated daily at 12:00 AM UTC!*
-"""
-        
+            yesterday_stats = YESTERDAY_STATS_TEMPLATE.format(
+                yesterday_date=yesterday_date,
+                question=question,
+                correct_letter=correct_letter,
+                correct_text=correct_text,
+                wiki_link=wiki_link,
+                explanation=explanation
+            )
+        # Leaderboard rows
+        leaderboard_rows = ""
+        for i, (username, stats) in enumerate(top_users, 1):
+            streak_emoji = get_streak_emoji(stats['current_streak'])
+            points_display = format_points_display(stats['total_points'])
+            day_joined = stats.get('first_correct_date', '-') or '-'
+            leaderboard_rows += f"| {i} | @{username} | {streak_emoji} {stats['current_streak']} | {points_display} | \u2705 {stats['total_correct']} | {day_joined} |\n"
+        no_participants_row = ""
+        if not top_users:
+            no_participants_row = "| - | *No participants yet* | - | - | - | - |\n"
+        # How to play and points system
+        how_to_play = HOW_TO_PLAY_TEMPLATE
+        points_system = POINTS_SYSTEM_TEMPLATE.format(max_leaderboard_entries=MAX_LEADERBOARD_ENTRIES)
+        # README content
+        readme_content = README_TEMPLATE.format(
+            today=today,
+            daily_fact=daily_fact['fact'],
+            question=current_trivia['question'],
+            answer_link_a=answer_links['A'],
+            answer_link_b=answer_links['B'],
+            answer_link_c=answer_links['C'],
+            option_a=current_trivia['options']['A'],
+            option_b=current_trivia['options']['B'],
+            option_c=current_trivia['options']['C'],
+            leaderboard_rows=leaderboard_rows,
+            no_participants_row=no_participants_row,
+            yesterday_stats=yesterday_stats,
+            how_to_play=how_to_play,
+            points_system=points_system
+        )
         with open("README.md", "w") as f:
             f.write(readme_content)
     except Exception as e:
