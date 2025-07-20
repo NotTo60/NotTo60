@@ -4,6 +4,12 @@ import json
 import os
 from datetime import datetime
 from pathlib import Path
+from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
+from cryptography.hazmat.primitives import hashes
+from cryptography.hazmat.backends import default_backend
+from cryptography.fernet import Fernet
+import base64
+import secrets
 
 class TriviaDatabase:
     def __init__(self, db_path="src/data/trivia.db"):
@@ -11,7 +17,28 @@ class TriviaDatabase:
         # Ensure the directory exists
         Path(db_path).parent.mkdir(parents=True, exist_ok=True)
         self.init_database()
-    
+
+    def _get_password(self):
+        password = os.environ.get("TRIVIA_DB_PASSWORD")
+        if not password:
+            raise RuntimeError("TRIVIA_DB_PASSWORD environment variable is required for database encryption.")
+        return password.encode()
+
+    def _get_fernet(self, salt=None):
+        password = self._get_password()
+        if salt is None:
+            # Use a fixed salt for export (for reproducibility in git), or store salt in file header
+            salt = b"trivia_db_salt_2024"  # 16 bytes, can be changed for more security
+        kdf = PBKDF2HMAC(
+            algorithm=hashes.SHA256(),
+            length=32,
+            salt=salt,
+            iterations=390000,
+            backend=default_backend(),
+        )
+        key = base64.urlsafe_b64encode(kdf.derive(password))
+        return Fernet(key)
+
     def init_database(self):
         """Initialize the database with required tables"""
         try:
@@ -138,6 +165,14 @@ class TriviaDatabase:
             return None
         decompressed = gzip.decompress(compressed_data)
         return json.loads(decompressed.decode('utf-8'))
+
+    def encrypt_data(self, data_bytes):
+        f = self._get_fernet()
+        return f.encrypt(data_bytes)
+
+    def decrypt_data(self, encrypted_bytes):
+        f = self._get_fernet()
+        return f.decrypt(encrypted_bytes)
     
     def update_leaderboard(self, leaderboard_data):
         """Update leaderboard with compressed data"""
@@ -245,7 +280,7 @@ class TriviaDatabase:
                     compressed_options,
                     question_data.get('correct_answer', ''),
                     question_data.get('explanation', ''),
-                    question_data.get('timestamp', '')
+                    question_data.get('timestamp', datetime.now().isoformat())
                 ))
             
             conn.commit()
@@ -284,18 +319,24 @@ class TriviaDatabase:
         
         # Export to single compressed file
         compressed_data = self.compress_data(all_data)
+        encrypted = self.encrypt_data(compressed_data)
         with open(f"{output_dir}/trivia_database.db.gz", "wb") as f:
-            f.write(compressed_data)
+            f.write(encrypted)
         
-        print("✅ Database exported to single compressed file")
+        print("✅ Database exported to single encrypted compressed file")
     
     def import_compressed_data(self, input_dir="src/data"):
         """Import single compressed data file into database (for backup restoration)"""
         database_path = f"{input_dir}/trivia_database.db.gz"
         if os.path.exists(database_path):
             with open(database_path, "rb") as f:
-                compressed_data = f.read()
-                all_data = self.decompress_data(compressed_data)
+                encrypted = f.read()
+                try:
+                    compressed = self.decrypt_data(encrypted)
+                except Exception as e:
+                    print(f"❌ Failed to decrypt database: {e}")
+                    return
+                all_data = self.decompress_data(compressed)
                 
                 # Import each table
                 if "leaderboard" in all_data:
@@ -305,6 +346,6 @@ class TriviaDatabase:
                 if "trivia_questions" in all_data:
                     self.update_trivia_questions(all_data["trivia_questions"])
                 
-                print("✅ Database imported from single compressed file")
+                print("✅ Database imported from single encrypted compressed file")
         else:
             print("❌ No compressed database file found") 

@@ -217,6 +217,22 @@ jobs:
 - User participation metrics
 - API usage tracking
 
+## 🔒 Database Encryption (Anti-Cheat)
+
+- The compressed database file (`trivia_database.db.gz`) is encrypted using AES (Fernet) with a password.
+- The password must be set as a GitHub Actions secret: `TRIVIA_DB_PASSWORD`.
+- All workflow steps that access the database require this secret.
+- If the password is missing or incorrect, the workflow will fail to read/write the database.
+- This prevents users from extracting trivia answers or leaderboard data from the repo.
+
+### **How to Set Up**
+1. Go to your GitHub repository → Settings → Secrets and variables → Actions → New repository secret.
+2. Name: `TRIVIA_DB_PASSWORD`
+3. Value: (choose a strong password)
+4. Save.
+
+**Note:** If you ever change the password, you must re-encrypt the database with the new password locally and commit the new encrypted file.
+
 ---
 
 *This system provides a complete, automated trivia experience with robust data persistence, engaging gamification, and seamless GitHub integration.* 

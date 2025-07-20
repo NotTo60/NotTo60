@@ -37,6 +37,7 @@ jobs:
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPO: ${{ github.event.repository.name }}
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
       run: |
         python src/core/daily_trivia.py
         
@@ -46,13 +47,16 @@ jobs:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
         GITHUB_REPO: ${{ github.event.repository.name }}
+        TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
       run: |
         python src/core/process_answers.py
 
     - name: Print Top 10 Leaderboard
+      env:
+        TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
       run: |
         echo "🔍 TOP 10 LEADERBOARD USERS:"
-        python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s["total_points"]} points, {s["current_streak"]} streak, {s["total_correct"]} correct') for i, (u, s) in enumerate(top_users)]"
+        python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s[\"total_points\"]} points, {s[\"current_streak\"]} streak, {s[\"total_correct\"]} correct') for i, (u, s) in enumerate(top_users)]"
         echo "============================="
         
     - name: Commit and push changes
