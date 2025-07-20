@@ -48,8 +48,12 @@ jobs:
         GITHUB_REPO: ${{ github.event.repository.name }}
       run: |
         python src/core/process_answers.py
-        
 
+    - name: Print Top 10 Leaderboard
+      run: |
+        echo "🔍 TOP 10 LEADERBOARD USERS:"
+        python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s["total_points"]} points, {s["current_streak"]} streak, {s["total_correct"]} correct') for i, (u, s) in enumerate(top_users)]"
+        echo "============================="
         
     - name: Commit and push changes
       run: |
