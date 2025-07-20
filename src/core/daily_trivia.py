@@ -7,7 +7,7 @@ Generates daily trivia questions using OpenAI and WOW facts from APIs
 import json
 import os
 import random
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from openai import OpenAI
 import sys
 import os
@@ -259,14 +259,18 @@ def update_readme(trivia_data, leaderboard):
         
         # Yesterday's stats
         yesterday_stats = ""
-        if trivia_data.get("history"):
-            yesterday = trivia_data["history"][-1]
-            yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
-            yesterday_date = yesterday.get('date', '')
-            question = yesterday['question']
-            correct_letter = yesterday['correct_answer']
-            correct_text = yesterday['options'][correct_letter]
-            explanation = yesterday['explanation']
+        yesterday_date = get_utc_yesterday()
+        # Find the trivia in history with yesterday's date
+        yesterday_trivia = None
+        for t in reversed(trivia_data.get("history", [])):
+            if t.get("date") == yesterday_date:
+                yesterday_trivia = t
+                break
+        if yesterday_trivia:
+            question = yesterday_trivia['question']
+            correct_letter = yesterday_trivia['correct_answer']
+            correct_text = yesterday_trivia['options'][correct_letter]
+            explanation = yesterday_trivia['explanation']
             wiki_link = get_wikipedia_link(correct_text, question)
             yesterday_stats = f"""
 ### 📊 Yesterday's Results • {yesterday_date}
@@ -359,7 +363,7 @@ def main():
     leaderboard = load_leaderboard()
     
     # Check if we need to generate new trivia
-    today = datetime.now().strftime(DATE_FORMAT)
+    today = get_utc_today()
     current_trivia = trivia_data.get("current")
     
     if current_trivia and current_trivia.get("date") == today:
@@ -367,10 +371,9 @@ def main():
     else:
         print("🔄 Generating new trivia question with WOW facts...")
         
-        # Move current trivia to history if it exists
-        if current_trivia:
-            current_trivia["date"] = today
-            trivia_data["history"].append(current_trivia)
+        # Only move current trivia to history if it has a date
+        if current_trivia and current_trivia.get("date"):
+            trivia_data.setdefault("history", []).append(current_trivia)
         
         # Generate new trivia
         new_trivia = generate_trivia_question()
