@@ -49,6 +49,31 @@ jobs:
       run: |
         python src/core/process_answers.py
         
+    - name: Debug Leaderboard
+      run: |
+        echo "🔍 DEBUGGING LEADERBOARD DATA:"
+        echo "================================"
+        python -c "
+        from src.core.database import TriviaDatabase
+        from src.core.daily_trivia import get_top_leaderboard, load_leaderboard
+        
+        # Load leaderboard
+        db = TriviaDatabase()
+        leaderboard = db.get_leaderboard()
+        print(f'📊 Total users in database: {len(leaderboard)}')
+        print(f'👥 Users: {list(leaderboard.keys())}')
+        
+        # Get top 10 users
+        top_users = get_top_leaderboard(leaderboard, max_entries=10)
+        print(f'🏆 Top {len(top_users)} users:')
+        for i, (username, stats) in enumerate(top_users, 1):
+            print(f'  {i}. @{username}: {stats[\"total_points\"]} points, {stats[\"current_streak\"]} streak, {stats[\"total_correct\"]} correct')
+        
+        if not top_users:
+            print('❌ No users found in leaderboard!')
+        "
+        echo "================================"
+        
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"

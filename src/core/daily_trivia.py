@@ -393,6 +393,15 @@ def main():
     print(f"💡 Daily Fact: {daily_fact['fact']}")
     
     # Update README
+    print(f"📊 Leaderboard before README update: {len(leaderboard)} users")
+    if leaderboard:
+        top_users = get_top_leaderboard(leaderboard, max_entries=5)
+        print("🏆 Top 5 users:")
+        for i, (username, stats) in enumerate(top_users, 1):
+            print(f"  {i}. @{username}: {stats['total_points']} points, {stats['current_streak']} streak")
+    else:
+        print("❌ No users in leaderboard!")
+    
     update_readme(trivia_data, leaderboard)
     print("✅ README updated successfully with trivia, WOW facts, and daily fact!")
 
