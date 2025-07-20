@@ -151,7 +151,8 @@ DAILY_FACT_TEMPLATES = [
 ]
 
 # README Content Templates
-README_TEMPLATE = """# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
+README_TEMPLATE = """
+# 🧠 Daily trivia. Unknown facts. One leaderboard.
 
 👋 Welcome to my GitHub! Every day, unlock a surprising fact and test your brain with a fresh trivia challenge — beat the streak, top the leaderboard! 🧠🔥
 
