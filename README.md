@@ -27,22 +27,10 @@ Amazing discovery: You can`t kill yourself by holding your breath.  
 
 | Rank | User | Streak | Points | Total Correct |
 |------|------|--------|--------|---------------|
-| 1 | @charlie_quiz | 🔥🔥🔥 7 | 25 points | ✅ 15 |
-| 2 | @alice_dev | 🔥🔥 5 | 18 points | ✅ 12 |
-| 3 | @bob_coder | 🔥🔥 3 | 12 points | ✅ 8 |
-| 4 | @diana_smart | 🔥 2 | 8 points | ✅ 6 |
-| 5 | @eddie_brain | 🔥 1 | 5 points | ✅ 4 |
+| - | *No participants yet* | - | - | - |
 
 ---
 
-
-### 📊 Yesterday's Results • 20.07.2025
-
-
-
-**Question:** What year did the first iPhone launch?
-**Correct Answer:** A) 2007
-**Explanation:** The first iPhone was launched by Apple in 2007.
 
 ## 🎮 How to Play
 
