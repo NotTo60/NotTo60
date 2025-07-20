@@ -251,7 +251,7 @@ def process_answers():
         title = issue.get('title', '')
         if not title.startswith('Trivia Answer'):
             continue
-            
+        
         answer = parse_answer_from_issue(issue)
         
         if not answer:
@@ -270,11 +270,7 @@ def process_answers():
         is_correct = answer == correct_answer
         points_earned, bonus_info = update_user_stats(leaderboard, username, is_correct, current_trivia_date)
         
-        # Get WOW fact if available
-        wow_fact = current_trivia.get('wow_fact', '')
-        wow_fact_display = f"\n\n{wow_fact}" if wow_fact else ""
-        
-        # Create response comment with WOW effect and points system
+        # Create response comment with points system
         if is_correct:
             correct_message = random.choice(CORRECT_MESSAGES)
             streak = leaderboard[username]['current_streak']
@@ -284,7 +280,7 @@ def process_answers():
 
 Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely right!
 
-**Explanation:** {current_trivia['explanation']}{wow_fact_display}
+**Explanation:** {current_trivia['explanation']}
 
 🔥 Your current streak: **{streak}**
 ✅ Total correct answers: **{leaderboard[username]['total_correct']}**
@@ -314,7 +310,7 @@ Your answer **{answer}) {current_trivia['options'][answer]}** was wrong.
 
 **Correct Answer:** {correct_answer}) {current_trivia['options'][correct_answer]}
 
-**Explanation:** {current_trivia['explanation']}{wow_fact_display}
+**Explanation:** {current_trivia['explanation']}
 
 💔 Your streak has reset to 0, but don't give up!
 

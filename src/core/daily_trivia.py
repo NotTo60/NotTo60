@@ -14,7 +14,6 @@ import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from core.config import *
-from core.wow_facts import get_wow_fact, create_trivia_from_wow_fact
 from core.daily_facts import get_todays_fact
 from core.database import TriviaDatabase
 from core.points_system import get_streak_emoji, format_points_display
@@ -26,15 +25,8 @@ def setup_openai():
     return OpenAI(api_key=OPENAI_API_KEY)
 
 def generate_trivia_question():
-    """Generate a trivia question using OpenAI and WOW facts"""
+    """Generate a trivia question using OpenAI"""
     category = random.choice(TRIVIA_CATEGORIES)
-    
-    # First, try to get a WOW fact from APIs
-    wow_fact_result = get_wow_fact(category)
-    wow_fact = wow_fact_result.get('fact', '')
-    fact_source = wow_fact_result.get('source', '')
-    
-    # Create enhanced prompt for standalone trivia
     prompt = f"""Generate an INCREDIBLE standalone trivia question about {category}. 
 
     Requirements:
@@ -45,7 +37,7 @@ def generate_trivia_question():
     - One option must be correct
     - Make the incorrect options plausible but wrong
     - Keep the question and answers concise but fascinating
-    - Use {random.choice(WOW_KEYWORDS)} language to make it exciting
+    - Use exciting language to make it engaging
     - DO NOT reference any specific fact or say "Based on this fact"
     
     Format your response as JSON:
@@ -62,7 +54,6 @@ def generate_trivia_question():
     }}
     
     Only return the JSON, no other text."""
-    
     try:
         client = setup_openai()
         response = client.chat.completions.create(
@@ -71,23 +62,14 @@ def generate_trivia_question():
             max_tokens=MAX_TOKENS,
             temperature=TEMPERATURE
         )
-        
         content = response.choices[0].message.content.strip()
         # Extract JSON from response
         if content.startswith('```json'):
             content = content[7:-3]
         elif content.startswith('```'):
             content = content[3:-3]
-        
         trivia_data = json.loads(content)
-        
-        # Add WOW fact if not already included
-        if 'wow_fact' not in trivia_data:
-            trivia_data['wow_fact'] = wow_fact
-            trivia_data['fact_source'] = fact_source
-            
         return trivia_data
-        
     except Exception as e:
         print(f"Error generating trivia with OpenAI: {e}")
         # Fallback to standalone trivia
@@ -259,8 +241,6 @@ def update_readme(trivia_data, leaderboard):
             yesterday_stats = f"""
 ### 📊 Yesterday's Results • {yesterday_date}
 
-{yesterday.get('wow_fact', '')}
-
 **Question:** {yesterday['question']}
 **Correct Answer:** {yesterday['correct_answer']}) {yesterday['options'][yesterday['correct_answer']]}
 **Explanation:** {yesterday['explanation']}
@@ -375,18 +355,11 @@ def main():
             except ValueError:
                 new_trivia["date"] = today
         
-        # Ensure no WOW fact references
-        if 'wow_fact' in new_trivia:
-            del new_trivia['wow_fact']
-        if 'fact_source' in new_trivia:
-            del new_trivia['fact_source']
-        
         trivia_data["current"] = new_trivia
         
         # Save trivia data
         save_trivia_data(trivia_data)
         print(f"✅ Generated new trivia: {new_trivia['question']}")
-        print(f"🌟 WOW Fact: {new_trivia.get('wow_fact', 'N/A')}")
     
     # Get today's daily fact
     daily_fact = get_todays_fact()

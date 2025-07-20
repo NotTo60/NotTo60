@@ -8,20 +8,6 @@ GITHUB_TOKEN = os.getenv('GH_TOKEN')
 GITHUB_USERNAME = os.getenv('GITHUB_USERNAME', 'NotTo60')
 GITHUB_REPO = os.getenv('GITHUB_REPO', 'NotTo60')
 
-# API Endpoints for WOW Facts
-WOW_FACT_APIS = {
-    "numbers_api": "http://numbersapi.com/random/trivia",
-    "cat_facts": "https://cat-fact.herokuapp.com/facts/random",
-    "dog_facts": "https://dog-fact.herokuapp.com/facts/random",
-    "space_facts": "https://api.spaceflightnewsapi.net/v3/articles",
-    "animal_facts": "https://zoo-animal-api.herokuapp.com/animals/rand",
-    "history_facts": "https://api.fungenerators.com/facts/history",
-    "science_facts": "https://api.fungenerators.com/facts/science",
-    "geography_facts": "https://api.fungenerators.com/facts/geography",
-    "sports_facts": "https://api.fungenerators.com/facts/sports",
-    "technology_facts": "https://api.fungenerators.com/facts/technology"
-}
-
 # Daily "Did You Know?" Fact Sources
 DAILY_FACT_SOURCES = {
     "random_facts": "https://uselessfacts.jsph.pl/api/v2/facts/random",
@@ -42,14 +28,6 @@ TRIVIA_CATEGORIES = [
     "entertainment", "technology", "nature", "art", "music",
     "space", "animals", "human_body", "oceans", "mountains",
     "inventions", "discoveries", "records", "extremes", "mysteries"
-]
-
-# WOW Effect Keywords for Fact Enhancement
-WOW_KEYWORDS = [
-    "incredible", "amazing", "unbelievable", "astonishing", "mind-blowing",
-    "extraordinary", "remarkable", "fascinating", "stunning", "spectacular",
-    "phenomenal", "incredible", "breathtaking", "jaw-dropping", "mind-boggling",
-    "outrageous", "fantastic", "marvelous", "wonderful", "magnificent"
 ]
 
 # Daily Fact Categories for "Did You Know?"
