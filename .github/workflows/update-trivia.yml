@@ -1,4 +1,4 @@
-name: Daily Trivia Update with WOW Facts & Daily Facts
+name: Daily Trivia Update
 
 on:
   schedule:
@@ -31,7 +31,7 @@ jobs:
         # Install SQLite (usually available by default)
         python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
         
-    - name: Generate daily trivia with WOW facts and daily fact
+    - name: Generate daily trivia and update fact
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
@@ -50,7 +50,7 @@ jobs:
         TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
       run: |
         python src/core/process_answers.py
-
+        
     - name: Print Top 10 Leaderboard
       env:
         TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
@@ -64,5 +64,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + WOW facts + Daily fact + Database history - $(date +'%Y-%m-%d')"
+        git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + Daily fact + Database history - $(date +'%Y-%m-%d')"
         git push origin main 
