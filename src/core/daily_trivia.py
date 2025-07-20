@@ -209,6 +209,13 @@ def create_answer_links(trivia_data=None):
         "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['C']))}"
     }
 
+def get_wikipedia_link(answer_text):
+    """Generate a Wikipedia link for the answer text (AI-style, simple heuristic)."""
+    import urllib.parse
+    # Remove leading/trailing whitespace and parenthesis, and encode for URL
+    clean = str(answer_text).strip().replace(' ', '_')
+    return f"https://en.wikipedia.org/wiki/{urllib.parse.quote(clean)}"
+
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
     try:
@@ -237,13 +244,18 @@ def update_readme(trivia_data, leaderboard):
         if trivia_data.get("history"):
             yesterday = trivia_data["history"][-1]
             yesterday_emoji = EMOJI_MAPPING.get(yesterday.get('category', 'general'), "💡")
-            yesterday_date = yesterday.get('date', 'Previous Day')
+            yesterday_date = yesterday.get('date', '')
+            question = yesterday['question']
+            correct_letter = yesterday['correct_answer']
+            correct_text = yesterday['options'][correct_letter]
+            explanation = yesterday['explanation']
+            wiki_link = get_wikipedia_link(correct_text)
             yesterday_stats = f"""
 ### 📊 Yesterday's Results • {yesterday_date}
 
-**Question:** {yesterday['question']}
-**Correct Answer:** {yesterday['correct_answer']}) {yesterday['options'][yesterday['correct_answer']]}
-**Explanation:** {yesterday['explanation']}
+**Question:** {question}
+**Correct Answer:** {correct_letter}) {correct_text} ([Wikipedia]({wiki_link}))
+**Explanation:** {explanation}
 """
         
         readme_content = f"""# 🧠 Daily trivia. Unknown facts. One leaderboard. Can you stay on top? 🔥
