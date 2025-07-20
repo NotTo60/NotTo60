@@ -332,12 +332,19 @@ class TriviaDatabase:
             with open(database_path, "rb") as f:
                 encrypted = f.read()
                 try:
+                    # Try decrypting (new format)
                     compressed = self.decrypt_data(encrypted)
-                except Exception as e:
-                    print(f"❌ Failed to decrypt database: {e}")
-                    return
-                all_data = self.decompress_data(compressed)
-                
+                    all_data = self.decompress_data(compressed)
+                    print("✅ Database imported from single encrypted compressed file")
+                except Exception:
+                    try:
+                        # Try decompressing as plaintext (legacy format)
+                        all_data = self.decompress_data(encrypted)
+                        print("⚠️ Imported legacy unencrypted database, re-encrypting...")
+                        self.export_compressed_data(os.path.dirname(database_path))
+                    except Exception as e:
+                        print(f"❌ Failed to import database: {e}")
+                        return
                 # Import each table
                 if "leaderboard" in all_data:
                     self.update_leaderboard(all_data["leaderboard"])
@@ -345,7 +352,5 @@ class TriviaDatabase:
                     self.update_daily_facts(all_data["daily_facts"])
                 if "trivia_questions" in all_data:
                     self.update_trivia_questions(all_data["trivia_questions"])
-                
-                print("✅ Database imported from single encrypted compressed file")
         else:
             print("❌ No compressed database file found") 
