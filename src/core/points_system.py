@@ -5,56 +5,42 @@ Points System Module - Handles streak bonuses and point calculations
 
 def calculate_points_for_streak(streak):
     """
-    Calculate points based on streak length with bonus system:
+    Calculate points based on streak length with new bonus system:
     - 1 point for correct answer
-    - +1 bonus point for 3-day streak (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
-    - +1 bonus point for 7-day streak (total 3 points for 7th day)
-    - Pattern repeats every 7 days: 10-day = +1, 13-day = +1, 17-day = +1, 20-day = +1, etc.
-    - Example: Day 3=2pts, Day 6=2pts, Day 7=3pts, Day 9=2pts, Day 10=2pts, Day 12=2pts, Day 13=2pts, Day 14=3pts, Day 15=2pts, Day 17=2pts, Day 18=2pts, Day 20=2pts, Day 21=3pts
+    - +1 bonus point for every 3-day streak (3, 6, 9, ...)
+    - +2 bonus points for every 6-day streak (6, 12, 18, ...)
+    - At 6, 12, 18, ... you get +1 (for 3) and +2 (for 6), so total 4 points at 6, 12, ...
     """
     if streak <= 0:
         return 0
-    
-    # Base point for correct answer
     points = 1
-    
-    # Calculate bonus points based on streak milestones
-    # 3-day milestone bonus (3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
     if streak % 3 == 0:
         points += 1
-    
-    # 7-day milestone bonus (and every 7 days after: 14, 21, 28, etc.)
-    if streak % 7 == 0:
-        points += 1
-    
+    if streak % 6 == 0:
+        points += 2
     return points
 
 def get_streak_bonus_info(streak):
     """
-    Get information about current streak and next bonus milestones
+    Get information about current streak and next bonus milestones for 3 and 6 day streaks
     """
     current_points = calculate_points_for_streak(streak)
-    
-    # Find next 3-day bonus (3, 10, 17, 24, etc.)
-    next_3_day = 0
-    if streak < 3:
-        next_3_day = 3 - streak
-    elif streak < 10:
-        next_3_day = 10 - streak
+    # Next 3-day bonus
+    if streak % 3 == 0:
+        next_3_day = 3
     else:
-        # Find next 3-day bonus in the cycle
-        cycle_position = (streak - 3) % 7
-        next_3_day = 7 - cycle_position
-    
-    # Find next 7-day bonus
-    next_7_day = max(0, 7 - (streak % 7)) if streak % 7 != 0 else 7
-    
+        next_3_day = 3 - (streak % 3)
+    # Next 6-day bonus
+    if streak % 6 == 0:
+        next_6_day = 6
+    else:
+        next_6_day = 6 - (streak % 6)
     return {
         'current_points': current_points,
         'next_3_day_bonus': next_3_day,
-        'next_7_day_bonus': next_7_day,
-        'has_3_day_bonus': streak == 3 or (streak > 7 and (streak - 3) % 7 == 0),
-        'has_7_day_bonus': streak % 7 == 0 and streak > 0
+        'next_6_day_bonus': next_6_day,
+        'has_3_day_bonus': streak % 3 == 0 and streak > 0,
+        'has_6_day_bonus': streak % 6 == 0 and streak > 0
     }
 
 def format_points_display(points):

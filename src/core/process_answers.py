@@ -251,6 +251,7 @@ def process_answers():
     issues = get_github_issues()
     processed_count = 0
     correct_count = 0
+    total_trivia_issues = 0
     
     for issue in issues:
         issue_number = issue['number']
@@ -260,6 +261,7 @@ def process_answers():
         title = issue.get('title', '')
         if not title.startswith('Trivia Answer'):
             continue
+        total_trivia_issues += 1
         
         answer = parse_answer_from_issue(issue)
         
@@ -300,18 +302,18 @@ Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely righ
 💎 Total points: **{leaderboard[username]['total_points']}**"""
             
             # Add bonus information
-            if bonus_info and (bonus_info['has_3_day_bonus'] or bonus_info['has_7_day_bonus']):
+            if bonus_info and (bonus_info['has_3_day_bonus'] or bonus_info['has_6_day_bonus']):
                 comment += "\n\n🎉 **Streak Bonuses:**\n"
                 if bonus_info['has_3_day_bonus']:
                     comment += "• +1 point for 3-day streak! 🏆\n"
-                if bonus_info['has_7_day_bonus']:
-                    comment += "• +1 point for 7-day streak! 🏆🏆\n"
+                if bonus_info['has_6_day_bonus']:
+                    comment += "• +2 points for 6-day streak! 🏆🏆\n"
             
             # Show next milestone
             if bonus_info['next_3_day_bonus'] > 0:
                 comment += f"\n🎯 **Next 3-day bonus:** {bonus_info['next_3_day_bonus']} more day(s)\n"
-            elif bonus_info['next_7_day_bonus'] > 0:
-                comment += f"🎯 **Next 7-day bonus:** {bonus_info['next_7_day_bonus']} more day(s)\n"
+            if bonus_info['next_6_day_bonus'] > 0:
+                comment += f"🎯 **Next 6-day bonus:** {bonus_info['next_6_day_bonus']} more day(s)\n"
             
             comment += "\nCome back tomorrow for another AMAZING question!"
         else:
@@ -334,6 +336,7 @@ Come back tomorrow for another chance!"""
     
     # Save updated leaderboard
     save_leaderboard(leaderboard)
+    print(f"🧾 Total trivia answer issues found: {total_trivia_issues}")
     print(f"✅ Processed {processed_count} answers (Correct: {correct_count})")
 
 def main():

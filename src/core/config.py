@@ -211,9 +211,10 @@ HOW_TO_PLAY_TEMPLATE = """
 POINTS_SYSTEM_TEMPLATE = """
 ## 🔥 Points & Streak System
 
-- **Correct Answer:** +1 point + streak bonus
-- **3-Day Streak:** +1 bonus point 🏆 (and all multiples of 3: 3, 6, 9, 12, 15, 18, 21, 24, 27, etc.)
-- **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
+- **Correct Answer:** +1 point
+- **3-Day Streak:** +1 bonus point (every 3, 6, 9, 12, ... days)
+- **6-Day Streak:** +2 bonus points (every 6, 12, 18, ... days)
+  - At 6, 12, 18, ... you get both bonuses: +1 (for 3) and +2 (for 6), for a total of 4 points!
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top {max_leaderboard_entries} users with highest total points
