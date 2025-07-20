@@ -25,18 +25,14 @@ Here's something interesting: A bull can inseminate 300 cows from one single eja
 
 ## 🏆 Leaderboard
 
-| Rank | User | Streak | Points | Total Correct |
-|------|------|--------|--------|---------------|
-| 1 | @NotTo60 | 🔥 1 | 1 point | ✅ 1 |
+| Rank | User | Streak | Points | Total Correct | Day Joined |
+|------|------|--------|--------|---------------|------------|
+| 1 | @NotTo60 | 🔥 1 | 1 point | ✅ 1 | - |
+
 
 ---
 
 
-### 📊 Yesterday's Results • 
-
-**Question:** What year did the first iPhone launch?
-**Correct Answer:** A) 2007 ([Wikipedia](https://en.wikipedia.org/wiki/2007))
-**Explanation:** The first iPhone was launched by Apple in 2007.
 
 ## 🎮 How to Play
 
@@ -45,6 +41,7 @@ Here's something interesting: A bull can inseminate 300 cows from one single eja
 3. **Submit your answer** via the GitHub issue that opens
 4. **Check back tomorrow** to see if you were correct and view the leaderboard!
 
+
 ## 🔥 Points & Streak System
 
 - **Correct Answer:** +1 point + streak bonus
@@ -52,8 +49,8 @@ Here's something interesting: A bull can inseminate 300 cows from one single eja
 - **7-Day Streak:** +1 bonus point 🏆🏆 (total 3 points for 7th day)
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
-- **Leaderboard:** Top 5 users with highest total points
-
+- **Leaderboard:** Top 10 users with highest total points
 ---
+
 
 *Questions and facts are automatically generated daily at 12:00 AM UTC!*
