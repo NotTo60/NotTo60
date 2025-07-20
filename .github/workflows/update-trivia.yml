@@ -51,6 +51,12 @@ jobs:
       run: |
         python src/core/process_answers.py
         
+    - name: Update README with latest leaderboard
+      env:
+        TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+      run: |
+        python -c "from src.core.daily_trivia import update_readme, load_trivia_data; from src.core.database import TriviaDatabase; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); trivia_data = load_trivia_data(); update_readme(trivia_data, leaderboard)"
+        
     - name: Print Top 10 Leaderboard
       env:
         TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
