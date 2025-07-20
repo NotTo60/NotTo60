@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 20.07.2025
 
-Fascinating tidbit: The sweat drops drawn in cartoon comic strips are called pleuts.
+Fascinating tidbit: Nearly 80% of all animals on earth have six legs.
 
 ---
 
