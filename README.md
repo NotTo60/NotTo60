@@ -4,13 +4,13 @@
 
 ---
 
-## 💡 Did You Know? • 19.07.2025
+## 💡 Did You Know? • 20.07.2025
 
-Here's something interesting: On average, people fear spiders more than they do death.
+Fascinating tidbit: The sweat drops drawn in cartoon comic strips are called pleuts.
 
 ---
 
-## 🎯 Today's Trivia • 19.07.2025
+## 🎯 Today's Trivia • 20.07.2025
 
 **What year did the first iPhone launch?**
 
