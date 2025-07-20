@@ -6,7 +6,7 @@
 
 ## 💡 Did You Know? • 20.07.2025
 
-Fascinating tidbit: Nearly 80% of all animals on earth have six legs.
+Little known fact: There are more psychoanalysts per capita in Buenos Aires than any other place in the world.
 
 ---
 
