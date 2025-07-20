@@ -18,6 +18,12 @@ from core.daily_facts import get_todays_fact
 from core.database import TriviaDatabase
 from core.points_system import get_streak_emoji, format_points_display
 
+def get_utc_today():
+    return datetime.now(timezone.utc).strftime(DATE_FORMAT)
+
+def get_utc_yesterday():
+    return (datetime.now(timezone.utc) - timedelta(days=1)).strftime(DATE_FORMAT)
+
 def setup_openai():
     """Initialize OpenAI client"""
     if not OPENAI_API_KEY:
