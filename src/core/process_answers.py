@@ -250,6 +250,7 @@ def process_answers():
     # Get GitHub issues
     issues = get_github_issues()
     processed_count = 0
+    correct_count = 0
     
     for issue in issues:
         issue_number = issue['number']
@@ -277,6 +278,9 @@ def process_answers():
         # Process answer
         is_correct = answer == correct_answer
         points_earned, bonus_info = update_user_stats(leaderboard, username, is_correct, current_trivia_date)
+        
+        if is_correct:
+            correct_count += 1
         
         # Create response comment with points system
         if is_correct:
@@ -330,7 +334,7 @@ Come back tomorrow for another chance!"""
     
     # Save updated leaderboard
     save_leaderboard(leaderboard)
-    print(f"✅ Processed {processed_count} answers")
+    print(f"✅ Processed {processed_count} answers (Correct: {correct_count})")
 
 def main():
     """Main function"""
