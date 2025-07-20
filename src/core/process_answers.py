@@ -307,14 +307,13 @@ Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely righ
                 if bonus_info['has_3_day_bonus']:
                     comment += "• +1 point for 3-day streak! 🏆\n"
                 if bonus_info['has_6_day_bonus']:
-                    comment += "• +2 points for 6-day streak! 🏆🏆\n"
-            
+                    comment += "• +1 point for 6-day streak! 🏆\n"
             # Show next milestone
             if bonus_info['next_3_day_bonus'] > 0:
                 comment += f"\n🎯 **Next 3-day bonus:** {bonus_info['next_3_day_bonus']} more day(s)\n"
             if bonus_info['next_6_day_bonus'] > 0:
                 comment += f"🎯 **Next 6-day bonus:** {bonus_info['next_6_day_bonus']} more day(s)\n"
-            
+            comment += "\nAt 6, 12, 18, ... you get both bonuses for a total of 3 points!"
             comment += "\nCome back tomorrow for another AMAZING question!"
         else:
             incorrect_message = random.choice(INCORRECT_MESSAGES)

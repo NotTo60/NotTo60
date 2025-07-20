@@ -213,8 +213,8 @@ POINTS_SYSTEM_TEMPLATE = """
 
 - **Correct Answer:** +1 point
 - **3-Day Streak:** +1 bonus point (every 3, 6, 9, 12, ... days)
-- **6-Day Streak:** +2 bonus points (every 6, 12, 18, ... days)
-  - At 6, 12, 18, ... you get both bonuses: +1 (for 3) and +2 (for 6), for a total of 4 points!
+- **6-Day Streak:** +1 bonus point (every 6, 12, 18, ... days)
+  - At 6, 12, 18, ... you get both bonuses: +1 (for 3) and +1 (for 6), for a total of 3 points!
 - **Wrong Answer:** Streak resets to 0
 - **Miss a Day:** Streak continues (no penalty)
 - **Leaderboard:** Top {max_leaderboard_entries} users with highest total points

@@ -8,8 +8,8 @@ def calculate_points_for_streak(streak):
     Calculate points based on streak length with new bonus system:
     - 1 point for correct answer
     - +1 bonus point for every 3-day streak (3, 6, 9, ...)
-    - +2 bonus points for every 6-day streak (6, 12, 18, ...)
-    - At 6, 12, 18, ... you get +1 (for 3) and +2 (for 6), so total 4 points at 6, 12, ...
+    - +1 bonus point for every 6-day streak (6, 12, 18, ...)
+    - At 6, 12, 18, ... you get +1 (for 3) and +1 (for 6), so total 3 points at 6, 12, ...
     """
     if streak <= 0:
         return 0
@@ -17,7 +17,7 @@ def calculate_points_for_streak(streak):
     if streak % 3 == 0:
         points += 1
     if streak % 6 == 0:
-        points += 2
+        points += 1
     return points
 
 def get_streak_bonus_info(streak):
