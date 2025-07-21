@@ -19,7 +19,7 @@ class TriviaDatabase:
         self.init_database()
 
     def _get_password(self):
-        password = os.environ.get("TRIVIA_DB_PASSWORD")
+        password = os.getenv("TRIVIA_DB_PASSWORD")
         if not password:
             raise RuntimeError("TRIVIA_DB_PASSWORD environment variable is required for database encryption.")
         return password.encode()
@@ -29,6 +29,7 @@ class TriviaDatabase:
         if salt is None:
             # Use a fixed salt for export (for reproducibility in git), or store salt in file header
             salt = b"trivia_db_salt_2024"  # 16 bytes, can be changed for more security
+        print(f"[DEBUG] Using salt: {salt}")
         kdf = PBKDF2HMAC(
             algorithm=hashes.SHA256(),
             length=32,
@@ -37,6 +38,7 @@ class TriviaDatabase:
             backend=default_backend(),
         )
         key = base64.urlsafe_b64encode(kdf.derive(password))
+        print(f"[DEBUG] Derived key (first 16): {key[:16]}")
         return Fernet(key)
 
     def init_database(self):
@@ -168,11 +170,23 @@ class TriviaDatabase:
 
     def encrypt_data(self, data_bytes):
         f = self._get_fernet()
-        return f.encrypt(data_bytes)
+        print("[DEBUG] Encrypting data...")
+        print(f"[DEBUG] Data bytes (first 16): {data_bytes[:16]}")
+        encrypted = f.encrypt(data_bytes)
+        print(f"[DEBUG] Encrypted bytes (first 16): {encrypted[:16]}")
+        return encrypted
 
     def decrypt_data(self, encrypted_bytes):
         f = self._get_fernet()
-        return f.decrypt(encrypted_bytes)
+        print("[DEBUG] Decrypting data...")
+        print(f"[DEBUG] Encrypted bytes (first 16): {encrypted_bytes[:16]}")
+        try:
+            decrypted = f.decrypt(encrypted_bytes)
+            print(f"[DEBUG] Decrypted bytes (first 16): {decrypted[:16]}")
+            return decrypted
+        except Exception as e:
+            print(f"[DEBUG] Decryption failed: {e}")
+            raise
     
     def update_leaderboard(self, leaderboard_data):
         """Update leaderboard with compressed data"""

@@ -61,6 +61,10 @@ jobs:
         with:
           name: trivia-db
           path: src/data/
+      - name: Debug artifact file
+        run: |
+          ls -lh src/data/
+          head -c 16 src/data/trivia_database.db.gz | xxd
       - name: Create new daily trivia and validate
         run: python manage.py new-trivia
 
@@ -88,6 +92,10 @@ jobs:
         with:
           name: trivia-db
           path: src/data/
+      - name: Debug artifact file
+        run: |
+          ls -lh src/data/
+          head -c 16 src/data/trivia_database.db.gz | xxd
       - name: Create new daily fact and validate
         run: python manage.py new-fact
 
