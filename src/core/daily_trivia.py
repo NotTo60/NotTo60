@@ -364,7 +364,10 @@ def main():
     current_trivia = trivia_data.get("current")
     trivia_changed = False
     if current_trivia and current_trivia.get("date") == today:
-        print(f"✅ Trivia already exists for {today}")
+        print(f"🌞 Trivia for today ({today}) already exists:")
+        print(f"    {current_trivia['question']}")
+        print(f"    (category: {current_trivia.get('category', 'unknown')})")
+        return  # Do not generate a new trivia
     else:
         print("🔄 Generating new trivia question...")
         # Only move current trivia to history if it has a date

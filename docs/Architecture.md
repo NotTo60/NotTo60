@@ -4,6 +4,17 @@
 
 A fully automated daily trivia system with leaderboards, points, and streak bonuses. Users answer trivia questions via GitHub issues, and the system automatically processes answers, calculates points, and updates the README.
 
+---
+
+**Recent Updates:**
+- Daily facts are now fetched only from the uselessfacts API (random facts); all other sources have been removed.
+- The system tries at least twice to fetch a unique fact for the day; if all attempts return a duplicate, it falls back to a local list of unused facts.
+- Leaderboard now excludes users with zero answers; only users who have answered at least once are shown.
+- Usernames are validated as UUIDs; only valid UUIDs are processed for the leaderboard.
+- README.md and the database are passed as artifacts between workflow jobs to ensure consistency across steps.
+
+---
+
 ## 🏗️ System Architecture
 
 ### **Core Components**
@@ -14,7 +25,7 @@ src/core/
 ├── daily_trivia.py      # Main trivia generation and README updates
 ├── process_answers.py   # GitHub issue processing and scoring
 ├── points_system.py     # Points calculation and streak bonuses
-├── daily_facts.py       # Daily fact generation from APIs
+├── daily_facts.py       # Daily fact generation from uselessfacts API only
 └── config.py           # Configuration and constants
 ```
 
@@ -25,6 +36,8 @@ src/core/
 3. **Answer Processing** → `process_answers.py` processes issues → updates leaderboard
 4. **README Update** → Leaderboard and content refreshed automatically
 5. **Database Sync** → Compressed data exported to git for persistence
+
+---
 
 ## 🗄️ Database System
 
@@ -38,11 +51,11 @@ src/core/
 
 ```sql
 leaderboard (
-    username TEXT PRIMARY KEY,
+    username TEXT PRIMARY KEY,  -- Must be a valid UUID
     current_streak INTEGER,
     total_correct INTEGER,
     total_points INTEGER,
-    total_answered INTEGER,
+    total_answered INTEGER,  -- Users with 0 answers are excluded
     last_answered TEXT,
     last_trivia_date TEXT,
     answer_history TEXT  -- Gzipped JSON
@@ -64,6 +77,8 @@ trivia_questions (
 )
 ```
 
+---
+
 ## 🎯 Points & Streak System
 
 ### **Scoring Rules**
@@ -82,38 +97,27 @@ trivia_questions (
 - Day 6: 3 points (base + 3-day bonus)
 - Day 7: 4 points (base + 3-day bonus + 7-day bonus)
 
+---
+
 ## 🤖 GitHub Actions Workflow
 
 ### **Automated Daily Process**
 
-```yaml
-name: Daily Trivia Update
-on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
-  workflow_dispatch:     # Manual trigger
-
-jobs:
-  update-trivia:
-    steps:
-    - Checkout repository
-    - Setup Python environment
-    - Generate daily trivia + facts
-    - Process GitHub issue answers
-    - Update leaderboard
-    - Commit and push changes
-```
+- README.md and the database are passed as artifacts between jobs to ensure all steps use the latest data.
 
 ### **Workflow Steps**
-1. **Generate Content**: New trivia question + daily fact
-2. **Process Answers**: Close GitHub issues + update user stats
+1. **Generate Content**: New trivia question + daily fact (tries twice for uniqueness, then falls back to local list)
+2. **Process Answers**: Close GitHub issues + update user stats (only valid UUIDs, no users with 0 answers)
 3. **Update README**: Refresh leaderboard and content
 4. **Database Export**: Compress and commit data history
+
+---
 
 ## 📊 Leaderboard System
 
 ### **Display Features**
 - **Top 5 Users**: Sorted by points → streak → correct answers
+- **No users with 0 answers**: Only users who have answered at least once are shown
 - **Streak Emojis**: 🔥 (1-2), 🔥🔥 (3-6), 🔥🔥🔥 (7+)
 - **Points Display**: Formatted with bonus indicators
 - **Real-time Updates**: Automatic refresh with each workflow run
@@ -124,6 +128,9 @@ jobs:
 - Total correct answers
 - Answer history (last 30 days)
 - Last participation date
+- **Usernames are validated as UUIDs**
+
+---
 
 ## 🔧 Configuration
 
@@ -141,6 +148,8 @@ jobs:
 - `GITHUB_USERNAME`: Repository owner
 - `GITHUB_REPO`: Repository name
 
+---
+
 ## 🚀 Deployment
 
 ### **Requirements**
@@ -156,6 +165,8 @@ jobs:
 4. Enable GitHub Actions
 5. Trigger initial workflow run
 
+---
+
 ## 📈 Performance Metrics
 
 ### **Storage Efficiency**
@@ -169,6 +180,8 @@ jobs:
 - **Answer Processing**: ~1-2 seconds per answer
 - **README Update**: ~1 second
 - **Total Workflow**: ~60-90 seconds
+
+---
 
 ## 🔒 Data Integrity
 
@@ -184,6 +197,8 @@ jobs:
 - **Retry Logic**: Automatic retry for transient errors
 - **Data Validation**: Input sanitization and validation
 - **Logging**: Detailed error tracking and debugging
+
+---
 
 ## 🎮 User Experience
 
@@ -202,6 +217,8 @@ jobs:
 - **Streak Bonuses**: Detailed bonus point explanations
 - **Next Milestones**: Progress toward next streak bonus
 
+---
+
 ## 🔄 Maintenance
 
 ### **Daily Operations**
@@ -216,6 +233,8 @@ jobs:
 - Database size monitoring
 - User participation metrics
 - API usage tracking
+
+---
 
 ## 🔒 Database Encryption (Anti-Cheat)
 
