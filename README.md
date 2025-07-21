@@ -13,12 +13,12 @@ Surprising fact: The sweat drops drawn in cartoon comic strips are called pleuts
 
 ## 🎯 Today's Trivia • 21.07.2025
 
-**Which extraordinary animal can perceive a hidden world of colors beyond human vision through its unique biological adaptations?**
+**In an astounding feat of speed and endurance, which creature holds the record for the longest non-stop migratory journey, traveling over 11,000 miles without a break?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mantis%20Shrimp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - Mantis Shrimp
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bald%20Eagle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - Bald Eagle
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Giraffe%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - Giraffe
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Bar-tailed%20Godwit%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - The Bar-tailed Godwit
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Monarch%20Butterfly%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - The Monarch Butterfly
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Arctic%20Tern%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%20)** - The Arctic Tern
 
 📝 *Click a button above to submit your answer!*
 
