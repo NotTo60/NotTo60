@@ -216,6 +216,7 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
 def close_issue(issue_number, comment):
     """Close a GitHub issue with a comment"""
     if not GITHUB_TOKEN:
+        print("❌ No GitHub token provided, cannot close issue.")
         return
     
     headers = {
@@ -225,11 +226,19 @@ def close_issue(issue_number, comment):
     
     # Add comment
     comment_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/issues/{issue_number}/comments"
-    requests.post(comment_url, headers=headers, json={'body': comment})
+    resp = requests.post(comment_url, headers=headers, json={'body': comment})
+    if resp.status_code >= 300:
+        print(f"❌ Failed to comment on issue #{issue_number}: {resp.status_code} {resp.text}")
+    else:
+        print(f"✅ Commented on issue #{issue_number}")
     
     # Close issue
     close_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/issues/{issue_number}"
-    requests.patch(close_url, headers=headers, json={'state': 'closed'})
+    resp = requests.patch(close_url, headers=headers, json={'state': 'closed'})
+    if resp.status_code >= 300:
+        print(f"❌ Failed to close issue #{issue_number}: {resp.status_code} {resp.text}")
+    else:
+        print(f"✅ Closed issue #{issue_number}")
 
 def process_answers():
     """Main function to process all trivia answers"""
