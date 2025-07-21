@@ -396,7 +396,8 @@ def main():
     db = TriviaDatabase()
     trivia_questions = db.get_trivia_questions()
     today = datetime.now().strftime('%Y-%m-%d')
-    # Find the latest trivia by timestamp
+    # Check if trivia for today exists
+    trivia_changed = False
     if trivia_questions:
         latest = max(trivia_questions.values(), key=lambda t: t.get('timestamp', ''))
         latest_date = latest['timestamp'][:10]
@@ -406,28 +407,59 @@ def main():
             print(f"    {latest['question']}")
             print(f"    (category: {latest.get('category', 'unknown')})")
             print(f"    (added at {latest['timestamp']})")
-            return  # Do not generate or overwrite
-    print(f"[DEBUG] No trivia for today, will generate new.")
-    print("🔄 Generating new trivia question...")
-    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
-    # Generate new trivia (reuse your existing logic here)
-    # ...
-    # For demonstration, we'll use a placeholder
-    question = "Placeholder question?"
-    options = {"A": "Option A", "B": "Option B", "C": "Option C"}
-    correct_answer = "A"
-    explanation = "Placeholder explanation."
-    timestamp = datetime.now().isoformat()
-    new_trivia = {
-        "question": question,
-        "options": options,
-        "correct_answer": correct_answer,
-        "explanation": explanation,
-        "timestamp": timestamp
-    }
-    save_trivia_data({"current": new_trivia, "history": []})
-    db.export_compressed_data()
-    print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
+        else:
+            print(f"[DEBUG] No trivia for today, will generate new.")
+            print("🔄 Generating new trivia question...")
+            client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+            # Generate new trivia (reuse your existing logic here)
+            # ...
+            # For demonstration, we'll use a placeholder
+            question = "Placeholder question?"
+            options = {"A": "Option A", "B": "Option B", "C": "Option C"}
+            correct_answer = "A"
+            explanation = "Placeholder explanation."
+            new_trivia = {
+                "question": question,
+                "options": options,
+                "correct_answer": correct_answer,
+                "explanation": explanation
+            }
+            if "timestamp" not in new_trivia:
+                new_trivia["timestamp"] = datetime.now().isoformat()
+            save_trivia_data({"current": new_trivia, "history": []})
+            db.export_compressed_data()
+            print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
+            trivia_changed = True
+    else:
+        # No trivia at all, so add new
+        print(f"[DEBUG] No trivia in database yet, will generate new.")
+        client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+        question = "Placeholder question?"
+        options = {"A": "Option A", "B": "Option B", "C": "Option C"}
+        correct_answer = "A"
+        explanation = "Placeholder explanation."
+        new_trivia = {
+            "question": question,
+            "options": options,
+            "correct_answer": correct_answer,
+            "explanation": explanation
+        }
+        if "timestamp" not in new_trivia:
+            new_trivia["timestamp"] = datetime.now().isoformat()
+        save_trivia_data({"current": new_trivia, "history": []})
+        db.export_compressed_data()
+        print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
+        trivia_changed = True
+
+    # Fact logic: get_todays_fact already handles skip/fetch logic and updates DB
+    fact = get_todays_fact()
+    # Only update README if new trivia or fact was added
+    if trivia_changed or fact.get('new', False):
+        # You may want to set 'new': True in get_todays_fact when a new fact is added
+        print("[README] Updating README with new trivia/fact...")
+        # update_readme(...)  # Uncomment and fill in as needed
+    else:
+        print("ℹ️ No update needed; today's trivia and fact already exist.")
 
 if __name__ == "__main__":
     main() 
