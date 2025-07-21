@@ -1,0 +1,84 @@
+name: Daily Trivia System
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  import-db:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Import and decrypt DB
+        run: python manage.py import-db
+
+  new-trivia:
+    runs-on: ubuntu-latest
+    needs: import-db
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Create new daily trivia and validate
+        run: python manage.py new-trivia
+
+  new-fact:
+    runs-on: ubuntu-latest
+    needs: import-db
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Create new daily fact and validate
+        run: python manage.py new-fact
+
+  process-answers:
+    runs-on: ubuntu-latest
+    needs: [new-trivia, new-fact]
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Process answers
+        run: python manage.py process-answers
+
+  update-readme:
+    runs-on: ubuntu-latest
+    needs: process-answers
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Update README
+        run: python manage.py update-readme
+
+  encrypt-db:
+    runs-on: ubuntu-latest
+    needs: update-readme
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Update and encrypt DB
+        run: python manage.py encrypt-db 

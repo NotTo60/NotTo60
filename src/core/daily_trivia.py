@@ -325,7 +325,7 @@ def main():
     if current_trivia and current_trivia.get("date") == today:
         print(f"✅ Trivia already exists for {today}")
     else:
-        print("🔄 Generating new trivia question with WOW facts...")
+        print("🔄 Generating new trivia question...")
         # Only move current trivia to history if it has a date
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
@@ -369,7 +369,7 @@ def main():
     # Update README only if trivia or fact changed
     if trivia_changed or fact_changed:
         update_readme(trivia_data, leaderboard)
-        print("✅ README updated successfully with trivia, WOW facts, and daily fact!")
+        print("✅ README updated successfully with trivia and daily fact!")
     else:
         print("ℹ️ No update to README needed (trivia and fact unchanged).")
 
