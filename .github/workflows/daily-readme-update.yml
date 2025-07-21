@@ -1,4 +1,4 @@
-name: Daily Trivia System
+name: Daily Readme Update
 
 on:
   workflow_dispatch:

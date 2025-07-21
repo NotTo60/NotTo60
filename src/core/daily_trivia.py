@@ -310,6 +310,23 @@ def update_readme(trivia_data, leaderboard):
         import traceback
         traceback.print_exc()
 
+def generate_unique_trivia(current_trivia, max_tries=3):
+    tried_categories = set()
+    for attempt in range(max_tries):
+        trivia = generate_trivia_question()
+        if not current_trivia or trivia['question'] != current_trivia.get('question'):
+            return trivia
+        tried_categories.add(trivia['category'])
+        # Remove tried category from pool for next attempt
+        available = [c for c in TRIVIA_CATEGORIES if c not in tried_categories]
+        if available:
+            # Force next category for fallback
+            trivia = create_standalone_trivia(random.choice(available))
+            if not current_trivia or trivia['question'] != current_trivia.get('question'):
+                return trivia
+    print("⚠️ Could not generate unique trivia after several attempts.")
+    return trivia  # Return last tried
+
 def main():
     """Main function to generate and update trivia"""
     print("🎯 Generating daily trivia and daily fact...")
@@ -329,10 +346,9 @@ def main():
         # Only move current trivia to history if it has a date
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
-        # Try up to 3 times to get a different trivia
-        max_tries = 3
-        for attempt in range(max_tries):
-            new_trivia = generate_trivia_question()
+        # Try up to 3 times to get a different trivia, using improved logic
+        new_trivia = generate_unique_trivia(current_trivia, max_tries=3)
+        if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
             new_trivia["date"] = today
             # Ensure the date is in DD.MM.YYYY format
             if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
@@ -341,14 +357,10 @@ def main():
                     new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
                 except ValueError:
                     new_trivia["date"] = today
-            if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
-                trivia_data["current"] = new_trivia
-                save_trivia_data(trivia_data)
-                print(f"✅ Generated new trivia: {new_trivia['question']}")
-                trivia_changed = True
-                break
-            else:
-                print(f"⚠️ New trivia is identical to previous trivia. Retrying... (attempt {attempt+1})")
+            trivia_data["current"] = new_trivia
+            save_trivia_data(trivia_data)
+            print(f"✅ Generated new trivia: {new_trivia['question']}")
+            trivia_changed = True
         else:
             print("⚠️ New trivia is still identical to previous trivia after 3 attempts. Not updating.")
     # Get today's daily fact
