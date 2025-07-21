@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   import-db:
     runs-on: ubuntu-latest
@@ -24,6 +27,11 @@ jobs:
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Import and decrypt DB
         run: python manage.py import-db
+      - name: Upload DB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/trivia.db
 
   new-trivia:
     runs-on: ubuntu-latest
@@ -48,6 +56,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/
       - name: Create new daily trivia and validate
         run: python manage.py new-trivia
 
@@ -70,6 +83,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/
       - name: Create new daily fact and validate
         run: python manage.py new-fact
 
@@ -96,6 +114,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/
       - name: Process answers
         run: python manage.py process-answers
 
@@ -118,6 +141,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/
       - name: Update README
         run: python manage.py update-readme
       - name: Print Top 10 Leaderboard
@@ -125,13 +153,6 @@ jobs:
           echo "🔍 TOP 10 LEADERBOARD USERS:"
           python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s[\"total_points\"]} points, {s[\"current_streak\"]} streak, {s[\"total_correct\"]} correct') for i, (u, s) in enumerate(top_users)]"
           echo "============================="
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + Daily fact + Database history - $(date +'%Y-%m-%d')"
-          git push origin main
 
   encrypt-db:
     runs-on: ubuntu-latest
@@ -152,5 +173,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/
       - name: Update and encrypt DB
-        run: python manage.py encrypt-db 
+        run: python manage.py encrypt-db
+      - name: Upload updated/encrypted DB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: trivia-db
+          path: src/data/trivia.db
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + Daily fact + Database history - $(date +'%Y-%m-%d')"
+          git push origin main 
