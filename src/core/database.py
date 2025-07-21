@@ -240,20 +240,14 @@ class TriviaDatabase:
             return leaderboard
     
     def update_daily_facts(self, facts_data):
-        """Update daily facts with compressed data"""
+        """Update daily facts with compressed data (timestamp as PK)"""
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
-            
-            # Clear existing data
-            cursor.execute("DELETE FROM daily_facts")
-            
-            # Insert new data
-            for date, fact_data in facts_data.items():
+            for timestamp, fact_data in facts_data.items():
                 cursor.execute('''
-                    INSERT INTO daily_facts (date, fact, timestamp)
-                    VALUES (?, ?, ?)
-                ''', (date, fact_data['fact'], fact_data['timestamp']))
-            
+                    INSERT OR IGNORE INTO daily_facts (timestamp, fact)
+                    VALUES (?, ?)
+                ''', (timestamp, fact_data['fact']))
             conn.commit()
     
     def get_daily_facts(self):
@@ -293,11 +287,10 @@ class TriviaDatabase:
         """Update trivia questions with compressed data (timestamp as PK)"""
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
-            cursor.execute("DELETE FROM trivia_questions")
             for timestamp, question_data in trivia_data.items():
                 compressed_options = self.compress_data(question_data.get('options', {}))
                 cursor.execute('''
-                    INSERT INTO trivia_questions 
+                    INSERT OR IGNORE INTO trivia_questions 
                     (timestamp, question, options, correct_answer, explanation)
                     VALUES (?, ?, ?, ?, ?)
                 ''', (
