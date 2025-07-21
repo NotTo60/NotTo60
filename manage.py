@@ -7,8 +7,10 @@ import sys
 from datetime import datetime
 
 def import_db():
-    print("[IMPORT-DB] Import and decrypt DB (placeholder)")
-    # TODO: Implement actual import/decrypt logic
+    from src.core.database import TriviaDatabase
+    db = TriviaDatabase()
+    db.import_compressed_data()
+    print("[IMPORT-DB] Database import and decrypt complete.")
 
 def new_trivia():
     from src.core.daily_trivia import generate_trivia_question, load_trivia_data, save_trivia_data, get_utc_today
