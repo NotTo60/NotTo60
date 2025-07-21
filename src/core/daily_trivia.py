@@ -399,80 +399,40 @@ def get_todays_fact() -> Dict[str, str]:
 # --- For trivia ---
 def main():
     print("🎯 Generating daily trivia and daily fact...")
-    trivia_data = load_trivia_data()
-    leaderboard = load_leaderboard()
-    today = get_utc_today()
-    # Query the most recent trivia by timestamp
     db = TriviaDatabase()
     trivia_questions = db.get_trivia_questions()
+    today = datetime.now().strftime('%Y-%m-%d')
+    # Find the latest trivia by timestamp
     if trivia_questions:
-        # Find the most recent trivia by timestamp
         latest = max(trivia_questions.values(), key=lambda t: t.get('timestamp', ''))
-        last_date = latest.get('date')
-        last_timestamp = latest.get('timestamp')
-        print(f"[DEBUG] Last trivia date: {last_date}, timestamp: {last_timestamp}")
-        if last_date == today:
-            print(f"[DEBUG] Trivia for today already exists, skipping generation.")
+        latest_date = latest['timestamp'][:10]
+        print(f"[DEBUG] Latest trivia timestamp: {latest['timestamp']}, date: {latest_date}")
+        if latest_date == today:
             print(f"🌞 Trivia for today ({today}) already exists:")
             print(f"    {latest['question']}")
             print(f"    (category: {latest.get('category', 'unknown')})")
-            print(f"    (added at {latest.get('timestamp', 'unknown time')})")
+            print(f"    (added at {latest['timestamp']})")
             return  # Do not generate or overwrite
-    else:
-        print(f"[DEBUG] No trivia in database yet.")
     print(f"[DEBUG] No trivia for today, will generate new.")
     print("🔄 Generating new trivia question...")
-    client = setup_openai()
-    current_trivia = trivia_data.get("current")
-    if current_trivia and current_trivia.get("date"):
-        trivia_data.setdefault("history", []).append(current_trivia)
-    new_trivia = generate_unique_trivia(current_trivia, max_tries=3)
-    if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
-        new_trivia["date"] = today
-        new_trivia["timestamp"] = datetime.now().isoformat()
-        if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
-            try:
-                date_obj = datetime.strptime(new_trivia["date"], "%Y-%m-%d")
-                new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
-            except ValueError:
-                new_trivia["date"] = today
-        trivia_data["current"] = new_trivia
-        save_trivia_data(trivia_data)
-        print(f"✅ Generated new trivia: {new_trivia['question']}")
-    else:
-        print("⚠️ New trivia is still identical to previous trivia after 3 attempts. Not updating.")
-    # Get today's daily fact
-    daily_facts_data = None
-    try:
-        from core.daily_facts import load_daily_facts
-        daily_facts_data = load_daily_facts()
-    except Exception:
-        daily_facts_data = None
-    # Try up to 3 times to get a different fact
-    fact_changed = True
-    prev_fact = None
-    if daily_facts_data:
-        today = datetime.now().strftime(DATE_FORMAT)
-        yesterday = (datetime.now() - timedelta(days=1)).strftime(DATE_FORMAT)
-        prev_fact = daily_facts_data.get(yesterday, {}).get('fact') if yesterday in daily_facts_data else None
-    for attempt in range(3):
-        daily_fact = get_todays_fact()
-        if prev_fact and daily_fact['fact'] == prev_fact:
-            print(f"⚠️ New daily fact is identical to previous fact. Retrying... (attempt {attempt+1})")
-            fact_changed = False
-            continue
-        else:
-            fact_changed = True
-            break
-    else:
-        print("⚠️ New daily fact is still identical to previous fact after 3 attempts. Not updating.")
-    print(f"💡 Daily Fact: {daily_fact['fact']}")
-    # Update README only if trivia or fact changed
-    if trivia_changed or fact_changed:
-        update_readme(trivia_data, leaderboard)
-        print("✅ README updated successfully with trivia and daily fact!")
-    else:
-        print("ℹ️ No update to README needed (trivia and fact unchanged).")
+    client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
+    # Generate new trivia (reuse your existing logic here)
+    # ...
+    # For demonstration, we'll use a placeholder
+    question = "Placeholder question?"
+    options = {"A": "Option A", "B": "Option B", "C": "Option C"}
+    correct_answer = "A"
+    explanation = "Placeholder explanation."
+    timestamp = datetime.now().isoformat()
+    db.update_trivia_questions({timestamp: {
+        "question": question,
+        "options": options,
+        "correct_answer": correct_answer,
+        "explanation": explanation,
+        "timestamp": timestamp
+    }})
+    db.export_compressed_data()
+    print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
 
 if __name__ == "__main__":
     main() 

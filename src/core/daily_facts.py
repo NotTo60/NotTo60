@@ -107,31 +107,22 @@ def save_daily_facts(daily_facts_data):
 
 def get_todays_fact() -> Dict[str, str]:
     """Get today's fact, generating a new one if needed, ensuring uniqueness. Never override if exists."""
-    daily_facts_data = load_daily_facts()
-    today = datetime.now().strftime(DATE_FORMAT)
-    # Query the most recent fact by timestamp
-    if daily_facts_data:
-        latest = max(daily_facts_data.values(), key=lambda f: f.get('timestamp', ''))
-        last_date = None
-        # Find the date key for the latest fact
-        for k, v in daily_facts_data.items():
-            if v is latest:
-                last_date = k
-                break
-        last_timestamp = latest.get('timestamp')
-        print(f"[DEBUG] Last fact date: {last_date}, timestamp: {last_timestamp}")
-        if last_date == today:
-            print(f"[DEBUG] Fact for today already exists, skipping generation.")
+    db = TriviaDatabase()
+    facts = db.get_daily_facts()
+    today = datetime.now().strftime('%Y-%m-%d')
+    # Find the latest fact by timestamp
+    if facts:
+        latest = max(facts.values(), key=lambda f: f.get('timestamp', ''))
+        latest_date = latest['timestamp'][:10]
+        print(f"[DEBUG] Latest fact timestamp: {latest['timestamp']}, date: {latest_date}")
+        if latest_date == today:
             print(f"🌞 Fact for today ({today}) already exists:")
             print(f"    {latest['fact']}")
-            print(f"    (added at {latest.get('timestamp', 'unknown time')})")
+            print(f"    (added at {latest['timestamp']})")
             return latest
-    else:
-        print(f"[DEBUG] No facts in database yet.")
     print(f"[DEBUG] No fact for today, will fetch new.")
     # Only fetch if not exists
-    previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
-    attempts = 0
+    previous_facts = set(fact['fact'] for fact in facts.values())
     max_api_attempts = 2
     new_fact = None
     for attempt in range(max_api_attempts):
@@ -139,7 +130,6 @@ def get_todays_fact() -> Dict[str, str]:
         if candidate["fact"] not in previous_facts:
             new_fact = candidate
             break
-        attempts += 1
     if not new_fact:
         local_facts = [
             {"fact": "Honey never spoils."},
@@ -152,13 +142,11 @@ def get_todays_fact() -> Dict[str, str]:
             new_fact = random.choice(unused_facts)
         else:
             raise RuntimeError("No unique facts available from API or local fallback.")
-    daily_facts_data[today] = {
-        "fact": new_fact["fact"],
-        "timestamp": datetime.now().isoformat()
-    }
-    save_daily_facts(daily_facts_data)
+    timestamp = datetime.now().isoformat()
+    db.update_daily_facts({timestamp: {"fact": new_fact["fact"], "timestamp": timestamp}})
+    db.export_compressed_data()
     print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
-    return daily_facts_data[today]
+    return {"fact": new_fact["fact"], "timestamp": timestamp}
 
 if __name__ == "__main__":
     # Test the daily facts module
@@ -170,7 +158,7 @@ if __name__ == "__main__":
     
     for category in categories:
         print(f"\n📡 Fetching {category} daily fact...")
-        result = get_daily_fact(category)
+        result = get_daily_fact()
         print(f"✅ {result['fact']}")
         print(f"   Source: {result['source']}")
         print(f"   Category: {result['category']}")
@@ -179,5 +167,5 @@ if __name__ == "__main__":
     print(f"\n📅 Today's fact:")
     today_fact = get_todays_fact()
     print(f"✅ {today_fact['fact']}")
-    print(f"   Date: {today_fact['date']}")
+    print(f"   Date: {today_fact['timestamp'][:10]}")
     print(f"   Source: {today_fact['source']}") 

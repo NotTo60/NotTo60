@@ -260,63 +260,33 @@ class TriviaDatabase:
         """Get daily facts data"""
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
-            cursor.execute("SELECT * FROM daily_facts ORDER BY date DESC")
+            cursor.execute("SELECT * FROM daily_facts ORDER BY timestamp DESC")
             rows = cursor.fetchall()
-            
             facts = {}
             for row in rows:
-                date, fact, timestamp = row
-                facts[date] = {
+                timestamp, fact = row
+                facts[timestamp] = {
                     'fact': fact,
                     'timestamp': timestamp
                 }
-            
             return facts
-    
-    def update_trivia_questions(self, trivia_data):
-        """Update trivia questions with compressed data"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            
-            # Clear existing data
-            cursor.execute("DELETE FROM trivia_questions")
-            
-            # Insert new data
-            for date, question_data in trivia_data.items():
-                compressed_options = self.compress_data(question_data.get('options', {}))
-                cursor.execute('''
-                    INSERT INTO trivia_questions 
-                    (date, question, options, correct_answer, explanation, timestamp)
-                    VALUES (?, ?, ?, ?, ?, ?)
-                ''', (
-                    date,
-                    question_data.get('question', ''),
-                    compressed_options,
-                    question_data.get('correct_answer', ''),
-                    question_data.get('explanation', ''),
-                    question_data.get('timestamp', datetime.now().isoformat())
-                ))
-            
-            conn.commit()
-    
+
     def get_trivia_questions(self):
         """Get trivia questions data with decompressed options"""
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
-            cursor.execute("SELECT * FROM trivia_questions ORDER BY date DESC")
+            cursor.execute("SELECT * FROM trivia_questions ORDER BY timestamp DESC")
             rows = cursor.fetchall()
-            
             trivia = {}
             for row in rows:
-                date, question, compressed_options, correct_answer, explanation, timestamp = row
-                trivia[date] = {
+                timestamp, question, compressed_options, correct_answer, explanation = row
+                trivia[timestamp] = {
                     'question': question,
-                    'options': self.decompress_data(compressed_options) or {},
+                    'options': self.decompress_data(compressed_options) if hasattr(self, 'decompress_data') else {},
                     'correct_answer': correct_answer,
                     'explanation': explanation,
                     'timestamp': timestamp
                 }
-            
             return trivia
     
     def export_compressed_data(self, output_dir="src/data"):

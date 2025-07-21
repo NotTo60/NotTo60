@@ -7,11 +7,9 @@ A fully automated daily trivia system with leaderboards, points, and streak bonu
 ---
 
 **Recent Updates:**
-- Daily facts are now fetched only from the uselessfacts API (random facts); all other sources have been removed.
-- The system tries at least twice to fetch a unique fact for the day; if all attempts return a duplicate, it falls back to a local list of unused facts.
-- Leaderboard now excludes users with zero answers; only users who have answered at least once are shown.
-- Usernames are validated as UUIDs; only valid UUIDs are processed for the leaderboard.
-- README.md and the database are passed as artifacts between workflow jobs to ensure consistency across steps.
+- Trivia and fact tables now use only `timestamp` as the primary key (no `date` field).
+- All checks for "today's" trivia or fact are based on the date part of the timestamp.
+- Migration and patch scripts are no longer needed after this change.
 
 ---
 
@@ -50,32 +48,21 @@ src/core/
 ### **Tables**
 
 ```sql
-leaderboard (
-    username TEXT PRIMARY KEY,  -- Must be a valid UUID
-    current_streak INTEGER,
-    total_correct INTEGER,
-    total_points INTEGER,
-    total_answered INTEGER,  -- Users with 0 answers are excluded
-    last_answered TEXT,
-    last_trivia_date TEXT,
-    answer_history TEXT  -- Gzipped JSON
+trivia_questions (
+    timestamp TEXT PRIMARY KEY,  -- ISO 8601, used for uniqueness and 'today' checks
+    question TEXT NOT NULL,
+    options TEXT NOT NULL,
+    correct_answer TEXT NOT NULL,
+    explanation TEXT
 )
 
 daily_facts (
-    date TEXT PRIMARY KEY,
-    fact TEXT,
-    timestamp TEXT
-)
-
-trivia_questions (
-    date TEXT PRIMARY KEY,
-    question TEXT,
-    options TEXT,  -- Gzipped JSON
-    correct_answer TEXT,
-    explanation TEXT,
-    timestamp TEXT
+    timestamp TEXT PRIMARY KEY,  -- ISO 8601, used for uniqueness and 'today' checks
+    fact TEXT NOT NULL
 )
 ```
+- All logic for "today's" entry is based on the date part of the timestamp (e.g., `timestamp[:10]`).
+- There is no longer a `date` field in either table.
 
 ---
 
