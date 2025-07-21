@@ -207,8 +207,11 @@ def create_answer_links(trivia_data=None):
     if trivia_data is None:
         trivia_data = load_trivia_data()
     current_trivia = trivia_data.get("current", {})
+    # Ensure date is set
+    trivia_date = current_trivia.get("date")
+    if not trivia_date:
+        trivia_date = datetime.now().strftime(DATE_FORMAT)
     options = current_trivia.get("options", {"A": "A", "B": "B", "C": "C"})
-    trivia_date = current_trivia.get("date", "")
     def issue_body(option):
         return urllib.parse.quote(
             ISSUE_TEMPLATE.format(answer_text=options[option]) + f"\n\n**Trivia Date:** {trivia_date}"
@@ -367,6 +370,7 @@ def main():
         print(f"🌞 Trivia for today ({today}) already exists:")
         print(f"    {current_trivia['question']}")
         print(f"    (category: {current_trivia.get('category', 'unknown')})")
+        print(f"    (added at {current_trivia.get('timestamp', 'unknown time')})")
         return  # Do not generate a new trivia
     else:
         print("🔄 Generating new trivia question...")
@@ -377,6 +381,7 @@ def main():
         new_trivia = generate_unique_trivia(current_trivia, max_tries=3)
         if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
             new_trivia["date"] = today
+            new_trivia["timestamp"] = datetime.now().isoformat()
             # Ensure the date is in DD.MM.YYYY format
             if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
                 try:

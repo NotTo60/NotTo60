@@ -288,9 +288,10 @@ def process_answers():
             continue
         total_trivia_issues += 1
         
-        # Validate username is a UUID
-        if not is_valid_uuid(username):
-            print(f"⚠️  Skipping user {username}: not a valid UUID")
+        # Check if user already answered this trivia date
+        user_stats = leaderboard.get(username, {})
+        if user_stats.get('last_trivia_date') == current_trivia_date:
+            close_issue(issue_number, f"@{username} You have already submitted an answer for today's trivia. Only one answer per user per day is allowed!")
             continue
         
         answer = parse_answer_from_issue(issue)
@@ -376,6 +377,13 @@ Come back tomorrow for another chance!"""
     to_remove = [user for user, stats in leaderboard.items() if stats.get('total_answered', 0) == 0]
     for user in to_remove:
         del leaderboard[user]
+
+    # Remove users with 0 total_correct (never got a right answer)
+    to_remove_zero_correct = [user for user, stats in leaderboard.items() if stats.get('total_correct', 0) == 0]
+    for user in to_remove_zero_correct:
+        del leaderboard[user]
+    if to_remove_zero_correct:
+        print(f"[DEBUG] Removed users with 0 correct answers: {to_remove_zero_correct}")
 
     # Save updated leaderboard
     save_leaderboard(leaderboard)
