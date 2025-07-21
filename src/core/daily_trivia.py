@@ -18,6 +18,7 @@ from core.daily_facts import get_todays_fact
 from core.database import TriviaDatabase
 from core.points_system import get_streak_emoji, format_points_display
 import difflib
+from typing import Dict
 
 def get_utc_today():
     return datetime.now(timezone.utc).strftime(DATE_FORMAT)
@@ -129,21 +130,17 @@ def load_trivia_data():
     try:
         db = TriviaDatabase()
         trivia_questions = db.get_trivia_questions()
-        
-        # Convert to expected format
+        today = datetime.now().strftime(DATE_FORMAT)
         current = None
         history = []
-        
         for date, question_data in trivia_questions.items():
-            if current is None:
+            if date == today:
                 current = question_data
             else:
                 history.append(question_data)
-        
         return {"current": current, "history": history}
     except Exception as e:
         print(f"Error loading trivia data from database: {e}")
-        # Return empty data structure as fallback
         return {"current": None, "history": []}
 
 def save_trivia_data(trivia_data):
@@ -354,35 +351,76 @@ def generate_unique_trivia(current_trivia, max_tries=3):
     print("⚠️ Could not generate unique trivia after several attempts.")
     return trivia  # Return last tried
 
+# --- For daily facts ---
+from core.daily_facts import load_daily_facts, save_daily_facts, get_daily_fact
+
+def get_todays_fact() -> Dict[str, str]:
+    """Get today's fact, generating a new one if needed, ensuring uniqueness. Never override if exists."""
+    daily_facts_data = load_daily_facts()
+    today = datetime.now().strftime(DATE_FORMAT)
+    # Check if we already have a fact for today
+    if today in daily_facts_data:
+        fact = daily_facts_data[today]
+        print(f"🌞 Fact for today ({today}) already exists:")
+        print(f"    {fact['fact']}")
+        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+        return fact
+    # Only fetch if not exists
+    previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
+    attempts = 0
+    max_api_attempts = 2
+    new_fact = None
+    for attempt in range(max_api_attempts):
+        candidate = get_daily_fact()
+        if candidate["fact"] not in previous_facts:
+            new_fact = candidate
+            break
+        attempts += 1
+    if not new_fact:
+        local_facts = [
+            {"fact": "Honey never spoils."},
+            {"fact": "Bananas are berries, but strawberries aren't."},
+            {"fact": "A group of flamingos is called a flamboyance."},
+        ]
+        unused_facts = [f for f in local_facts if f["fact"] not in previous_facts]
+        if unused_facts:
+            import random
+            new_fact = random.choice(unused_facts)
+        else:
+            raise RuntimeError("No unique facts available from API or local fallback.")
+    daily_facts_data[today] = {
+        "fact": new_fact["fact"],
+        "timestamp": datetime.now().isoformat()
+    }
+    save_daily_facts(daily_facts_data)
+    print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
+    return daily_facts_data[today]
+
+# --- For trivia ---
 def main():
-    """Main function to generate and update trivia"""
     print("🎯 Generating daily trivia and daily fact...")
-    # Setup OpenAI
     client = setup_openai()
-    # Load existing data
     trivia_data = load_trivia_data()
     leaderboard = load_leaderboard()
-    # Check if we need to generate new trivia
     today = get_utc_today()
     current_trivia = trivia_data.get("current")
     trivia_changed = False
+    # Check if trivia for today exists BEFORE any API call
     if current_trivia and current_trivia.get("date") == today:
         print(f"🌞 Trivia for today ({today}) already exists:")
         print(f"    {current_trivia['question']}")
         print(f"    (category: {current_trivia.get('category', 'unknown')})")
         print(f"    (added at {current_trivia.get('timestamp', 'unknown time')})")
-        return  # Do not generate a new trivia
+        # Do not generate or overwrite
+        trivia_changed = False
     else:
         print("🔄 Generating new trivia question...")
-        # Only move current trivia to history if it has a date
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
-        # Try up to 3 times to get a different trivia, using improved logic
         new_trivia = generate_unique_trivia(current_trivia, max_tries=3)
         if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
             new_trivia["date"] = today
             new_trivia["timestamp"] = datetime.now().isoformat()
-            # Ensure the date is in DD.MM.YYYY format
             if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
                 try:
                     date_obj = datetime.strptime(new_trivia["date"], "%Y-%m-%d")

@@ -288,12 +288,6 @@ def process_answers():
             continue
         total_trivia_issues += 1
         
-        # Check if user already answered this trivia date
-        user_stats = leaderboard.get(username, {})
-        if user_stats.get('last_trivia_date') == current_trivia_date:
-            close_issue(issue_number, f"@{username} You have already submitted an answer for today's trivia. Only one answer per user per day is allowed!")
-            continue
-        
         answer = parse_answer_from_issue(issue)
         
         if not answer:
@@ -308,6 +302,12 @@ def process_answers():
         trivia = trivia_questions_by_date[trivia_date]
         correct_answer = trivia['correct_answer']
         current_trivia_date = trivia_date
+        
+        # Check if user already answered this trivia date
+        user_stats = leaderboard.get(username, {})
+        if user_stats.get('last_trivia_date') == current_trivia_date:
+            close_issue(issue_number, f"@{username} You have already submitted an answer for today's trivia. Only one answer per user per day is allowed!")
+            continue
         
         # Check if user can answer today's trivia (by date)
         can_answer, reason = can_user_answer_today(leaderboard, username, current_trivia_date)
