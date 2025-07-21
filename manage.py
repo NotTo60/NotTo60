@@ -50,8 +50,24 @@ def update_readme():
     print("[UPDATE-README] README updated.")
 
 def encrypt_db():
-    print("[ENCRYPT-DB] Update and encrypt DB (placeholder)")
-    # TODO: Implement actual encrypt logic
+    from src.core.database import TriviaDatabase
+    import os
+    db = TriviaDatabase()
+    compressed_path = "src/data/trivia_database.db.gz"
+    prev_content = None
+    if os.path.exists(compressed_path):
+        with open(compressed_path, "rb") as f:
+            prev_content = f.read()
+    for attempt in range(2):
+        db.export_compressed_data()
+        with open(compressed_path, "rb") as f:
+            new_content = f.read()
+        if prev_content is None or new_content != prev_content:
+            print("[ENCRYPT-DB] Database exported and encrypted to src/data/trivia_database.db.gz.")
+            return
+        else:
+            print(f"[ENCRYPT-DB] Compressed DB identical to previous. Retrying... (attempt {attempt+1})")
+    print("⚠️ [ENCRYPT-DB] Compressed DB is still identical after 2 attempts.")
 
 def export_db():
     from src.core.database import TriviaDatabase
