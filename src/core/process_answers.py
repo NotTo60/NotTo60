@@ -93,7 +93,12 @@ def parse_answer_from_issue(issue):
 
 def parse_trivia_date_from_issue(issue):
     body = issue.get('body', '')
+    # Try bold markdown first
     match = re.search(r'\*\*Trivia Date:\*\* ([0-9.]+)', body)
+    if match:
+        return match.group(1)
+    # Fallback: plain text
+    match = re.search(r'Trivia Date:\s*([0-9.]+)', body)
     if match:
         return match.group(1)
     return None

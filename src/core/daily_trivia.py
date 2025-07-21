@@ -411,8 +411,7 @@ def main():
         print(f"    {current_trivia['question']}")
         print(f"    (category: {current_trivia.get('category', 'unknown')})")
         print(f"    (added at {current_trivia.get('timestamp', 'unknown time')})")
-        # Do not generate or overwrite
-        trivia_changed = False
+        return  # Do not generate or overwrite
     else:
         print("🔄 Generating new trivia question...")
         if current_trivia and current_trivia.get("date"):
