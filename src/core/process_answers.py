@@ -263,6 +263,19 @@ def close_issue(issue_number, comment):
     else:
         print(f"✅ Closed issue #{issue_number}")
 
+def mark_unplanned_issues(issues, processed_issue_numbers):
+    """Mark any remaining open issues as unplanned for the next day and close them."""
+    for issue in issues:
+        issue_number = issue['number']
+        if issue_number in processed_issue_numbers:
+            continue
+        username = issue['user']['login']
+        comment = (
+            f"@{username} This issue could not be processed for today's trivia (invalid format, wrong date, or other error). "
+            "It will be marked as unplanned and closed. Please submit a new answer for the next trivia!"
+        )
+        close_issue(issue_number, comment)
+
 def process_answers():
     """Main function to process all trivia answers"""
     print("🔍 Processing trivia answers...")
@@ -282,6 +295,7 @@ def process_answers():
     processed_count = 0
     correct_count = 0
     total_trivia_issues = 0
+    processed_issue_numbers = set()
     
     for issue in issues:
         issue_number = issue['number']
@@ -377,6 +391,7 @@ Come back tomorrow for another chance!"""
         # Close issue with comment
         close_issue(issue_number, comment)
         processed_count += 1
+        processed_issue_numbers.add(issue_number)
     
     # Remove users with 0 total_answered
     to_remove = [user for user, stats in leaderboard.items() if stats.get('total_answered', 0) == 0]
@@ -395,6 +410,9 @@ Come back tomorrow for another chance!"""
     print(f"🧾 Total trivia answer issues found: {total_trivia_issues}")
     print(f"✅ Processed {processed_count} answers (Correct: {correct_count})")
     print(f"[DEBUG] Removed users with 0 answers: {to_remove}")
+
+    # After processing, mark and close any remaining open issues
+    mark_unplanned_issues(issues, processed_issue_numbers)
 
 def main():
     """Main function"""

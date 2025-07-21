@@ -289,6 +289,26 @@ class TriviaDatabase:
                 }
             return trivia
     
+    def update_trivia_questions(self, trivia_data):
+        """Update trivia questions with compressed data (timestamp as PK)"""
+        with sqlite3.connect(self.db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute("DELETE FROM trivia_questions")
+            for timestamp, question_data in trivia_data.items():
+                compressed_options = self.compress_data(question_data.get('options', {}))
+                cursor.execute('''
+                    INSERT INTO trivia_questions 
+                    (timestamp, question, options, correct_answer, explanation)
+                    VALUES (?, ?, ?, ?, ?)
+                ''', (
+                    timestamp,
+                    question_data.get('question', ''),
+                    compressed_options,
+                    question_data.get('correct_answer', ''),
+                    question_data.get('explanation', '')
+                ))
+            conn.commit()
+    
     def export_compressed_data(self, output_dir="src/data"):
         """Export all database tables to a single compressed file for GitHub Actions"""
         Path(output_dir).mkdir(parents=True, exist_ok=True)
