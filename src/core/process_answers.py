@@ -16,6 +16,7 @@ from core.config import *
 from core.database import TriviaDatabase
 from core.points_system import calculate_points_for_streak, get_streak_bonus_info, format_points_display
 import random
+import uuid
 
 def get_github_issues():
     """Fetch recent trivia answer issues from GitHub"""
@@ -81,6 +82,13 @@ def parse_answer_from_issue(issue):
     elif 'I choose C' in body:
         return 'C'
     
+    return None
+
+def parse_trivia_date_from_issue(issue):
+    body = issue.get('body', '')
+    match = re.search(r'\*\*Trivia Date:\*\* ([0-9.]+)', body)
+    if match:
+        return match.group(1)
     return None
 
 def load_trivia_data():
@@ -162,7 +170,10 @@ def get_utc_today():
 
 def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
     """Update user statistics in leaderboard with trivia date tracking and points system"""
+    # Only add new user if correct
     if username not in leaderboard:
+        if not is_correct:
+            return 0, None  # Do not add user if answer is wrong
         leaderboard[username] = {
             'current_streak': 0,
             'total_correct': 0,
@@ -248,14 +259,12 @@ def process_answers():
     trivia_data = load_trivia_data()
     leaderboard = load_leaderboard()
     
-    current_trivia = trivia_data.get("current")
-    if not current_trivia:
-        print("❌ No current trivia found")
-        return
-    
-    correct_answer = current_trivia['correct_answer']
-    current_trivia_date = current_trivia.get('date', datetime.now().strftime(DATE_FORMAT))
-    
+    # Build a lookup for trivia by date
+    trivia_questions = trivia_data.get("history", [])
+    trivia_questions_by_date = {q.get("date"): q for q in trivia_questions}
+    if trivia_data.get("current"):
+        trivia_questions_by_date[trivia_data["current"].get("date")] = trivia_data["current"]
+
     # Get GitHub issues
     issues = get_github_issues()
     processed_count = 0
@@ -272,13 +281,27 @@ def process_answers():
             continue
         total_trivia_issues += 1
         
+        # Validate username is a UUID
+        if not is_valid_uuid(username):
+            print(f"⚠️  Skipping user {username}: not a valid UUID")
+            continue
+        
         answer = parse_answer_from_issue(issue)
         
         if not answer:
             print(f"⚠️  Could not parse answer from issue #{issue_number}")
             continue
         
-        # Check if user can answer today's trivia
+        # Parse trivia date from issue
+        trivia_date = parse_trivia_date_from_issue(issue)
+        if not trivia_date or trivia_date not in trivia_questions_by_date:
+            print(f"⚠️  Could not determine trivia date for issue #{issue_number}")
+            continue
+        trivia = trivia_questions_by_date[trivia_date]
+        correct_answer = trivia['correct_answer']
+        current_trivia_date = trivia_date
+        
+        # Check if user can answer today's trivia (by date)
         can_answer, reason = can_user_answer_today(leaderboard, username, current_trivia_date)
         
         if not can_answer:
@@ -301,9 +324,9 @@ def process_answers():
             
             comment = f"""{correct_message} @{username}
 
-Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely right!
+Your answer **{answer}) {trivia['options'][answer]}** is absolutely right!
 
-**Explanation:** {current_trivia['explanation']}
+**Explanation:** {trivia['explanation']}
 
 🔥 Your current streak: **{streak}**
 ✅ Total correct answers: **{leaderboard[username]['total_correct']}**
@@ -328,11 +351,11 @@ Your answer **{answer}) {current_trivia['options'][answer]}** is absolutely righ
             incorrect_message = random.choice(INCORRECT_MESSAGES)
             comment = f"""{incorrect_message} @{username}
 
-Your answer **{answer}) {current_trivia['options'][answer]}** was wrong.
+Your answer **{answer}) {trivia['options'][answer]}** was wrong.
 
-**Correct Answer:** {correct_answer}) {current_trivia['options'][correct_answer]}
+**Correct Answer:** {correct_answer}) {trivia['options'][correct_answer]}
 
-**Explanation:** {current_trivia['explanation']}
+**Explanation:** {trivia['explanation']}
 
 💔 Your streak has reset to 0, but don't give up!
 

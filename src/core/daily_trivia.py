@@ -208,11 +208,16 @@ def create_answer_links(trivia_data=None):
         trivia_data = load_trivia_data()
     current_trivia = trivia_data.get("current", {})
     options = current_trivia.get("options", {"A": "A", "B": "B", "C": "C"})
+    trivia_date = current_trivia.get("date", "")
+    def issue_body(option):
+        return urllib.parse.quote(
+            ISSUE_TEMPLATE.format(answer_text=options[option]) + f"\n\n**Trivia Date:** {trivia_date}"
+        )
     
     return {
-        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['A']))}",
-        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['B']))}", 
-        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={urllib.parse.quote(ISSUE_TEMPLATE.format(answer_text=options['C']))}"
+        "A": f"{base_url}/issues/new?title=Trivia+Answer+A&body={issue_body('A')}",
+        "B": f"{base_url}/issues/new?title=Trivia+Answer+B&body={issue_body('B')}", 
+        "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={issue_body('C')}"
     }
 
 def get_wikipedia_link(answer_text, question_text):

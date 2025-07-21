@@ -214,27 +214,34 @@ def save_daily_facts(daily_facts_data):
         # Continue without saving if database fails
 
 def get_todays_fact() -> Dict[str, str]:
-    """Get today's fact, generating a new one if needed"""
+    """Get today's fact, generating a new one if needed, ensuring uniqueness."""
     daily_facts_data = load_daily_facts()
     today = datetime.now().strftime(DATE_FORMAT)
-    
+
     # Check if we already have a fact for today
     if today in daily_facts_data:
         return daily_facts_data[today]
-    
-    # Generate new fact
-    new_fact = get_daily_fact()
-    
-    # Convert to database format
-    daily_facts_data[today] = {
-        "fact": new_fact["fact"],
-        "timestamp": datetime.now().isoformat()
-    }
-    
-    # Save to database
-    save_daily_facts(daily_facts_data)
-    
-    return daily_facts_data[today]
+
+    # Gather all previous facts for uniqueness check
+    previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
+
+    # Try up to 5 times to get a unique fact
+    for attempt in range(5):
+        new_fact = get_daily_fact()
+        if new_fact["fact"] not in previous_facts:
+            # Save and return
+            daily_facts_data[today] = {
+                "fact": new_fact["fact"],
+                "timestamp": datetime.now().isoformat()
+            }
+            save_daily_facts(daily_facts_data)
+            return daily_facts_data[today]
+        else:
+            print(f"⚠️ Fetched fact is a duplicate. Retrying... (attempt {attempt+1})")
+
+    # If still not unique after retries, fail
+    print("❌ Could not fetch a unique daily fact after several attempts.")
+    sys.exit(1)
 
 if __name__ == "__main__":
     # Test the daily facts module
