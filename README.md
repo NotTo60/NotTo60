@@ -5,13 +5,13 @@
 
 ---
 
-## 💡 Did You Know? • 20.07.2025
+## 💡 Did You Know? • 21.07.2025
 
-Here's something interesting: A bull can inseminate 300 cows from one single ejaculation.
+Today's discovery: James Bond`s car had three different license plates in Goldfinger
 
 ---
 
-## 🎯 Today's Trivia • 20.07.2025
+## 🎯 Today's Trivia • 21.07.2025
 
 **What year did the first iPhone launch?**
 
