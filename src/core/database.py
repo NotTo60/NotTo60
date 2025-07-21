@@ -254,7 +254,7 @@ class TriviaDatabase:
         """Get daily facts data"""
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
-            cursor.execute("SELECT * FROM daily_facts ORDER BY timestamp DESC")
+            cursor.execute("SELECT timestamp, fact FROM daily_facts ORDER BY timestamp DESC")
             rows = cursor.fetchall()
             facts = {}
             for row in rows:

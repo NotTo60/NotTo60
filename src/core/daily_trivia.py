@@ -126,15 +126,16 @@ def create_standalone_trivia(category):
     return category_questions.get(category, category_questions["general"])
 
 def load_trivia_data():
-    """Load existing trivia data from database"""
+    """Load existing trivia data from database (timestamp-only schema)"""
     try:
         db = TriviaDatabase()
         trivia_questions = db.get_trivia_questions()
-        today = datetime.now().strftime(DATE_FORMAT)
+        today = datetime.now().strftime('%Y-%m-%d')
         current = None
         history = []
-        for date, question_data in trivia_questions.items():
-            if date == today:
+        for timestamp, question_data in trivia_questions.items():
+            # Compare date part of timestamp
+            if question_data['timestamp'][:10] == today:
                 current = question_data
             else:
                 history.append(question_data)
@@ -144,26 +145,19 @@ def load_trivia_data():
         return {"current": None, "history": []}
 
 def save_trivia_data(trivia_data):
-    """Save trivia data to database"""
+    """Save trivia data to database (timestamp-only schema)"""
     try:
         db = TriviaDatabase()
-        
-        # Convert to database format
         trivia_questions = {}
         if trivia_data.get("current"):
-            today = datetime.now().strftime(DATE_FORMAT)
-            trivia_questions[today] = trivia_data["current"]
-        
-        for i, question in enumerate(trivia_data.get("history", [])):
-            # Use a date format for history entries
-            date = f"history_{i}"
-            trivia_questions[date] = question
-        
+            current = trivia_data["current"]
+            trivia_questions[current["timestamp"]] = current
+        for q in trivia_data.get("history", []):
+            trivia_questions[q["timestamp"]] = q
         db.update_trivia_questions(trivia_questions)
         db.export_compressed_data()
     except Exception as e:
         print(f"Error saving trivia data to database: {e}")
-        # Continue without saving if database fails
 
 def load_leaderboard():
     """Load leaderboard data from database"""
@@ -205,7 +199,7 @@ def create_answer_links(trivia_data=None):
         trivia_data = load_trivia_data()
     current_trivia = trivia_data.get("current", {})
     # Ensure date is set
-    trivia_date = current_trivia.get("date")
+    trivia_date = current_trivia.get("timestamp")[:10]
     if not trivia_date:
         trivia_date = datetime.now().strftime(DATE_FORMAT)
     options = current_trivia.get("options", {"A": "A", "B": "B", "C": "C"})
@@ -261,7 +255,7 @@ def update_readme(trivia_data, leaderboard):
         yesterday_date = get_utc_yesterday()
         yesterday_trivia = None
         for t in reversed(trivia_data.get("history", [])):
-            if t.get("date") == yesterday_date:
+            if t.get("timestamp")[:10] == yesterday_date:
                 yesterday_trivia = t
                 break
         if yesterday_trivia:
