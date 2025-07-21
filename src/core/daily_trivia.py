@@ -17,6 +17,7 @@ from core.config import *
 from core.daily_facts import get_todays_fact
 from core.database import TriviaDatabase
 from core.points_system import get_streak_emoji, format_points_display
+import difflib
 
 def get_utc_today():
     return datetime.now(timezone.utc).strftime(DATE_FORMAT)
@@ -78,8 +79,7 @@ def generate_trivia_question():
         return trivia_data
     except Exception as e:
         print(f"Error generating trivia with OpenAI: {e}")
-        # Fallback to standalone trivia
-        return create_standalone_trivia(category)
+        sys.exit(1)
 
 def create_standalone_trivia(category):
     """Create standalone trivia question without being based on facts"""
@@ -303,8 +303,27 @@ def update_readme(trivia_data, leaderboard):
             how_to_play=how_to_play,
             points_system=points_system
         )
-        with open("README.md", "w") as f:
+        readme_path = "README.md"
+        old_content = ""
+        if os.path.exists(readme_path):
+            with open(readme_path, "r") as f:
+                old_content = f.read()
+        with open(readme_path, "w") as f:
             f.write(readme_content)
+        # Debug: print what changed
+        if old_content != readme_content:
+            print("[DEBUG] README.md has changed. Diff summary:")
+            diff = difflib.unified_diff(
+                old_content.splitlines(),
+                readme_content.splitlines(),
+                fromfile='README.md (old)',
+                tofile='README.md (new)',
+                lineterm='' 
+            )
+            for line in diff:
+                print(line)
+        else:
+            print("[DEBUG] README.md is unchanged.")
     except Exception as e:
         print(f"Error in update_readme: {e}")
         import traceback
