@@ -8,7 +8,7 @@ import random
 import json
 import os
 from datetime import datetime
-from typing import Dict, Optional, List
+from typing import Dict, Optional
 import sys
 import os
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
@@ -27,86 +27,8 @@ def fetch_random_fact() -> Optional[str]:
         print(f"Error fetching random fact: {e}")
     return None
 
-def fetch_joke_fact() -> Optional[str]:
-    """Fetch a joke that could be educational"""
-    try:
-        response = requests.get(DAILY_FACT_SOURCES["joke_facts"], timeout=API_TIMEOUT)
-        if response.status_code == 200:
-            data = response.json()
-            if data.get('type') == 'single':
-                return data.get('joke', '')
-            elif data.get('type') == 'twopart':
-                setup = data.get('setup', '')
-                delivery = data.get('delivery', '')
-                return f"{setup} {delivery}"
-    except Exception as e:
-        print(f"Error fetching joke fact: {e}")
-    return None
-
-def fetch_quote_fact() -> Optional[str]:
-    """Fetch an inspiring quote"""
-    try:
-        response = requests.get(DAILY_FACT_SOURCES["quote_facts"], timeout=API_TIMEOUT)
-        if response.status_code == 200:
-            data = response.json()
-            quote = data.get('content', '')
-            author = data.get('author', 'Unknown')
-            return f'"{quote}" - {author}'
-    except Exception as e:
-        print(f"Error fetching quote fact: {e}")
-    return None
-
-def fetch_food_fact() -> Optional[str]:
-    """Fetch a random food fact"""
-    try:
-        response = requests.get(DAILY_FACT_SOURCES["food_facts"], timeout=API_TIMEOUT)
-        if response.status_code == 200:
-            data = response.json()
-            meal = data.get('meals', [{}])[0]
-            name = meal.get('strMeal', 'This dish')
-            category = meal.get('strCategory', 'food')
-            return f"{name} is a {category} that originated from {meal.get('strArea', 'unknown region')}!"
-    except Exception as e:
-        print(f"Error fetching food fact: {e}")
-    return None
-
-def fetch_time_fact() -> Optional[str]:
-    """Fetch an interesting time-related fact"""
-    try:
-        # Get current time in a random timezone
-        timezones = ["America/New_York", "Europe/London", "Asia/Tokyo", "Australia/Sydney"]
-        timezone = random.choice(timezones)
-        response = requests.get(f"{DAILY_FACT_SOURCES['time_facts']}{timezone}", timeout=API_TIMEOUT)
-        if response.status_code == 200:
-            data = response.json()
-            datetime_str = data.get('datetime', '')
-            timezone_name = data.get('timezone', '')
-            return f"Right now in {timezone_name}, it's {datetime_str[:19]}!"
-    except Exception as e:
-        print(f"Error fetching time fact: {e}")
-    return None
-
-def fetch_country_fact() -> Optional[str]:
-    """Fetch a random country fact"""
-    try:
-        countries = ["japan", "brazil", "egypt", "australia", "iceland", "madagascar"]
-        country = random.choice(countries)
-        response = requests.get(f"{DAILY_FACT_SOURCES['country_facts']}{country}", timeout=API_TIMEOUT)
-        if response.status_code == 200:
-            data = response.json()
-            if data:
-                country_data = data[0]
-                name = country_data.get('name', {}).get('common', country.title())
-                capital = country_data.get('capital', ['Unknown'])[0]
-                population = country_data.get('population', 0)
-                return f"{name}'s capital is {capital} and has a population of {population:,} people!"
-    except Exception as e:
-        print(f"Error fetching country fact: {e}")
-    return None
-
 def generate_fallback_daily_fact() -> str:
     """Generate a fallback daily fact when APIs are unavailable"""
-    
     fallback_facts = [
         "The shortest war in history lasted only 38 minutes between Britain and Zanzibar in 1896!",
         "Honey never spoils - archaeologists have found pots of honey in ancient Egyptian tombs!",
@@ -133,63 +55,33 @@ def generate_fallback_daily_fact() -> str:
         "A day on Mars is only 37 minutes longer than a day on Earth!",
         "There are more atoms in a glass of water than glasses of water in all the oceans!"
     ]
-    
     return random.choice(fallback_facts)
 
-def get_daily_fact(category: str = None) -> Dict[str, str]:
-    """Get a daily fact from various sources"""
-    
-    # Define fact sources based on category
-    category_fact_sources = {
-        "random": [fetch_random_fact, fetch_joke_fact, fetch_quote_fact],
-        "food": [fetch_food_fact],
-        "time": [fetch_time_fact],
-        "countries": [fetch_country_fact],
-        "general": [fetch_random_fact, fetch_joke_fact, fetch_quote_fact, fetch_food_fact]
-    }
-    
-    # If no category specified, try all sources
-    if not category:
-        all_sources = [
-            fetch_random_fact,
-            fetch_joke_fact,
-            fetch_quote_fact,
-            fetch_food_fact,
-            fetch_time_fact,
-            fetch_country_fact
-        ]
-    else:
-        all_sources = category_fact_sources.get(category, [fetch_random_fact])
-    
-    # Try to fetch a fact from available sources
+def get_daily_fact() -> Dict[str, str]:
+    """Get a daily fact from the random facts API only."""
     for _ in range(MAX_RETRIES):
-        for source_func in all_sources:
-            try:
-                fact = source_func()
-                if fact and len(fact) > 10 and len(fact) < 200:  # Ensure fact has meaningful content and isn't too long
-                    # Choose a random template
-                    template = random.choice(DAILY_FACT_TEMPLATES)
-                    formatted_fact = template.format(fact=fact)
-                    
-                    return {
-                        "fact": formatted_fact,
-                        "source": source_func.__name__,
-                        "category": category or "general",
-                        "raw_fact": fact
-                    }
-            except Exception as e:
-                print(f"Error with fact source {source_func.__name__}: {e}")
-                continue
-    
+        try:
+            fact = fetch_random_fact()
+            if fact and 10 < len(fact) < 200:
+                template = random.choice(DAILY_FACT_TEMPLATES)
+                formatted_fact = template.format(fact=fact)
+                return {
+                    "fact": formatted_fact,
+                    "source": "fetch_random_fact",
+                    "category": "random",
+                    "raw_fact": fact
+                }
+        except Exception as e:
+            print(f"Error with fetch_random_fact: {e}")
+            continue
     # Fallback to generated fact
     fallback_fact = generate_fallback_daily_fact()
     template = random.choice(DAILY_FACT_TEMPLATES)
     formatted_fact = template.format(fact=fallback_fact)
-    
     return {
         "fact": formatted_fact,
         "source": "fallback_generated",
-        "category": category or "general",
+        "category": "random",
         "raw_fact": fallback_fact
     }
 
@@ -214,34 +106,55 @@ def save_daily_facts(daily_facts_data):
         # Continue without saving if database fails
 
 def get_todays_fact() -> Dict[str, str]:
-    """Get today's fact, generating a new one if needed, ensuring uniqueness."""
+    """Get today's fact, generating a new one if needed, ensuring uniqueness. Fallback to local unused fact if needed."""
     daily_facts_data = load_daily_facts()
     today = datetime.now().strftime(DATE_FORMAT)
 
     # Check if we already have a fact for today
     if today in daily_facts_data:
-        return daily_facts_data[today]
+        fact = daily_facts_data[today]
+        print(f"🌞 Fact for today ({today}) already exists:")
+        print(f"    {fact['fact']}")
+        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+        return fact
 
     # Gather all previous facts for uniqueness check
     previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
 
-    # Try up to 5 times to get a unique fact
-    for attempt in range(5):
-        new_fact = get_daily_fact()
-        if new_fact["fact"] not in previous_facts:
-            # Save and return
-            daily_facts_data[today] = {
-                "fact": new_fact["fact"],
-                "timestamp": datetime.now().isoformat()
-            }
-            save_daily_facts(daily_facts_data)
-            return daily_facts_data[today]
-        else:
-            print(f"⚠️ Fetched fact is a duplicate. Retrying... (attempt {attempt+1})")
+    # Try at least twice to get a unique fact from the API
+    attempts = 0
+    max_api_attempts = 2
+    new_fact = None
+    for attempt in range(max_api_attempts):
+        candidate = get_daily_fact()
+        if candidate["fact"] not in previous_facts:
+            new_fact = candidate
+            break
+        attempts += 1
 
-    # If still not unique after retries, fail
-    print("❌ Could not fetch a unique daily fact after several attempts.")
-    sys.exit(1)
+    # If still not unique, fallback to a random unused local fact
+    if not new_fact:
+        # Example local facts list (replace with your real local facts source)
+        local_facts = [
+            {"fact": "Honey never spoils."},
+            {"fact": "Bananas are berries, but strawberries aren't."},
+            {"fact": "A group of flamingos is called a flamboyance."},
+        ]
+        unused_facts = [f for f in local_facts if f["fact"] not in previous_facts]
+        if unused_facts:
+            import random
+            new_fact = random.choice(unused_facts)
+        else:
+            raise RuntimeError("No unique facts available from API or local fallback.")
+
+    # Save and return, always include timestamp
+    daily_facts_data[today] = {
+        "fact": new_fact["fact"],
+        "timestamp": datetime.now().isoformat()
+    }
+    save_daily_facts(daily_facts_data)
+    print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
+    return daily_facts_data[today]
 
 if __name__ == "__main__":
     # Test the daily facts module

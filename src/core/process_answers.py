@@ -372,10 +372,16 @@ Come back tomorrow for another chance!"""
         close_issue(issue_number, comment)
         processed_count += 1
     
+    # Remove users with 0 total_answered
+    to_remove = [user for user, stats in leaderboard.items() if stats.get('total_answered', 0) == 0]
+    for user in to_remove:
+        del leaderboard[user]
+
     # Save updated leaderboard
     save_leaderboard(leaderboard)
     print(f"🧾 Total trivia answer issues found: {total_trivia_issues}")
     print(f"✅ Processed {processed_count} answers (Correct: {correct_count})")
+    print(f"[DEBUG] Removed users with 0 answers: {to_remove}")
 
 def main():
     """Main function"""
