@@ -329,26 +329,28 @@ def main():
         # Only move current trivia to history if it has a date
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
-        # Generate new trivia
-        new_trivia = generate_trivia_question()
-        new_trivia["date"] = today
-        # Ensure the date is in DD.MM.YYYY format
-        if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
-            # Convert YYYY-MM-DD to DD.MM.YYYY if needed
-            try:
-                date_obj = datetime.strptime(new_trivia["date"], "%Y-%m-%d")
-                new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
-            except ValueError:
-                new_trivia["date"] = today
-        # Check if trivia actually changed
-        if current_trivia and new_trivia['question'] == current_trivia.get('question'):
-            print("⚠️ New trivia is identical to previous trivia. Not updating.")
+        # Try up to 3 times to get a different trivia
+        max_tries = 3
+        for attempt in range(max_tries):
+            new_trivia = generate_trivia_question()
+            new_trivia["date"] = today
+            # Ensure the date is in DD.MM.YYYY format
+            if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
+                try:
+                    date_obj = datetime.strptime(new_trivia["date"], "%Y-%m-%d")
+                    new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
+                except ValueError:
+                    new_trivia["date"] = today
+            if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
+                trivia_data["current"] = new_trivia
+                save_trivia_data(trivia_data)
+                print(f"✅ Generated new trivia: {new_trivia['question']}")
+                trivia_changed = True
+                break
+            else:
+                print(f"⚠️ New trivia is identical to previous trivia. Retrying... (attempt {attempt+1})")
         else:
-            trivia_data["current"] = new_trivia
-            # Save trivia data
-            save_trivia_data(trivia_data)
-            print(f"✅ Generated new trivia: {new_trivia['question']}")
-            trivia_changed = True
+            print("⚠️ New trivia is still identical to previous trivia after 3 attempts. Not updating.")
     # Get today's daily fact
     daily_facts_data = None
     try:
@@ -356,15 +358,24 @@ def main():
         daily_facts_data = load_daily_facts()
     except Exception:
         daily_facts_data = None
-    daily_fact = get_todays_fact()
+    # Try up to 3 times to get a different fact
     fact_changed = True
+    prev_fact = None
     if daily_facts_data:
         today = datetime.now().strftime(DATE_FORMAT)
         yesterday = (datetime.now() - timedelta(days=1)).strftime(DATE_FORMAT)
         prev_fact = daily_facts_data.get(yesterday, {}).get('fact') if yesterday in daily_facts_data else None
+    for attempt in range(3):
+        daily_fact = get_todays_fact()
         if prev_fact and daily_fact['fact'] == prev_fact:
-            print("⚠️ New daily fact is identical to previous fact. Not updating.")
+            print(f"⚠️ New daily fact is identical to previous fact. Retrying... (attempt {attempt+1})")
             fact_changed = False
+            continue
+        else:
+            fact_changed = True
+            break
+    else:
+        print("⚠️ New daily fact is still identical to previous fact after 3 attempts. Not updating.")
     print(f"💡 Daily Fact: {daily_fact['fact']}")
     # Update README only if trivia or fact changed
     if trivia_changed or fact_changed:

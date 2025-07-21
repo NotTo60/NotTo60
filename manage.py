@@ -53,11 +53,18 @@ def encrypt_db():
     print("[ENCRYPT-DB] Update and encrypt DB (placeholder)")
     # TODO: Implement actual encrypt logic
 
+def export_db():
+    from src.core.database import TriviaDatabase
+    db = TriviaDatabase()
+    db.export_compressed_data()
+    print("[EXPORT-DB] Database exported and encrypted to src/data/trivia_database.db.gz.")
+
 def main():
     parser = argparse.ArgumentParser(description="Daily Trivia System Management CLI")
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     subparsers.add_parser("import-db", help="Import and decrypt DB")
+    subparsers.add_parser("export-db", help="Export and encrypt DB to compressed file")
     subparsers.add_parser("new-trivia", help="Create new daily trivia and validate")
     subparsers.add_parser("new-fact", help="Create new daily fact and validate")
     subparsers.add_parser("process-answers", help="Process answers")
@@ -67,6 +74,8 @@ def main():
     args = parser.parse_args()
     if args.command == "import-db":
         import_db()
+    elif args.command == "export-db":
+        export_db()
     elif args.command == "new-trivia":
         new_trivia()
     elif args.command == "new-fact":
