@@ -313,31 +313,25 @@ def update_readme(trivia_data, leaderboard):
 def main():
     """Main function to generate and update trivia"""
     print("🎯 Generating daily trivia and daily fact...")
-    
     # Setup OpenAI
     client = setup_openai()
-    
     # Load existing data
     trivia_data = load_trivia_data()
     leaderboard = load_leaderboard()
-    
     # Check if we need to generate new trivia
     today = get_utc_today()
     current_trivia = trivia_data.get("current")
-    
+    trivia_changed = False
     if current_trivia and current_trivia.get("date") == today:
         print(f"✅ Trivia already exists for {today}")
     else:
         print("🔄 Generating new trivia question with WOW facts...")
-        
         # Only move current trivia to history if it has a date
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
-        
         # Generate new trivia
         new_trivia = generate_trivia_question()
         new_trivia["date"] = today
-        
         # Ensure the date is in DD.MM.YYYY format
         if isinstance(new_trivia["date"], str) and "-" in new_trivia["date"]:
             # Convert YYYY-MM-DD to DD.MM.YYYY if needed
@@ -346,20 +340,38 @@ def main():
                 new_trivia["date"] = date_obj.strftime(DATE_FORMAT)
             except ValueError:
                 new_trivia["date"] = today
-        
-        trivia_data["current"] = new_trivia
-        
-        # Save trivia data
-        save_trivia_data(trivia_data)
-        print(f"✅ Generated new trivia: {new_trivia['question']}")
-    
+        # Check if trivia actually changed
+        if current_trivia and new_trivia['question'] == current_trivia.get('question'):
+            print("⚠️ New trivia is identical to previous trivia. Not updating.")
+        else:
+            trivia_data["current"] = new_trivia
+            # Save trivia data
+            save_trivia_data(trivia_data)
+            print(f"✅ Generated new trivia: {new_trivia['question']}")
+            trivia_changed = True
     # Get today's daily fact
+    daily_facts_data = None
+    try:
+        from core.daily_facts import load_daily_facts
+        daily_facts_data = load_daily_facts()
+    except Exception:
+        daily_facts_data = None
     daily_fact = get_todays_fact()
+    fact_changed = True
+    if daily_facts_data:
+        today = datetime.now().strftime(DATE_FORMAT)
+        yesterday = (datetime.now() - timedelta(days=1)).strftime(DATE_FORMAT)
+        prev_fact = daily_facts_data.get(yesterday, {}).get('fact') if yesterday in daily_facts_data else None
+        if prev_fact and daily_fact['fact'] == prev_fact:
+            print("⚠️ New daily fact is identical to previous fact. Not updating.")
+            fact_changed = False
     print(f"💡 Daily Fact: {daily_fact['fact']}")
-    
-    # Update README
-    update_readme(trivia_data, leaderboard)
-    print("✅ README updated successfully with trivia, WOW facts, and daily fact!")
+    # Update README only if trivia or fact changed
+    if trivia_changed or fact_changed:
+        update_readme(trivia_data, leaderboard)
+        print("✅ README updated successfully with trivia, WOW facts, and daily fact!")
+    else:
+        print("ℹ️ No update to README needed (trivia and fact unchanged).")
 
 if __name__ == "__main__":
     main() 
