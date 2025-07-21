@@ -13,17 +13,25 @@ def import_db():
     print("[IMPORT-DB] Database import and decrypt complete.")
 
 def new_trivia():
-    from src.core.daily_trivia import generate_trivia_question, load_trivia_data, save_trivia_data, get_utc_today
+    from src.core.daily_trivia import generate_unique_trivia, load_trivia_data, save_trivia_data, get_utc_today
     trivia_data = load_trivia_data()
     today = get_utc_today()
-    new_trivia = generate_trivia_question()
-    new_trivia["date"] = today
-    if trivia_data.get("current") and new_trivia['question'] == trivia_data["current"].get('question'):
-        print("[NEW-TRIVIA] Trivia is identical to previous. Not updating.")
-    else:
+    current_trivia = trivia_data.get("current")
+    print("[NEW-TRIVIA] Generating new trivia (with retry if identical)...")
+    new_trivia = None
+    for attempt in range(3):
+        new_trivia = generate_unique_trivia(current_trivia, max_tries=1)
+        if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
+            break
+        else:
+            print(f"[NEW-TRIVIA] Trivia is identical to previous. Retrying... (attempt {attempt+1})")
+    if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
+        new_trivia["date"] = today
         trivia_data["current"] = new_trivia
         save_trivia_data(trivia_data)
         print(f"[NEW-TRIVIA] Generated new trivia: {new_trivia['question']}")
+    else:
+        print("[NEW-TRIVIA] Trivia is still identical to previous after 3 attempts. Not updating.")
 
 def new_fact():
     from src.core.daily_facts import get_todays_fact, load_daily_facts, save_daily_facts
