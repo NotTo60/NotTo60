@@ -18,6 +18,13 @@ from core.points_system import calculate_points_for_streak, get_streak_bonus_inf
 import random
 import uuid
 
+def is_valid_uuid(val):
+    try:
+        uuid.UUID(str(val))
+        return True
+    except ValueError:
+        return False
+
 def get_github_issues():
     """Fetch recent trivia answer issues from GitHub"""
     if not GITHUB_TOKEN:
