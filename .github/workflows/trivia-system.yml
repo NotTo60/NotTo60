@@ -11,74 +11,146 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Import and decrypt DB
         run: python manage.py import-db
 
   new-trivia:
     runs-on: ubuntu-latest
     needs: import-db
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GITHUB_USERNAME: ${{ github.repository_owner }}
+      GITHUB_REPO: ${{ github.event.repository.name }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Create new daily trivia and validate
         run: python manage.py new-trivia
 
   new-fact:
     runs-on: ubuntu-latest
     needs: import-db
+    env:
+      TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Create new daily fact and validate
         run: python manage.py new-fact
 
   process-answers:
     runs-on: ubuntu-latest
     needs: [new-trivia, new-fact]
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_USERNAME: ${{ github.repository_owner }}
+      GITHUB_REPO: ${{ github.event.repository.name }}
+      TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Process answers
         run: python manage.py process-answers
 
   update-readme:
     runs-on: ubuntu-latest
     needs: process-answers
+    env:
+      TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Update README
         run: python manage.py update-readme
+      - name: Print Top 10 Leaderboard
+        run: |
+          echo "🔍 TOP 10 LEADERBOARD USERS:"
+          python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s[\"total_points\"]} points, {s[\"current_streak\"]} streak, {s[\"total_correct\"]} correct') for i, (u, s) in enumerate(top_users)]"
+          echo "============================="
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Daily update: Trivia + Daily fact + Database history - $(date +'%Y-%m-%d')"
+          git push origin main
 
   encrypt-db:
     runs-on: ubuntu-latest
     needs: update-readme
+    env:
+      TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -c "import sqlite3; print('SQLite version:', sqlite3.sqlite_version)"
       - name: Update and encrypt DB
         run: python manage.py encrypt-db 
