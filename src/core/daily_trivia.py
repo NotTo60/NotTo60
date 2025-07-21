@@ -399,7 +399,6 @@ def get_todays_fact() -> Dict[str, str]:
 # --- For trivia ---
 def main():
     print("🎯 Generating daily trivia and daily fact...")
-    client = setup_openai()
     trivia_data = load_trivia_data()
     leaderboard = load_leaderboard()
     today = get_utc_today()
@@ -414,6 +413,7 @@ def main():
         return  # Do not generate or overwrite
     else:
         print("🔄 Generating new trivia question...")
+        client = setup_openai()
         if current_trivia and current_trivia.get("date"):
             trivia_data.setdefault("history", []).append(current_trivia)
         new_trivia = generate_unique_trivia(current_trivia, max_tries=3)
