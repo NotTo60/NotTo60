@@ -106,22 +106,31 @@ def save_daily_facts(daily_facts_data):
         # Continue without saving if database fails
 
 def get_todays_fact() -> Dict[str, str]:
-    """Get today's fact, generating a new one if needed, ensuring uniqueness. Fallback to local unused fact if needed."""
+    """Get today's fact, generating a new one if needed, ensuring uniqueness. Never override if exists."""
     daily_facts_data = load_daily_facts()
     today = datetime.now().strftime(DATE_FORMAT)
-
-    # Check if we already have a fact for today
-    if today in daily_facts_data:
-        fact = daily_facts_data[today]
-        print(f"🌞 Fact for today ({today}) already exists:")
-        print(f"    {fact['fact']}")
-        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
-        return fact
-
-    # Gather all previous facts for uniqueness check
+    # Query the most recent fact by timestamp
+    if daily_facts_data:
+        latest = max(daily_facts_data.values(), key=lambda f: f.get('timestamp', ''))
+        last_date = None
+        # Find the date key for the latest fact
+        for k, v in daily_facts_data.items():
+            if v is latest:
+                last_date = k
+                break
+        last_timestamp = latest.get('timestamp')
+        print(f"[DEBUG] Last fact date: {last_date}, timestamp: {last_timestamp}")
+        if last_date == today:
+            print(f"[DEBUG] Fact for today already exists, skipping generation.")
+            print(f"🌞 Fact for today ({today}) already exists:")
+            print(f"    {latest['fact']}")
+            print(f"    (added at {latest.get('timestamp', 'unknown time')})")
+            return latest
+    else:
+        print(f"[DEBUG] No facts in database yet.")
+    print(f"[DEBUG] No fact for today, will fetch new.")
+    # Only fetch if not exists
     previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
-
-    # Try at least twice to get a unique fact from the API
     attempts = 0
     max_api_attempts = 2
     new_fact = None
@@ -131,10 +140,7 @@ def get_todays_fact() -> Dict[str, str]:
             new_fact = candidate
             break
         attempts += 1
-
-    # If still not unique, fallback to a random unused local fact
     if not new_fact:
-        # Example local facts list (replace with your real local facts source)
         local_facts = [
             {"fact": "Honey never spoils."},
             {"fact": "Bananas are berries, but strawberries aren't."},
@@ -146,8 +152,6 @@ def get_todays_fact() -> Dict[str, str]:
             new_fact = random.choice(unused_facts)
         else:
             raise RuntimeError("No unique facts available from API or local fallback.")
-
-    # Save and return, always include timestamp
     daily_facts_data[today] = {
         "fact": new_fact["fact"],
         "timestamp": datetime.now().isoformat()
