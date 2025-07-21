@@ -418,13 +418,14 @@ def main():
     correct_answer = "A"
     explanation = "Placeholder explanation."
     timestamp = datetime.now().isoformat()
-    db.update_trivia_questions({timestamp: {
+    new_trivia = {
         "question": question,
         "options": options,
         "correct_answer": correct_answer,
         "explanation": explanation,
         "timestamp": timestamp
-    }})
+    }
+    save_trivia_data({"current": new_trivia, "history": []})
     db.export_compressed_data()
     print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
 
