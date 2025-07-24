@@ -266,7 +266,7 @@ class TriviaDatabase:
             for timestamp, question_data in trivia_data.items():
                 compressed_options = self.compress_data(question_data.get('options', {}))
                 cursor.execute('''
-                    INSERT OR IGNORE INTO trivia_questions 
+                    INSERT OR REPLACE INTO trivia_questions 
                     (timestamp, question, options, correct_answer, explanation)
                     VALUES (?, ?, ?, ?, ?)
                 ''', (

@@ -110,14 +110,13 @@ def get_todays_fact() -> Dict[str, str]:
     db = TriviaDatabase()
     facts = db.get_daily_facts()
     today = datetime.now().strftime('%Y-%m-%d')
-    # Find the latest fact by timestamp
-    for fact in facts.values():
-        fact_date = fact.get('timestamp', '')[:10].replace('.', '-')
-        if fact_date == today:
-            print(f"🌞 Fact for today ({today}) already exists:")
-            print(f"    {fact['fact']}")
-            print(f"    (added at {fact.get('timestamp', 'unknown time')})")
-            return fact
+    # Check if we already have a fact for today (using YYYY-MM-DD only)
+    if today in facts:
+        fact = facts[today]
+        print(f"🌞 Fact for today ({today}) already exists:")
+        print(f"    {fact['fact']}")
+        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+        return fact
     print(f"[DEBUG] No fact for today, will fetch new.")
     # Only fetch if not exists
     previous_facts = set(fact['fact'] for fact in facts.values())
@@ -140,11 +139,10 @@ def get_todays_fact() -> Dict[str, str]:
             new_fact = random.choice(unused_facts)
         else:
             raise RuntimeError("No unique facts available from API or local fallback.")
-    timestamp = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-    # Save using today as the key, and timestamp in ISO format
-    db.update_daily_facts({today: {"fact": new_fact["fact"], "timestamp": timestamp}})
+    # Save using today as the key and timestamp
+    db.update_daily_facts({today: {"fact": new_fact["fact"], "timestamp": today}})
     print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
-    return {"fact": new_fact["fact"], "timestamp": timestamp}
+    return {"fact": new_fact["fact"], "timestamp": today}
 
 if __name__ == "__main__":
     # Test the daily facts module
@@ -166,4 +164,5 @@ if __name__ == "__main__":
     today_fact = get_todays_fact()
     print(f"✅ {today_fact['fact']}")
     print(f"   Date: {today_fact['timestamp'][:10]}")
-    print(f"   Source: {today_fact['source']}") 
+    if 'source' in today_fact:
+        print(f"   Source: {today_fact['source']}") 

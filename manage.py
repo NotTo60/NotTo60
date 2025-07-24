@@ -85,7 +85,7 @@ def update_readme():
     trivia_data = load_trivia_data()
     leaderboard = load_leaderboard()
     update_readme(trivia_data, leaderboard)
-    print("[UPDATE-README] README updated.")
+    # Do not print '[UPDATE-README] README updated.' here; the real function already prints the correct message.
 
 def encrypt_db():
     from src.core.database import TriviaDatabase

@@ -344,7 +344,7 @@ def update_readme(trivia_data, leaderboard):
                 readme_content.splitlines(),
                 fromfile='README.md (old)',
                 tofile='README.md (new)',
-                lineterm='' 
+                lineterm=''
             )
             for line in diff:
                 print(line)
