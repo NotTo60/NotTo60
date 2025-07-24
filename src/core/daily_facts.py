@@ -100,7 +100,7 @@ def save_daily_facts(daily_facts_data):
     try:
         db = TriviaDatabase()
         db.update_daily_facts(daily_facts_data)
-        db.export_compressed_data()
+        # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
         print(f"Error saving daily facts to database: {e}")
         # Continue without saving if database fails
@@ -144,7 +144,7 @@ def get_todays_fact() -> Dict[str, str]:
             raise RuntimeError("No unique facts available from API or local fallback.")
     timestamp = datetime.now().isoformat()
     db.update_daily_facts({timestamp: {"fact": new_fact["fact"], "timestamp": timestamp}})
-    db.export_compressed_data()
+    # db.export_compressed_data()  # Removed: export should be explicit in workflow
     print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
     return {"fact": new_fact["fact"], "timestamp": timestamp}
 

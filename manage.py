@@ -23,12 +23,10 @@ def print_db():
 
 def update_db():
     from src.core.database import TriviaDatabase
-    print("[UPDATE-DB] Importing, updating, and exporting database...")
+    print("[UPDATE-DB] Importing and updating database...")
     db = TriviaDatabase()
     db.import_compressed_data()
-    print("[UPDATE-DB] Imported and decrypted DB.")
-    db.export_compressed_data()
-    print("[UPDATE-DB] Exported and encrypted DB.")
+    print("[UPDATE-DB] Imported and updated DB.")
     print("[UPDATE-DB] Done.")
 
 def import_db():
@@ -43,6 +41,7 @@ def export_db():
     print("[EXPORT-DB] Exporting and encrypting database...")
     db = TriviaDatabase()
     db.export_compressed_data()
+    print("[EXPORT-DB] Exported and encrypted DB.")
     print("[EXPORT-DB] Done.")
 
 def new_trivia():

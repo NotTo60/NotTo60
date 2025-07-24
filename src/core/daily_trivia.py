@@ -166,7 +166,7 @@ def save_trivia_data(trivia_data):
                 q["timestamp"] = datetime.now().isoformat()
             trivia_questions[q["timestamp"]] = q
         db.update_trivia_questions(trivia_questions)
-        db.export_compressed_data()
+        # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
         print(f"Error saving trivia data to database: {e}")
 
@@ -189,7 +189,7 @@ def save_leaderboard(leaderboard):
     try:
         db = TriviaDatabase()
         db.update_leaderboard(leaderboard)
-        db.export_compressed_data()
+        # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
         print(f"Error saving leaderboard to database: {e}")
         # Continue without saving if database fails
@@ -265,6 +265,10 @@ def update_readme(trivia_data, leaderboard):
         print(json.dumps(trivia_data, indent=2, default=str))
         print("[DEBUG] Loaded leaderboard:")
         print(json.dumps(leaderboard, indent=2, default=str))
+        from core.daily_facts import load_daily_facts
+        fact_data = load_daily_facts()
+        print("[DEBUG] Loaded fact_data:")
+        print(json.dumps(fact_data, indent=2, default=str))
         today = datetime.now().strftime(DATE_FORMAT)
         current_trivia = trivia_data.get("current")
         if not current_trivia:
@@ -344,8 +348,10 @@ def update_readme(trivia_data, leaderboard):
             )
             for line in diff:
                 print(line)
+            print("[UPDATE-README] README updated.")
         else:
             print("[DEBUG] README.md is unchanged.")
+            print("[UPDATE-README] No update needed.")
     except Exception as e:
         print(f"Error in update_readme: {e}")
         import traceback
@@ -419,6 +425,13 @@ def main():
     db = TriviaDatabase()
     trivia_questions = db.get_trivia_questions()
     today = datetime.now().strftime('%Y-%m-%d')
+    print(f"[DEBUG] Checking for existing trivia for today: {today}")
+    found_today = False
+    for t in trivia_questions.values():
+        print(f"[DEBUG] Trivia entry: timestamp={t.get('timestamp')}, question={t.get('question')}")
+        if t.get('timestamp', '')[:10] == today:
+            print(f"[DEBUG] Found trivia for today: {t.get('question')} (timestamp: {t.get('timestamp')})")
+            found_today = True
     # Check if trivia for today exists
     trivia_changed = False
     if trivia_questions:

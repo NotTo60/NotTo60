@@ -93,14 +93,22 @@ def parse_answer_from_issue(issue):
 
 def parse_trivia_date_from_issue(issue):
     body = issue.get('body', '')
-    # Try bold markdown first
-    match = re.search(r'\*\*Trivia Date:\*\* ([0-9.]+)', body)
+    # Try bold markdown first (DD.MM.YYYY or YYYY-MM-DD)
+    match = re.search(r'\*\*Trivia Date:\*\*\s*([0-9.\-]+)', body)
     if match:
         return match.group(1)
-    # Fallback: plain text
-    match = re.search(r'Trivia Date:\s*([0-9.]+)', body)
+    # Fallback: plain text (DD.MM.YYYY or YYYY-MM-DD)
+    match = re.search(r'Trivia Date:\s*([0-9.\-]+)', body)
     if match:
         return match.group(1)
+    # Try to find any date-like string
+    match = re.search(r'([0-9]{2}\.[0-9]{2}\.[0-9]{4})', body)
+    if match:
+        return match.group(1)
+    match = re.search(r'([0-9]{4}-[0-9]{2}-[0-9]{2})', body)
+    if match:
+        return match.group(1)
+    print(f"[DEBUG] Could not find trivia date in issue body: {body}")
     return None
 
 def load_trivia_data():

@@ -82,21 +82,7 @@ class TriviaDatabase:
                 ''')
                 
                 conn.commit()
-                
-                # Import compressed data if database is empty and compressed file exists
-                cursor.execute("SELECT COUNT(*) FROM leaderboard")
-                leaderboard_count = cursor.fetchone()[0]
-                
-                cursor.execute("SELECT COUNT(*) FROM daily_facts")
-                facts_count = cursor.fetchone()[0]
-                
-                cursor.execute("SELECT COUNT(*) FROM trivia_questions")
-                trivia_count = cursor.fetchone()[0]
-                
-                if leaderboard_count == 0 and facts_count == 0 and trivia_count == 0:
-                    print("📥 Importing compressed data from git...")
-                    self.import_compressed_data()
-                
+                # Remove automatic import_compressed_data call here
         except Exception as e:
             print(f"Error initializing database: {e}")
             # Try to create directory and retry
@@ -321,11 +307,13 @@ class TriviaDatabase:
                 try:
                     # Try decrypting (new format)
                     compressed = self.decrypt_data(encrypted)
+                    print("[IMPORT-DB] Decompressing database...")
                     all_data = self.decompress_data(compressed)
                     print("✅ Database imported from single encrypted compressed file")
                 except Exception:
                     try:
                         # Try decompressing as plaintext (legacy format)
+                        print("[IMPORT-DB] Decompressing database (legacy format)...")
                         all_data = self.decompress_data(encrypted)
                         print("⚠️ Imported legacy unencrypted database, re-encrypting...")
                         self.export_compressed_data(os.path.dirname(database_path))
