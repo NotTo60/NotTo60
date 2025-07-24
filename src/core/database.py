@@ -65,21 +65,19 @@ class TriviaDatabase:
                 # Create daily_facts table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS daily_facts (
-                        date TEXT PRIMARY KEY,
-                        fact TEXT NOT NULL,
-                        timestamp TEXT NOT NULL
+                        timestamp TEXT PRIMARY KEY,
+                        fact TEXT NOT NULL
                     )
                 ''')
                 
                 # Create trivia_questions table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS trivia_questions (
-                        date TEXT PRIMARY KEY,
+                        timestamp TEXT PRIMARY KEY,
                         question TEXT NOT NULL,
                         options TEXT NOT NULL,
                         correct_answer TEXT NOT NULL,
-                        explanation TEXT,
-                        timestamp TEXT NOT NULL
+                        explanation TEXT
                     )
                 ''')
                 
@@ -123,21 +121,19 @@ class TriviaDatabase:
                 # Create daily_facts table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS daily_facts (
-                        date TEXT PRIMARY KEY,
-                        fact TEXT NOT NULL,
-                        timestamp TEXT NOT NULL
+                        timestamp TEXT PRIMARY KEY,
+                        fact TEXT NOT NULL
                     )
                 ''')
                 
                 # Create trivia_questions table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS trivia_questions (
-                        date TEXT PRIMARY KEY,
+                        timestamp TEXT PRIMARY KEY,
                         question TEXT NOT NULL,
                         options TEXT NOT NULL,
                         correct_answer TEXT NOT NULL,
-                        explanation TEXT,
-                        timestamp TEXT NOT NULL
+                        explanation TEXT
                     )
                 ''')
                 
