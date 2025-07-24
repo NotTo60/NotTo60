@@ -56,3 +56,11 @@ Surprising fact: The sweat drops drawn in cartoon comic strips are called pleuts
 
 
 *Questions and facts are automatically generated daily at 12:00 AM UTC!*
+
+### **Environment Variables**
+- `OPENAI_API_KEY`: For trivia generation
+- `GITHUB_TOKEN`: For issue processing
+- `GITHUB_USERNAME`: Repository owner
+- `GITHUB_REPO`: Repository name
+- `TRIVIA_DB_PASSWORD`: Encryption password for the database
+- `TRIVIA_DB_SALT`: (base64, 16 bytes) Encryption salt for the database. Generate with `python -c "import os,base64; print(base64.b64encode(os.urandom(16)).decode())"` and set as a GitHub secret. If not set, a default (less secure) salt is used.

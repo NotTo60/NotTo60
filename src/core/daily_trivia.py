@@ -149,10 +149,16 @@ def save_trivia_data(trivia_data):
     try:
         db = TriviaDatabase()
         trivia_questions = {}
+        # Ensure 'timestamp' exists for current trivia
         if trivia_data.get("current"):
             current = trivia_data["current"]
+            if "timestamp" not in current:
+                current["timestamp"] = datetime.now().isoformat()
             trivia_questions[current["timestamp"]] = current
+        # Ensure 'timestamp' exists for all history trivia
         for q in trivia_data.get("history", []):
+            if "timestamp" not in q:
+                q["timestamp"] = datetime.now().isoformat()
             trivia_questions[q["timestamp"]] = q
         db.update_trivia_questions(trivia_questions)
         db.export_compressed_data()
@@ -242,6 +248,11 @@ def get_wikipedia_link(answer_text, question_text):
 def update_readme(trivia_data, leaderboard):
     """Update the README with current trivia, daily fact, and leaderboard"""
     try:
+        # Debug: print loaded data
+        print("[DEBUG] Loaded trivia_data:")
+        print(json.dumps(trivia_data, indent=2, default=str))
+        print("[DEBUG] Loaded leaderboard:")
+        print(json.dumps(leaderboard, indent=2, default=str))
         today = datetime.now().strftime(DATE_FORMAT)
         current_trivia = trivia_data.get("current")
         if not current_trivia:

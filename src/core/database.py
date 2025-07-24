@@ -27,9 +27,11 @@ class TriviaDatabase:
     def _get_fernet(self, salt=None):
         password = self._get_password()
         if salt is None:
-            # Use a fixed salt for export (for reproducibility in git), or store salt in file header
-            salt = b"trivia_db_salt_2024"  # 16 bytes, can be changed for more security
-        print(f"[DEBUG] Using salt: {salt}")
+            import base64
+            env_salt = os.getenv("TRIVIA_DB_SALT")
+            if not env_salt:
+                raise RuntimeError("TRIVIA_DB_SALT environment variable is required for database encryption. Please set it as a base64-encoded 16-byte value.")
+            salt = base64.b64decode(env_salt)
         kdf = PBKDF2HMAC(
             algorithm=hashes.SHA256(),
             length=32,
@@ -38,7 +40,6 @@ class TriviaDatabase:
             backend=default_backend(),
         )
         key = base64.urlsafe_b64encode(kdf.derive(password))
-        print(f"[DEBUG] Derived key (first 16): {key[:16]}")
         return Fernet(key)
 
     def init_database(self):
@@ -170,22 +171,15 @@ class TriviaDatabase:
 
     def encrypt_data(self, data_bytes):
         f = self._get_fernet()
-        print("[DEBUG] Encrypting data...")
-        print(f"[DEBUG] Data bytes (first 16): {data_bytes[:16]}")
         encrypted = f.encrypt(data_bytes)
-        print(f"[DEBUG] Encrypted bytes (first 16): {encrypted[:16]}")
         return encrypted
 
     def decrypt_data(self, encrypted_bytes):
         f = self._get_fernet()
-        print("[DEBUG] Decrypting data...")
-        print(f"[DEBUG] Encrypted bytes (first 16): {encrypted_bytes[:16]}")
         try:
             decrypted = f.decrypt(encrypted_bytes)
-            print(f"[DEBUG] Decrypted bytes (first 16): {decrypted[:16]}")
             return decrypted
         except Exception as e:
-            print(f"[DEBUG] Decryption failed: {e}")
             raise
     
     def update_leaderboard(self, leaderboard_data):
