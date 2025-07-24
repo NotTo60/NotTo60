@@ -26,6 +26,7 @@ jobs:
       - name: Import and decrypt DB
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py import-db
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
@@ -56,6 +57,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py new-trivia
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
@@ -86,6 +88,7 @@ jobs:
       - name: Update fact
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py new-fact
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
@@ -120,10 +123,12 @@ jobs:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py process-answers
       - name: Print Top 10 Leaderboard (after process-answers)
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: |
           echo "🔍 TOP 10 LEADERBOARD USERS:"
           python -c "from src.core.database import TriviaDatabase; from src.core.daily_trivia import get_top_leaderboard; db = TriviaDatabase(); leaderboard = db.get_leaderboard(); top_users = get_top_leaderboard(leaderboard, max_entries=10); print('No users in leaderboard.') if not top_users else [print(f'{i+1}. @{u}: {s[\"total_points\"]} points, {s[\"current_streak\"]} streak, {s[\"total_correct\"]} correct') for i, (u, s) in enumerate(top_users)]"
@@ -157,6 +162,7 @@ jobs:
       - name: Update README
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-readme
       - name: Upload README artifact
         uses: actions/upload-artifact@v4
@@ -191,6 +197,7 @@ jobs:
       - name: Encrypt and export DB
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py encrypt-db
       - name: Commit and push changes
         run: |
