@@ -145,7 +145,11 @@ def load_trivia_data():
         return {"current": None, "history": []}
 
 def save_trivia_data(trivia_data):
-    """Save trivia data to database (timestamp-only schema)"""
+    """
+    Save trivia data to database (timestamp-only schema).
+    MUST be called after any change to trivia data to ensure the database and exported compressed file are up to date.
+    The README updater always loads from the latest DB state.
+    """
     try:
         db = TriviaDatabase()
         trivia_questions = {}
@@ -176,7 +180,11 @@ def load_leaderboard():
         return {}
 
 def save_leaderboard(leaderboard):
-    """Save leaderboard data to database"""
+    """
+    Save leaderboard data to database.
+    MUST be called after any change to leaderboard data to ensure the database and exported compressed file are up to date.
+    The README updater always loads from the latest DB state.
+    """
     try:
         db = TriviaDatabase()
         db.update_leaderboard(leaderboard)
@@ -246,7 +254,10 @@ def get_wikipedia_link(answer_text, question_text):
     return f"https://en.wikipedia.org/wiki/{urllib.parse.quote(clean)}"
 
 def update_readme(trivia_data, leaderboard):
-    """Update the README with current trivia, daily fact, and leaderboard"""
+    """
+    Update the README with current trivia, daily fact, and leaderboard.
+    This function always loads from the latest DB state, so all data must be saved to the DB before calling.
+    """
     try:
         # Debug: print loaded data
         print("[DEBUG] Loaded trivia_data:")
