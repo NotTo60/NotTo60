@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.07.2025
+## 💡 Did You Know? • 24.07.2025
 
-Surprising fact: The sweat drops drawn in cartoon comic strips are called pleuts.
+Incredible fact: A `jiffy` is a unit of time for 1/100th of a second.
 
 ---
 
-## 🎯 Today's Trivia • 21.07.2025
+## 🎯 Today's Trivia • 24.07.2025
 
-**In an alternate universe where the ancient civilizations had access to limitless energy, which civilization would be most likely to have invented a technology for instantaneous global communication?**
+**In a stunning twist of fate, which fictional character is rumored to have once received a handwritten letter from their own creator, urging them to rebel against the narrative?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sumerians%2C%20with%20their%20advanced%20knowledge%20of%20writing%20and%20record-keeping%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%2021.07.2025)** - The Sumerians, with their advanced knowledge of writing and record-keeping
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Egyptians%2C%20with%20their%20mastery%20of%20engineering%20and%20architecture%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%2021.07.2025)** - The Egyptians, with their mastery of engineering and architecture
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mayans%2C%20with%20their%20complex%20calendar%20and%20astronomical%20observations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%2021.07.2025)** - The Mayans, with their complex calendar and astronomical observations
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Time-Traveling%20Detective%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-24)** - The Time-Traveling Detective
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Sorceress%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-24)** - The Enchanted Sorceress
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Galactic%20Smuggler%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-24)** - The Galactic Smuggler
 
 📝 *Click a button above to submit your answer!*
 
@@ -56,11 +56,3 @@ Surprising fact: The sweat drops drawn in cartoon comic strips are called pleuts
 
 
 *Questions and facts are automatically generated daily at 12:00 AM UTC!*
-
-### **Environment Variables**
-- `OPENAI_API_KEY`: For trivia generation
-- `GITHUB_TOKEN`: For issue processing
-- `GITHUB_USERNAME`: Repository owner
-- `GITHUB_REPO`: Repository name
-- `TRIVIA_DB_PASSWORD`: Encryption password for the database
-- `TRIVIA_DB_SALT`: (base64, 16 bytes) Encryption salt for the database. Generate with `python -c "import os,base64; print(base64.b64encode(os.urandom(16)).decode())"` and set as a GitHub secret. If not set, a default (less secure) salt is used.
