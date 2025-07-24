@@ -111,15 +111,13 @@ def get_todays_fact() -> Dict[str, str]:
     facts = db.get_daily_facts()
     today = datetime.now().strftime('%Y-%m-%d')
     # Find the latest fact by timestamp
-    if facts:
-        latest = max(facts.values(), key=lambda f: f.get('timestamp', ''))
-        latest_date = latest['timestamp'][:10]
-        print(f"[DEBUG] Latest fact timestamp: {latest['timestamp']}, date: {latest_date}")
-        if latest_date == today:
+    for fact in facts.values():
+        fact_date = fact.get('timestamp', '')[:10].replace('.', '-')
+        if fact_date == today:
             print(f"🌞 Fact for today ({today}) already exists:")
-            print(f"    {latest['fact']}")
-            print(f"    (added at {latest['timestamp']})")
-            return latest
+            print(f"    {fact['fact']}")
+            print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+            return fact
     print(f"[DEBUG] No fact for today, will fetch new.")
     # Only fetch if not exists
     previous_facts = set(fact['fact'] for fact in facts.values())
@@ -142,9 +140,9 @@ def get_todays_fact() -> Dict[str, str]:
             new_fact = random.choice(unused_facts)
         else:
             raise RuntimeError("No unique facts available from API or local fallback.")
-    timestamp = datetime.now().isoformat()
-    db.update_daily_facts({timestamp: {"fact": new_fact["fact"], "timestamp": timestamp}})
-    # db.export_compressed_data()  # Removed: export should be explicit in workflow
+    timestamp = datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+    # Save using today as the key, and timestamp in ISO format
+    db.update_daily_facts({today: {"fact": new_fact["fact"], "timestamp": timestamp}})
     print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
     return {"fact": new_fact["fact"], "timestamp": timestamp}
 

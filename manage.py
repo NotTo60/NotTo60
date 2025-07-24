@@ -22,11 +22,9 @@ def print_db():
     print("[PRINT-DB] Done.")
 
 def update_db():
-    from src.core.database import TriviaDatabase
-    print("[UPDATE-DB] Importing and updating database...")
-    db = TriviaDatabase()
-    db.import_compressed_data()
-    print("[UPDATE-DB] Imported and updated DB.")
+    # In the current workflow, all DB changes are written by job logic.
+    # This step is a no-op unless future logic requires explicit DB updates.
+    print("[UPDATE-DB] No update needed: all changes are already written by job logic.")
     print("[UPDATE-DB] Done.")
 
 def import_db():
