@@ -6,11 +6,44 @@ import argparse
 import sys
 from datetime import datetime
 
-def import_db():
+def print_db():
     from src.core.database import TriviaDatabase
+    print("[PRINT-DB] Decrypting and loading database...")
+    db = TriviaDatabase()
+    trivia = db.get_trivia_questions()
+    facts = db.get_daily_facts()
+    leaderboard = db.get_leaderboard()
+    print("[PRINT-DB] Trivia Questions:")
+    print(trivia)
+    print("[PRINT-DB] Daily Facts:")
+    print(facts)
+    print("[PRINT-DB] Leaderboard:")
+    print(leaderboard)
+    print("[PRINT-DB] Done.")
+
+def update_db():
+    from src.core.database import TriviaDatabase
+    print("[UPDATE-DB] Importing, updating, and exporting database...")
     db = TriviaDatabase()
     db.import_compressed_data()
-    print("[IMPORT-DB] Database import and decrypt complete.")
+    print("[UPDATE-DB] Imported and decrypted DB.")
+    db.export_compressed_data()
+    print("[UPDATE-DB] Exported and encrypted DB.")
+    print("[UPDATE-DB] Done.")
+
+def import_db():
+    from src.core.database import TriviaDatabase
+    print("[IMPORT-DB] Importing and decrypting database...")
+    db = TriviaDatabase()
+    db.import_compressed_data()
+    print("[IMPORT-DB] Done.")
+
+def export_db():
+    from src.core.database import TriviaDatabase
+    print("[EXPORT-DB] Exporting and encrypting database...")
+    db = TriviaDatabase()
+    db.export_compressed_data()
+    print("[EXPORT-DB] Done.")
 
 def new_trivia():
     from src.core.daily_trivia import generate_unique_trivia, load_trivia_data, save_trivia_data, get_utc_today
@@ -77,12 +110,6 @@ def encrypt_db():
             print(f"[ENCRYPT-DB] Compressed DB identical to previous. Retrying... (attempt {attempt+1})")
     print("⚠️ [ENCRYPT-DB] Compressed DB is still identical after 2 attempts.")
 
-def export_db():
-    from src.core.database import TriviaDatabase
-    db = TriviaDatabase()
-    db.export_compressed_data()
-    print("[EXPORT-DB] Database exported and encrypted to src/data/trivia_database.db.gz.")
-
 def main():
     parser = argparse.ArgumentParser(description="Daily Trivia System Management CLI")
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -94,6 +121,8 @@ def main():
     subparsers.add_parser("process-answers", help="Process answers")
     subparsers.add_parser("update-readme", help="Update README")
     subparsers.add_parser("encrypt-db", help="Update and encrypt DB")
+    subparsers.add_parser("print-db", help="Print trivia, fact, and leaderboard with logs")
+    subparsers.add_parser("update-db", help="Import, update, and export DB with logs")
 
     args = parser.parse_args()
     if args.command == "import-db":
@@ -110,6 +139,10 @@ def main():
         update_readme()
     elif args.command == "encrypt-db":
         encrypt_db()
+    elif args.command == "print-db":
+        print_db()
+    elif args.command == "update-db":
+        update_db()
     else:
         parser.print_help()
 

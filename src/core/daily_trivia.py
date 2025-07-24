@@ -35,6 +35,7 @@ def setup_openai():
 def generate_trivia_question():
     """Generate a trivia question using OpenAI"""
     category = random.choice(TRIVIA_CATEGORIES)
+    correct_letter = random.choice(["A", "B", "C"])
     prompt = f"""Generate an INCREDIBLE standalone trivia question about {category}. 
 
     Requirements:
@@ -42,7 +43,7 @@ def generate_trivia_question():
     - Make the question AMAZING and mind-blowing
     - Question should be engaging and create a strong effect
     - Provide exactly 3 multiple choice options (A, B, C)
-    - One option must be correct
+    - The correct answer must be option {correct_letter}
     - Make the incorrect options plausible but wrong
     - Keep the question and answers concise but fascinating
     - Use exciting language to make it engaging
@@ -56,7 +57,7 @@ def generate_trivia_question():
             "B": "Second option", 
             "C": "Third option"
         }},
-        "correct_answer": "A",
+        "correct_answer": "{correct_letter}",
         "category": "{category}",
         "explanation": "FASCINATING explanation of why the answer is correct"
     }}
