@@ -47,7 +47,7 @@ jobs:
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-new-trivia
           path: src/data/trivia_database.db.gz
 
   new-fact:
@@ -67,7 +67,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-new-trivia
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -92,7 +92,7 @@ jobs:
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-new-fact
           path: src/data/trivia_database.db.gz
 
   process-answers:
@@ -112,7 +112,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-new-fact
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -141,7 +141,7 @@ jobs:
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-process-answers
           path: src/data/trivia_database.db.gz
 
   update-readme:
@@ -161,7 +161,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-process-answers
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -188,6 +188,11 @@ jobs:
         with:
           name: readme-artifact
           path: README.md
+      - name: Upload DB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: db-artifact-update-readme
+          path: src/data/trivia_database.db.gz
 
   commit-and-push:
     runs-on: ubuntu-latest
@@ -211,7 +216,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact
+          name: db-artifact-update-readme
           path: src/data/
       - name: Commit and push changes
         run: |
