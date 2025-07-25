@@ -76,7 +76,10 @@ def update_db(from_json=None):
                             db.update_daily_facts(facts_data)
                             logging.info(f"[UPDATE-DB] Updated fact in DB from {json_file}")
                         # Detect and update leaderboard/answers
-                        elif isinstance(data, dict) and ("total_points" in data or "current_streak" in data or "total_answered" in data):
+                        elif isinstance(data, dict) and (
+                            any(isinstance(v, dict) and ("total_points" in v or "current_streak" in v or "total_answered" in v) for v in data.values())
+                            or ("total_points" in data or "current_streak" in data or "total_answered" in data)
+                        ):
                             # If this is a single user, wrap in a dict
                             if "username" in data:
                                 leaderboard = {data["username"]: data}
