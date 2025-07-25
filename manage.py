@@ -35,7 +35,7 @@ def print_db():
     print(leaderboard)
     print("[PRINT-DB] Done.")
 
-def update_db():
+def update_db(from_json=None):
     try:
         flag_path = DB_CHANGED_FLAG
         marker = "[UPDATE-DB] DB_CHANGED"
@@ -54,6 +54,15 @@ def update_db():
                 with open(github_output, 'a') as f:
                     f.write("db_changed=false\n")
         logging.info("[manage.py] [update_db] Done.")
+        if from_json:
+            for json_file in from_json:
+                try:
+                    with open(json_file) as f:
+                        data = json.load(f)
+                        logging.info(f"[UPDATE-DB] Loaded data from {json_file}: {type(data)}")
+                        # TODO: Implement logic to merge/update DB with this data
+                except Exception as e:
+                    logging.error(f"[UPDATE-DB] Failed to load {json_file}: {e}")
     except Exception as e:
         logging.error("[manage.py] [update_db] Error updating DB: %s", e)
 
@@ -134,8 +143,8 @@ def new_fact(json_out=None):
         daily_facts_data = load_daily_facts()
         new_fact = get_todays_fact()
         prev_fact = daily_facts_data.get(today, {}).get('fact') if today in daily_facts_data else None
-        if prev_fact and new_fact['fact'] == prev_fact:
-            logging.info("[NEW-FACT] Fact is identical to previous. Not updating.")
+        if prev_fact:
+            logging.info(f"[NEW-FACT] Fact for today already exists. No update needed.")
             if json_out:
                 with open(json_out, 'w') as f:
                     json.dump(new_fact, f)
@@ -217,7 +226,8 @@ def main():
     subparsers.add_parser("update-readme", help="Update README")
     subparsers.add_parser("encrypt-db", help="Update and encrypt DB")
     subparsers.add_parser("print-db", help="Print trivia, fact, and leaderboard with logs")
-    subparsers.add_parser("update-db", help="Import, update, and export DB with logs")
+    update_db_parser = subparsers.add_parser("update-db", help="Import, update, and export DB with logs")
+    update_db_parser.add_argument('--from-json', nargs='*', help='List of JSON files to update DB from')
     prune_parser = subparsers.add_parser("prune-db", help="Prune old trivia, facts, and leaderboard entries from the database.")
     prune_parser.add_argument("--trivia-days", type=int, default=90, help="Days to keep trivia questions (default: 90)")
     prune_parser.add_argument("--facts-days", type=int, default=90, help="Days to keep daily facts (default: 90)")
@@ -241,7 +251,7 @@ def main():
     elif args.command == "print-db":
         print_db()
     elif args.command == "update-db":
-        update_db()
+        update_db(from_json=getattr(args, 'from_json', None))
     elif args.command == "prune-db":
         prune_db(trivia_days=args.trivia_days, facts_days=args.facts_days, leaderboard_days=args.leaderboard_days)
     else:
