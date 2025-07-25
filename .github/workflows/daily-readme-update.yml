@@ -222,10 +222,26 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download DB artifact
+      - name: Try download DB artifact from process-answers
+        id: download_db_process_answers
+        continue-on-error: true
         uses: actions/download-artifact@v4
         with:
           name: db-artifact-process-answers
+          path: src/data/
+      - name: Try download DB artifact from new-fact
+        if: steps.download_db_process_answers.outcome != 'success'
+        id: download_db_new_fact
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: db-artifact-new-fact
+          path: src/data/
+      - name: Try download DB artifact from new-trivia
+        if: steps.download_db_process_answers.outcome != 'success' && steps.download_db_new_fact.outcome != 'success'
+        uses: actions/download-artifact@v4
+        with:
+          name: db-artifact-new-trivia
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -247,39 +263,11 @@ jobs:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
         run: python manage.py update-readme
-      - name: Update DB (write changes)
-        id: update_db
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py update-db
-      - name: Export, encrypt, and compress DB
-        if: steps.update_db.outputs.db_changed == 'true'
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py export-db
       - name: Upload README artifact
         uses: actions/upload-artifact@v4
         with:
           name: readme-artifact
           path: README.md
-      - name: Upload DB artifact
-        if: steps.update_db.outputs.db_changed == 'true'
-        uses: actions/upload-artifact@v4
-        with:
-          name: db-artifact-update-readme
-          path: src/data/trivia_database.db.gz
 
   commit-and-push:
     needs: update-readme
