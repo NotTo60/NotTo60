@@ -9,6 +9,7 @@ from src.core.config import DB_COMPRESSED_PATH, DB_CHANGED_FLAG, README_PATH
 import logging
 import os
 import tempfile
+import json
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 
 def atomic_create_flag(flag_path):
@@ -74,7 +75,7 @@ def export_db():
     except Exception as e:
         logging.error("[manage.py] [export_db] Error exporting DB: %s", e)
 
-def new_trivia():
+def new_trivia(json_out=None):
     try:
         from src.core.daily_trivia import generate_unique_trivia, load_trivia_data, save_trivia_data, get_utc_today
         from datetime import datetime
@@ -97,6 +98,9 @@ def new_trivia():
             logging.info(f"    {current_trivia['question']}")
             logging.info(f"    (category: {current_trivia.get('category', 'unknown')})")
             logging.info(f"    (added at {current_trivia.get('timestamp', 'unknown')})")
+            if json_out:
+                with open(json_out, 'w') as f:
+                    json.dump(current_trivia, f)
             return
         logging.info("[DEBUG] No trivia for today found, will generate new.")
         logging.info("[NEW-TRIVIA] Generating new trivia (with retry if identical)...")
@@ -108,41 +112,53 @@ def new_trivia():
             else:
                 logging.info(f"[NEW-TRIVIA] Trivia is identical to previous. Retrying... (attempt {attempt+1})")
         if not current_trivia or new_trivia['question'] != current_trivia.get('question'):
-            new_trivia["date"] = today
+            new_trivia["timestamp"] = new_trivia.get("timestamp") or datetime.now().isoformat()
             trivia_data["current"] = new_trivia
             save_trivia_data(trivia_data)
-            # Mark DB as changed
-            atomic_create_flag(DB_CHANGED_FLAG)
+            if json_out:
+                with open(json_out, 'w') as f:
+                    json.dump(new_trivia, f)
             logging.info(f"[NEW-TRIVIA] Generated new trivia: {new_trivia['question']}")
         else:
             logging.info("[NEW-TRIVIA] Trivia is still identical to previous after 3 attempts. Not updating.")
+            if json_out and current_trivia:
+                with open(json_out, 'w') as f:
+                    json.dump(current_trivia, f)
     except Exception as e:
         logging.error("[manage.py] [new_trivia] Error generating new trivia: %s", e)
 
-def new_fact():
+def new_fact(json_out=None):
     try:
         from src.core.daily_facts import get_todays_fact, load_daily_facts, save_daily_facts
-        today = datetime.now().strftime("%Y-%m-%d")  # Use YYYY-MM-DD to match schema
+        today = datetime.now().strftime("%Y-%m-%d")
         daily_facts_data = load_daily_facts()
         new_fact = get_todays_fact()
         prev_fact = daily_facts_data.get(today, {}).get('fact') if today in daily_facts_data else None
         if prev_fact and new_fact['fact'] == prev_fact:
             logging.info("[NEW-FACT] Fact is identical to previous. Not updating.")
+            if json_out:
+                with open(json_out, 'w') as f:
+                    json.dump(new_fact, f)
         else:
             daily_facts_data[today] = {"fact": new_fact["fact"], "timestamp": today}
             save_daily_facts(daily_facts_data)
-            # Mark DB as changed
-            atomic_create_flag(DB_CHANGED_FLAG)
+            if json_out:
+                with open(json_out, 'w') as f:
+                    json.dump(new_fact, f)
             logging.info(f"[NEW-FACT] Generated new fact: {new_fact['fact']}")
     except Exception as e:
         logging.error("[manage.py] [new_fact] Error generating new fact: %s", e)
 
-def process_answers():
+def process_answers(json_out=None):
     try:
-        from src.core.process_answers import process_answers as process
+        from src.core.process_answers import process_answers as process, load_leaderboard
         process()
         # Mark DB as changed
         atomic_create_flag(DB_CHANGED_FLAG)
+        if json_out:
+            leaderboard = load_leaderboard()
+            with open(json_out, 'w') as f:
+                json.dump(leaderboard, f)
     except Exception as e:
         logging.error("[manage.py] [process_answers] Error processing answers: %s", e)
 
@@ -192,9 +208,12 @@ def main():
 
     subparsers.add_parser("import-db", help="Import and decrypt DB")
     subparsers.add_parser("export-db", help="Export and encrypt DB to compressed file")
-    subparsers.add_parser("new-trivia", help="Create new daily trivia and validate")
-    subparsers.add_parser("new-fact", help="Create new daily fact and validate")
-    subparsers.add_parser("process-answers", help="Process answers")
+    new_trivia_parser = subparsers.add_parser("new-trivia", help="Create new daily trivia and validate")
+    new_trivia_parser.add_argument('--json-out', type=str, help='Path to output JSON file')
+    new_fact_parser = subparsers.add_parser("new-fact", help="Create new daily fact and validate")
+    new_fact_parser.add_argument('--json-out', type=str, help='Path to output JSON file')
+    process_answers_parser = subparsers.add_parser("process-answers", help="Process answers")
+    process_answers_parser.add_argument('--json-out', type=str, help='Path to output JSON file')
     subparsers.add_parser("update-readme", help="Update README")
     subparsers.add_parser("encrypt-db", help="Update and encrypt DB")
     subparsers.add_parser("print-db", help="Print trivia, fact, and leaderboard with logs")
@@ -210,11 +229,11 @@ def main():
     elif args.command == "export-db":
         export_db()
     elif args.command == "new-trivia":
-        new_trivia()
+        new_trivia(json_out=getattr(args, 'json_out', None))
     elif args.command == "new-fact":
-        new_fact()
+        new_fact(json_out=getattr(args, 'json_out', None))
     elif args.command == "process-answers":
-        process_answers()
+        process_answers(json_out=getattr(args, 'json_out', None))
     elif args.command == "update-readme":
         update_readme()
     elif args.command == "encrypt-db":
