@@ -23,11 +23,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download DB artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-latest
-          path: src/data/
+      - name: Import, decrypt, and decompress DB
+        env:
+          PYTHONPATH: src
+          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python manage.py import-db
       - name: Run new trivia job
         env:
           PYTHONPATH: src
@@ -57,11 +62,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download DB artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-latest
-          path: src/data/
+      - name: Import, decrypt, and decompress DB
+        env:
+          PYTHONPATH: src
+          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python manage.py import-db
       - name: Run new fact job
         env:
           PYTHONPATH: src
@@ -91,11 +101,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download DB artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-latest
-          path: src/data/
+      - name: Import, decrypt, and decompress DB
+        env:
+          PYTHONPATH: src
+          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python manage.py import-db
       - name: Run process answers job
         env:
           PYTHONPATH: src
@@ -126,11 +141,16 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Download DB artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-latest
-          path: src/data/
+      - name: Import, decrypt, and decompress DB
+        env:
+          PYTHONPATH: src
+          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python manage.py import-db
       - name: Download trivia.json artifact
         continue-on-error: true
         uses: actions/download-artifact@v4
