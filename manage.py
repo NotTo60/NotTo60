@@ -80,6 +80,11 @@ def new_trivia():
         trivia_data = load_trivia_data()
         today = get_utc_today()
         current_trivia = trivia_data.get("current")
+        logging.info(f"[DEBUG] Checking for existing trivia for today: {today}")
+        if current_trivia:
+            logging.info(f"[DEBUG] Current trivia timestamp: {current_trivia.get('timestamp', 'None')}")
+        else:
+            logging.info("[DEBUG] No current trivia found in DB.")
         # Check if today's trivia already exists
         if current_trivia and current_trivia.get("timestamp", "")[:10] == today:
             logging.info(f"[NEW-TRIVIA] Trivia for today ({today}) already exists:")
@@ -87,6 +92,7 @@ def new_trivia():
             logging.info(f"    (category: {current_trivia.get('category', 'unknown')})")
             logging.info(f"    (added at {current_trivia.get('timestamp', 'unknown')})")
             return
+        logging.info("[DEBUG] No trivia for today found, will generate new.")
         logging.info("[NEW-TRIVIA] Generating new trivia (with retry if identical)...")
         new_trivia = None
         for attempt in range(3):
