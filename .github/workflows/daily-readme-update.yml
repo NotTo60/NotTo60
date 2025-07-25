@@ -211,6 +211,8 @@ jobs:
   update-readme:
     needs: process-answers
     runs-on: ubuntu-latest
+    outputs:
+      db_artifact_name: ${{ steps.set_db_artifact_process_answers.outputs.db_artifact_name || steps.set_db_artifact_new_fact.outputs.db_artifact_name || steps.set_db_artifact_new_trivia.outputs.db_artifact_name }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -229,6 +231,10 @@ jobs:
         with:
           name: db-artifact-process-answers
           path: src/data/
+      - name: Set DB artifact name (process-answers)
+        if: steps.download_db_process_answers.outcome == 'success'
+        run: echo "db_artifact_name=db-artifact-process-answers" >> $GITHUB_OUTPUT
+        id: set_db_artifact_process_answers
       - name: Try download DB artifact from new-fact
         if: steps.download_db_process_answers.outcome != 'success'
         id: download_db_new_fact
@@ -237,12 +243,21 @@ jobs:
         with:
           name: db-artifact-new-fact
           path: src/data/
+      - name: Set DB artifact name (new-fact)
+        if: steps.download_db_new_fact.outcome == 'success'
+        run: echo "db_artifact_name=db-artifact-new-fact" >> $GITHUB_OUTPUT
+        id: set_db_artifact_new_fact
       - name: Try download DB artifact from new-trivia
         if: steps.download_db_process_answers.outcome != 'success' && steps.download_db_new_fact.outcome != 'success'
+        id: download_db_new_trivia
         uses: actions/download-artifact@v4
         with:
           name: db-artifact-new-trivia
           path: src/data/
+      - name: Set DB artifact name (new-trivia)
+        if: steps.download_db_new_trivia.outcome == 'success'
+        run: echo "db_artifact_name=db-artifact-new-trivia" >> $GITHUB_OUTPUT
+        id: set_db_artifact_new_trivia
       - name: Import, decrypt, and decompress DB
         env:
           PYTHONPATH: src
@@ -291,7 +306,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact-update-readme
+          name: ${{ needs.update-readme.outputs.db_artifact_name }}
           path: src/data/
       - name: Commit and push changes
         run: |
