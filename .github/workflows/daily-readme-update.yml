@@ -10,16 +10,7 @@ permissions:
   issues: write
 
 jobs:
-  lock:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Acquire workflow lock
-        uses: softprops/turnstyle@v1
-        with:
-          poll-interval-seconds: 30
-
   new-trivia:
-    needs: lock
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -34,6 +25,7 @@ jobs:
           pip install -r requirements.txt
       - name: Import, decrypt, and decompress DB
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -43,6 +35,7 @@ jobs:
         run: python manage.py import-db
       - name: Run new trivia job
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -53,6 +46,7 @@ jobs:
       - name: Update DB (write changes)
         id: update_db
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -63,6 +57,7 @@ jobs:
       - name: Export, encrypt, and compress DB
         if: steps.update_db.outputs.db_changed == 'true'
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -78,7 +73,7 @@ jobs:
           path: src/data/trivia_database.db.gz
 
   new-fact:
-    needs: [lock, new-trivia]
+    needs: new-trivia
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -98,6 +93,7 @@ jobs:
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -107,6 +103,7 @@ jobs:
         run: python manage.py import-db
       - name: Run new fact job
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -117,6 +114,7 @@ jobs:
       - name: Update DB (write changes)
         id: update_db
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -127,6 +125,7 @@ jobs:
       - name: Export, encrypt, and compress DB
         if: steps.update_db.outputs.db_changed == 'true'
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -142,7 +141,7 @@ jobs:
           path: src/data/trivia_database.db.gz
 
   process-answers:
-    needs: [lock, new-fact]
+    needs: new-fact
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -162,6 +161,7 @@ jobs:
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -171,6 +171,7 @@ jobs:
         run: python manage.py import-db
       - name: Run process answers job
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -181,6 +182,7 @@ jobs:
       - name: Update DB (write changes)
         id: update_db
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -191,6 +193,7 @@ jobs:
       - name: Export, encrypt, and compress DB
         if: steps.update_db.outputs.db_changed == 'true'
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -206,7 +209,7 @@ jobs:
           path: src/data/trivia_database.db.gz
 
   update-readme:
-    needs: [lock, process-answers]
+    needs: process-answers
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -226,6 +229,7 @@ jobs:
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -235,6 +239,7 @@ jobs:
         run: python manage.py import-db
       - name: Run update readme job
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -245,6 +250,7 @@ jobs:
       - name: Update DB (write changes)
         id: update_db
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -255,6 +261,7 @@ jobs:
       - name: Export, encrypt, and compress DB
         if: steps.update_db.outputs.db_changed == 'true'
         env:
+          PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -275,7 +282,7 @@ jobs:
           path: src/data/trivia_database.db.gz
 
   commit-and-push:
-    needs: [lock, update-readme]
+    needs: update-readme
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
