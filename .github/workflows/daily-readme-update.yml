@@ -23,16 +23,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Import, decrypt, and decompress DB
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py import-db
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: db-artifact-latest
+          path: src/data/
       - name: Run new trivia job
         env:
           PYTHONPATH: src
@@ -42,37 +37,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py new-trivia
-      - name: Update DB (write changes)
-        id: update_db
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py update-db
-      - name: Export, encrypt, and compress DB
-        if: steps.update_db.outputs.db_changed == 'true'
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py export-db
-      - name: Upload DB artifact
+        run: python manage.py new-trivia --json-out src/data/trivia.json
+      - name: Upload trivia.json artifact
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact-latest
-          path: src/data/trivia_database.db.gz
+          name: trivia-json-artifact
+          path: src/data/trivia.json
 
   new-fact:
-    needs: new-trivia
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -90,16 +62,6 @@ jobs:
         with:
           name: db-artifact-latest
           path: src/data/
-      - name: Import, decrypt, and decompress DB
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py import-db
       - name: Run new fact job
         env:
           PYTHONPATH: src
@@ -109,37 +71,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py new-fact
-      - name: Update DB (write changes)
-        id: update_db
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py update-db
-      - name: Export, encrypt, and compress DB
-        if: steps.update_db.outputs.db_changed == 'true'
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py export-db
-      - name: Upload DB artifact
+        run: python manage.py new-fact --json-out src/data/fact.json
+      - name: Upload fact.json artifact
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact-latest
-          path: src/data/trivia_database.db.gz
+          name: fact-json-artifact
+          path: src/data/fact.json
 
   process-answers:
-    needs: new-fact
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -157,16 +96,6 @@ jobs:
         with:
           name: db-artifact-latest
           path: src/data/
-      - name: Import, decrypt, and decompress DB
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py import-db
       - name: Run process answers job
         env:
           PYTHONPATH: src
@@ -176,9 +105,50 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py process-answers
-      - name: Update DB (write changes)
-        id: update_db
+        run: python manage.py process-answers --json-out src/data/answers.json
+      - name: Upload answers.json artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: answers-json-artifact
+          path: src/data/answers.json
+
+  update-db:
+    needs: [new-trivia, new-fact, process-answers]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Download DB artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: db-artifact-latest
+          path: src/data/
+      - name: Download trivia.json artifact
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: trivia-json-artifact
+          path: src/data/
+      - name: Download fact.json artifact
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: fact-json-artifact
+          path: src/data/
+      - name: Download answers.json artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: answers-json-artifact
+          path: src/data/
+      - name: Update DB with new data
         env:
           PYTHONPATH: src
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
@@ -187,18 +157,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py update-db
-      - name: Export, encrypt, and compress DB
-        if: steps.update_db.outputs.db_changed == 'true'
-        env:
-          PYTHONPATH: src
-          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
-          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: ${{ github.repository_owner }}
-          GITHUB_REPO: ${{ github.event.repository.name }}
-        run: python manage.py export-db
+        run: python manage.py update-db --from-json src/data/trivia.json src/data/fact.json src/data/answers.json
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
         with:
@@ -206,7 +165,7 @@ jobs:
           path: src/data/trivia_database.db.gz
 
   update-readme:
-    needs: process-answers
+    needs: update-db
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
