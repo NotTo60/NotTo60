@@ -7,7 +7,7 @@
 
 ## 💡 Did You Know? • 25.07.2025
 
-Surprising fact: Annual growth of WWW traffic is 314,000%
+Today's discovery: A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."
 
 ---
 
