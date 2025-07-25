@@ -55,12 +55,37 @@ def update_db(from_json=None):
                     f.write("db_changed=false\n")
         logging.info("[manage.py] [update_db] Done.")
         if from_json:
+            from src.core.database import TriviaDatabase
+            db = TriviaDatabase()
             for json_file in from_json:
                 try:
                     with open(json_file) as f:
                         data = json.load(f)
                         logging.info(f"[UPDATE-DB] Loaded data from {json_file}: {type(data)}")
-                        # TODO: Implement logic to merge/update DB with this data
+                        # Detect and update trivia
+                        if isinstance(data, dict) and "question" in data and "options" in data:
+                            trivia_data = db.get_trivia_questions()
+                            trivia_data[data["timestamp"]] = data
+                            db.update_trivia_questions(trivia_data)
+                            logging.info(f"[UPDATE-DB] Updated trivia in DB from {json_file}")
+                        # Detect and update fact
+                        elif isinstance(data, dict) and "fact" in data:
+                            facts_data = db.get_daily_facts()
+                            timestamp = data.get("timestamp") or data.get("date") or list(facts_data.keys())[0]
+                            facts_data[timestamp] = data
+                            db.update_daily_facts(facts_data)
+                            logging.info(f"[UPDATE-DB] Updated fact in DB from {json_file}")
+                        # Detect and update leaderboard/answers
+                        elif isinstance(data, dict) and ("total_points" in data or "current_streak" in data or "total_answered" in data):
+                            # If this is a single user, wrap in a dict
+                            if "username" in data:
+                                leaderboard = {data["username"]: data}
+                            else:
+                                leaderboard = data
+                            db.update_leaderboard(leaderboard)
+                            logging.info(f"[UPDATE-DB] Updated leaderboard in DB from {json_file}")
+                        else:
+                            logging.warning(f"[UPDATE-DB] Unknown data type in {json_file}, skipping.")
                 except Exception as e:
                     logging.error(f"[UPDATE-DB] Failed to load {json_file}: {e}")
     except Exception as e:
