@@ -2,7 +2,7 @@ import sqlite3
 import gzip
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 from cryptography.hazmat.primitives import hashes
@@ -10,17 +10,27 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.fernet import Fernet
 import base64
 import secrets
+from core.config import DB_PATH, DB_COMPRESSED_PATH, DB_DIR
+import logging
+logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
+
+CURRENT_SCHEMA_VERSION = 1
 
 class TriviaDatabase:
-    def __init__(self, db_path="src/data/trivia.db"):
-        self.db_path = db_path
-        # Ensure the directory exists
-        Path(db_path).parent.mkdir(parents=True, exist_ok=True)
-        self.init_database()
+    def __init__(self, db_path=DB_PATH):
+        try:
+            self.db_path = db_path
+            # Ensure the directory exists
+            Path(DB_DIR).mkdir(parents=True, exist_ok=True)
+            self.init_database()
+        except Exception as e:
+            logging.error("[database.py] [__init__] Error initializing database: %s", e)
+            raise
 
     def _get_password(self):
         password = os.getenv("TRIVIA_DB_PASSWORD")
         if not password:
+            logging.error("[database.py] [_get_password] TRIVIA_DB_PASSWORD environment variable is required for database encryption.")
             raise RuntimeError("TRIVIA_DB_PASSWORD environment variable is required for database encryption.")
         return password.encode()
 
@@ -30,6 +40,7 @@ class TriviaDatabase:
             import base64
             env_salt = os.getenv("TRIVIA_DB_SALT")
             if not env_salt:
+                logging.error("[database.py] [_get_fernet] TRIVIA_DB_SALT environment variable is required for database encryption.")
                 raise RuntimeError("TRIVIA_DB_SALT environment variable is required for database encryption. Please set it as a base64-encoded 16-byte value.")
             salt = base64.b64decode(env_salt)
         kdf = PBKDF2HMAC(
@@ -42,12 +53,50 @@ class TriviaDatabase:
         key = base64.urlsafe_b64encode(kdf.derive(password))
         return Fernet(key)
 
-    def init_database(self):
-        """Initialize the database with required tables"""
+    def get_schema_version(self):
         try:
             with sqlite3.connect(self.db_path) as conn:
                 cursor = conn.cursor()
-                
+                cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='meta'")
+                if cursor.fetchone() is None:
+                    return 0
+                cursor.execute("SELECT schema_version FROM meta LIMIT 1")
+                row = cursor.fetchone()
+                if row:
+                    return int(row[0])
+                return 0
+        except Exception:
+            return 0
+
+    def set_schema_version(self, version):
+        with sqlite3.connect(self.db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute("INSERT OR REPLACE INTO meta (id, schema_version) VALUES (1, ?)", (version,))
+            conn.commit()
+
+    def migrate_schema(self, old_version):
+        # Example: future migrations
+        with sqlite3.connect(self.db_path) as conn:
+            cursor = conn.cursor()
+            # Add migration steps here for future versions
+            # if old_version < 2:
+            #     cursor.execute("ALTER TABLE ...")
+            #     ...
+            conn.commit()
+        logging.info(f"[database.py] [migrate_schema] Migrated schema from version {old_version} to {CURRENT_SCHEMA_VERSION}")
+
+    def init_database(self):
+        """Initialize the database with required tables and handle schema versioning"""
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                # Meta table for schema version
+                cursor.execute('''
+                    CREATE TABLE IF NOT EXISTS meta (
+                        id INTEGER PRIMARY KEY CHECK (id = 1),
+                        schema_version INTEGER NOT NULL
+                    )
+                ''')
                 # Create leaderboard table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS leaderboard (
@@ -61,7 +110,6 @@ class TriviaDatabase:
                         answer_history TEXT
                     )
                 ''')
-                
                 # Create daily_facts table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS daily_facts (
@@ -69,7 +117,6 @@ class TriviaDatabase:
                         fact TEXT NOT NULL
                     )
                 ''')
-                
                 # Create trivia_questions table
                 cursor.execute('''
                     CREATE TABLE IF NOT EXISTS trivia_questions (
@@ -80,9 +127,15 @@ class TriviaDatabase:
                         explanation TEXT
                     )
                 ''')
-                
                 conn.commit()
-                # Remove automatic import_compressed_data call here
+                # Check schema version and migrate if needed
+                version = self.get_schema_version()
+                if version < CURRENT_SCHEMA_VERSION:
+                    self.migrate_schema(version)
+                    self.set_schema_version(CURRENT_SCHEMA_VERSION)
+        except Exception as e:
+            logging.error("[database.py] [init_database] Error initializing database: %s", e)
+            raise
         except Exception as e:
             print(f"Error initializing database: {e}")
             # Try to create directory and retry
@@ -141,144 +194,181 @@ class TriviaDatabase:
     
     def compress_data(self, data):
         """Compress data using gzip"""
-        json_str = json.dumps(data, ensure_ascii=False)
-        return gzip.compress(json_str.encode('utf-8'))
+        try:
+            json_str = json.dumps(data, ensure_ascii=False)
+            return gzip.compress(json_str.encode('utf-8'))
+        except Exception as e:
+            logging.error("[database.py] [compress_data] Error compressing data: %s", e)
+            raise
     
     def decompress_data(self, compressed_data):
         """Decompress gzipped data"""
-        if compressed_data is None:
-            return None
-        decompressed = gzip.decompress(compressed_data)
-        return json.loads(decompressed.decode('utf-8'))
+        try:
+            if compressed_data is None:
+                return None
+            decompressed = gzip.decompress(compressed_data)
+            return json.loads(decompressed.decode('utf-8'))
+        except Exception as e:
+            logging.error("[database.py] [decompress_data] Error decompressing data: %s", e)
+            raise
 
     def encrypt_data(self, data_bytes):
-        f = self._get_fernet()
-        encrypted = f.encrypt(data_bytes)
-        return encrypted
+        try:
+            f = self._get_fernet()
+            encrypted = f.encrypt(data_bytes)
+            return encrypted
+        except Exception as e:
+            logging.error("[database.py] [encrypt_data] Error encrypting data: %s", e)
+            raise
 
     def decrypt_data(self, encrypted_bytes):
-        f = self._get_fernet()
         try:
+            f = self._get_fernet()
             decrypted = f.decrypt(encrypted_bytes)
             return decrypted
         except Exception as e:
+            logging.error("[database.py] [decrypt_data] Error decrypting data: %s", e)
             raise
     
     def update_leaderboard(self, leaderboard_data):
         """Update leaderboard with compressed data"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            
-            # Clear existing data
-            cursor.execute("DELETE FROM leaderboard")
-            
-            # Insert new data
-            for username, data in leaderboard_data.items():
-                compressed_history = self.compress_data(data.get('answer_history', []))
-                cursor.execute('''
-                    INSERT INTO leaderboard 
-                    (username, current_streak, total_correct, total_points, total_answered, 
-                     last_answered, last_trivia_date, answer_history)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-                ''', (
-                    username,
-                    data.get('current_streak', 0),
-                    data.get('total_correct', 0),
-                    data.get('total_points', 0),
-                    data.get('total_answered', 0),
-                    data.get('last_answered'),
-                    data.get('last_trivia_date'),
-                    compressed_history
-                ))
-            
-            conn.commit()
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                
+                # Clear existing data
+                cursor.execute("DELETE FROM leaderboard")
+                
+                # Insert new data
+                for username, data in leaderboard_data.items():
+                    compressed_history = self.compress_data(data.get('answer_history', []))
+                    cursor.execute('''
+                        INSERT INTO leaderboard 
+                        (username, current_streak, total_correct, total_points, total_answered, 
+                         last_answered, last_trivia_date, answer_history)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    ''', (
+                        username,
+                        data.get('current_streak', 0),
+                        data.get('total_correct', 0),
+                        data.get('total_points', 0),
+                        data.get('total_answered', 0),
+                        data.get('last_answered'),
+                        data.get('last_trivia_date'),
+                        compressed_history
+                    ))
+                
+                conn.commit()
+        except Exception as e:
+            logging.error("[database.py] [update_leaderboard] Error updating leaderboard: %s", e)
+            raise
     
     def get_leaderboard(self):
         """Get leaderboard data with decompressed history"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            cursor.execute("SELECT * FROM leaderboard")
-            rows = cursor.fetchall()
-            
-            leaderboard = {}
-            for row in rows:
-                username, streak, correct, points, answered, last_answered, last_date, compressed_history = row
-                leaderboard[username] = {
-                    'current_streak': streak,
-                    'total_correct': correct,
-                    'total_points': points,
-                    'total_answered': answered,
-                    'last_answered': last_answered,
-                    'last_trivia_date': last_date,
-                    'answer_history': self.decompress_data(compressed_history) or []
-                }
-            
-            return leaderboard
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("SELECT * FROM leaderboard")
+                rows = cursor.fetchall()
+                
+                leaderboard = {}
+                for row in rows:
+                    username, streak, correct, points, answered, last_answered, last_date, compressed_history = row
+                    leaderboard[username] = {
+                        'current_streak': streak,
+                        'total_correct': correct,
+                        'total_points': points,
+                        'total_answered': answered,
+                        'last_answered': last_answered,
+                        'last_trivia_date': last_date,
+                        'answer_history': self.decompress_data(compressed_history) or []
+                    }
+                
+                return leaderboard
+        except Exception as e:
+            logging.error("[database.py] [get_leaderboard] Error getting leaderboard: %s", e)
+            return {}
     
     def update_daily_facts(self, facts_data):
         """Update daily facts with compressed data (timestamp as PK)"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            for timestamp, fact_data in facts_data.items():
-                cursor.execute('''
-                    INSERT OR IGNORE INTO daily_facts (timestamp, fact)
-                    VALUES (?, ?)
-                ''', (timestamp, fact_data['fact']))
-            conn.commit()
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                for timestamp, fact_data in facts_data.items():
+                    cursor.execute('''
+                        INSERT OR IGNORE INTO daily_facts (timestamp, fact)
+                        VALUES (?, ?)
+                    ''', (timestamp, fact_data['fact']))
+                conn.commit()
+        except Exception as e:
+            logging.error("[database.py] [update_daily_facts] Error updating daily facts: %s", e)
+            raise
     
     def get_daily_facts(self):
         """Get daily facts data"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            cursor.execute("SELECT timestamp, fact FROM daily_facts ORDER BY timestamp DESC")
-            rows = cursor.fetchall()
-            facts = {}
-            for row in rows:
-                timestamp, fact = row
-                facts[timestamp] = {
-                    'fact': fact,
-                    'timestamp': timestamp
-                }
-            return facts
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("SELECT timestamp, fact FROM daily_facts ORDER BY timestamp DESC")
+                rows = cursor.fetchall()
+                facts = {}
+                for row in rows:
+                    timestamp, fact = row
+                    facts[timestamp] = {
+                        'fact': fact,
+                        'timestamp': timestamp
+                    }
+                return facts
+        except Exception as e:
+            logging.error("[database.py] [get_daily_facts] Error getting daily facts: %s", e)
+            return {}
 
     def get_trivia_questions(self):
         """Get trivia questions data with decompressed options"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            cursor.execute("SELECT * FROM trivia_questions ORDER BY timestamp DESC")
-            rows = cursor.fetchall()
-            trivia = {}
-            for row in rows:
-                timestamp, question, compressed_options, correct_answer, explanation = row
-                trivia[timestamp] = {
-                    'question': question,
-                    'options': self.decompress_data(compressed_options) if hasattr(self, 'decompress_data') else {},
-                    'correct_answer': correct_answer,
-                    'explanation': explanation,
-                    'timestamp': timestamp
-                }
-            return trivia
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("SELECT * FROM trivia_questions ORDER BY timestamp DESC")
+                rows = cursor.fetchall()
+                trivia = {}
+                for row in rows:
+                    timestamp, question, compressed_options, correct_answer, explanation = row
+                    trivia[timestamp] = {
+                        'question': question,
+                        'options': self.decompress_data(compressed_options) if hasattr(self, 'decompress_data') else {},
+                        'correct_answer': correct_answer,
+                        'explanation': explanation,
+                        'timestamp': timestamp
+                    }
+                return trivia
+        except Exception as e:
+            logging.error("[database.py] [get_trivia_questions] Error getting trivia questions: %s", e)
+            return {}
     
     def update_trivia_questions(self, trivia_data):
         """Update trivia questions with compressed data (timestamp as PK)"""
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            for timestamp, question_data in trivia_data.items():
-                compressed_options = self.compress_data(question_data.get('options', {}))
-                cursor.execute('''
-                    INSERT OR REPLACE INTO trivia_questions 
-                    (timestamp, question, options, correct_answer, explanation)
-                    VALUES (?, ?, ?, ?, ?)
-                ''', (
-                    timestamp,
-                    question_data.get('question', ''),
-                    compressed_options,
-                    question_data.get('correct_answer', ''),
-                    question_data.get('explanation', '')
-                ))
-            conn.commit()
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                for timestamp, question_data in trivia_data.items():
+                    compressed_options = self.compress_data(question_data.get('options', {}))
+                    cursor.execute('''
+                        INSERT OR REPLACE INTO trivia_questions 
+                        (timestamp, question, options, correct_answer, explanation)
+                        VALUES (?, ?, ?, ?, ?)
+                    ''', (
+                        timestamp,
+                        question_data.get('question', ''),
+                        compressed_options,
+                        question_data.get('correct_answer', ''),
+                        question_data.get('explanation', '')
+                    ))
+                conn.commit()
+        except Exception as e:
+            logging.error("[database.py] [update_trivia_questions] Error updating trivia questions: %s", e)
+            raise
     
-    def export_compressed_data(self, output_dir="src/data"):
+    def export_compressed_data(self, output_dir=DB_DIR):
         """Export all database tables to a single compressed file for GitHub Actions"""
         Path(output_dir).mkdir(parents=True, exist_ok=True)
         
@@ -293,14 +383,14 @@ class TriviaDatabase:
         # Export to single compressed file
         compressed_data = self.compress_data(all_data)
         encrypted = self.encrypt_data(compressed_data)
-        with open(f"{output_dir}/trivia_database.db.gz", "wb") as f:
+        with open(DB_COMPRESSED_PATH, "wb") as f:
             f.write(encrypted)
         
-        print("✅ Database exported to single encrypted compressed file")
+        logging.info("[database.py] [export_compressed_data] Database exported to single encrypted compressed file")
     
-    def import_compressed_data(self, input_dir="src/data"):
+    def import_compressed_data(self, input_dir=DB_DIR):
         """Import single compressed data file into database (for backup restoration)"""
-        database_path = f"{input_dir}/trivia_database.db.gz"
+        database_path = DB_COMPRESSED_PATH
         if os.path.exists(database_path):
             with open(database_path, "rb") as f:
                 encrypted = f.read()
@@ -329,3 +419,42 @@ class TriviaDatabase:
                     self.update_trivia_questions(all_data["trivia_questions"])
         else:
             print("❌ No compressed database file found") 
+
+    def prune_trivia_questions(self, days=90):
+        """Delete trivia questions older than the specified number of days."""
+        try:
+            cutoff = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("DELETE FROM trivia_questions WHERE substr(timestamp, 1, 10) < ?", (cutoff,))
+                deleted = cursor.rowcount
+                conn.commit()
+            logging.info(f"[database.py] [prune_trivia_questions] Pruned {deleted} trivia questions older than {cutoff}.")
+        except Exception as e:
+            logging.error("[database.py] [prune_trivia_questions] Error pruning trivia questions: %s", e)
+
+    def prune_daily_facts(self, days=90):
+        """Delete daily facts older than the specified number of days."""
+        try:
+            cutoff = (datetime.now() - timedelta(days=days)).strftime('%Y-%m-%d')
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("DELETE FROM daily_facts WHERE substr(timestamp, 1, 10) < ?", (cutoff,))
+                deleted = cursor.rowcount
+                conn.commit()
+            logging.info(f"[database.py] [prune_daily_facts] Pruned {deleted} daily facts older than {cutoff}.")
+        except Exception as e:
+            logging.error("[database.py] [prune_daily_facts] Error pruning daily facts: %s", e)
+
+    def prune_leaderboard(self, min_last_answered_days=180):
+        """Delete leaderboard entries for users who haven't answered in more than min_last_answered_days days."""
+        try:
+            cutoff = (datetime.now() - timedelta(days=min_last_answered_days)).strftime('%Y-%m-%d')
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute("DELETE FROM leaderboard WHERE last_answered IS NOT NULL AND substr(last_answered, 1, 10) < ?", (cutoff,))
+                deleted = cursor.rowcount
+                conn.commit()
+            logging.info(f"[database.py] [prune_leaderboard] Pruned {deleted} leaderboard entries with last_answered before {cutoff}.")
+        except Exception as e:
+            logging.error("[database.py] [prune_leaderboard] Error pruning leaderboard: %s", e) 

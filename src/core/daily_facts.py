@@ -15,16 +15,25 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from core.config import *
 from core.database import TriviaDatabase
+import logging
+logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
+
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=2, max=10), retry=retry_if_exception_type(Exception))
+def requests_get_with_retries(*args, **kwargs):
+    import requests
+    return requests.get(*args, **kwargs)
 
 def fetch_random_fact() -> Optional[str]:
     """Fetch a random fact from uselessfacts API"""
     try:
-        response = requests.get(DAILY_FACT_SOURCES["random_facts"], timeout=API_TIMEOUT)
+        response = requests_get_with_retries(DAILY_FACT_SOURCES["random_facts"], timeout=API_TIMEOUT)
         if response.status_code == 200:
             data = response.json()
             return data.get('text', '')
     except Exception as e:
-        print(f"Error fetching random fact: {e}")
+        logging.error("[daily_facts.py] [fetch_random_fact] API failed after retries: %s", e)
     return None
 
 def generate_fallback_daily_fact() -> str:
@@ -53,7 +62,50 @@ def generate_fallback_daily_fact() -> str:
         "Your body contains enough carbon to fill 900 pencils!",
         "The human body contains enough iron to make a 3-inch nail!",
         "A day on Mars is only 37 minutes longer than a day on Earth!",
-        "There are more atoms in a glass of water than glasses of water in all the oceans!"
+        "There are more atoms in a glass of water than glasses of water in all the oceans!",
+        "The Eiffel Tower can be 15 cm taller during hot days.",
+        "Wombat poop is cube-shaped.",
+        "The inventor of the Frisbee was turned into a Frisbee after he died.",
+        "A group of crows is called a murder.",
+        "The unicorn is the national animal of Scotland.",
+        "Sloths can hold their breath longer than dolphins can.",
+        "The dot over the letter 'i' is called a tittle.",
+        "A snail can sleep for three years.",
+        "The longest wedding veil was the same length as 63.5 football fields.",
+        "Some turtles can breathe through their butts.",
+        "The inventor of the microwave only received $2 for his discovery.",
+        "A group of porcupines is called a prickle.",
+        "The first computer mouse was made of wood.",
+        "A jiffy is an actual unit of time.",
+        "The world’s largest grand piano was built by a 15-year-old in New Zealand.",
+        "The tongue of a blue whale weighs as much as an elephant.",
+        "The Twitter bird actually has a name – Larry.",
+        "A group of frogs is called an army.",
+        "The inventor of the Rubik’s Cube couldn’t solve it for over a month.",
+        "The hottest spot on the planet is in Libya.",
+        "The inventor of the Super Soaker was a NASA engineer.",
+        "A group of owls is called a parliament.",
+        "The first oranges weren’t orange.",
+        "A group of ferrets is called a business.",
+        "The world’s largest desert is not the Sahara, but Antarctica.",
+        "Venus is the only planet to spin clockwise.",
+        "A group of ravens is called an unkindness.",
+        "The inventor of the telephone never called his wife or mother because they were deaf.",
+        "A group of flamingos is called a stand.",
+        "The only letter not in any U.S. state name is Q.",
+        "The first alarm clock could only ring at 4 a.m.",
+        "A group of giraffes is called a tower.",
+        "The inventor of the trampoline called it a rebound tumbler.",
+        "The first person convicted of speeding was going 8 mph.",
+        "The world’s largest snowflake was 15 inches wide.",
+        "A group of hippos is called a bloat.",
+        "The inventor of the lightbulb also invented the phonograph.",
+        "The world’s deepest postbox is in Susami Bay, Japan.",
+        "A group of jellyfish is called a smack.",
+        "The inventor of the Popsicle was 11 years old.",
+        "The first webcam watched a coffee pot.",
+        "A group of zebras is called a dazzle.",
+        "The inventor of the crossword puzzle was a journalist named Arthur Wynne."
     ]
     return random.choice(fallback_facts)
 
@@ -72,7 +124,7 @@ def get_daily_fact() -> Dict[str, str]:
                     "raw_fact": fact
                 }
         except Exception as e:
-            print(f"Error with fetch_random_fact: {e}")
+            logging.error("[daily_facts.py] [get_daily_fact] Error with fetch_random_fact: %s", e)
             continue
     # Fallback to generated fact
     fallback_fact = generate_fallback_daily_fact()
@@ -89,35 +141,30 @@ def load_daily_facts():
     """Load existing daily facts data from database"""
     try:
         db = TriviaDatabase()
-        return db.get_daily_facts()
+        facts = db.get_daily_facts()
+        return facts
     except Exception as e:
-        print(f"Error loading daily facts from database: {e}")
-        # Return empty facts as fallback
+        logging.error("[daily_facts.py] [load_daily_facts] Error loading daily facts: %s", e)
         return {}
 
-def save_daily_facts(daily_facts_data):
+def save_daily_facts(facts):
     """Save daily facts data to database"""
     try:
         db = TriviaDatabase()
-        db.update_daily_facts(daily_facts_data)
+        db.update_daily_facts(facts)
         # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
-        print(f"Error saving daily facts to database: {e}")
-        # Continue without saving if database fails
+        logging.error("[daily_facts.py] [save_daily_facts] Error saving daily facts: %s", e)
 
 def get_todays_fact() -> Dict[str, str]:
     """Get today's fact, generating a new one if needed, ensuring uniqueness. Never override if exists."""
-    db = TriviaDatabase()
-    facts = db.get_daily_facts()
-    today = datetime.now().strftime('%Y-%m-%d')
-    # Check if we already have a fact for today (using YYYY-MM-DD only)
+    today = datetime.now().strftime("%Y-%m-%d")
+    facts = load_daily_facts()
     if today in facts:
         fact = facts[today]
-        print(f"🌞 Fact for today ({today}) already exists:")
-        print(f"    {fact['fact']}")
-        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+        logging.info("[daily_facts.py] [get_todays_fact] Fact for today (%s) already exists: %s (added at %s)", today, fact.get('fact'), fact.get('timestamp'))
         return fact
-    print(f"[DEBUG] No fact for today, will fetch new.")
+    logging.info("[daily_facts.py] [get_todays_fact] No fact for today, will fetch new.")
     # Only fetch if not exists
     previous_facts = set(fact['fact'] for fact in facts.values())
     max_api_attempts = 2
@@ -140,29 +187,30 @@ def get_todays_fact() -> Dict[str, str]:
         else:
             raise RuntimeError("No unique facts available from API or local fallback.")
     # Save using today as the key and timestamp
+    db = TriviaDatabase()
     db.update_daily_facts({today: {"fact": new_fact["fact"], "timestamp": today}})
-    print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
+    logging.info("[daily_facts.py] [get_todays_fact] Added fact for %s: %s", today, new_fact['fact'])
     return {"fact": new_fact["fact"], "timestamp": today}
 
 if __name__ == "__main__":
     # Test the daily facts module
-    print("🧪 Testing Daily Facts Module")
-    print("=" * 40)
+    logging.info("🧪 Testing Daily Facts Module")
+    logging.info("=" * 40)
     
     # Test different categories
     categories = ["random", "food", "time", "countries", "general"]
     
     for category in categories:
-        print(f"\n📡 Fetching {category} daily fact...")
+        logging.info("\n📡 Fetching %s daily fact...", category)
         result = get_daily_fact()
-        print(f"✅ {result['fact']}")
-        print(f"   Source: {result['source']}")
-        print(f"   Category: {result['category']}")
+        logging.info("✅ %s", result['fact'])
+        logging.info("   Source: %s", result['source'])
+        logging.info("   Category: %s", result['category'])
     
     # Test today's fact
-    print(f"\n📅 Today's fact:")
+    logging.info("\n📅 Today's fact:")
     today_fact = get_todays_fact()
-    print(f"✅ {today_fact['fact']}")
-    print(f"   Date: {today_fact['timestamp'][:10]}")
+    logging.info("✅ %s", today_fact['fact'])
+    logging.info("   Date: %s", today_fact['timestamp'][:10])
     if 'source' in today_fact:
-        print(f"   Source: {today_fact['source']}") 
+        logging.info("   Source: %s", today_fact['source']) 

@@ -16,19 +16,29 @@ from core.config import *
 from core.database import TriviaDatabase
 from core.points_system import calculate_points_for_streak, get_streak_bonus_info, format_points_display
 import random
-import uuid
+import logging
+logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 
-def is_valid_uuid(val):
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=2, max=10), retry=retry_if_exception_type(Exception))
+def requests_with_retries(method, *args, **kwargs):
+    import requests
     try:
-        uuid.UUID(str(val))
-        return True
-    except ValueError:
-        return False
+        resp = getattr(requests, method)(*args, **kwargs)
+        if resp.status_code == 429:
+            logging.error("[process_answers.py] [requests_with_retries] GitHub API rate limit hit (429). Retrying...")
+        elif 500 <= resp.status_code < 600:
+            logging.error(f"[process_answers.py] [requests_with_retries] GitHub API server error ({resp.status_code}). Retrying...")
+        return resp
+    except Exception as e:
+        logging.error(f"[process_answers.py] [requests_with_retries] Exception: {e}")
+        raise
 
 def get_github_issues():
     """Fetch recent trivia answer issues from GitHub"""
     if not GITHUB_TOKEN:
-        print("⚠️  No GitHub token provided, skipping answer processing")
+        logging.warning("[process_answers.py] [get_github_issues] No GitHub token provided, skipping answer processing")
         return []
     
     headers = {
@@ -43,11 +53,11 @@ def get_github_issues():
     }
     
     try:
-        response = requests.get(url, headers=headers, params=params)
+        response = requests_with_retries('get', url, headers=headers, params=params)
         response.raise_for_status()
         return response.json()
     except Exception as e:
-        print(f"Error fetching issues: {e}")
+        logging.error("[process_answers.py] [get_github_issues] API failed after retries: %s", e)
         return []
 
 def parse_answer_from_issue(issue):
@@ -108,7 +118,7 @@ def parse_trivia_date_from_issue(issue):
     match = re.search(r'([0-9]{4}-[0-9]{2}-[0-9]{2})', body)
     if match:
         return match.group(1)
-    print(f"[DEBUG] Could not find trivia date in issue body: {body}")
+    logging.warning("[process_answers.py] [parse_trivia_date_from_issue] Could not find trivia date in issue body: %s", body)
     return None
 
 def load_trivia_data():
@@ -129,7 +139,7 @@ def load_trivia_data():
         
         return {"current": current, "history": history}
     except Exception as e:
-        print(f"Error loading trivia data from database: {e}")
+        logging.error("[process_answers.py] [load_trivia_data] Error loading trivia data from database: %s", e)
         # Return empty data structure as fallback
         return {"current": None, "history": []}
 
@@ -139,7 +149,7 @@ def load_leaderboard():
         db = TriviaDatabase()
         return db.get_leaderboard()
     except Exception as e:
-        print(f"Error loading leaderboard from database: {e}")
+        logging.error("[process_answers.py] [load_leaderboard] Error loading leaderboard from database: %s", e)
         # Return empty leaderboard as fallback
         return {}
 
@@ -150,7 +160,7 @@ def save_leaderboard(leaderboard):
         db.update_leaderboard(leaderboard)
         db.export_compressed_data()
     except Exception as e:
-        print(f"Error saving leaderboard to database: {e}")
+        logging.error("[process_answers.py] [save_leaderboard] Error saving leaderboard to database: %s", e)
         # Continue without saving if database fails
 
 def can_user_answer_today(leaderboard, username, current_trivia_date):
@@ -181,7 +191,7 @@ def can_user_answer_today(leaderboard, username, current_trivia_date):
                 if last_date == current_date:
                     return False, f"Answered recently (within {GRACE_PERIOD_HOURS} hours grace period)"
         except Exception as e:
-            print(f"Error parsing last_answered time for {username}: {e}")
+            logging.error("[process_answers.py] [can_user_answer_today] Error parsing last_answered time for %s: %s", username, e)
     
     return True, None
 
@@ -247,7 +257,7 @@ def update_user_stats(leaderboard, username, is_correct, trivia_date=None):
 def close_issue(issue_number, comment):
     """Close a GitHub issue with a comment"""
     if not GITHUB_TOKEN:
-        print("❌ No GitHub token provided, cannot close issue.")
+        logging.error("[process_answers.py] [close_issue] No GitHub token provided, cannot close issue.")
         return
     
     headers = {
@@ -257,19 +267,21 @@ def close_issue(issue_number, comment):
     
     # Add comment
     comment_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/issues/{issue_number}/comments"
-    resp = requests.post(comment_url, headers=headers, json={'body': comment})
-    if resp.status_code >= 300:
-        print(f"❌ Failed to comment on issue #{issue_number}: {resp.status_code} {resp.text}")
-    else:
-        print(f"✅ Commented on issue #{issue_number}")
+    try:
+        resp = requests_with_retries('post', comment_url, headers=headers, json={'body': comment})
+        resp.raise_for_status()
+        logging.info("[process_answers.py] [close_issue] Commented on issue #%s", issue_number)
+    except Exception as e:
+        logging.error("[process_answers.py] [close_issue] API failed after retries (comment): %s", e)
     
     # Close issue
     close_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/issues/{issue_number}"
-    resp = requests.patch(close_url, headers=headers, json={'state': 'closed'})
-    if resp.status_code >= 300:
-        print(f"❌ Failed to close issue #{issue_number}: {resp.status_code} {resp.text}")
-    else:
-        print(f"✅ Closed issue #{issue_number}")
+    try:
+        resp = requests_with_retries('patch', close_url, headers=headers, json={'state': 'closed'})
+        resp.raise_for_status()
+        logging.info("[process_answers.py] [close_issue] Closed issue #%s", issue_number)
+    except Exception as e:
+        logging.error("[process_answers.py] [close_issue] API failed after retries (close): %s", e)
 
 def mark_unplanned_issues(issues, processed_issue_numbers):
     """Mark any remaining open issues as unplanned for the next day and close them."""
@@ -286,7 +298,7 @@ def mark_unplanned_issues(issues, processed_issue_numbers):
 
 def process_answers():
     """Main function to process all trivia answers"""
-    print("🔍 Processing trivia answers...")
+    logging.info("[process_answers.py] [process_answers] Starting trivia answer processing.")
     
     # Load data
     trivia_data = load_trivia_data()
@@ -318,13 +330,13 @@ def process_answers():
         answer = parse_answer_from_issue(issue)
         
         if not answer:
-            print(f"⚠️  Could not parse answer from issue #{issue_number}")
+            logging.warning("[process_answers.py] [process_answers] Could not parse answer from issue #%s", issue_number)
             continue
         
         # Parse trivia date from issue
         trivia_date = parse_trivia_date_from_issue(issue)
         if not trivia_date or trivia_date not in trivia_questions_by_date:
-            print(f"⚠️  Could not determine trivia date for issue #{issue_number}")
+            logging.warning("[process_answers.py] [process_answers] Could not determine trivia date for issue #%s", issue_number)
             continue
         trivia = trivia_questions_by_date[trivia_date]
         correct_answer = trivia['correct_answer']
@@ -411,16 +423,17 @@ Come back tomorrow for another chance!"""
     for user in to_remove_zero_correct:
         del leaderboard[user]
     if to_remove_zero_correct:
-        print(f"[DEBUG] Removed users with 0 correct answers: {to_remove_zero_correct}")
+        logging.debug("[process_answers.py] [process_answers] Removed users with 0 correct answers: %s", to_remove_zero_correct)
 
     # Save updated leaderboard
     save_leaderboard(leaderboard)
-    print(f"🧾 Total trivia answer issues found: {total_trivia_issues}")
-    print(f"✅ Processed {processed_count} answers (Correct: {correct_count})")
-    print(f"[DEBUG] Removed users with 0 answers: {to_remove}")
+    logging.info("[process_answers.py] [process_answers] Processed trivia answer issues found: %s", total_trivia_issues)
+    logging.info("[process_answers.py] [process_answers] Processed %s answers (Correct: %s)", processed_count, correct_count)
+    logging.debug("[process_answers.py] [process_answers] Removed users with 0 answers: %s", to_remove)
 
     # After processing, mark and close any remaining open issues
     mark_unplanned_issues(issues, processed_issue_numbers)
+    logging.info("[process_answers.py] [process_answers] Finished trivia answer processing.")
 
 def main():
     """Main function"""

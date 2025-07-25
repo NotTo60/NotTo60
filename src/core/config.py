@@ -4,9 +4,24 @@ import os
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # GitHub Configuration
-GITHUB_TOKEN = os.getenv('GH_TOKEN')
-GITHUB_USERNAME = os.getenv('GITHUB_USERNAME', 'NotTo60')
-GITHUB_REPO = os.getenv('GITHUB_REPO', 'NotTo60')
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+GITHUB_USERNAME = os.getenv('GITHUB_USERNAME')
+GITHUB_REPO = os.getenv('GITHUB_REPO')
+
+# Config validation
+REQUIRED_ENV_VARS = [
+    ('OPENAI_API_KEY', OPENAI_API_KEY),
+    ('GITHUB_TOKEN', GITHUB_TOKEN),
+    ('GITHUB_USERNAME', GITHUB_USERNAME),
+    ('GITHUB_REPO', GITHUB_REPO),
+]
+
+def validate_config():
+    missing = [name for name, value in REQUIRED_ENV_VARS if not value]
+    if missing:
+        raise RuntimeError(f"Missing required environment variables: {', '.join(missing)}")
+
+validate_config()
 
 # Daily "Did You Know?" Fact Sources
 DAILY_FACT_SOURCES = {
@@ -42,6 +57,13 @@ DAILY_FACT_CATEGORIES = [
 TRIVIA_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "trivia.json")
 LEADERBOARD_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "leaderboard.json")
 DAILY_FACTS_FILE = os.path.join(os.path.dirname(__file__), "..", "data", "daily_facts.json")
+
+# Centralized file paths and flag names
+DB_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+DB_PATH = os.path.join(DB_DIR, "trivia.db")
+DB_COMPRESSED_PATH = os.path.join(DB_DIR, "trivia_database.db.gz")
+DB_CHANGED_FLAG = os.path.join(os.path.dirname(__file__), "..", ".db_changed")
+README_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "README.md")
 
 # Streak configuration
 MIN_STREAK_FOR_LEADERBOARD = 1

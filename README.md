@@ -56,3 +56,98 @@ Incredible fact: A `jiffy` is a unit of time for 1/100th of a second.
 
 
 *Questions and facts are automatically generated daily at 12:00 AM UTC!*
+
+> **⏰ Timezone Note:**
+> - All daily cutoffs and leaderboard resets are based on **UTC (Coordinated Universal Time)**.
+> - If you are in a different timezone, the new trivia and fact may appear in your morning, afternoon, or evening depending on your local time.
+> - Answers are accepted for the UTC day only. If you answer just before or after midnight UTC, your answer may count for the previous or next day's question.
+
+## FAQ
+
+**Q: Why did my answer not count for today?**
+- A: All answers are matched to the UTC day. If you submit an answer just before or after midnight UTC, it may count for the previous or next day's question. Check the UTC time and try to answer after the new question is posted (12:00 AM UTC).
+
+## 🚀 Deployment
+
+### **Requirements**
+- Python 3.9+
+- SQLite3
+- GitHub repository with Actions enabled
+- OpenAI API key (for trivia generation)
+- **Environment variables (required):**
+  - `OPENAI_API_KEY`: For trivia generation
+  - `GITHUB_TOKEN`: For issue processing (must be set in workflow)
+  - `GITHUB_USERNAME`: Repository owner (set in workflow)
+  - `GITHUB_REPO`: Repository name (set in workflow)
+
+### **Setup Steps**
+1. Clone repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Set GitHub secrets (API keys)
+4. Enable GitHub Actions
+5. Trigger initial workflow run
+
+---
+
+## 🛠️ Troubleshooting & Recovery
+
+### Common Issues
+
+- **Missing environment variable error:**
+  - Ensure all required variables (`OPENAI_API_KEY`, `GITHUB_TOKEN`, `GITHUB_USERNAME`, `GITHUB_REPO`) are set in your environment or workflow.
+
+- **Lost database password or salt:**
+  - If you lose `TRIVIA_DB_PASSWORD` or `TRIVIA_DB_SALT`, you cannot decrypt the database. You must restore from a previous backup or start a new database.
+  - Always keep a secure backup of your secrets.
+
+- **Corrupted or unreadable database:**
+  - If the DB file is corrupted, restore from the latest working backup in your git history or artifact storage.
+  - If you see decryption errors, check that your password and salt are correct and match the ones used to encrypt the DB.
+
+- **API failures (OpenAI, GitHub):**
+  - The system will retry failed API calls with exponential backoff. If rate limits are hit, the logs will show clear messages.
+  - If failures persist, check your API keys, network, and service status.
+
+- **Schema migration/version errors:**
+  - If you see errors about schema version, ensure you are running the latest code and that the DB is not from an unsupported future version.
+  - The system will auto-migrate older DBs to the current schema version when possible.
+
+### Recovery Steps
+
+1. **Restore from backup:**
+   - Use a previous version of `src/data/trivia_database.db.gz` from your git history or artifact storage.
+2. **Reset secrets:**
+   - If secrets are lost, set new ones and re-encrypt the DB if needed.
+3. **Check logs:**
+   - Review workflow and application logs for detailed error messages and troubleshooting hints.
+4. **Contact support/community:**
+   - If you are stuck, open an issue on the repository or ask for help in the project community.
+
+---
+
+## Running Tests
+
+1. **Create and activate a virtual environment:**
+   ```sh
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
+2. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. **Run the test suite:**
+   ```sh
+   PYTHONPATH=src python3 src/core/test_import_real_db.py
+   ```
+
+## Dependencies
+
+- All dependencies are listed in `requirements.txt`.
+- Notable: `tenacity` is used for robust retries/backoff on all API calls (OpenAI, GitHub, facts APIs).
+
+## Troubleshooting
+
+- If you see `ImportError` for a package, make sure your virtual environment is activated and dependencies are installed.
+- If you see `ModuleNotFoundError: No module named 'core'`, use `PYTHONPATH=src` when running scripts from the project root.
+- If you see `zsh: command not found: python`, use `python3` instead of `python`.

@@ -19,6 +19,10 @@ from core.database import TriviaDatabase
 from core.points_system import get_streak_emoji, format_points_display
 import difflib
 from typing import Dict
+import logging
+logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
+
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 def get_utc_today():
     return datetime.now(timezone.utc).strftime(DATE_FORMAT)
@@ -31,6 +35,23 @@ def setup_openai():
     if not OPENAI_API_KEY:
         raise ValueError("OPENAI_API_KEY environment variable is required")
     return OpenAI(api_key=OPENAI_API_KEY)
+
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=2, max=10), retry=retry_if_exception_type(Exception))
+def openai_with_retries(client, *args, **kwargs):
+    try:
+        resp = client.chat.completions.create(*args, **kwargs)
+        # OpenAI returns errors as exceptions, but check for rate limit in response if present
+        if hasattr(resp, 'status_code') and resp.status_code == 429:
+            logging.error("[daily_trivia.py] [openai_with_retries] OpenAI API rate limit hit (429). Retrying...")
+        return resp
+    except Exception as e:
+        if 'rate limit' in str(e).lower() or '429' in str(e):
+            logging.error("[daily_trivia.py] [openai_with_retries] OpenAI API rate limit hit (429). Retrying...")
+        elif '5' in str(e) and 'server' in str(e).lower():
+            logging.error(f"[daily_trivia.py] [openai_with_retries] OpenAI API server error. Retrying...")
+        else:
+            logging.error(f"[daily_trivia.py] [openai_with_retries] Exception: {e}")
+        raise
 
 def generate_trivia_question():
     """Generate a trivia question using OpenAI"""
@@ -65,22 +86,37 @@ def generate_trivia_question():
     Only return the JSON, no other text."""
     try:
         client = setup_openai()
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=MAX_TOKENS,
-            temperature=TEMPERATURE
-        )
+        try:
+            response = openai_with_retries(
+                client,
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=MAX_TOKENS,
+                temperature=TEMPERATURE
+            )
+        except Exception as e:
+            logging.error("[daily_trivia.py] [generate_trivia_question] OpenAI API failed after retries: %s", e)
+            raise
         content = response.choices[0].message.content.strip()
-        # Extract JSON from response
-        if content.startswith('```json'):
-            content = content[7:-3]
-        elif content.startswith('```'):
-            content = content[3:-3]
-        trivia_data = json.loads(content)
+        # Robustly extract JSON from response
+        import re
+        def extract_json(text):
+            # Try to find the first {...} block
+            match = re.search(r'\{[\s\S]*\}', text)
+            if match:
+                try:
+                    return json.loads(match.group(0))
+                except Exception as e:
+                    logging.error(f"[daily_trivia.py] [generate_trivia_question] JSON extraction failed: {e}")
+            raise ValueError("No valid JSON found in OpenAI response")
+        try:
+            trivia_data = extract_json(content)
+        except Exception as e:
+            logging.error(f"[daily_trivia.py] [generate_trivia_question] Could not extract valid JSON: {e}\nRaw content: {content}")
+            raise
         return trivia_data
     except Exception as e:
-        print(f"Error generating trivia with OpenAI: {e}")
+        logging.error("[daily_trivia.py] [generate_trivia_question] Failed to generate trivia: %s", e)
         sys.exit(1)
 
 def create_standalone_trivia(category):
@@ -120,9 +156,120 @@ def create_standalone_trivia(category):
             "correct_answer": "A",
             "category": "general",
             "explanation": "The first iPhone was launched by Apple in 2007."
+        },
+        "history": {
+            "question": "Who was the first President of the United States?",
+            "options": {"A": "George Washington", "B": "Thomas Jefferson", "C": "Abraham Lincoln"},
+            "correct_answer": "A",
+            "category": "history",
+            "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+        },
+        "geography": {
+            "question": "What is the longest river in the world?",
+            "options": {"A": "Nile", "B": "Amazon", "C": "Yangtze"},
+            "correct_answer": "A",
+            "category": "geography",
+            "explanation": "The Nile River is generally regarded as the longest river in the world."
+        },
+        "literature": {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": {"A": "William Shakespeare", "B": "Jane Austen", "C": "Charles Dickens"},
+            "correct_answer": "A",
+            "category": "literature",
+            "explanation": "William Shakespeare is the author of 'Romeo and Juliet'."
+        },
+        "sports": {
+            "question": "Which country won the FIFA World Cup in 2018?",
+            "options": {"A": "France", "B": "Brazil", "C": "Germany"},
+            "correct_answer": "A",
+            "category": "sports",
+            "explanation": "France won the 2018 FIFA World Cup."
+        },
+        "entertainment": {
+            "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+            "options": {"A": "Robert Downey Jr.", "B": "Chris Evans", "C": "Mark Ruffalo"},
+            "correct_answer": "A",
+            "category": "entertainment",
+            "explanation": "Robert Downey Jr. played Tony Stark/Iron Man."
+        },
+        "technology": {
+            "question": "What does 'HTTP' stand for?",
+            "options": {"A": "HyperText Transfer Protocol", "B": "High Tech Transfer Protocol", "C": "Hyperlink Transfer Protocol"},
+            "correct_answer": "A",
+            "category": "technology",
+            "explanation": "HTTP stands for HyperText Transfer Protocol."
+        },
+        "nature": {
+            "question": "What is the tallest type of grass?",
+            "options": {"A": "Bamboo", "B": "Wheat", "C": "Sugarcane"},
+            "correct_answer": "A",
+            "category": "nature",
+            "explanation": "Bamboo is the tallest type of grass, with some species growing over 30 meters tall."
+        },
+        "art": {
+            "question": "Who painted the Mona Lisa?",
+            "options": {"A": "Leonardo da Vinci", "B": "Vincent van Gogh", "C": "Pablo Picasso"},
+            "correct_answer": "A",
+            "category": "art",
+            "explanation": "Leonardo da Vinci painted the Mona Lisa."
+        },
+        "music": {
+            "question": "Which composer became deaf later in life but continued to compose music?",
+            "options": {"A": "Ludwig van Beethoven", "B": "Wolfgang Amadeus Mozart", "C": "Johann Sebastian Bach"},
+            "correct_answer": "A",
+            "category": "music",
+            "explanation": "Beethoven composed some of his greatest works after losing his hearing."
+        },
+        "oceans": {
+            "question": "What is the largest ocean on Earth?",
+            "options": {"A": "Pacific Ocean", "B": "Atlantic Ocean", "C": "Indian Ocean"},
+            "correct_answer": "A",
+            "category": "oceans",
+            "explanation": "The Pacific Ocean is the largest ocean on Earth."
+        },
+        "mountains": {
+            "question": "What is the highest mountain in the world?",
+            "options": {"A": "Mount Everest", "B": "K2", "C": "Kangchenjunga"},
+            "correct_answer": "A",
+            "category": "mountains",
+            "explanation": "Mount Everest is the highest mountain above sea level."
+        },
+        "inventions": {
+            "question": "Who invented the telephone?",
+            "options": {"A": "Alexander Graham Bell", "B": "Thomas Edison", "C": "Nikola Tesla"},
+            "correct_answer": "A",
+            "category": "inventions",
+            "explanation": "Alexander Graham Bell is credited with inventing the telephone."
+        },
+        "discoveries": {
+            "question": "Who discovered penicillin?",
+            "options": {"A": "Alexander Fleming", "B": "Marie Curie", "C": "Louis Pasteur"},
+            "correct_answer": "A",
+            "category": "discoveries",
+            "explanation": "Alexander Fleming discovered penicillin in 1928."
+        },
+        "records": {
+            "question": "What is the fastest land animal?",
+            "options": {"A": "Cheetah", "B": "Lion", "C": "Pronghorn"},
+            "correct_answer": "A",
+            "category": "records",
+            "explanation": "The cheetah is the fastest land animal, capable of speeds up to 70 mph (113 km/h)."
+        },
+        "extremes": {
+            "question": "What is the hottest planet in our solar system?",
+            "options": {"A": "Venus", "B": "Mercury", "C": "Mars"},
+            "correct_answer": "A",
+            "category": "extremes",
+            "explanation": "Venus is the hottest planet due to its thick, heat-trapping atmosphere."
+        },
+        "mysteries": {
+            "question": "What is the name of the mysterious area in the western part of the North Atlantic Ocean where ships and planes have disappeared?",
+            "options": {"A": "Bermuda Triangle", "B": "Devil's Sea", "C": "Sargasso Sea"},
+            "correct_answer": "A",
+            "category": "mysteries",
+            "explanation": "The Bermuda Triangle is famous for mysterious disappearances of ships and planes."
         }
     }
-    
     # Get question for category or use general as fallback
     return category_questions.get(category, category_questions["general"])
 
@@ -142,7 +289,7 @@ def load_trivia_data():
                 history.append(question_data)
         return {"current": current, "history": history}
     except Exception as e:
-        print(f"Error loading trivia data from database: {e}")
+        logging.error("[daily_trivia.py] [load_trivia_data] Error loading trivia data from database: %s", e)
         return {"current": None, "history": []}
 
 def save_trivia_data(trivia_data):
@@ -168,7 +315,7 @@ def save_trivia_data(trivia_data):
         db.update_trivia_questions(trivia_questions)
         # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
-        print(f"Error saving trivia data to database: {e}")
+        logging.error("[daily_trivia.py] [save_trivia_data] Error saving trivia data to database: %s", e)
 
 def load_leaderboard():
     """Load leaderboard data from database"""
@@ -176,7 +323,7 @@ def load_leaderboard():
         db = TriviaDatabase()
         return db.get_leaderboard()
     except Exception as e:
-        print(f"Error loading leaderboard from database: {e}")
+        logging.error("[daily_trivia.py] [load_leaderboard] Error loading leaderboard from database: %s", e)
         # Return empty leaderboard as fallback
         return {}
 
@@ -191,8 +338,7 @@ def save_leaderboard(leaderboard):
         db.update_leaderboard(leaderboard)
         # db.export_compressed_data()  # Removed: export should be explicit in workflow
     except Exception as e:
-        print(f"Error saving leaderboard to database: {e}")
-        # Continue without saving if database fails
+        logging.error("[daily_trivia.py] [save_leaderboard] Error saving leaderboard to database: %s", e)
 
 def get_top_leaderboard(leaderboard, max_entries=MAX_LEADERBOARD_ENTRIES):
     """Get top users from leaderboard sorted by points, then streak"""
@@ -229,6 +375,10 @@ def create_answer_links(trivia_data=None):
         "C": f"{base_url}/issues/new?title=Trivia+Answer+C&body={issue_body('C')}"
     }
 
+@retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=2, max=10), retry=retry_if_exception_type(Exception))
+def openai_wiki_with_retries(client, *args, **kwargs):
+    return client.chat.completions.create(*args, **kwargs)
+
 def get_wikipedia_link(answer_text, question_text):
     """Use OpenAI to get a Wikipedia link for the answer in the context of the question."""
     try:
@@ -238,17 +388,22 @@ def get_wikipedia_link(answer_text, question_text):
             "for further reading or support that shows the answer is correct. "
             "Return only the full Wikipedia URL, nothing else."
         )
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=100,
-            temperature=0.2
-        )
+        try:
+            response = openai_wiki_with_retries(
+                client,
+                model=MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=100,
+                temperature=0.2
+            )
+        except Exception as e:
+            logging.error("[daily_trivia.py] [get_wikipedia_link] OpenAI API failed after retries: %s", e)
+            raise
         url = response.choices[0].message.content.strip()
         if url.startswith("http"):
             return url
     except Exception as e:
-        print(f"Error getting Wikipedia link from OpenAI: {e}")
+        logging.error("[daily_trivia.py] [get_wikipedia_link] Error getting Wikipedia link from OpenAI: %s", e)
     # Fallback: heuristic
     import urllib.parse
     clean = str(answer_text).strip().replace(' ', '_')
@@ -261,14 +416,11 @@ def update_readme(trivia_data, leaderboard):
     """
     try:
         # Debug: print loaded data
-        print("[DEBUG] Loaded trivia_data:")
-        print(json.dumps(trivia_data, indent=2, default=str))
-        print("[DEBUG] Loaded leaderboard:")
-        print(json.dumps(leaderboard, indent=2, default=str))
+        logging.debug("[daily_trivia.py] [update_readme] Loaded trivia_data: %s", json.dumps(trivia_data, indent=2, default=str))
+        logging.debug("[daily_trivia.py] [update_readme] Loaded leaderboard: %s", json.dumps(leaderboard, indent=2, default=str))
         from core.daily_facts import load_daily_facts
         fact_data = load_daily_facts()
-        print("[DEBUG] Loaded fact_data:")
-        print(json.dumps(fact_data, indent=2, default=str))
+        logging.debug("[daily_trivia.py] [update_readme] Loaded fact_data: %s", json.dumps(fact_data, indent=2, default=str))
         today = datetime.now().strftime(DATE_FORMAT)
         current_trivia = trivia_data.get("current")
         if not current_trivia:
@@ -338,7 +490,7 @@ def update_readme(trivia_data, leaderboard):
             f.write(readme_content)
         # Debug: print what changed
         if old_content != readme_content:
-            print("[DEBUG] README.md has changed. Diff summary:")
+            logging.info("[daily_trivia.py] [update_readme] README.md has changed. Diff summary:")
             diff = difflib.unified_diff(
                 old_content.splitlines(),
                 readme_content.splitlines(),
@@ -347,13 +499,13 @@ def update_readme(trivia_data, leaderboard):
                 lineterm=''
             )
             for line in diff:
-                print(line)
-            print("[UPDATE-README] README updated.")
+                logging.info(line)
+            logging.info("[daily_trivia.py] [update_readme] README updated.")
         else:
-            print("[DEBUG] README.md is unchanged.")
-            print("[UPDATE-README] No update needed.")
+            logging.info("[daily_trivia.py] [update_readme] README.md is unchanged.")
+            logging.info("[daily_trivia.py] [update_readme] No update needed.")
     except Exception as e:
-        print(f"Error in update_readme: {e}")
+        logging.error("[daily_trivia.py] [update_readme] Error in update_readme: %s", e)
         import traceback
         traceback.print_exc()
 
@@ -371,7 +523,7 @@ def generate_unique_trivia(current_trivia, max_tries=3):
             trivia = create_standalone_trivia(random.choice(available))
             if not current_trivia or trivia['question'] != current_trivia.get('question'):
                 return trivia
-    print("⚠️ Could not generate unique trivia after several attempts.")
+    logging.warning("⚠️ Could not generate unique trivia after several attempts.")
     return trivia  # Return last tried
 
 # --- For daily facts ---
@@ -384,9 +536,9 @@ def get_todays_fact() -> Dict[str, str]:
     # Check if we already have a fact for today
     if today in daily_facts_data:
         fact = daily_facts_data[today]
-        print(f"🌞 Fact for today ({today}) already exists:")
-        print(f"    {fact['fact']}")
-        print(f"    (added at {fact.get('timestamp', 'unknown time')})")
+        logging.info(f"🌞 Fact for today ({today}) already exists:")
+        logging.info(f"    {fact['fact']}")
+        logging.info(f"    (added at {fact.get('timestamp', 'unknown time')})")
         return fact
     # Only fetch if not exists
     previous_facts = set(fact_data['fact'] for date, fact_data in daily_facts_data.items())
@@ -416,7 +568,7 @@ def get_todays_fact() -> Dict[str, str]:
         "timestamp": datetime.now().isoformat()
     }
     save_daily_facts(daily_facts_data)
-    print(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
+    logging.info(f"[NEW-FACT] Added fact for {today}: {new_fact['fact']}")
     return daily_facts_data[today]
 
 # --- For trivia ---
@@ -425,27 +577,27 @@ def main():
     db = TriviaDatabase()
     trivia_questions = db.get_trivia_questions()
     today = datetime.now().strftime('%Y-%m-%d')
-    print(f"[DEBUG] Checking for existing trivia for today: {today}")
+    logging.info(f"[DEBUG] Checking for existing trivia for today: {today}")
     found_today = False
     for t in trivia_questions.values():
-        print(f"[DEBUG] Trivia entry: timestamp={t.get('timestamp')}, question={t.get('question')}")
+        logging.debug(f"[DEBUG] Trivia entry: timestamp={t.get('timestamp')}, question={t.get('question')}")
         if t.get('timestamp', '')[:10] == today:
-            print(f"[DEBUG] Found trivia for today: {t.get('question')} (timestamp: {t.get('timestamp')})")
+            logging.debug(f"[DEBUG] Found trivia for today: {t.get('question')} (timestamp: {t.get('timestamp')})")
             found_today = True
     # Check if trivia for today exists
     trivia_changed = False
     if trivia_questions:
         latest = max(trivia_questions.values(), key=lambda t: t.get('timestamp', ''))
         latest_date = latest['timestamp'][:10]
-        print(f"[DEBUG] Latest trivia timestamp: {latest['timestamp']}, date: {latest_date}")
+        logging.debug(f"[DEBUG] Latest trivia timestamp: {latest['timestamp']}, date: {latest_date}")
         if latest_date == today:
-            print(f"🌞 Trivia for today ({today}) already exists:")
-            print(f"    {latest['question']}")
-            print(f"    (category: {latest.get('category', 'unknown')})")
-            print(f"    (added at {latest['timestamp']})")
+            logging.info(f"🌞 Trivia for today ({today}) already exists:")
+            logging.info(f"    {latest['question']}")
+            logging.info(f"    (category: {latest.get('category', 'unknown')})")
+            logging.info(f"    (added at {latest['timestamp']})")
         else:
-            print(f"[DEBUG] No trivia for today, will generate new.")
-            print("🔄 Generating new trivia question...")
+            logging.debug(f"[DEBUG] No trivia for today, will generate new.")
+            logging.info("🔄 Generating new trivia question...")
             client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
             # Generate new trivia (reuse your existing logic here)
             # ...
@@ -464,11 +616,11 @@ def main():
                 new_trivia["timestamp"] = datetime.now().isoformat()
             save_trivia_data({"current": new_trivia, "history": []})
             db.export_compressed_data()
-            print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
+            logging.info(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
             trivia_changed = True
     else:
         # No trivia at all, so add new
-        print(f"[DEBUG] No trivia in database yet, will generate new.")
+        logging.debug(f"[DEBUG] No trivia in database yet, will generate new.")
         client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
         question = "Placeholder question?"
         options = {"A": "Option A", "B": "Option B", "C": "Option C"}
@@ -484,7 +636,7 @@ def main():
             new_trivia["timestamp"] = datetime.now().isoformat()
         save_trivia_data({"current": new_trivia, "history": []})
         db.export_compressed_data()
-        print(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
+        logging.info(f"[NEW-TRIVIA] Added trivia for {today}: {question}")
         trivia_changed = True
 
     # Fact logic: get_todays_fact already handles skip/fetch logic and updates DB
@@ -492,10 +644,10 @@ def main():
     # Only update README if new trivia or fact was added
     if trivia_changed or fact.get('new', False):
         # You may want to set 'new': True in get_todays_fact when a new fact is added
-        print("[README] Updating README with new trivia/fact...")
+        logging.info("[README] Updating README with new trivia/fact...")
         # update_readme(...)  # Uncomment and fill in as needed
     else:
-        print("ℹ️ No update needed; today's trivia and fact already exist.")
+        logging.info("ℹ️ No update needed; today's trivia and fact already exist.")
 
 if __name__ == "__main__":
     main() 

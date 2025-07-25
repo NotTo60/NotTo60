@@ -1,4 +1,6 @@
 openai>=1.0.0
 requests>=2.25.0
-PyGithub>=1.55 
-cryptography 
+PyGithub>=1.55
+cryptography
+tenacity>=8.0.0
+python-dotenv 

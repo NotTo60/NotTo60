@@ -10,7 +10,16 @@ permissions:
   issues: write
 
 jobs:
+  lock:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Acquire workflow lock
+        uses: softprops/turnstyle@v1
+        with:
+          poll-interval-seconds: 30
+
   new-trivia:
+    needs: lock
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -35,24 +44,27 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python manage.py new-trivia
       - name: Update DB (write changes)
+        id: update_db
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-db
       - name: Export, encrypt, and compress DB
+        if: steps.update_db.outputs.db_changed == 'true'
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py export-db
       - name: Upload DB artifact
+        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: db-artifact-new-trivia
           path: src/data/trivia_database.db.gz
 
   new-fact:
+    needs: [lock, new-trivia]
     runs-on: ubuntu-latest
-    needs: new-trivia
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -80,24 +92,27 @@ jobs:
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py new-fact
       - name: Update DB (write changes)
+        id: update_db
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-db
       - name: Export, encrypt, and compress DB
+        if: steps.update_db.outputs.db_changed == 'true'
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py export-db
       - name: Upload DB artifact
+        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: db-artifact-new-fact
           path: src/data/trivia_database.db.gz
 
   process-answers:
+    needs: [lock, new-fact]
     runs-on: ubuntu-latest
-    needs: new-fact
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -123,30 +138,33 @@ jobs:
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python manage.py process-answers
       - name: Update DB (write changes)
+        id: update_db
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-db
       - name: Export, encrypt, and compress DB
+        if: steps.update_db.outputs.db_changed == 'true'
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py export-db
       - name: Upload DB artifact
+        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: db-artifact-process-answers
           path: src/data/trivia_database.db.gz
 
   update-readme:
+    needs: [lock, process-answers]
     runs-on: ubuntu-latest
-    needs: process-answers
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -174,11 +192,13 @@ jobs:
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-readme
       - name: Update DB (write changes)
+        id: update_db
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
         run: python manage.py update-db
       - name: Export, encrypt, and compress DB
+        if: steps.update_db.outputs.db_changed == 'true'
         env:
           TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
           TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
@@ -189,14 +209,15 @@ jobs:
           name: readme-artifact
           path: README.md
       - name: Upload DB artifact
+        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: db-artifact-update-readme
           path: src/data/trivia_database.db.gz
 
   commit-and-push:
+    needs: [lock, update-readme]
     runs-on: ubuntu-latest
-    needs: update-readme
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
