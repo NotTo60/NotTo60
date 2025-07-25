@@ -77,6 +77,7 @@ def export_db():
 def new_trivia():
     try:
         from src.core.daily_trivia import generate_unique_trivia, load_trivia_data, save_trivia_data, get_utc_today
+        from datetime import datetime
         trivia_data = load_trivia_data()
         today = get_utc_today()
         current_trivia = trivia_data.get("current")
@@ -85,8 +86,13 @@ def new_trivia():
             logging.info(f"[DEBUG] Current trivia timestamp: {current_trivia.get('timestamp', 'None')}")
         else:
             logging.info("[DEBUG] No current trivia found in DB.")
+        def iso_to_ddmmyyyy(iso_str):
+            try:
+                return datetime.fromisoformat(iso_str).strftime("%d.%m.%Y")
+            except Exception:
+                return ""
         # Check if today's trivia already exists
-        if current_trivia and current_trivia.get("timestamp", "")[:10] == today:
+        if current_trivia and iso_to_ddmmyyyy(current_trivia.get("timestamp", "")) == today:
             logging.info(f"[NEW-TRIVIA] Trivia for today ({today}) already exists:")
             logging.info(f"    {current_trivia['question']}")
             logging.info(f"    (category: {current_trivia.get('category', 'unknown')})")

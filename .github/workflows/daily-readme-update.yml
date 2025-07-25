@@ -66,10 +66,9 @@ jobs:
           GITHUB_REPO: ${{ github.event.repository.name }}
         run: python manage.py export-db
       - name: Upload DB artifact
-        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact-new-trivia
+          name: db-artifact-latest
           path: src/data/trivia_database.db.gz
 
   new-fact:
@@ -89,7 +88,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact-new-trivia
+          name: db-artifact-latest
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -134,10 +133,9 @@ jobs:
           GITHUB_REPO: ${{ github.event.repository.name }}
         run: python manage.py export-db
       - name: Upload DB artifact
-        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact-new-fact
+          name: db-artifact-latest
           path: src/data/trivia_database.db.gz
 
   process-answers:
@@ -157,7 +155,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact-new-fact
+          name: db-artifact-latest
           path: src/data/
       - name: Import, decrypt, and decompress DB
         env:
@@ -202,17 +200,14 @@ jobs:
           GITHUB_REPO: ${{ github.event.repository.name }}
         run: python manage.py export-db
       - name: Upload DB artifact
-        if: steps.update_db.outputs.db_changed == 'true'
         uses: actions/upload-artifact@v4
         with:
-          name: db-artifact-process-answers
+          name: db-artifact-latest
           path: src/data/trivia_database.db.gz
 
   update-readme:
     needs: process-answers
     runs-on: ubuntu-latest
-    outputs:
-      db_artifact_name: ${{ steps.set_db_artifact_process_answers.outputs.db_artifact_name || steps.set_db_artifact_new_fact.outputs.db_artifact_name || steps.set_db_artifact_new_trivia.outputs.db_artifact_name }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -224,40 +219,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Try download DB artifact from process-answers
-        id: download_db_process_answers
-        continue-on-error: true
+      - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: db-artifact-process-answers
+          name: db-artifact-latest
           path: src/data/
-      - name: Set DB artifact name (process-answers)
-        if: steps.download_db_process_answers.outcome == 'success'
-        run: echo "db_artifact_name=db-artifact-process-answers" >> $GITHUB_OUTPUT
-        id: set_db_artifact_process_answers
-      - name: Try download DB artifact from new-fact
-        if: steps.download_db_process_answers.outcome != 'success'
-        id: download_db_new_fact
-        continue-on-error: true
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-new-fact
-          path: src/data/
-      - name: Set DB artifact name (new-fact)
-        if: steps.download_db_new_fact.outcome == 'success'
-        run: echo "db_artifact_name=db-artifact-new-fact" >> $GITHUB_OUTPUT
-        id: set_db_artifact_new_fact
-      - name: Try download DB artifact from new-trivia
-        if: steps.download_db_process_answers.outcome != 'success' && steps.download_db_new_fact.outcome != 'success'
-        id: download_db_new_trivia
-        uses: actions/download-artifact@v4
-        with:
-          name: db-artifact-new-trivia
-          path: src/data/
-      - name: Set DB artifact name (new-trivia)
-        if: steps.download_db_new_trivia.outcome == 'success'
-        run: echo "db_artifact_name=db-artifact-new-trivia" >> $GITHUB_OUTPUT
-        id: set_db_artifact_new_trivia
       - name: Import, decrypt, and decompress DB
         env:
           PYTHONPATH: src
@@ -306,7 +272,7 @@ jobs:
       - name: Download DB artifact
         uses: actions/download-artifact@v4
         with:
-          name: ${{ needs.update-readme.outputs.db_artifact_name }}
+          name: db-artifact-latest
           path: src/data/
       - name: Commit and push changes
         run: |
