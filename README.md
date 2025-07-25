@@ -7,7 +7,7 @@
 
 ## 💡 Did You Know? • 25.07.2025
 
-Today's discovery: A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."
+Did you know? A piece of paper can be folded no more then 9 times.
 
 ---
 
