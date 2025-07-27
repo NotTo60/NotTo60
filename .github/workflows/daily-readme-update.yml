@@ -178,6 +178,16 @@ jobs:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
         run: python manage.py update-db --from-json src/data/trivia.json src/data/fact.json src/data/answers.json
+      - name: Export and encrypt updated DB
+        env:
+          PYTHONPATH: src
+          TRIVIA_DB_PASSWORD: ${{ secrets.TRIVIA_DB_PASSWORD }}
+          TRIVIA_DB_SALT: ${{ secrets.TRIVIA_DB_SALT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_REPO: ${{ github.event.repository.name }}
+        run: python manage.py export-db
       - name: Upload DB artifact
         uses: actions/upload-artifact@v4
         with:

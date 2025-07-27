@@ -12,14 +12,6 @@ import tempfile
 import json
 logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 
-def atomic_create_flag(flag_path):
-    """Atomically create the .db_changed flag file."""
-    dir_name = os.path.dirname(flag_path)
-    with tempfile.NamedTemporaryFile(delete=False, dir=dir_name) as tf:
-        tf.write(b"1")
-        tempname = tf.name
-    os.replace(tempname, flag_path)
-
 def print_db():
     from src.core.database import TriviaDatabase
     print("[PRINT-DB] Decrypting and loading database...")
@@ -37,23 +29,6 @@ def print_db():
 
 def update_db(from_json=None):
     try:
-        flag_path = DB_CHANGED_FLAG
-        marker = "[UPDATE-DB] DB_CHANGED"
-        github_output = os.environ.get('GITHUB_OUTPUT')
-        changed = os.path.exists(flag_path)
-        if changed:
-            logging.info("[manage.py] [update_db] Database has changed and will be exported.")
-            print(marker)
-            if github_output:
-                with open(github_output, 'a') as f:
-                    f.write("db_changed=true\n")
-            os.remove(flag_path)
-        else:
-            logging.info("[manage.py] [update_db] No update needed: all changes are already written by job logic.")
-            if github_output:
-                with open(github_output, 'a') as f:
-                    f.write("db_changed=false\n")
-        logging.info("[manage.py] [update_db] Done.")
         if from_json:
             from src.core.database import TriviaDatabase
             db = TriviaDatabase()
@@ -77,7 +52,7 @@ def update_db(from_json=None):
                             logging.info(f"[UPDATE-DB] Updated fact in DB from {json_file}")
                         # Detect and update leaderboard/answers
                         elif isinstance(data, dict) and (
-                            any(isinstance(v, dict) and ("total_points" in v or "current_streak" in v or "total_answered" in v) for v in data.values())
+                            (data and any(isinstance(v, dict) and ("total_points" in v or "current_streak" in v or "total_answered" in v) for v in data.values()))
                             or ("total_points" in data or "current_streak" in data or "total_answered" in data)
                         ):
                             # If this is a single user, wrap in a dict
@@ -87,6 +62,8 @@ def update_db(from_json=None):
                                 leaderboard = data
                             db.update_leaderboard(leaderboard)
                             logging.info(f"[UPDATE-DB] Updated leaderboard in DB from {json_file}")
+                        elif isinstance(data, dict) and not data:
+                            logging.info(f"[UPDATE-DB] {json_file} is an empty dict, nothing to update.")
                         else:
                             logging.warning(f"[UPDATE-DB] Unknown data type in {json_file}, skipping.")
                 except Exception as e:
@@ -190,8 +167,6 @@ def process_answers(json_out=None):
     try:
         from src.core.process_answers import process_answers as process, load_leaderboard
         process()
-        # Mark DB as changed
-        atomic_create_flag(DB_CHANGED_FLAG)
         if json_out:
             leaderboard = load_leaderboard()
             with open(json_out, 'w') as f:
