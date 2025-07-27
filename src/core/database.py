@@ -53,8 +53,20 @@ class TriviaDatabase:
         key = base64.urlsafe_b64encode(kdf.derive(password))
         return Fernet(key)
 
+    def ensure_meta_table(self):
+        with sqlite3.connect(self.db_path) as conn:
+            cursor = conn.cursor()
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS meta (
+                    id INTEGER PRIMARY KEY CHECK (id = 1),
+                    schema_version INTEGER NOT NULL
+                )
+            ''')
+            conn.commit()
+
     def get_schema_version(self):
         try:
+            self.ensure_meta_table()
             with sqlite3.connect(self.db_path) as conn:
                 cursor = conn.cursor()
                 cursor.execute("SELECT name FROM sqlite_master WHERE type='table' AND name='meta'")
@@ -69,13 +81,17 @@ class TriviaDatabase:
             return 0
 
     def set_schema_version(self, version):
+        self.ensure_meta_table()
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
             cursor.execute("INSERT OR REPLACE INTO meta (id, schema_version) VALUES (1, ?)", (version,))
             conn.commit()
 
     def migrate_schema(self, old_version):
+        self.ensure_meta_table()
         # Example: future migrations
+        if old_version == CURRENT_SCHEMA_VERSION:
+            return  # No migration needed, don't log
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
             # Add migration steps here for future versions
