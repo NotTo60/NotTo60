@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.07.2025
+## 💡 Did You Know? • 28.07.2025
 
-Little known fact: In the Philippine jungle, the yo-yo was first used as a weapon.
+Fun fact: Nearly 80% of all animals on earth have six legs.
 
 ---
 
-## 🎯 Today's Trivia • 27.07.2025
+## 🎯 Today's Trivia • 28.07.2025
 
-**In a startling revelation about the hidden capabilities of human senses, what groundbreaking discovery was made about human perception in 2023?**
+**Which mythical creature's roar is said to be so powerful that it can actually cause mountains to tremble and oceans to ripple?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Humans%20can%20sense%20magnetic%20fields%20like%20migratory%20birds.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-27)** - Humans can sense magnetic fields like migratory birds.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Humans%20can%20naturally%20detect%20ultraviolet%20light.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-27)** - Humans can naturally detect ultraviolet light.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Humans%20can%20hear%20ultrasonic%20frequencies.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-27)** - Humans can hear ultrasonic frequencies.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-28)** - The Celestial Griffin
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ethereal%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-28)** - The Ethereal Phoenix
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Draconian%20Leviathan%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-28)** - The Draconian Leviathan
 
 📝 *Click a button above to submit your answer!*
 
