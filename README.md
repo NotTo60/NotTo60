@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 29.07.2025
+## 💡 Did You Know? • 30.07.2025
 
-Mind-blowing fact: Every time you lick a stamp, you consume 1/10 of a calorie.
+Did you know? For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: "It does not matter, my audience sees only my right side."
 
 ---
 
-## 🎯 Today's Trivia • 29.07.2025
+## 🎯 Today's Trivia • 30.07.2025
 
-**In a parallel universe where records are written by cosmic historians, which outlandish achievement was documented as the most improbable occurrence of all time?**
+**In a world of extremes, which hypothetical scenario would result in the most astonishing and unending sound wave?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20entire%20ocean%20frozen%20solid%20in%20an%20instant%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-29)** - An entire ocean frozen solid in an instant
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20mountain%20climbed%20from%20base%20to%20peak%20in%20one%20second%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-29)** - A mountain climbed from base to peak in one second
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20rainforest%20growing%20to%20full%20maturity%20overnight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-29)** - A rainforest growing to full maturity overnight
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20volcano%20erupting%20in%20the%20vacuum%20of%20space%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-30)** - A volcano erupting in the vacuum of space
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20continuous%20symphony%20of%20lightning%20storms%20on%20a%20planet%20enveloped%20in%20a%20diamond%20atmosphere%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-30)** - A continuous symphony of lightning storms on a planet enveloped in a diamond atmosphere
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20waterfall%20cascading%20from%20the%20moon%20into%20an%20endless%20ocean%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-30)** - A waterfall cascading from the moon into an endless ocean
 
 📝 *Click a button above to submit your answer!*
 
