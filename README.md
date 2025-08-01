@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 31.07.2025
+## 💡 Did You Know? • 01.08.2025
 
-Mind-blowing fact: The phrase "rule of thumb" is derived from an old English law, which stated that you couldn`t beat your wife with anything wider than your thumb.
+Amazing discovery: Average number of days a West German goes without washing his underwear: 7
 
 ---
 
-## 🎯 Today's Trivia • 31.07.2025
+## 🎯 Today's Trivia • 01.08.2025
 
-**In a mind-bending twist of fate, which enigmatic ruler was known to have orchestrated a secret society that believed in communicating with intergalactic beings to gain insights into their empire's future?**
+**In a breathtaking twist of nature, which mountain is rumored to hide a secret portal to a parallel world when the stars align perfectly during the winter solstice?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Emperor%20Trajan%20of%20Rome%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-31)** - Emperor Trajan of Rome
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Pharaoh%20Neferkare%20of%20the%20Old%20Kingdom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-31)** - Pharaoh Neferkare of the Old Kingdom
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20King%20Philip%20II%20of%20Macedon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-07-31)** - King Philip II of Macedon
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Kilimanjaro%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Kilimanjaro
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Elbrus%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Elbrus
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Rinjani%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Rinjani
 
 📝 *Click a button above to submit your answer!*
 
