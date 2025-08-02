@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.08.2025
+## 💡 Did You Know? • 02.08.2025
 
-Amazing discovery: Average number of days a West German goes without washing his underwear: 7
+Surprising fact: The U.S. military operates 234 golf courses
 
 ---
 
-## 🎯 Today's Trivia • 01.08.2025
+## 🎯 Today's Trivia • 02.08.2025
 
-**In a breathtaking twist of nature, which mountain is rumored to hide a secret portal to a parallel world when the stars align perfectly during the winter solstice?**
+**In the enchanting symphony of the natural world, which mesmerizing phenomenon allows certain plants to echo the light of the moon by releasing a soft, bioluminescent glow at night?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Kilimanjaro%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Kilimanjaro
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Elbrus%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Elbrus
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Rinjani%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-01)** - Mount Rinjani
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sunlight%20Reflection%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-02)** - Sunlight Reflection
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20Luminescence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-02)** - Lunar Luminescence
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Starlight%20Absorption%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-02)** - Starlight Absorption
 
 📝 *Click a button above to submit your answer!*
 
