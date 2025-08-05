@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.08.2025
+## 💡 Did You Know? • 05.08.2025
 
-Mind-blowing fact: The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."
+Fun fact: The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 
 ---
 
-## 🎯 Today's Trivia • 04.08.2025
+## 🎯 Today's Trivia • 05.08.2025
 
-**In a realm where human minds merge with machines, which groundbreaking technology enables the mind to directly control digital landscapes, effectively turning thoughts into reality?**
+**In the realm of unseen wonders, which mythical tree is said to bloom only once every millennium, releasing a flower that can grant eternal life?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neural%20Interface%20Networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-04)** - Neural Interface Networks
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Data%20Streams%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-04)** - Quantum Data Streams
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bio-Optic%20Code%20Weaving%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-04)** - Bio-Optic Code Weaving
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Oak%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Whispering Oak
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silverleaf%20Maple%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Silverleaf Maple
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moonlit%20Banyan%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Moonlit Banyan
 
 📝 *Click a button above to submit your answer!*
 
