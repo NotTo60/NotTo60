@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 05.08.2025
+## 💡 Did You Know? • 06.08.2025
 
-Fun fact: The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
+Incredible fact: On average, Americans` favorite smell is banana.
 
 ---
 
-## 🎯 Today's Trivia • 05.08.2025
+## 🎯 Today's Trivia • 06.08.2025
 
-**In the realm of unseen wonders, which mythical tree is said to bloom only once every millennium, releasing a flower that can grant eternal life?**
+**In the unimaginable depths of the universe, there exists a theoretical cosmic phenomenon known to warp time itself. What is this mind-bending marvel?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Oak%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Whispering Oak
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silverleaf%20Maple%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Silverleaf Maple
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moonlit%20Banyan%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-05)** - The Moonlit Banyan
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20time%20vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-06)** - A time vortex
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20space%20ripple%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-06)** - A space ripple
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20dimension%20fracture%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-06)** - A dimension fracture
 
 📝 *Click a button above to submit your answer!*
 
