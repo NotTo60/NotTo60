@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.08.2025
+## 💡 Did You Know? • 08.08.2025
 
-Amazing discovery: On average, Americans eat 18 acres of pizza everyday.
+Fun fact: The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.
 
 ---
 
-## 🎯 Today's Trivia • 07.08.2025
+## 🎯 Today's Trivia • 08.08.2025
 
-**Which fantastical event happens deep beneath the ocean's surface, where the immense pressure fuels a symphony of bioluminescent creatures in a dazzling underwater light show?**
+**In the vast tapestry of Earth's oceans, which mind-bending phenomenon allows certain marine creatures to thrive in complete darkness, as if they are harnessing an alien energy source?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Abyssal%20Glow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-07)** - The Abyssal Glow
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Twilight%20Cascade%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-07)** - The Twilight Cascade
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Submarine%20Aurora%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-07)** - The Submarine Aurora
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Oceanic%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Oceanic Mirage
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Hydrothermal%20Vents%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Hydrothermal Vents
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Subaquatic%20Aurora%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Subaquatic Aurora
 
 📝 *Click a button above to submit your answer!*
 
