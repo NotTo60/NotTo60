@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.08.2025
+## 💡 Did You Know? • 09.08.2025
 
-Fun fact: The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.
+Surprising fact: You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.
 
 ---
 
-## 🎯 Today's Trivia • 08.08.2025
+## 🎯 Today's Trivia • 09.08.2025
 
-**In the vast tapestry of Earth's oceans, which mind-bending phenomenon allows certain marine creatures to thrive in complete darkness, as if they are harnessing an alien energy source?**
+**In a dazzling twist of fate, which art form is believed to transcend the boundaries of reality, allowing its creators to tap into an alternate dimension of boundless creativity?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Oceanic%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Oceanic Mirage
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Hydrothermal%20Vents%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Hydrothermal Vents
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Subaquatic%20Aurora%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-08)** - Subaquatic Aurora
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sculpture%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-09)** - Sculpture
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Surrealist%20Painting%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-09)** - Surrealist Painting
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Classical%20Symphony%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-09)** - Classical Symphony
 
 📝 *Click a button above to submit your answer!*
 
