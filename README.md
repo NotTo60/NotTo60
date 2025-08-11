@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.08.2025
+## 💡 Did You Know? • 11.08.2025
 
-Fun fact: The value of Pi will be officially "rounded down" to 3.14 from 3.14159265359 on December 31, 1999.
+Did you know? The sperm of a mouse is actually longer than the sperm of an elephant.
 
 ---
 
-## 🎯 Today's Trivia • 10.08.2025
+## 🎯 Today's Trivia • 11.08.2025
 
-**In the realm of interstellar musicals, which legendary cosmic opera is rumored to have been performed to an audience of sentient stars, echoing across the universe?**
+**In the enchanted realm of athletics, which jaw-dropping phenomenon is said to cause an elite athlete to momentarily perceive time as slowing down during peak performance?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Galactic%20Symphony%20of%20Silence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-10)** - Galactic Symphony of Silence
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Harmony%20Odyssey%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-10)** - The Celestial Harmony Odyssey
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nebulae%27s%20Nocturnal%20Aria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-10)** - Nebulae's Nocturnal Aria
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Pause%20Effect%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Phantom Pause Effect
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Leap%20Phenomenon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Quantum Leap Phenomenon
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Temporal%20Drift%20Illusion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Temporal Drift Illusion
 
 📝 *Click a button above to submit your answer!*
 
