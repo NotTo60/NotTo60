@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.08.2025
+## 💡 Did You Know? • 12.08.2025
 
-Did you know? The sperm of a mouse is actually longer than the sperm of an elephant.
+Fascinating tidbit: 400-quarter pounders can be made from 1 cow.
 
 ---
 
-## 🎯 Today's Trivia • 11.08.2025
+## 🎯 Today's Trivia • 12.08.2025
 
-**In the enchanted realm of athletics, which jaw-dropping phenomenon is said to cause an elite athlete to momentarily perceive time as slowing down during peak performance?**
+**In the enigmatic realm of the unexplained, what ancient artifact is said to hold the power to unravel the quantum secrets of time itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Pause%20Effect%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Phantom Pause Effect
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Leap%20Phenomenon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Quantum Leap Phenomenon
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Temporal%20Drift%20Illusion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-11)** - The Temporal Drift Illusion
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chronoscope%20of%20Templar%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Chronoscope of Templar
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ark%20of%20Chronos%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Ark of Chronos
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sphinx%27s%20Dial%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Sphinx's Dial
 
 📝 *Click a button above to submit your answer!*
 
