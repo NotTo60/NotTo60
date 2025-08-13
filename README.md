@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.08.2025
+## 💡 Did You Know? • 13.08.2025
 
-Fascinating tidbit: 400-quarter pounders can be made from 1 cow.
+Amazing discovery: Until 1994, world maps and globes sold in Albania only had Albania on them.
 
 ---
 
-## 🎯 Today's Trivia • 12.08.2025
+## 🎯 Today's Trivia • 13.08.2025
 
-**In the enigmatic realm of the unexplained, what ancient artifact is said to hold the power to unravel the quantum secrets of time itself?**
+**In a mysterious land where cartographers dare not tread, a mythical river flows uphill, defying gravity with its magic. Which of these names is whispered among geographers as the code for this river?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chronoscope%20of%20Templar%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Chronoscope of Templar
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ark%20of%20Chronos%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Ark of Chronos
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sphinx%27s%20Dial%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-12)** - The Sphinx's Dial
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20River%20of%20Echoing%20Stones%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-13)** - River of Echoing Stones
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20River%20of%20Ascending%20Waters%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-13)** - River of Ascending Waters
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20River%20of%20Eternal%20Return%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-13)** - River of Eternal Return
 
 📝 *Click a button above to submit your answer!*
 
