@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.08.2025
+## 💡 Did You Know? • 21.08.2025
 
-Little known fact: The Vatican city registered 0 births in 1983
+Fascinating tidbit: Butterflies taste with their hind feet.
 
 ---
 
-## 🎯 Today's Trivia • 20.08.2025
+## 🎯 Today's Trivia • 21.08.2025
 
-**In a dazzling twist of digital evolution, what futuristic concept suggests that computers could one day harness the power of human emotions to enhance processing speed?**
+**In the annals of time, which mysterious civilization is said to have vanished overnight, leaving behind a labyrinth of glowing crystals that baffled explorers for centuries?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Emotional%20Quantum%20Computing%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-20)** - Emotional Quantum Computing
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neural%20Bio-Integration%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-20)** - Neural Bio-Integration
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Psycho-Cybernetic%20Processing%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-20)** - Psycho-Cybernetic Processing
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Luminous%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-21)** - The Luminous Empire
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lost%20Kingdom%20of%20Eldoria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-21)** - The Lost Kingdom of Eldoria
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigma%20Dynasty%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-21)** - The Enigma Dynasty
 
 📝 *Click a button above to submit your answer!*
 
