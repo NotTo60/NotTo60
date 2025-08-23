@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.08.2025
+## 💡 Did You Know? • 23.08.2025
 
-Amazing discovery: There are more psychoanalysts per capita in Buenos Aires than any other place in the world.
+Today's discovery: In every episode of Seinfeld there is a Superman somewhere.
 
 ---
 
-## 🎯 Today's Trivia • 22.08.2025
+## 🎯 Today's Trivia • 23.08.2025
 
-**In a mind-bending twist of quantum harmony, which musical note is said to resonate perfectly with the mysterious vibrations of dark matter, creating a symphony unheard by human ears?**
+**In the grand theater of Earth's majestic peaks, which mysterious mountain whispers tales of an ancient civilization hidden within its heart, rumored to cradle the secret of eternal wisdom?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Middle%20C%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-22)** - Middle C
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A-flat%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-22)** - A-flat
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20G%20sharp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-22)** - G sharp
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Ethereal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-23)** - Mount Ethereal
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Obsidian%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-23)** - Mount Obsidian
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Aurelius%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-23)** - Mount Aurelius
 
 📝 *Click a button above to submit your answer!*
 
