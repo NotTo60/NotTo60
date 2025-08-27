@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.08.2025
+## 💡 Did You Know? • 27.08.2025
 
-Mind-blowing fact: Nearly 80% of all animals on earth have six legs.
+Fun fact: A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.
 
 ---
 
-## 🎯 Today's Trivia • 26.08.2025
+## 🎯 Today's Trivia • 27.08.2025
 
-**In the kaleidoscopic realm of fictional universes, which mythical tome is said to contain the echoes of every story ever written, capable of rewriting reality itself?**
+**In the realm of literature, which mythical phenomenon is often said to cause writers to stumble upon world-altering inspirations when the moonlight illuminates ancient pages?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Book%20of%20Infinite%20Whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-26)** - The Book of Infinite Whispers
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Scroll%20of%20Eternal%20Scribes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-26)** - The Scroll of Eternal Scribes
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Codex%20of%20Infinite%20Narratives%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-26)** - The Codex of Infinite Narratives
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Shadow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - The Whispering Shadow
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20Muse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - Lunar Muse
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Quill%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - Celestial Quill
 
 📝 *Click a button above to submit your answer!*
 
