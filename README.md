@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.08.2025
+## 💡 Did You Know? • 28.08.2025
 
-Fun fact: A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.
+Did you know? A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
 
 ---
 
-## 🎯 Today's Trivia • 27.08.2025
+## 🎯 Today's Trivia • 28.08.2025
 
-**In the realm of literature, which mythical phenomenon is often said to cause writers to stumble upon world-altering inspirations when the moonlight illuminates ancient pages?**
+**In a parallel world where time flows backwards, what enigmatic phenomenon do explorers discover when mapping the uncharted terrain of the mind?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Shadow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - The Whispering Shadow
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20Muse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - Lunar Muse
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Quill%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-27)** - Celestial Quill
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoes%20of%20Future%20Thoughts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-28)** - The Echoes of Future Thoughts
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shadows%20of%20Lost%20Memories%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-28)** - The Shadows of Lost Memories
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispers%20of%20Past%20Dreams%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-08-28)** - The Whispers of Past Dreams
 
 📝 *Click a button above to submit your answer!*
 
