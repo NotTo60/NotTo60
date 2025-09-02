@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.09.2025
+## 💡 Did You Know? • 02.09.2025
 
-Did you know? Deborah Winger did the voice of E.T.
+Surprising fact: Between 25% and 33% of the population sneeze when exposed to light.
 
 ---
 
-## 🎯 Today's Trivia • 01.09.2025
+## 🎯 Today's Trivia • 02.09.2025
 
-**In the realm of mind-bending extremes, which phenomenon is said to bend light so intensely that it creates a ripple in the fabric of time itself?**
+**In a parallel universe where blockbuster movies are made by mythical creatures, which mystical director is renowned for his films that captivate both dragons and fairies alike?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Glowing%20Iceberg%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-01)** - The Glowing Iceberg
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Time-Warping%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-01)** - The Time-Warping Vortex
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sonic%20Boom%20of%20Stars%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-01)** - The Sonic Boom of Stars
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Centaur%20Spielberg%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Centaur Spielberg
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Phoenix%20Coppola%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Phoenix Coppola
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mermaid%20Tarantino%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Mermaid Tarantino
 
 📝 *Click a button above to submit your answer!*
 
