@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 02.09.2025
+## 💡 Did You Know? • 03.09.2025
 
-Surprising fact: Between 25% and 33% of the population sneeze when exposed to light.
+Incredible fact: It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.
 
 ---
 
-## 🎯 Today's Trivia • 02.09.2025
+## 🎯 Today's Trivia • 03.09.2025
 
-**In a parallel universe where blockbuster movies are made by mythical creatures, which mystical director is renowned for his films that captivate both dragons and fairies alike?**
+**What legendary ancient civilization is said to have harnessed the mysterious power of the Aurora Borealis to illuminate their cities?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Centaur%20Spielberg%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Centaur Spielberg
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Phoenix%20Coppola%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Phoenix Coppola
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mermaid%20Tarantino%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-02)** - Mermaid Tarantino
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Hyperboreans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Hyperboreans
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Atlanteans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Atlanteans
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lemurians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Lemurians
 
 📝 *Click a button above to submit your answer!*
 
