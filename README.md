@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 03.09.2025
+## 💡 Did You Know? • 04.09.2025
 
-Incredible fact: It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.
+Fun fact: A cat has 32 muscles in each ear.
 
 ---
 
-## 🎯 Today's Trivia • 03.09.2025
+## 🎯 Today's Trivia • 04.09.2025
 
-**What legendary ancient civilization is said to have harnessed the mysterious power of the Aurora Borealis to illuminate their cities?**
+**In an astonishing twist of fate, which groundbreaking discovery was inspired by a mysterious dream that revealed the secret structure of the universe?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Hyperboreans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Hyperboreans
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Atlanteans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Atlanteans
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lemurians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-03)** - The Lemurians
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20formula%20for%20relativity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The formula for relativity
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20theory%20of%20quantum%20entanglement%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The theory of quantum entanglement
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20design%20of%20a%20multi-dimensional%20blueprint%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The design of a multi-dimensional blueprint
 
 📝 *Click a button above to submit your answer!*
 
