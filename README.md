@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.09.2025
+## 💡 Did You Know? • 05.09.2025
 
-Fun fact: A cat has 32 muscles in each ear.
+Today's discovery: The ant always falls over on its right side when intoxicated.
 
 ---
 
-## 🎯 Today's Trivia • 04.09.2025
+## 🎯 Today's Trivia • 05.09.2025
 
-**In an astonishing twist of fate, which groundbreaking discovery was inspired by a mysterious dream that revealed the secret structure of the universe?**
+**In a surprising twist of fate, which of these revolutionary inventions was originally conceived as a method for detecting earthquakes, only to be reimagined into a groundbreaking communication tool?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20formula%20for%20relativity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The formula for relativity
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20theory%20of%20quantum%20entanglement%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The theory of quantum entanglement
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20design%20of%20a%20multi-dimensional%20blueprint%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-04)** - The design of a multi-dimensional blueprint
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20phonograph%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-05)** - The phonograph
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20printing%20press%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-05)** - The printing press
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20internet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-05)** - The internet
 
 📝 *Click a button above to submit your answer!*
 
