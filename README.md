@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 06.09.2025
+## 💡 Did You Know? • 07.09.2025
 
-Amazing discovery: Tom Sawyer was the first novel written on a typewriter.
+Today's discovery: The king of hearts is the only king without a mustache.
 
 ---
 
-## 🎯 Today's Trivia • 06.09.2025
+## 🎯 Today's Trivia • 07.09.2025
 
-**In a dazzling alternate universe of entertainment, which mythical creature would be the ultimate dance-off champion, revered for its hypnotic and otherworldly moves?**
+**In an alternate timeline of history, which ancient civilization could have invented a device capable of predicting solar eclipses with astonishing accuracy without any modern technology?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Siren%2C%20captivating%20with%20its%20melodic%20sway%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-06)** - The Siren, captivating with its melodic sway
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%2C%20blazing%20trails%20with%20fiery%20steps%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-06)** - The Phoenix, blazing trails with fiery steps
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Minotaur%2C%20stomping%20with%20earth-shaking%20rhythm%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-06)** - The Minotaur, stomping with earth-shaking rhythm
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mysterious%20Atlantis%20civilization%20known%20for%20their%20alleged%20advanced%20technology%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-07)** - The mysterious Atlantis civilization known for their alleged advanced technology
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Olmecs%2C%20often%20credited%20with%20enigmatic%20colossal%20stone%20heads%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-07)** - The Olmecs, often credited with enigmatic colossal stone heads
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20ancient%20Mesopotamians%2C%20masters%20of%20early%20astronomy%20and%20mathematics%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-07)** - The ancient Mesopotamians, masters of early astronomy and mathematics
 
 📝 *Click a button above to submit your answer!*
 
