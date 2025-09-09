@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.09.2025
+## 💡 Did You Know? • 09.09.2025
 
-Incredible fact: In Aspen Colorado, you can have a maximum income of $104,000 and still receive government subsidized housing.
+Did you know? In every episode of Seinfeld there is a Superman somewhere.
 
 ---
 
-## 🎯 Today's Trivia • 08.09.2025
+## 🎯 Today's Trivia • 09.09.2025
 
-**What is the astonishing phenomenon where a star's core collapse instantly catapults all its light into another dimension, leaving behind a universe-sized silence?**
+**Which mind-blowing invention was originally conceived in a dream and sparked a revolution in personal transportation, forever altering the landscape of urban mobility?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Collapse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-08)** - Quantum Collapse
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Stellar%20Void%20Leap%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-08)** - Stellar Void Leap
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Dark%20Light%20Cascade%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-08)** - Dark Light Cascade
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20self-balancing%20hoverboard%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The self-balancing hoverboard
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20electric%20unicycle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The electric unicycle
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20solar-powered%20skateboard%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The solar-powered skateboard
 
 📝 *Click a button above to submit your answer!*
 
