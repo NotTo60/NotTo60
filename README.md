@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 09.09.2025
+## 💡 Did You Know? • 10.09.2025
 
-Did you know? In every episode of Seinfeld there is a Superman somewhere.
+Here's something interesting: Nutmeg is extremely poisonous if injected intravenously.
 
 ---
 
-## 🎯 Today's Trivia • 09.09.2025
+## 🎯 Today's Trivia • 10.09.2025
 
-**Which mind-blowing invention was originally conceived in a dream and sparked a revolution in personal transportation, forever altering the landscape of urban mobility?**
+**In a fantastical twist of fate, which legendary creature holds the record for the longest time spent balancing on a single blade of grass, defying the rules of nature itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20self-balancing%20hoverboard%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The self-balancing hoverboard
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20electric%20unicycle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The electric unicycle
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20solar-powered%20skateboard%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-09)** - The solar-powered skateboard
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20elusive%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-10)** - The elusive Phoenix
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mythical%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-10)** - The mythical Unicorn
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20enigmatic%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-10)** - The enigmatic Griffin
 
 📝 *Click a button above to submit your answer!*
 
