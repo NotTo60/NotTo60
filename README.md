@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.09.2025
+## 💡 Did You Know? • 13.09.2025
 
-Surprising fact: A standard slinky measures 87 feet when stretched out.
+Fascinating tidbit: Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.
 
 ---
 
-## 🎯 Today's Trivia • 12.09.2025
+## 🎯 Today's Trivia • 13.09.2025
 
-**In a parallel universe where Earth's continents are shaped as mystical creatures, which continent transforms into the legendary Phoenix, representing rebirth and eternal life?**
+**In a parallel universe where colors have sound, which extraordinary phenomenon occurs when a painter's brush strokes vibrate?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Africa%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-12)** - Africa
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Europe%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-12)** - Europe
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20South%20America%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-12)** - South America
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20paintings%20sing%20the%20artist%27s%20name%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-13)** - The paintings sing the artist's name
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20artwork%20becomes%20a%20silent%20film%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-13)** - The artwork becomes a silent film
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20symphony%20of%20hues%20plays%20in%20harmony%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-13)** - A symphony of hues plays in harmony
 
 📝 *Click a button above to submit your answer!*
 
