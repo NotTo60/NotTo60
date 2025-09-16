@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.09.2025
+## 💡 Did You Know? • 16.09.2025
 
-Here's something interesting: A shark is the only fish that can blink with both eyes.
+Mind-blowing fact: A literal translation of a standard traffic sign in China: "Give large space to the festive dog that makes sport in the roadway."
 
 ---
 
-## 🎯 Today's Trivia • 15.09.2025
+## 🎯 Today's Trivia • 16.09.2025
 
-**In a mysterious world where mountains hold the key to immortality, which mountain's peak is rumored to whisper the secrets of eternal life to those who reach its summit?**
+**In an astonishing twist of nature, which mythical creature is said to emerge only under a double rainbow, cloaked in the echoes of the wind?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Vortex%2C%20where%20the%20winds%20of%20time%20swirl%20endlessly%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-15)** - Mount Vortex, where the winds of time swirl endlessly
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Elysium%20Peak%2C%20the%20fabled%20pinnacle%20of%20perpetual%20rejuvenation%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-15)** - Elysium Peak, the fabled pinnacle of perpetual rejuvenation
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Summit%20of%20Illusions%2C%20where%20the%20horizon%20bends%20reality%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-15)** - Summit of Illusions, where the horizon bends reality
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Emerald%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-16)** - The Emerald Phoenix
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-16)** - The Celestial Griffin
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-16)** - The Whispering Unicorn
 
 📝 *Click a button above to submit your answer!*
 
