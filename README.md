@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.09.2025
+## 💡 Did You Know? • 18.09.2025
 
-Little known fact: The longest word comprised of one row on the keyboard is: TYPEWRITER
+Here's something interesting: There are 293 ways to make change for a dollar.
 
 ---
 
-## 🎯 Today's Trivia • 17.09.2025
+## 🎯 Today's Trivia • 18.09.2025
 
-**In the enigmatic realm of secret societies, what is said to be the ultimate enigma that unravels the hidden truth of existence itself?**
+**Which of these mysterious places is rumored to be the Earth's hidden gateway to an alternate dimension where the skies glow with three moons?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Codex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-17)** - The Whispering Codex
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Map%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-17)** - The Celestial Map
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Cipher%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-17)** - The Eternal Cipher
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Bermuda%20Triangle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-18)** - The Bermuda Triangle
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Magnetic%20Hill%20in%20India%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-18)** - The Magnetic Hill in India
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eye%20of%20the%20Sahara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-18)** - The Eye of the Sahara
 
 📝 *Click a button above to submit your answer!*
 
