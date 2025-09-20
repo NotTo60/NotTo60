@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.09.2025
+## 💡 Did You Know? • 20.09.2025
 
-Here's something interesting: The longest recorded flight of a chicken is thirteen seconds.
+Mind-blowing fact: In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)
 
 ---
 
-## 🎯 Today's Trivia • 19.09.2025
+## 🎯 Today's Trivia • 20.09.2025
 
-**In the shimmering depths of the ocean, what incredible phenomenon can cause entire underwater landscapes to glow with an ethereal, otherworldly light?**
+**In a mind-bending twist of innovation, which of these inventions was originally conceived to function as a musical instrument before finding fame in an entirely different field?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bioluminescent%20organisms%20creating%20a%20mystical%20underwater%20glow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-19)** - Bioluminescent organisms creating a mystical underwater glow
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sunlight%20reflecting%20off%20deep-sea%20crystals%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-19)** - Sunlight reflecting off deep-sea crystals
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Volcanic%20activity%20releasing%20luminescent%20gases%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-19)** - Volcanic activity releasing luminescent gases
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20stethoscope%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The stethoscope
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20printing%20press%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The printing press
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20light%20bulb%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The light bulb
 
 📝 *Click a button above to submit your answer!*
 
