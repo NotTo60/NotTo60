@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.09.2025
+## 💡 Did You Know? • 21.09.2025
 
-Mind-blowing fact: In Disney`s Fantasia, the Sorcerer`s name is "Yensid" (Disney backwards.)
+Fun fact: The world record for spitting a watermelon seed is 65 feet 4 inches.
 
 ---
 
-## 🎯 Today's Trivia • 20.09.2025
+## 🎯 Today's Trivia • 21.09.2025
 
-**In a mind-bending twist of innovation, which of these inventions was originally conceived to function as a musical instrument before finding fame in an entirely different field?**
+**In the mythical realm of Bibliotopia, a secret society of authors known as the 'Quill Keepers' is said to possess what extraordinary ability?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20stethoscope%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The stethoscope
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20printing%20press%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The printing press
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20light%20bulb%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-20)** - The light bulb
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Inscribe%20stories%20that%20come%20to%20life%20upon%20reading%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-21)** - Inscribe stories that come to life upon reading
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Transform%20unwritten%20ideas%20into%20physical%20books%20overnight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-21)** - Transform unwritten ideas into physical books overnight
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Erase%20memories%20of%20anyone%20who%20reads%20their%20forbidden%20texts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-21)** - Erase memories of anyone who reads their forbidden texts
 
 📝 *Click a button above to submit your answer!*
 
