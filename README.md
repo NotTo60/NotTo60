@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.09.2025
+## 💡 Did You Know? • 23.09.2025
 
-Today's discovery: Pinocchio is Italian for "pine head."
+Surprising fact: In Japan, watermelons are squared. It's easier to stack them that way.
 
 ---
 
-## 🎯 Today's Trivia • 22.09.2025
+## 🎯 Today's Trivia • 23.09.2025
 
-**In a world where the largest known microbe is the size of a grapefruit, what would be the most mind-blowingly extreme feature it possesses?**
+**In an imaginary universe where athletes possess superpowers, which astounding ability would allow a soccer player to score a goal from any position on the field?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20communicates%20through%20bioluminescent%20pulses%20visible%20from%20space%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-22)** - It communicates through bioluminescent pulses visible from space
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20can%20leap%20100%20times%20its%20own%20diameter%20in%20a%20single%20bound%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-22)** - It can leap 100 times its own diameter in a single bound
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20generates%20magnetic%20fields%20strong%20enough%20to%20disrupt%20electronics%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-22)** - It generates magnetic fields strong enough to disrupt electronics
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mind-control%20the%20ball%20with%20telekinesis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-23)** - Mind-control the ball with telekinesis
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Instantly%20teleport%20to%20the%20goal%20line%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-23)** - Instantly teleport to the goal line
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Summon%20a%20whirlwind%20to%20guide%20the%20ball%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-23)** - Summon a whirlwind to guide the ball
 
 📝 *Click a button above to submit your answer!*
 
