@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.09.2025
+## 💡 Did You Know? • 27.09.2025
 
-Little known fact: Sailfish can leap out of the water and into the air at a speed of 50 miles (81 km) per hour.
+Incredible fact: `Obsession` is the most popular boat name.
 
 ---
 
-## 🎯 Today's Trivia • 26.09.2025
+## 🎯 Today's Trivia • 27.09.2025
 
-**If a mythical mountain were to exist where its peak could influence the colors of the Northern Lights, what would be its most likely name?**
+**In a realm where shadows conceal secrets, what phenomenon is rumored to transform whispers into tangible truths, capable of altering the fabric of reality itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aurora%27s%20Summit%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-26)** - Aurora's Summit
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chromatic%20Pinnacle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-26)** - Chromatic Pinnacle
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Spectral%20Heights%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-26)** - Spectral Heights
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Veil%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-27)** - The Whispering Veil
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Abyss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-27)** - The Echoing Abyss
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silent%20Rift%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-27)** - The Silent Rift
 
 📝 *Click a button above to submit your answer!*
 
