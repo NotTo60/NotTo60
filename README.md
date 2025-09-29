@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 28.09.2025
+## 💡 Did You Know? • 29.09.2025
 
-Surprising fact: Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”
+Mind-blowing fact: There were 240 pedestrian fatalities in New York City in 1994.
 
 ---
 
-## 🎯 Today's Trivia • 28.09.2025
+## 🎯 Today's Trivia • 29.09.2025
 
-**In the realm of groundbreaking inventions, which fantastical device was imagined to harness cosmic energy and power civilizations using nothing but the vibrations of the universe?**
+**In an alternate reality where technology is governed by quantum imagination, which invention can instantly create anything imagined by harnessing the energy of thought?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Resonator%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-28)** - The Celestial Resonator
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Dynamo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-28)** - The Quantum Dynamo
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Etheric%20Transmitter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-28)** - The Etheric Transmitter
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dreamweaver%20Device%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-29)** - The Dreamweaver Device
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Conjurer%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-29)** - The Quantum Conjurer
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Imagisphere%20Engine%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-29)** - The Imagisphere Engine
 
 📝 *Click a button above to submit your answer!*
 
