@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 30.09.2025
+## 💡 Did You Know? • 01.10.2025
 
-Mind-blowing fact: Dogs and cats consume over $11 billion worth of pet food a year
+Incredible fact: Grapes explode when you put them in the microwave. Go on, try it then
 
 ---
 
-## 🎯 Today's Trivia • 30.09.2025
+## 🎯 Today's Trivia • 01.10.2025
 
-**In a mystical realm where books come to life, which enchanting tale is rumored to grant its reader a glimpse into alternate realities?**
+**In a parallel universe where dreams fuel technological advancement, what mind-bending invention allows people to capture the essence of their dreams and transform them into vivid, living art?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chronicles%20of%20the%20Whispering%20Forest%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-30)** - The Chronicles of the Whispering Forest
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Multiverse%20Travels%20of%20the%20Enchanted%20Quill%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-30)** - The Multiverse Travels of the Enchanted Quill
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Secret%20Diary%20of%20the%20Moonlit%20Library%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-09-30)** - The Secret Diary of the Moonlit Library
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dreamsculptor%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Dreamsculptor
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Reality%20Renderer%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Reality Renderer
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Vision%20Vault%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Vision Vault
 
 📝 *Click a button above to submit your answer!*
 
