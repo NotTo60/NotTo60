@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.10.2025
+## 💡 Did You Know? • 02.10.2025
 
-Incredible fact: Grapes explode when you put them in the microwave. Go on, try it then
+Today's discovery: Baby robins eat 14 feet of earthworms every day
 
 ---
 
-## 🎯 Today's Trivia • 01.10.2025
+## 🎯 Today's Trivia • 02.10.2025
 
-**In a parallel universe where dreams fuel technological advancement, what mind-bending invention allows people to capture the essence of their dreams and transform them into vivid, living art?**
+**In a world where entire civilizations remain hidden beneath our feet, what groundbreaking discovery is said to unlock the secrets of an ancient, technologically advanced society that predates all known history?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dreamsculptor%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Dreamsculptor
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Reality%20Renderer%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Reality Renderer
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Vision%20Vault%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-01)** - The Vision Vault
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20unearthing%20of%20the%20Singularity%20Obelisk%20in%20the%20Andes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The unearthing of the Singularity Obelisk in the Andes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20decoding%20of%20the%20Celestial%20Scrolls%20from%20the%20Arctic%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The decoding of the Celestial Scrolls from the Arctic
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20discovery%20of%20the%20Sunken%20City%20under%20the%20Sahara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The discovery of the Sunken City under the Sahara
 
 📝 *Click a button above to submit your answer!*
 
