@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 02.10.2025
+## 💡 Did You Know? • 03.10.2025
 
-Today's discovery: Baby robins eat 14 feet of earthworms every day
+Incredible fact: Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
 
 ---
 
-## 🎯 Today's Trivia • 02.10.2025
+## 🎯 Today's Trivia • 03.10.2025
 
-**In a world where entire civilizations remain hidden beneath our feet, what groundbreaking discovery is said to unlock the secrets of an ancient, technologically advanced society that predates all known history?**
+**In a breathtaking twist of geological artistry, which mystical mountain range is said to echo the heartbeats of the earth itself, resonating life into the valleys below?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20unearthing%20of%20the%20Singularity%20Obelisk%20in%20the%20Andes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The unearthing of the Singularity Obelisk in the Andes
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20decoding%20of%20the%20Celestial%20Scrolls%20from%20the%20Arctic%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The decoding of the Celestial Scrolls from the Arctic
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20discovery%20of%20the%20Sunken%20City%20under%20the%20Sahara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-02)** - The discovery of the Sunken City under the Sahara
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Peaks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Whispering Peaks
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Cliffs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Enchanted Cliffs
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Resonant%20Range%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Resonant Range
 
 📝 *Click a button above to submit your answer!*
 
