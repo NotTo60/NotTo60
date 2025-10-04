@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 03.10.2025
+## 💡 Did You Know? • 04.10.2025
 
-Incredible fact: Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
+Fun fact: The giant squid has the largest eyes in the world.
 
 ---
 
-## 🎯 Today's Trivia • 03.10.2025
+## 🎯 Today's Trivia • 04.10.2025
 
-**In a breathtaking twist of geological artistry, which mystical mountain range is said to echo the heartbeats of the earth itself, resonating life into the valleys below?**
+**In a mysterious underwater cavern, explorers discovered a new element that defies gravity. What is the mind-bending property of this element?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Peaks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Whispering Peaks
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Cliffs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Enchanted Cliffs
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Resonant%20Range%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-03)** - The Resonant Range
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20emits%20light%20in%20perfect%20darkness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It emits light in perfect darkness
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20instantly%20freezes%20any%20liquid%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It instantly freezes any liquid
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20absorbs%20and%20reverses%20gravitational%20pull%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It absorbs and reverses gravitational pull
 
 📝 *Click a button above to submit your answer!*
 
