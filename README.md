@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.10.2025
+## 💡 Did You Know? • 05.10.2025
 
-Fun fact: The giant squid has the largest eyes in the world.
+Mind-blowing fact: No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.
 
 ---
 
-## 🎯 Today's Trivia • 04.10.2025
+## 🎯 Today's Trivia • 05.10.2025
 
-**In a mysterious underwater cavern, explorers discovered a new element that defies gravity. What is the mind-bending property of this element?**
+**In a thrilling twist of biological wonder, which part of the human body is capable of regenerating itself multiple times throughout a lifetime, reminiscent of the mythical Hydra?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20emits%20light%20in%20perfect%20darkness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It emits light in perfect darkness
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20instantly%20freezes%20any%20liquid%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It instantly freezes any liquid
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20absorbs%20and%20reverses%20gravitational%20pull%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-04)** - It absorbs and reverses gravitational pull
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Liver%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Liver
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Heart%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Heart
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lungs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Lungs
 
 📝 *Click a button above to submit your answer!*
 
