@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 05.10.2025
+## 💡 Did You Know? • 06.10.2025
 
-Mind-blowing fact: No matter where you stand in Michigan, you are never more than 85 miles from a Great Lake.
+Fun fact: There are 1,792 steps in the Eiffel Tower
 
 ---
 
-## 🎯 Today's Trivia • 05.10.2025
+## 🎯 Today's Trivia • 06.10.2025
 
-**In a thrilling twist of biological wonder, which part of the human body is capable of regenerating itself multiple times throughout a lifetime, reminiscent of the mythical Hydra?**
+**In a mystical turn of geology, what phenomenon allows certain mountains to seemingly levitate during specific lunar phases, creating an awe-inspiring spectacle that defies gravity itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Liver%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Liver
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Heart%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Heart
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lungs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-05)** - Lungs
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magnetic%20polar%20shifts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-06)** - Magnetic polar shifts
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Wind%20vortex%20illusions%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-06)** - Wind vortex illusions
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20gravitational%20resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-06)** - Lunar gravitational resonance
 
 📝 *Click a button above to submit your answer!*
 
