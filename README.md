@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.10.2025
+## 💡 Did You Know? • 08.10.2025
 
-Amazing discovery: There is a city in Norway called "Hell"
+Little known fact: The average human will shed 40 pounds of skin in a lifetime.
 
 ---
 
-## 🎯 Today's Trivia • 07.10.2025
+## 🎯 Today's Trivia • 08.10.2025
 
-**In a mystical realm of oceans where the currents whisper secrets, which phenomenon would allow marine creatures to glow in a dazzling array of colors, transforming the sea into a mesmerizing underwater aurora?**
+**In a twist of historical events, which mythical creature was once believed to have inspired the design of an ancient civilization's most formidable weapon?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Oceanic%20Vortex%20Nexus%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-07)** - Oceanic Vortex Nexus
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Phosphorescent%20Symphony%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-07)** - Phosphorescent Symphony
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Submarine%20Solar%20Sync%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-07)** - Submarine Solar Sync
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Phoenix
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Dragon
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Unicorn
 
 📝 *Click a button above to submit your answer!*
 
