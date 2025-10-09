@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.10.2025
+## 💡 Did You Know? • 09.10.2025
 
-Little known fact: The average human will shed 40 pounds of skin in a lifetime.
+Little known fact: There are 336 dimples on a regulation golf ball.
 
 ---
 
-## 🎯 Today's Trivia • 08.10.2025
+## 🎯 Today's Trivia • 09.10.2025
 
-**In a twist of historical events, which mythical creature was once believed to have inspired the design of an ancient civilization's most formidable weapon?**
+**In a distant galaxy far beyond our reach, what cosmic marvel could theoretically create a kaleidoscope of reality, where time itself dances in colors unseen by the human eye?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Phoenix
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Dragon
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-08)** - The Unicorn
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20twin%20supernova%20explosion%20creating%20mirrored%20universes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-09)** - A twin supernova explosion creating mirrored universes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20vortex%20of%20dark%20matter%20spiraling%20into%20oblivion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-09)** - A vortex of dark matter spiraling into oblivion
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20prism%20nebula%20refracting%20cosmic%20wavelengths%20beyond%20comprehension%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-09)** - A prism nebula refracting cosmic wavelengths beyond comprehension
 
 📝 *Click a button above to submit your answer!*
 
