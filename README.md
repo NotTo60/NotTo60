@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.10.2025
+## 💡 Did You Know? • 11.10.2025
 
-Today's discovery: Until 1997, there were more pigs than people in Denmark.
+Fun fact: Worcestershire sauce in essentially an Anchovy Ketchup.
 
 ---
 
-## 🎯 Today's Trivia • 10.10.2025
+## 🎯 Today's Trivia • 11.10.2025
 
-**Which mythical sports event is said to have been played between deities, resulting in the creation of the world's most infamous storm due to the power of their competition?**
+**In the annals of ancient empires, what mythical creature did a forgotten civilization reportedly harness to build their towering monuments, leaving historians in awe?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Cricket%20Clash%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-10)** - The Celestial Cricket Clash
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Olympian%20Thunderball%20Tournament%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-10)** - The Olympian Thunderball Tournament
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Titan%27s%20Ultimate%20Boxing%20Bout%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-10)** - The Titan's Ultimate Boxing Bout
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Giant%20winged%20elephants%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-11)** - Giant winged elephants
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Fire-breathing%20sea%20serpents%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-11)** - Fire-breathing sea serpents
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Unicorns%20with%20diamond%20hooves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-11)** - Unicorns with diamond hooves
 
 📝 *Click a button above to submit your answer!*
 
