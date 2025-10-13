@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.10.2025
+## 💡 Did You Know? • 13.10.2025
 
-Surprising fact: Louisiana's capital building is the tallest one of any U.S. state.
+Amazing discovery: A skunk's smell can be detected by a human a mile away.
 
 ---
 
-## 🎯 Today's Trivia • 12.10.2025
+## 🎯 Today's Trivia • 13.10.2025
 
-**In a world where imagination knows no bounds, which mythical creature was said to have inspired an astonishing invention that revolutionized communication?**
+**In the realm of geography's mystical wonders, which land boasts mountains that naturally glow with a spectral luminescence during twilight?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20phoenix%20with%20its%20legendary%20rebirth%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-12)** - A phoenix with its legendary rebirth
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20dragon%20known%20for%20its%20fiery%20breath%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-12)** - A dragon known for its fiery breath
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20unicorn%20with%20its%20magical%20horn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-12)** - A unicorn with its magical horn
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Highlands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-13)** - The Whispering Highlands
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Radiant%20Peaks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-13)** - The Radiant Peaks
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Twilight%20Terraces%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-13)** - The Twilight Terraces
 
 📝 *Click a button above to submit your answer!*
 
