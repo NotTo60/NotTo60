@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.10.2025
+## 💡 Did You Know? • 16.10.2025
 
-Surprising fact: If a rooster can`t fully extend its neck, it can`t crow.
+Did you know? In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
 
 ---
 
-## 🎯 Today's Trivia • 15.10.2025
+## 🎯 Today's Trivia • 16.10.2025
 
-**In a futuristic world where advanced AI can recreate historical events with perfect accuracy, what unexpected phenomenon challenges the world's understanding of time?**
+**In a mind-bending twist of cinematic creation, which of these fictional directors is rumored to use a secret portal to access alternate dimensions for unparalleled inspiration?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20AI-generated%20events%20become%20indistinguishable%20from%20reality%2C%20causing%20digital%20time%20loops.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-15)** - AI-generated events become indistinguishable from reality, causing digital time loops.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Recreated%20events%20begin%20to%20influence%20the%20present%2C%20blurring%20the%20line%20between%20history%20and%20now.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-15)** - Recreated events begin to influence the present, blurring the line between history and now.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20These%20AI%20simulations%20uncover%20lost%20civilizations%2C%20leading%20to%20a%20global%20identity%20crisis.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-15)** - These AI simulations uncover lost civilizations, leading to a global identity crisis.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lucius%20Stark%2C%20creator%20of%20the%20animated%20universe%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-16)** - Lucius Stark, creator of the animated universe
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Elara%20Vex%2C%20known%20for%20her%20reality-bending%20blockbusters%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-16)** - Elara Vex, known for her reality-bending blockbusters
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Jasper%20Roan%2C%20master%20of%20the%20time-travel%20thriller%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-16)** - Jasper Roan, master of the time-travel thriller
 
 📝 *Click a button above to submit your answer!*
 
