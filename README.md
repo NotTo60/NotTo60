@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.10.2025
+## 💡 Did You Know? • 18.10.2025
 
-Amazing discovery: When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
+Little known fact: The surface of the Earth is about 60% water and 10% ice.
 
 ---
 
-## 🎯 Today's Trivia • 17.10.2025
+## 🎯 Today's Trivia • 18.10.2025
 
-**In a parallel universe where technology advances at the speed of imagination, which unprecedented innovation allows humans to instantaneously upload their consciousness into a virtual utopia, forever blurring the line between reality and the digital world?**
+**In an astonishing twist of history, which enigmatic civilization is said to have vanished overnight, leaving behind a treasure trove of knowledge that puzzled scholars for centuries?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Neural%20Link%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-17)** - Quantum Neural Link
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Hyperloop%20Mind%20Interface%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-17)** - Hyperloop Mind Interface
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Consciousness%20Transference%20Matrix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-17)** - Consciousness Transference Matrix
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Atlantean%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Atlantean Empire
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lemurian%20Dynasty%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Lemurian Dynasty
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eluvian%20Kingdom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Eluvian Kingdom
 
 📝 *Click a button above to submit your answer!*
 
