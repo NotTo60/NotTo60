@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.10.2025
+## 💡 Did You Know? • 19.10.2025
 
-Little known fact: The surface of the Earth is about 60% water and 10% ice.
+Today's discovery: Lithuania has the highest suicide rate in the world.
 
 ---
 
-## 🎯 Today's Trivia • 18.10.2025
+## 🎯 Today's Trivia • 19.10.2025
 
-**In an astonishing twist of history, which enigmatic civilization is said to have vanished overnight, leaving behind a treasure trove of knowledge that puzzled scholars for centuries?**
+**In a realm where shadows whisper secrets and the wind carries tales of the unknown, which mythical artifact is said to unlock the mysteries of the universe itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Atlantean%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Atlantean Empire
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lemurian%20Dynasty%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Lemurian Dynasty
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eluvian%20Kingdom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-18)** - The Eluvian Kingdom
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Cipher%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Celestial Cipher
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigma%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Enigma Stone
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quasar%20Key%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Quasar Key
 
 📝 *Click a button above to submit your answer!*
 
