@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.10.2025
+## 💡 Did You Know? • 20.10.2025
 
-Today's discovery: Lithuania has the highest suicide rate in the world.
+Surprising fact: The Hawaiian alphabet has only 12 letters.
 
 ---
 
-## 🎯 Today's Trivia • 19.10.2025
+## 🎯 Today's Trivia • 20.10.2025
 
-**In a realm where shadows whisper secrets and the wind carries tales of the unknown, which mythical artifact is said to unlock the mysteries of the universe itself?**
+**In the world of sports, which of the following phenomena is known to cause a legendary 'phantom victory moment' where a team wins without actually playing the final match?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Cipher%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Celestial Cipher
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigma%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Enigma Stone
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quasar%20Key%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-19)** - The Quasar Key
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mirage%20Effect%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Mirage Effect
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Paradox%20Play%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Paradox Play
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Walkover%20Win%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Walkover Win
 
 📝 *Click a button above to submit your answer!*
 
