@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.10.2025
+## 💡 Did You Know? • 21.10.2025
 
-Surprising fact: The Hawaiian alphabet has only 12 letters.
+Today's discovery: Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  
 
 ---
 
-## 🎯 Today's Trivia • 20.10.2025
+## 🎯 Today's Trivia • 21.10.2025
 
-**In the world of sports, which of the following phenomena is known to cause a legendary 'phantom victory moment' where a team wins without actually playing the final match?**
+**In a world where time bends and history rewrites itself, which fantastical record do people believe holds the ultimate secret to unlimited energy?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mirage%20Effect%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Mirage Effect
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Paradox%20Play%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Paradox Play
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Walkover%20Win%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-20)** - The Walkover Win
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ancient%20Scroll%20of%20Infinite%20Light%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Ancient Scroll of Infinite Light
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Flame%20Crystal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Eternal Flame Crystal
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Resonance%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Quantum Resonance Stone
 
 📝 *Click a button above to submit your answer!*
 
