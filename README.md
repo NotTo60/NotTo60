@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.10.2025
+## 💡 Did You Know? • 22.10.2025
 
-Today's discovery: Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  
+Surprising fact:  was Harrison Ford`s idea so that he could take a bathroom break.
 
 ---
 
-## 🎯 Today's Trivia • 21.10.2025
+## 🎯 Today's Trivia • 22.10.2025
 
-**In a world where time bends and history rewrites itself, which fantastical record do people believe holds the ultimate secret to unlimited energy?**
+**In an astounding turn of events, which mysterious ancient civilization is rumored to have engineered their entire city to float effortlessly atop a lake, defying conventional architecture of its era?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ancient%20Scroll%20of%20Infinite%20Light%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Ancient Scroll of Infinite Light
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Flame%20Crystal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Eternal Flame Crystal
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Resonance%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-21)** - The Quantum Resonance Stone
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Architects%20of%20the%20Himalayas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-22)** - The Celestial Architects of the Himalayas
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigmatic%20Navigators%20of%20the%20Pacific%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-22)** - The Enigmatic Navigators of the Pacific
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aetherians%20of%20the%20Shadow%20Lagoon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-22)** - The Aetherians of the Shadow Lagoon
 
 📝 *Click a button above to submit your answer!*
 
