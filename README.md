@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.10.2025
+## 💡 Did You Know? • 28.10.2025
 
-Fun fact: The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
+Here's something interesting: Chinese Crested dogs can get acne. 
 
 ---
 
-## 🎯 Today's Trivia • 27.10.2025
+## 🎯 Today's Trivia • 28.10.2025
 
-**In a parallel universe where paintings hum with emotion, which color is believed to create a symphony of tranquility that can calm storms?**
+**In a mind-blowing twist of fate, which cosmic phenomenon was discovered to hold the secret to altering the very fabric of reality itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Cerulean%20Blue%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-27)** - Cerulean Blue
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Crimson%20Red%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-27)** - Crimson Red
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Vibrant%20Orange%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-27)** - Vibrant Orange
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20infinite%20spiral%20of%20the%20Taurus%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-28)** - The infinite spiral of the Taurus Vortex
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20elusive%20harmony%20of%20the%20Quantum%20Chime%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-28)** - The elusive harmony of the Quantum Chime
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20enigmatic%20pulse%20of%20the%20Celestial%20Echo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-28)** - The enigmatic pulse of the Celestial Echo
 
 📝 *Click a button above to submit your answer!*
 
