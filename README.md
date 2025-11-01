@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 31.10.2025
+## 💡 Did You Know? • 01.11.2025
 
-Here's something interesting: In Utah, it is illegal to swear in front of a dead person.
+Amazing discovery: About 500 movies are made in the US and 800 in India annually.
 
 ---
 
-## 🎯 Today's Trivia • 31.10.2025
+## 🎯 Today's Trivia • 01.11.2025
 
-**If a new planet were discovered where time moves in reverse relative to Earth, what incredible phenomenon might its inhabitants experience?**
+**In the swirling depths of the unexplored abyss, a mysterious phenomenon was discovered that defies the laws of physics by seemingly bending space itself. What is this enigma famously known as?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aging%20rapidly%20as%20they%20move%20slowly%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-31)** - Aging rapidly as they move slowly
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Experiencing%20tomorrow%20before%20today%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-31)** - Experiencing tomorrow before today
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Living%20their%20lives%20backwards%2C%20witnessing%20the%20end%20before%20the%20beginning%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-10-31)** - Living their lives backwards, witnessing the end before the beginning
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Abyssal%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Abyssal Mirage
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Void%27s%20Eclipse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Void's Eclipse
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Temporal%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Temporal Vortex
 
 📝 *Click a button above to submit your answer!*
 
