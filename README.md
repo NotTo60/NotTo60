@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.11.2025
+## 💡 Did You Know? • 02.11.2025
 
-Amazing discovery: About 500 movies are made in the US and 800 in India annually.
+Incredible fact: A cockroach will live nine days without its head before it starves to death.
 
 ---
 
-## 🎯 Today's Trivia • 01.11.2025
+## 🎯 Today's Trivia • 02.11.2025
 
-**In the swirling depths of the unexplored abyss, a mysterious phenomenon was discovered that defies the laws of physics by seemingly bending space itself. What is this enigma famously known as?**
+**In the mythical realm of Veritas, what is said to be the key to unlocking the eternal enigma of the Whispering Shadows, a mystery that has confounded sages for centuries?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Abyssal%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Abyssal Mirage
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Void%27s%20Eclipse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Void's Eclipse
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Temporal%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-01)** - The Temporal Vortex
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Crystal%20of%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Crystal of Echoes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Scroll%20of%20Twilight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Scroll of Twilight
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Orb%20of%20Silence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Orb of Silence
 
 📝 *Click a button above to submit your answer!*
 
