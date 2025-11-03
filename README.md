@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 02.11.2025
+## 💡 Did You Know? • 03.11.2025
 
-Incredible fact: A cockroach will live nine days without its head before it starves to death.
+Amazing discovery: NBA superstar Michael Jordan was originally cut from his high school basketball team.
 
 ---
 
-## 🎯 Today's Trivia • 02.11.2025
+## 🎯 Today's Trivia • 03.11.2025
 
-**In the mythical realm of Veritas, what is said to be the key to unlocking the eternal enigma of the Whispering Shadows, a mystery that has confounded sages for centuries?**
+**In the realm of interstellar wonders, which hypothetical planet, if it existed, could boast the most extreme gravity, capable of instantly turning a human into a flat pancake upon landing?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Crystal%20of%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Crystal of Echoes
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Scroll%20of%20Twilight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Scroll of Twilight
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Orb%20of%20Silence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-02)** - The Orb of Silence
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dark%20Diamond%2C%20with%20a%20core%20made%20entirely%20of%20super-dense%20carbon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Dark Diamond, with a core made entirely of super-dense carbon
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Titan%27s%20Grip%2C%20with%20a%20magnetic%20field%20so%20strong%20it%20compresses%20everything%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Titan's Grip, with a magnetic field so strong it compresses everything
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echo%20Sphere%2C%20with%20gravitational%20waves%20that%20ripple%20through%20dimensions%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Echo Sphere, with gravitational waves that ripple through dimensions
 
 📝 *Click a button above to submit your answer!*
 
