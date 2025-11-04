@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 03.11.2025
+## 💡 Did You Know? • 04.11.2025
 
-Amazing discovery: NBA superstar Michael Jordan was originally cut from his high school basketball team.
+Here's something interesting: A polar bears skin is black. Its fur is actually clear, but like snow it appears white.
 
 ---
 
-## 🎯 Today's Trivia • 03.11.2025
+## 🎯 Today's Trivia • 04.11.2025
 
-**In the realm of interstellar wonders, which hypothetical planet, if it existed, could boast the most extreme gravity, capable of instantly turning a human into a flat pancake upon landing?**
+**In the mythical realm where paintbrushes wield the powers of transformation, which fantastical artifact is said to hold the essence of every color ever imagined?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dark%20Diamond%2C%20with%20a%20core%20made%20entirely%20of%20super-dense%20carbon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Dark Diamond, with a core made entirely of super-dense carbon
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Titan%27s%20Grip%2C%20with%20a%20magnetic%20field%20so%20strong%20it%20compresses%20everything%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Titan's Grip, with a magnetic field so strong it compresses everything
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echo%20Sphere%2C%20with%20gravitational%20waves%20that%20ripple%20through%20dimensions%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-03)** - The Echo Sphere, with gravitational waves that ripple through dimensions
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Prism%20of%20Infinite%20Hues%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Prism of Infinite Hues
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Palette%20of%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Palette of Echoes
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Canvas%20of%20Eternity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Canvas of Eternity
 
 📝 *Click a button above to submit your answer!*
 
