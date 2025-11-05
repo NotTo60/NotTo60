@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.11.2025
+## 💡 Did You Know? • 05.11.2025
 
-Here's something interesting: A polar bears skin is black. Its fur is actually clear, but like snow it appears white.
+Fascinating tidbit: The people of Israel consume more turkeys per capita than any other country.
 
 ---
 
-## 🎯 Today's Trivia • 04.11.2025
+## 🎯 Today's Trivia • 05.11.2025
 
-**In the mythical realm where paintbrushes wield the powers of transformation, which fantastical artifact is said to hold the essence of every color ever imagined?**
+**In a breathtaking twist of sports evolution, which of these unlikely instruments was once used to officiate an ancient game, leaving spectators in awe?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Prism%20of%20Infinite%20Hues%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Prism of Infinite Hues
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Palette%20of%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Palette of Echoes
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Canvas%20of%20Eternity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-04)** - The Canvas of Eternity
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20golden%20harp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-05)** - A golden harp
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20ceremonial%20gong%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-05)** - A ceremonial gong
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20enchanted%20flute%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-05)** - An enchanted flute
 
 📝 *Click a button above to submit your answer!*
 
