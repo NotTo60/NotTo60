@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.11.2025
+## 💡 Did You Know? • 08.11.2025
 
-Amazing discovery: One in ten people live on an island.
+Fun fact: Conception occurs most in the month of December.
 
 ---
 
-## 🎯 Today's Trivia • 07.11.2025
+## 🎯 Today's Trivia • 08.11.2025
 
-**What extraordinary ability does the human brain possess that could potentially render reality indistinguishable from a vivid dream?**
+**In the world of art, which extraordinary medium is said to capture the essence of time itself by using colors that change as they age, revealing hidden layers of the artist's vision?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20can%20simulate%20complex%20environments%20with%20impeccable%20detail.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-07)** - It can simulate complex environments with impeccable detail.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20can%20control%20the%20body%27s%20temperature%20to%20extreme%20limits.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-07)** - It can control the body's temperature to extreme limits.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20can%20produce%20unlimited%20energy%20from%20thought%20alone.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-07)** - It can produce unlimited energy from thought alone.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Temporal%20clay%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Temporal clay
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Patina%20paint%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Patina paint
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ethereal%20ink%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Ethereal ink
 
 📝 *Click a button above to submit your answer!*
 
