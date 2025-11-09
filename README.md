@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.11.2025
+## 💡 Did You Know? • 09.11.2025
 
-Fun fact: Conception occurs most in the month of December.
+Mind-blowing fact: There are more psychoanalysts per capita in Buenos Aires than any other place in the world.
 
 ---
 
-## 🎯 Today's Trivia • 08.11.2025
+## 🎯 Today's Trivia • 09.11.2025
 
-**In the world of art, which extraordinary medium is said to capture the essence of time itself by using colors that change as they age, revealing hidden layers of the artist's vision?**
+**In the realm of animal wonders, which extraordinary creature can supposedly communicate through bioluminescent pulses that mimic messages from ancient stars?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Temporal%20clay%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Temporal clay
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Patina%20paint%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Patina paint
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ethereal%20ink%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-08)** - Ethereal ink
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Nebula%20Jellyfish%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-09)** - The Nebula Jellyfish
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Squid%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-09)** - The Celestial Squid
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Cosmic%20Seahorse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-09)** - The Cosmic Seahorse
 
 📝 *Click a button above to submit your answer!*
 
