@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.11.2025
+## 💡 Did You Know? • 11.11.2025
 
-Fascinating tidbit: Jim Henson first coined the word “Muppet”. It is a combination of “marionette” and “puppet.”
+Today's discovery: Greece's national anthem has 158 verses.
 
 ---
 
-## 🎯 Today's Trivia • 10.11.2025
+## 🎯 Today's Trivia • 11.11.2025
 
-**Which mind-blowing invention was initially inspired by observing the mesmerizing motion of a chameleon's eye?**
+**In a hypothetical world where atoms could communicate, what would they likely discuss passionately over a cup of quantum tea?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20revolutionary%20360-degree%20camera%20system%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-10)** - A revolutionary 360-degree camera system
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20state-of-the-art%20robotic%20vacuum%20cleaner%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-10)** - A state-of-the-art robotic vacuum cleaner
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20advanced%20weather%20prediction%20algorithm%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-10)** - An advanced weather prediction algorithm
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20captivating%20dance%20of%20electrons%20around%20them%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-11)** - The captivating dance of electrons around them
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Their%20favorite%20color%20of%20light%20to%20absorb%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-11)** - Their favorite color of light to absorb
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20thrilling%20weight%20of%20their%20protons%20and%20neutrons%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-11)** - The thrilling weight of their protons and neutrons
 
 📝 *Click a button above to submit your answer!*
 
