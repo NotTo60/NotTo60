@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.11.2025
+## 💡 Did You Know? • 13.11.2025
 
-Amazing discovery: Right-handed people live, on average; nine years longer than left handed people.
+Here's something interesting: A cockroach will live nine days without its head before it starves to death.
 
 ---
 
-## 🎯 Today's Trivia • 12.11.2025
+## 🎯 Today's Trivia • 13.11.2025
 
-**Which mythical element is said to grant a musician the power to compose a melody that can freeze time itself?**
+**In a mind-bending twist of nature, which geographical phenomenon allows you to stand on three different continents simultaneously?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Eternal%20Flame%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-12)** - Eternal Flame
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Golden%20Lyre%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-12)** - Golden Lyre
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chrono%20Crystal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-12)** - Chrono Crystal
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Triple%20Divide%20of%20the%20Americas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-13)** - The Triple Divide of the Americas
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Tri-Point%20of%20the%20European%20Union%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-13)** - The Tri-Point of the European Union
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Tricontinental%20Trilemma%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-13)** - The Tricontinental Trilemma
 
 📝 *Click a button above to submit your answer!*
 
