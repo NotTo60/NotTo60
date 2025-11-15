@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 14.11.2025
+## 💡 Did You Know? • 15.11.2025
 
-Fascinating tidbit: The dot over the letter `i` is called a tittle.  
+Today's discovery: Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.
 
 ---
 
-## 🎯 Today's Trivia • 14.11.2025
+## 🎯 Today's Trivia • 15.11.2025
 
-**Which mysterious phenomenon can cause a human's heartbeat to perfectly synchronize with another person's by simply holding hands for five minutes in complete silence?**
+**What mystical power do certain chameleons possess that allows them to become invisible to all predators under the full moon?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Electromagnetic%20resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-14)** - Electromagnetic resonance
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sympathetic%20resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-14)** - Sympathetic resonance
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Cardiac%20coherence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-14)** - Cardiac coherence
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20manipulate%20light%20waves%20to%20refract%20around%20them%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-15)** - They manipulate light waves to refract around them
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20emit%20a%20pheromone%20that%20creates%20an%20illusion%20of%20emptiness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-15)** - They emit a pheromone that creates an illusion of emptiness
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Their%20skin%20absorbs%20moonlight%2C%20cloaking%20them%20in%20shadows%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-15)** - Their skin absorbs moonlight, cloaking them in shadows
 
 📝 *Click a button above to submit your answer!*
 
