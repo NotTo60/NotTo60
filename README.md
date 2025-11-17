@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.11.2025
+## 💡 Did You Know? • 17.11.2025
 
-Amazing discovery: Two-thirds of the world`s eggplant is grown in New Jersey.  
+Today's discovery: The longest one-syllable word in the English language is "screeched."
 
 ---
 
-## 🎯 Today's Trivia • 16.11.2025
+## 🎯 Today's Trivia • 17.11.2025
 
-**In a mind-bending twist of cinematic genius, which of these fictional directors was known for creating movies that unwittingly altered the realities of those who watched them?**
+**In the enchanting world of nature, which mysterious phenomenon allows certain forests to appear to 'breathe' visibly during specific times of the year?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Maxwell%20Dreamweaver%2C%20the%20master%20of%20illusions%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-16)** - Maxwell Dreamweaver, the master of illusions
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celeste%20Nightshade%2C%20the%20queen%20of%20shadows%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-16)** - Celeste Nightshade, the queen of shadows
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Orion%20Paradox%2C%20the%20architect%20of%20altered%20worlds%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-16)** - Orion Paradox, the architect of altered worlds
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Wind-activated%20leaf%20rustling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Wind-activated leaf rustling
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Seasonal%20tree%20exhalations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Seasonal tree exhalations
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Root%20system%20expansion%20and%20contraction%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Root system expansion and contraction
 
 📝 *Click a button above to submit your answer!*
 
