@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.11.2025
+## 💡 Did You Know? • 18.11.2025
 
-Today's discovery: The longest one-syllable word in the English language is "screeched."
+Amazing discovery: The city of Venice stands on about 120 small islands.
 
 ---
 
-## 🎯 Today's Trivia • 17.11.2025
+## 🎯 Today's Trivia • 18.11.2025
 
-**In the enchanting world of nature, which mysterious phenomenon allows certain forests to appear to 'breathe' visibly during specific times of the year?**
+**What astonishing power does the human body possess, enabling it to transform invisible cosmic particles into tangible sensations?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Wind-activated%20leaf%20rustling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Wind-activated leaf rustling
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Seasonal%20tree%20exhalations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Seasonal tree exhalations
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Root%20system%20expansion%20and%20contraction%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-17)** - Root system expansion and contraction
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Convert%20cosmic%20rays%20into%20visual%20flashes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Convert cosmic rays into visual flashes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Process%20solar%20wind%20into%20sound%20waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Process solar wind into sound waves
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Translate%20stardust%20into%20taste%20vibrations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Translate stardust into taste vibrations
 
 📝 *Click a button above to submit your answer!*
 
