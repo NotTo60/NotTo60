@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.11.2025
+## 💡 Did You Know? • 19.11.2025
 
-Amazing discovery: The city of Venice stands on about 120 small islands.
+Incredible fact: Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.
 
 ---
 
-## 🎯 Today's Trivia • 18.11.2025
+## 🎯 Today's Trivia • 19.11.2025
 
-**What astonishing power does the human body possess, enabling it to transform invisible cosmic particles into tangible sensations?**
+**In a world where the continents could rearrange themselves overnight, which celestial phenomenon would cause the Pacific Ocean to transform into a colossal spiral vortex?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Convert%20cosmic%20rays%20into%20visual%20flashes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Convert cosmic rays into visual flashes
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Process%20solar%20wind%20into%20sound%20waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Process solar wind into sound waves
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Translate%20stardust%20into%20taste%20vibrations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-18)** - Translate stardust into taste vibrations
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20gravitational%20dance%20between%20the%20Earth%20and%20a%20rogue%20black%20hole%20brushing%20past%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-19)** - A gravitational dance between the Earth and a rogue black hole brushing past
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20sudden%20alignment%20of%20all%20planets%20in%20our%20solar%20system%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-19)** - The sudden alignment of all planets in our solar system
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20massive%20solar%20flare%20causing%20oceanic%20currents%20to%20reverse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-19)** - A massive solar flare causing oceanic currents to reverse
 
 📝 *Click a button above to submit your answer!*
 
