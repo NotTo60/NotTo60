@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.11.2025
+## 💡 Did You Know? • 24.11.2025
 
-Incredible fact: Ramses brand condom is named after the great pharaoh Ramses II who fathered over 160 children.
+Little known fact: Until 1994, world maps and globes sold in Albania only had Albania on them.
 
 ---
 
-## 🎯 Today's Trivia • 23.11.2025
+## 🎯 Today's Trivia • 24.11.2025
 
-**Which part of the human body can generate an electric field strong enough to be detected from several feet away, even outside the body?**
+**In a world where mountains are alive, what secret power would the highest peak hold within its ancient stones?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heart%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-23)** - The heart
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20liver%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-23)** - The liver
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20spinal%20cord%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-23)** - The spinal cord
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20ability%20to%20communicate%20with%20the%20stars%20and%20alter%20constellations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-24)** - The ability to communicate with the stars and alter constellations
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20power%20to%20summon%20and%20control%20the%20weather%20across%20the%20globe%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-24)** - The power to summon and control the weather across the globe
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20gift%20to%20reveal%20hidden%20time%20portals%20to%20any%20era%20of%20Earth%27s%20history%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-24)** - The gift to reveal hidden time portals to any era of Earth's history
 
 📝 *Click a button above to submit your answer!*
 
