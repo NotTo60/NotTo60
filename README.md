@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.11.2025
+## 💡 Did You Know? • 28.11.2025
 
-Fascinating tidbit: The longest one-syllable word in the English language is "screeched."
+Fun fact: Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
 
 ---
 
-## 🎯 Today's Trivia • 27.11.2025
+## 🎯 Today's Trivia • 28.11.2025
 
-**In which mythical library would you find a book that writes itself as you read it, revealing the future of every reader in a never-ending story?**
+**In an alternate timeline where the ancient library of Alexandria never burned, which of the following mind-bending discoveries does it reveal, altering the course of history forever?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Library%20of%20Eternity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-27)** - The Library of Eternity
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Library%20of%20Babel%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-27)** - The Library of Babel
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Library%20of%20Alexandria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-27)** - The Library of Alexandria
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Detailed%20blueprints%20of%20a%20steam-powered%20flying%20machine%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-28)** - Detailed blueprints of a steam-powered flying machine
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20recipe%20for%20a%20potion%20granting%20eternal%20youth%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-28)** - A recipe for a potion granting eternal youth
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Evidence%20of%20a%20parallel%20universe%20accessible%20through%20dreams%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-11-28)** - Evidence of a parallel universe accessible through dreams
 
 📝 *Click a button above to submit your answer!*
 
