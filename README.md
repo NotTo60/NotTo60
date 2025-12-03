@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 02.12.2025
+## 💡 Did You Know? • 03.12.2025
 
-Did you know? The Declaration of Independence was written on hemp (marijuana) paper.
+Surprising fact: The February of 1865 is the only month in recorded history not to have a full moon.
 
 ---
 
-## 🎯 Today's Trivia • 02.12.2025
+## 🎯 Today's Trivia • 03.12.2025
 
-**In the enigmatic world of art, which fantastical technique allows painters to create visuals that seemingly alter their appearance based on the observer's emotional state?**
+**In a world where athletes compete in gravity-defying arenas, which sport combines elements of parkour, chess, and hoverboarding to crown its champion?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chameleonic%20Shading%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-02)** - Chameleonic Shading
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Empathic%20Canvas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-02)** - Empathic Canvas
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sentient%20Pigmentation%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-02)** - Sentient Pigmentation
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Skyblade%20Chesspark%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-03)** - Skyblade Chesspark
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Hoverhop%20Tactics%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-03)** - Hoverhop Tactics
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Parkour%20Blitz%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-03)** - Parkour Blitz
 
 📝 *Click a button above to submit your answer!*
 
