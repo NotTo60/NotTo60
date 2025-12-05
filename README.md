@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.12.2025
+## 💡 Did You Know? • 05.12.2025
 
-Fascinating tidbit: The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.
+Today's discovery: There are approximately 100 million acts of sexual intercourse each day.
 
 ---
 
-## 🎯 Today's Trivia • 04.12.2025
+## 🎯 Today's Trivia • 05.12.2025
 
-**In an astonishing twist of fate, what incredible phenomenon made a basketball game the most watched event in a single night?**
+**In the realm of extremes, which hypothetical creature could theoretically survive and thrive at the core of a planet due to its ability to harness and convert immense pressure and heat into usable energy?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20massive%20solar%20flare%20knocked%20out%20all%20other%20transmissions%2C%20leaving%20only%20the%20game%20available%20to%20watch%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-04)** - A massive solar flare knocked out all other transmissions, leaving only the game available to watch
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20game%20featured%20the%20first-ever%20quadruple%20tie%20between%20four%20teams%20on%20the%20same%20court%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-04)** - The game featured the first-ever quadruple tie between four teams on the same court
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20mysterious%20cosmic%20event%20temporarily%20increased%20the%20court%27s%20gravity%2C%20making%20dunks%20impossible%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-04)** - A mysterious cosmic event temporarily increased the court's gravity, making dunks impossible
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Pressure%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-05)** - Pressure Phoenix
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magma%20Mantis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-05)** - Magma Mantis
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Core%20Kraken%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-05)** - Core Kraken
 
 📝 *Click a button above to submit your answer!*
 
