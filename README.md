@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.12.2025
+## 💡 Did You Know? • 12.12.2025
 
-Today's discovery: Arabic numerals are not really Arabic; they were created in India.
+Here's something interesting: It's illegal to spit on the sidewalk in Norfolk, Virginia.
 
 ---
 
-## 🎯 Today's Trivia • 11.12.2025
+## 🎯 Today's Trivia • 12.12.2025
 
-**Which of the following phenomena is said to create the most mesmerizing and longest-lasting optical illusion on Earth, captivating viewers for hours on end?**
+**In the ancient realm of enigmas, what is said to be the only key to unlock the gateway to the legendary City of Shadows, a mystical place where all mysteries are resolved?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aurora%20Borealis%20dancing%20over%20the%20Arctic%20skies%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-11)** - Aurora Borealis dancing over the Arctic skies
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20shadow%20play%20of%20a%20total%20solar%20eclipse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-11)** - The shadow play of a total solar eclipse
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20endless%20mirror-like%20reflection%20of%20a%20Salar%20de%20Uyuni%20salt%20flat%20after%20rain%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-11)** - The endless mirror-like reflection of a Salar de Uyuni salt flat after rain
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-12)** - The Whispering Stone
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Flame%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-12)** - The Eternal Flame
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silver%20Mirror%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-12)** - The Silver Mirror
 
 📝 *Click a button above to submit your answer!*
 
