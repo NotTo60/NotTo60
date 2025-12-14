@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 13.12.2025
+## 💡 Did You Know? • 14.12.2025
 
-Mind-blowing fact: Einstein couldn`t speak fluently until after his ninth birthday. His parents thought he was mentally retarded.
+Fascinating tidbit: It's impossible to sneeze with your eyes open.
 
 ---
 
-## 🎯 Today's Trivia • 13.12.2025
+## 🎯 Today's Trivia • 14.12.2025
 
-**In a parallel universe where technology evolves through dreams, what mind-bending invention scans and manifests human aspirations into tangible reality?**
+**Which groundbreaking invention, inspired by the concept of invisible forces, revolutionized energy transfer and became a pivotal step in the development of wireless technology?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Thought%20Transformer%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-13)** - The Thought Transformer
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dream%20Fabricator%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-13)** - The Dream Fabricator
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Vision%20Constructor%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-13)** - The Vision Constructor
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ether%20Power%20Transmitter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-14)** - The Ether Power Transmitter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Resonant%20Induction%20Coil%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-14)** - The Resonant Induction Coil
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Electromagnetic%20Phase%20Shifter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-14)** - The Electromagnetic Phase Shifter
 
 📝 *Click a button above to submit your answer!*
 
