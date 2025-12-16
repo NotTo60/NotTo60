@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.12.2025
+## 💡 Did You Know? • 16.12.2025
 
-Fun fact: 10,000 Dutch cows pass through the Amsterdam airport each year.
+Fascinating tidbit: Butterflies taste with their hind feet.
 
 ---
 
-## 🎯 Today's Trivia • 15.12.2025
+## 🎯 Today's Trivia • 16.12.2025
 
-**What is the most astounding record ever set by a single human being that defies all known limitations?**
+**If a colossal cosmic event triggered the birth of a new celestial entity that could manipulate time, what would it most likely be?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Running%20faster%20than%20sound%20on%20foot%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-15)** - Running faster than sound on foot
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lifting%20a%20mountain%20with%20bare%20hands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-15)** - Lifting a mountain with bare hands
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holding%20breath%20longer%20than%20a%20full%20day%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-15)** - Holding breath longer than a full day
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20supermassive%20black%20hole%20emitting%20antimatter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A supermassive black hole emitting antimatter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20rogue%20planet%20with%20a%20fluctuating%20magnetic%20field%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A rogue planet with a fluctuating magnetic field
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20neutron%20star%20with%20a%20gravity%20so%20intense%20it%20warps%20time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A neutron star with a gravity so intense it warps time
 
 📝 *Click a button above to submit your answer!*
 
