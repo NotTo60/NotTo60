@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.12.2025
+## 💡 Did You Know? • 17.12.2025
 
-Fascinating tidbit: Butterflies taste with their hind feet.
+Today's discovery: There are 318,979,564,000 possible combinations of the first four moves in Chess.
 
 ---
 
-## 🎯 Today's Trivia • 16.12.2025
+## 🎯 Today's Trivia • 17.12.2025
 
-**If a colossal cosmic event triggered the birth of a new celestial entity that could manipulate time, what would it most likely be?**
+**In the realm of abstract art, which hidden element is said to transform a canvas into a timeless enigma, captivating viewers across all dimensions of perception?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20supermassive%20black%20hole%20emitting%20antimatter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A supermassive black hole emitting antimatter
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20rogue%20planet%20with%20a%20fluctuating%20magnetic%20field%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A rogue planet with a fluctuating magnetic field
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20neutron%20star%20with%20a%20gravity%20so%20intense%20it%20warps%20time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-16)** - A neutron star with a gravity so intense it warps time
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20artist%27s%20subconscious%20whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-17)** - The artist's subconscious whispers
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20precise%20mathematical%20equation%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-17)** - A precise mathematical equation
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20rare%20pigment%20from%20a%20lost%20civilization%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-17)** - A rare pigment from a lost civilization
 
 📝 *Click a button above to submit your answer!*
 
