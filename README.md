@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.12.2025
+## 💡 Did You Know? • 20.12.2025
 
-Mind-blowing fact: Thirty-five percent of the people who use personal ads for dating are already married.
+Fascinating tidbit: Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
 
 ---
 
-## 🎯 Today's Trivia • 19.12.2025
+## 🎯 Today's Trivia • 20.12.2025
 
-**In a futuristic twist, which technology is theorized to allow us to download entire libraries into our brains in seconds, transforming human knowledge acquisition?**
+**In an alternate universe where gravity is reversed, what groundbreaking phenomenon would occur if a drop of water were to escape Earth's atmosphere?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neural%20Nanobots%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-19)** - Neural Nanobots
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Cognition%20Implants%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-19)** - Quantum Cognition Implants
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holographic%20Synapse%20Transfers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-19)** - Holographic Synapse Transfers
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20float%20upwards%20and%20form%20an%20eternal%20spiral%20galaxy%20of%20water%20droplets.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would float upwards and form an eternal spiral galaxy of water droplets.
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20instantly%20freeze%20into%20a%20crystalline%20structure%20of%20pure%20energy.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would instantly freeze into a crystalline structure of pure energy.
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20combust%20into%20a%20small%20sun-like%20entity%20made%20of%20plasma.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would combust into a small sun-like entity made of plasma.
 
 📝 *Click a button above to submit your answer!*
 
