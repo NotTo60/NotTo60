@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.12.2025
+## 💡 Did You Know? • 21.12.2025
 
-Fascinating tidbit: Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
+Here's something interesting: Babies are most likely to be born on Tuesdays.
 
 ---
 
-## 🎯 Today's Trivia • 20.12.2025
+## 🎯 Today's Trivia • 21.12.2025
 
-**In an alternate universe where gravity is reversed, what groundbreaking phenomenon would occur if a drop of water were to escape Earth's atmosphere?**
+**If a hyperintelligent alien species could manipulate their biology at will, which of the following feats might they achieve purely by altering the atomic spin of their molecules?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20float%20upwards%20and%20form%20an%20eternal%20spiral%20galaxy%20of%20water%20droplets.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would float upwards and form an eternal spiral galaxy of water droplets.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20instantly%20freeze%20into%20a%20crystalline%20structure%20of%20pure%20energy.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would instantly freeze into a crystalline structure of pure energy.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20It%20would%20combust%20into%20a%20small%20sun-like%20entity%20made%20of%20plasma.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-20)** - It would combust into a small sun-like entity made of plasma.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Turning%20completely%20invisible%20to%20the%20naked%20eye%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Turning completely invisible to the naked eye
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Traveling%20across%20vast%20distances%20instantaneously%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Traveling across vast distances instantaneously
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Communicating%20telepathically%20with%20all%20life%20forms%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Communicating telepathically with all life forms
 
 📝 *Click a button above to submit your answer!*
 
