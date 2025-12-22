@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.12.2025
+## 💡 Did You Know? • 22.12.2025
 
-Here's something interesting: Babies are most likely to be born on Tuesdays.
+Mind-blowing fact: In the White House, there are 13,092 knives, forks and spoons!
 
 ---
 
-## 🎯 Today's Trivia • 21.12.2025
+## 🎯 Today's Trivia • 22.12.2025
 
-**If a hyperintelligent alien species could manipulate their biology at will, which of the following feats might they achieve purely by altering the atomic spin of their molecules?**
+**Which unbelievable record did a person achieve by speaking fluently in a language they invented themselves, captivating an audience of millions?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Turning%20completely%20invisible%20to%20the%20naked%20eye%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Turning completely invisible to the naked eye
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Traveling%20across%20vast%20distances%20instantaneously%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Traveling across vast distances instantaneously
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Communicating%20telepathically%20with%20all%20life%20forms%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-21)** - Communicating telepathically with all life forms
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20won%20a%20prestigious%20literary%20award%20in%20that%20language.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They won a prestigious literary award in that language.
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20delivered%20a%20speech%20at%20the%20United%20Nations%20solely%20in%20that%20language.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They delivered a speech at the United Nations solely in that language.
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20hosted%20a%20live%20global%20broadcast%20in%20that%20language%20with%20over%20100%20million%20viewers.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They hosted a live global broadcast in that language with over 100 million viewers.
 
 📝 *Click a button above to submit your answer!*
 
