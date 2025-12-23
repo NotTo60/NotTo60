@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.12.2025
+## 💡 Did You Know? • 23.12.2025
 
-Mind-blowing fact: In the White House, there are 13,092 knives, forks and spoons!
+Did you know? Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
 
 ---
 
-## 🎯 Today's Trivia • 22.12.2025
+## 🎯 Today's Trivia • 23.12.2025
 
-**Which unbelievable record did a person achieve by speaking fluently in a language they invented themselves, captivating an audience of millions?**
+**In a stunning display of human achievement, what record-breaking feat involves balancing the most unique items on one's chin for over five minutes?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20won%20a%20prestigious%20literary%20award%20in%20that%20language.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They won a prestigious literary award in that language.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20delivered%20a%20speech%20at%20the%20United%20Nations%20solely%20in%20that%20language.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They delivered a speech at the United Nations solely in that language.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20hosted%20a%20live%20global%20broadcast%20in%20that%20language%20with%20over%20100%20million%20viewers.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-22)** - They hosted a live global broadcast in that language with over 100 million viewers.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Eating%20the%20world%27s%20spiciest%20pepper%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Eating the world's spiciest pepper
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Balancing%2015%20assorted%20garden%20gnomes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Balancing 15 assorted garden gnomes
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Juggling%20chainsaws%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Juggling chainsaws
 
 📝 *Click a button above to submit your answer!*
 
