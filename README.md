@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.12.2025
+## 💡 Did You Know? • 24.12.2025
 
-Did you know? Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
+Did you know? A shrimp’s heart is in its head.
 
 ---
 
-## 🎯 Today's Trivia • 23.12.2025
+## 🎯 Today's Trivia • 24.12.2025
 
-**In a stunning display of human achievement, what record-breaking feat involves balancing the most unique items on one's chin for over five minutes?**
+**In the realm of unsolved enigmas, which mythical phenomenon is believed to conceal a portal to an alternate universe, baffling explorers and scholars for centuries?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Eating%20the%20world%27s%20spiciest%20pepper%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Eating the world's spiciest pepper
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Balancing%2015%20assorted%20garden%20gnomes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Balancing 15 assorted garden gnomes
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Juggling%20chainsaws%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-23)** - Juggling chainsaws
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shimmering%20Rift%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-24)** - The Shimmering Rift
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Vanishing%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-24)** - The Vanishing Vortex
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Gateway%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-24)** - The Phantom Gateway
 
 📝 *Click a button above to submit your answer!*
 
