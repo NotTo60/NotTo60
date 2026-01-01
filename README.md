@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 31.12.2025
+## 💡 Did You Know? • 01.01.2026
 
-Incredible fact: Baby robins eat 14 feet of earthworms every day
+Did you know? The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
 
 ---
 
-## 🎯 Today's Trivia • 31.12.2025
+## 🎯 Today's Trivia • 01.01.2026
 
-**In the mystical world of music, which rare phenomenon is known to cause instruments to seemingly play themselves, creating haunted melodies that echo through time?**
+**Which unthinkable art piece is rumored to have been painted with an otherworldly pigment that glows under moonlight, captivating those who behold it?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-31)** - The Phantom Resonance
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sonic%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-31)** - The Sonic Mirage
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Reverb%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202025-12-31)** - The Echoing Reverb
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Nocturne%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Enchanted Nocturne
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Canvas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Celestial Canvas
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moonlight%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Moonlight Mirage
 
 📝 *Click a button above to submit your answer!*
 
