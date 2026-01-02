@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.01.2026
+## 💡 Did You Know? • 02.01.2026
 
-Did you know? The "Dull Men's Hall of Fame" is located in Carroll, Wisconsin.
+Amazing discovery: The 3 most valuable brand names on earth are Marlboro, Coca-Cola, and Budweiser (in that order).
 
 ---
 
-## 🎯 Today's Trivia • 01.01.2026
+## 🎯 Today's Trivia • 02.01.2026
 
-**Which unthinkable art piece is rumored to have been painted with an otherworldly pigment that glows under moonlight, captivating those who behold it?**
+**In an alternate history where ancient civilizations harnessed the power of celestial events, which civilization is said to have built an entire city to capture the light of a rare astral phenomenon, believing it granted immortality?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Nocturne%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Enchanted Nocturne
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Canvas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Celestial Canvas
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moonlight%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-01)** - The Moonlight Mirage
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Luminar%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-02)** - The Luminar Empire
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Solaris%20Dynasty%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-02)** - The Solaris Dynasty
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Astralis%20Kingdom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-02)** - The Astralis Kingdom
 
 📝 *Click a button above to submit your answer!*
 
