@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.01.2026
+## 💡 Did You Know? • 05.01.2026
 
-Today's discovery: The world`s record for keeping a Lifesaver in the mouth with the hole intact is 7 hrs 10 min.
+Fascinating tidbit: If you went out into space, you would explode before you suffocated because there`s no air pressure.
 
 ---
 
-## 🎯 Today's Trivia • 04.01.2026
+## 🎯 Today's Trivia • 05.01.2026
 
-**Which mystical land is rumored to possess an enchanted lake that reflects the constellations even during the day?**
+**In the realm of sports, which mythical creature is said to grant athletes unparalleled endurance in a legendary competition known as the 'Celestial Challenge'?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Valley%20of%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-04)** - The Valley of Echoes
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Basin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-04)** - The Celestial Basin
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Sands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-04)** - The Whispering Sands
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%2C%20rising%20from%20its%20ashes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-05)** - The Phoenix, rising from its ashes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%2C%20guardian%20of%20treasures%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-05)** - The Griffin, guardian of treasures
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Hydra%2C%20with%20its%20regenerative%20powers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-05)** - The Hydra, with its regenerative powers
 
 📝 *Click a button above to submit your answer!*
 
