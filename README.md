@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.01.2026
+## 💡 Did You Know? • 08.01.2026
 
-Little known fact: In a lifetime the average human produces enough quarts of spit to fill 2 swimming pools.
+Surprising fact: In New York State, it is illegal to but any alcohol on Sundays before noon.
 
 ---
 
-## 🎯 Today's Trivia • 07.01.2026
+## 🎯 Today's Trivia • 08.01.2026
 
-**Which ancient mountain is rumored to have a secret chamber that holds the key to controlling the elements of nature?**
+**In a mind-bending twist of technological evolution, which futuristic invention is rumored to allow humans to communicate telepathically through a digital network?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Peaks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-07)** - The Whispering Peaks
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Summit%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-07)** - The Eternal Summit
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shadowed%20Pinnacle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-07)** - The Shadowed Pinnacle
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20NeuroLink%20Neural%20Network%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - NeuroLink Neural Network
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Voice%20Device%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - Quantum Voice Device
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Telepathic%20Wave%20Communicator%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - Telepathic Wave Communicator
 
 📝 *Click a button above to submit your answer!*
 
