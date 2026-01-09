@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.01.2026
+## 💡 Did You Know? • 09.01.2026
 
-Surprising fact: In New York State, it is illegal to but any alcohol on Sundays before noon.
+Mind-blowing fact: There are only four words in the English language which end in "dous": tremendous, horrendous, stupendous, and  hazardous.
 
 ---
 
-## 🎯 Today's Trivia • 08.01.2026
+## 🎯 Today's Trivia • 09.01.2026
 
-**In a mind-bending twist of technological evolution, which futuristic invention is rumored to allow humans to communicate telepathically through a digital network?**
+**If you could harness the mystical energy of any mountain to power an entire city for a year, which mountain’s energy would be the most legendary?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20NeuroLink%20Neural%20Network%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - NeuroLink Neural Network
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Voice%20Device%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - Quantum Voice Device
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Telepathic%20Wave%20Communicator%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-08)** - Telepathic Wave Communicator
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Immortal%20Peaks%20of%20the%20Horizon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-09)** - The Immortal Peaks of the Horizon
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Summit%20of%20the%20Ancients%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-09)** - The Celestial Summit of the Ancients
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Heights%20of%20the%20Twilight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-09)** - The Whispering Heights of the Twilight
 
 📝 *Click a button above to submit your answer!*
 
