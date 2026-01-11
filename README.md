@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.01.2026
+## 💡 Did You Know? • 11.01.2026
 
-Incredible fact: Bees have 5 eyes. There are 3 small eyes on the top of a bee`s head and 2 larger ones in front.
+Mind-blowing fact: The Amazon is the world's largest river, 3,890 miles (6,259 km) long.
 
 ---
 
-## 🎯 Today's Trivia • 10.01.2026
+## 🎯 Today's Trivia • 11.01.2026
 
-**In a jaw-dropping twist of technological wizardry, which futuristic mechanism is speculated to allow humans to communicate using thought waves alone?**
+**In a universe where stars can be made of the most bizarre elements, what is the current record-holder for the most peculiar star composition ever discovered?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Whispering%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-10)** - Quantum Whispering
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Electro-Telepathy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-10)** - Electro-Telepathy
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Neuro-Linking%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-10)** - Neuro-Linking
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20star%20made%20entirely%20of%20molten%20chocolate%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-11)** - A star made entirely of molten chocolate
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20star%20composed%20of%20crystallized%20music%20notes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-11)** - A star composed of crystallized music notes
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20star%20crafted%20from%20endless%20sunsets%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-11)** - A star crafted from endless sunsets
 
 📝 *Click a button above to submit your answer!*
 
