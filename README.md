@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.01.2026
+## 💡 Did You Know? • 16.01.2026
 
-Incredible fact: Weatherman Willard Scott was the first original Ronald McDonald.
+Mind-blowing fact: The first novel ever written on a typewriter is Tom Sawyer.
 
 ---
 
-## 🎯 Today's Trivia • 15.01.2026
+## 🎯 Today's Trivia • 16.01.2026
 
-**In a mythical twist of nature, which oceanic phenomenon is believed to give birth to shimmering islands of luminescent pearls every millennia?**
+**In the bizarre and mysterious dance of cosmic bodies, which celestial phenomenon could theoretically create a ripple in the very fabric of space-time itself, potentially causing an unseen 'echo' across galaxies?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Emerald%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-15)** - The Emerald Vortex
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Bloom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-15)** - The Celestial Bloom
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ocean%27s%20Whisper%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-15)** - The Ocean's Whisper
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20dying%20star%27s%20final%20flare%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - A dying star's final flare
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20collision%20of%20two%20neutron%20stars%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - A collision of two neutron stars
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20asteroid%20belt%20collision%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - An asteroid belt collision
 
 📝 *Click a button above to submit your answer!*
 
