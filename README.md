@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.01.2026
+## 💡 Did You Know? • 17.01.2026
 
-Mind-blowing fact: The first novel ever written on a typewriter is Tom Sawyer.
+Did you know? More bullets were fired in `Starship Troopers` than any other movie ever made.
 
 ---
 
-## 🎯 Today's Trivia • 16.01.2026
+## 🎯 Today's Trivia • 17.01.2026
 
-**In the bizarre and mysterious dance of cosmic bodies, which celestial phenomenon could theoretically create a ripple in the very fabric of space-time itself, potentially causing an unseen 'echo' across galaxies?**
+**In a world where time-traveling scholars gathered to witness history's greatest enigma, which of these incredible events would have bewildered them the most?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20dying%20star%27s%20final%20flare%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - A dying star's final flare
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20collision%20of%20two%20neutron%20stars%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - A collision of two neutron stars
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20asteroid%20belt%20collision%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-16)** - An asteroid belt collision
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20invention%20of%20a%20language%20understood%20by%20all%20animals%20and%20humans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - The invention of a language understood by all animals and humans
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20mysterious%20universal%20clock%20that%20synchronized%20all%20time%20zones%20perfectly%20for%20the%20first%20time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - A mysterious universal clock that synchronized all time zones perfectly for the first time
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20ancient%20civilization%20that%20thrived%20exclusively%20underwater%20with%20advanced%20technology%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - An ancient civilization that thrived exclusively underwater with advanced technology
 
 📝 *Click a button above to submit your answer!*
 
