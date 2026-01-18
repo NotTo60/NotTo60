@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.01.2026
+## 💡 Did You Know? • 18.01.2026
 
-Did you know? More bullets were fired in `Starship Troopers` than any other movie ever made.
+Today's discovery: A whale`s penis is called a dork.
 
 ---
 
-## 🎯 Today's Trivia • 17.01.2026
+## 🎯 Today's Trivia • 18.01.2026
 
-**In a world where time-traveling scholars gathered to witness history's greatest enigma, which of these incredible events would have bewildered them the most?**
+**In an enchanting twist of nature, which fantastical animal is rumored to synchronize its heartbeats with the rhythm of the Northern Lights?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20invention%20of%20a%20language%20understood%20by%20all%20animals%20and%20humans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - The invention of a language understood by all animals and humans
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20mysterious%20universal%20clock%20that%20synchronized%20all%20time%20zones%20perfectly%20for%20the%20first%20time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - A mysterious universal clock that synchronized all time zones perfectly for the first time
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20ancient%20civilization%20that%20thrived%20exclusively%20underwater%20with%20advanced%20technology%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-17)** - An ancient civilization that thrived exclusively underwater with advanced technology
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aurora%20Fox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Aurora Fox
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Owl%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Celestial Owl
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Stellar%20Whale%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Stellar Whale
 
 📝 *Click a button above to submit your answer!*
 
