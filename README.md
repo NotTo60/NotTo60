@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.01.2026
+## 💡 Did You Know? • 19.01.2026
 
-Today's discovery: A whale`s penis is called a dork.
+Mind-blowing fact: Of all the words in the English language, the word 'set' has the most definitions!
 
 ---
 
-## 🎯 Today's Trivia • 18.01.2026
+## 🎯 Today's Trivia • 19.01.2026
 
-**In an enchanting twist of nature, which fantastical animal is rumored to synchronize its heartbeats with the rhythm of the Northern Lights?**
+**What mysterious natural phenomenon allows certain forest trees to communicate and share resources through an underground network, creating a hidden 'Internet of the Woods'?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aurora%20Fox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Aurora Fox
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Owl%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Celestial Owl
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Stellar%20Whale%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-18)** - The Stellar Whale
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mycorrhizal%20Networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-19)** - Mycorrhizal Networks
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Root%20Vibration%20Signals%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-19)** - Root Vibration Signals
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Photosynthetic%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-19)** - Photosynthetic Echoes
 
 📝 *Click a button above to submit your answer!*
 
