@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.01.2026
+## 💡 Did You Know? • 23.01.2026
 
-Fascinating tidbit: Banging your head against a wall uses 150 calories an hour.
+Mind-blowing fact: In France, a five year old child can buy an alcoholic drink in a bar
 
 ---
 
-## 🎯 Today's Trivia • 22.01.2026
+## 🎯 Today's Trivia • 23.01.2026
 
-**In an alternate universe where colors dictate power, which unprecedented hue could unlock the ability to create art that comes to life?**
+**Deep in the heart of the Amazon, what mystical phenomenon allows certain plants to create their own shimmering light, dazzling the eyes of night wanderers?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Whispering%20Sapphire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-22)** - Whispering Sapphire
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Roaring%20Ruby%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-22)** - Roaring Ruby
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Laughing%20Emerald%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-22)** - Laughing Emerald
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Electromagnetic%20resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-23)** - Electromagnetic resonance
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bioluminescent%20symbiosis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-23)** - Bioluminescent symbiosis
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Photosynthetic%20refraction%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-23)** - Photosynthetic refraction
 
 📝 *Click a button above to submit your answer!*
 
