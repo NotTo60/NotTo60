@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 24.01.2026
+## 💡 Did You Know? • 25.01.2026
 
-Little known fact: In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.
+Today's discovery: The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s "Its A Wonderful Life."
 
 ---
 
-## 🎯 Today's Trivia • 24.01.2026
+## 🎯 Today's Trivia • 25.01.2026
 
-**In a twist of historical enigma, which ancient civilization is rumored to have built an intricate underground labyrinth filled with enigmatic treasures beyond imagination, that has never been found?**
+**In a world where books are gateways to alternate dimensions, which mythical creature is said to guard the entrance to the realm of forgotten stories, ensuring that every tale echoes forever?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sumerians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-24)** - The Sumerians
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Minoans%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-24)** - The Minoans
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Olmecs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-24)** - The Olmecs
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Time-Woven%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-25)** - The Time-Woven Phoenix
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shadow-Whispering%20Gryphon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-25)** - The Shadow-Whispering Gryphon
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Story-Keeper%20Sphinx%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-25)** - The Story-Keeper Sphinx
 
 📝 *Click a button above to submit your answer!*
 
