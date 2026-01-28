@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.01.2026
+## 💡 Did You Know? • 28.01.2026
 
-Little known fact: Mel Blanc (the voice of Bugs Bunny) was allergic to carrots.
+Surprising fact: The average human blinks their eyes 6,205,000 times each year.
 
 ---
 
-## 🎯 Today's Trivia • 27.01.2026
+## 🎯 Today's Trivia • 28.01.2026
 
-**What mysterious phenomenon occurs when a symphony orchestra plays an ancient melody in perfect harmony, believed to temporarily alter the fabric of space-time itself?**
+**In a parallel universe where the laws of physics are inverted, what mind-bending phenomenon might allow particles to dance across the cosmos instantaneously?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20sonic%20ripple%20effect%20creating%20an%20auditory%20illusion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-27)** - A sonic ripple effect creating an auditory illusion
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20sudden%20appearance%20of%20a%20luminous%20aurora%20indoors%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-27)** - The sudden appearance of a luminous aurora indoors
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Instantaneous%20generation%20of%20a%20synchronized%20light%20show%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-27)** - Instantaneous generation of a synchronized light show
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Temporal%20Reversal%20Waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-28)** - Temporal Reversal Waves
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Leapfrogging%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-28)** - Quantum Leapfrogging
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Gravitational%20Light%20Threads%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-01-28)** - Gravitational Light Threads
 
 📝 *Click a button above to submit your answer!*
 
