@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.02.2026
+## 💡 Did You Know? • 02.02.2026
 
-Amazing discovery: Most dust particles in your house are made from dead skin.
+Amazing discovery: Columbia University is the second largest landowner in New York City, after the Catholic Church.
 
 ---
 
-## 🎯 Today's Trivia • 01.02.2026
+## 🎯 Today's Trivia • 02.02.2026
 
-**In the vast cosmic arena, what extraordinary phenomenon could hypothetically allow a spacecraft to traverse unimaginable distances in the blink of an eye?**
+**In the realm of theoretical physics, what mind-bending concept suggests that every electron in the universe is actually a single particle traveling back and forth through time, creating the illusion of multiple instances?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20wormhole%2C%20a%20theoretical%20tunnel%20through%20spacetime%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-01)** - A wormhole, a theoretical tunnel through spacetime
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20gravitational%20wave%2C%20a%20ripple%20in%20the%20fabric%20of%20space%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-01)** - A gravitational wave, a ripple in the fabric of space
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20solar%20flare%2C%20a%20burst%20of%20energy%20from%20a%20star%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-01)** - A solar flare, a burst of energy from a star
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Loop%20Hypothesis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-02)** - Quantum Loop Hypothesis
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20String%20Theory%20Paradox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-02)** - String Theory Paradox
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20One-Electron%20Universe%20Hypothesis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-02)** - One-Electron Universe Hypothesis
 
 📝 *Click a button above to submit your answer!*
 
