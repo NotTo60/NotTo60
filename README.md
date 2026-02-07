@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 06.02.2026
+## 💡 Did You Know? • 07.02.2026
 
-Amazing discovery: 3.9% of all women do not wear underwear.
+Did you know? Ketchup was sold in the 1830s as medicine.
 
 ---
 
-## 🎯 Today's Trivia • 06.02.2026
+## 🎯 Today's Trivia • 07.02.2026
 
-**In the mystical realm of hypothetical possibilities, which of the following creatures could theoretically exist with the ability to manipulate time through their incredible lifespan, potentially living for over a million years?**
+**Imagine an ocean so deep that it contains an entire lost world with its own unique ecosystems; which mystical name would befit this aquatic wonder?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chrono-Phoenix%2C%20reborn%20from%20its%20ashes%20every%20millennium%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-06)** - The Chrono-Phoenix, reborn from its ashes every millennium
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Time-Tortoise%2C%20whose%20shell%20ages%20backward%20into%20the%20past%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-06)** - The Time-Tortoise, whose shell ages backward into the past
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternity%20Eel%2C%20swimming%20ceaselessly%20in%20the%20currents%20of%20time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-06)** - The Eternity Eel, swimming ceaselessly in the currents of time
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Abyssal%20Mystique%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-07)** - The Abyssal Mystique
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Trench%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-07)** - The Celestial Trench
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Gulf%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-07)** - The Enchanted Gulf
 
 📝 *Click a button above to submit your answer!*
 
