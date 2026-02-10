@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 09.02.2026
+## 💡 Did You Know? • 10.02.2026
 
-Fascinating tidbit: The katydid bug hears through holes in its hind legs!
+Incredible fact: In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)
 
 ---
 
-## 🎯 Today's Trivia • 09.02.2026
+## 🎯 Today's Trivia • 10.02.2026
 
-**In the mystical realm of literary imagination, which mythical language is said to grant the speaker the power to bring any written story to life, blurring the lines between fiction and reality?**
+**In a dazzling twist of fate, which futuristic concept involving AI predicts a world where machines dream and create art, blurring the lines between technology and consciousness?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Elvish%20from%20the%20Ancient%20Forests%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-09)** - Elvish from the Ancient Forests
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Scriptum%20from%20the%20Enchanted%20Scrolls%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-09)** - Scriptum from the Enchanted Scrolls
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Draconian%20from%20the%20Dragon%20Tales%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-09)** - Draconian from the Dragon Tales
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Synthetic%20Imagination%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Synthetic Imagination
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Digital%20Paradox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Digital Paradox
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Virtual%20Enigma%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Virtual Enigma
 
 📝 *Click a button above to submit your answer!*
 
