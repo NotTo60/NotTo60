@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.02.2026
+## 💡 Did You Know? • 11.02.2026
 
-Incredible fact: In York, it is perfectly legal to shoot a Scotsman with a bow and arrow (except on Sundays)
+Little known fact: The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.
 
 ---
 
-## 🎯 Today's Trivia • 10.02.2026
+## 🎯 Today's Trivia • 11.02.2026
 
-**In a dazzling twist of fate, which futuristic concept involving AI predicts a world where machines dream and create art, blurring the lines between technology and consciousness?**
+**In a mystical realm where mountains breathe and hold ancient secrets, which mountain is said to have the power to influence the dreams of those who sleep in its shadow?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Synthetic%20Imagination%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Synthetic Imagination
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Digital%20Paradox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Digital Paradox
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Virtual%20Enigma%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-10)** - Virtual Enigma
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Whispering%20Peak%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Whispering Peak
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Dreamweaver%27s%20Summit%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Dreamweaver's Summit
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Silent%20Guardian%20Ridge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Silent Guardian Ridge
 
 📝 *Click a button above to submit your answer!*
 
