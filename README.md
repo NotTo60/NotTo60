@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.02.2026
+## 💡 Did You Know? • 12.02.2026
 
-Little known fact: The NY phone book had 22 Hitlers before WWII. The NY phone book had 0 Hitlers after WWII.
+Incredible fact: Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.
 
 ---
 
-## 🎯 Today's Trivia • 11.02.2026
+## 🎯 Today's Trivia • 12.02.2026
 
-**In a mystical realm where mountains breathe and hold ancient secrets, which mountain is said to have the power to influence the dreams of those who sleep in its shadow?**
+**In the universe of unimaginable extremes, which fictional planet's gravitational force is so intense that time itself is distorted, creating a mesmerizing dance of light and shadow around it?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Whispering%20Peak%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Whispering Peak
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Dreamweaver%27s%20Summit%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Dreamweaver's Summit
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Silent%20Guardian%20Ridge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-11)** - Silent Guardian Ridge
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chronovortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-12)** - Chronovortex
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nebular%20Nox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-12)** - Nebular Nox
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ecliptic%20Eden%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-12)** - Ecliptic Eden
 
 📝 *Click a button above to submit your answer!*
 
