@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 13.02.2026
+## 💡 Did You Know? • 14.02.2026
 
-Fascinating tidbit: A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.
+Mind-blowing fact:  was Harrison Ford`s idea so that he could take a bathroom break.
 
 ---
 
-## 🎯 Today's Trivia • 13.02.2026
+## 🎯 Today's Trivia • 14.02.2026
 
-**In a world where rivers flowed in reverse, which of these astonishing transformations would take place across continents?**
+**In the heart of the ancient Whispering Forest, a legend speaks of a mystical artifact that can unlock the secrets of the universe. What is this awe-inspiring relic called?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sahara%20Desert%20would%20become%20a%20lush%20rainforest.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-13)** - The Sahara Desert would become a lush rainforest.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Amazon%20and%20Nile%20would%20merge%2C%20creating%20an%20epic%20waterway.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-13)** - The Amazon and Nile would merge, creating an epic waterway.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Everest%20would%20turn%20into%20a%20colossal%20waterfall.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-13)** - Mount Everest would turn into a colossal waterfall.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Compass%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Celestial Compass
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigma%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Enigma Stone
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chrono%20Sphere%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Chrono Sphere
 
 📝 *Click a button above to submit your answer!*
 
