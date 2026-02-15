@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 14.02.2026
+## 💡 Did You Know? • 15.02.2026
 
-Mind-blowing fact:  was Harrison Ford`s idea so that he could take a bathroom break.
+Mind-blowing fact: In New York State, it is illegal to but any alcohol on Sundays before noon.
 
 ---
 
-## 🎯 Today's Trivia • 14.02.2026
+## 🎯 Today's Trivia • 15.02.2026
 
-**In the heart of the ancient Whispering Forest, a legend speaks of a mystical artifact that can unlock the secrets of the universe. What is this awe-inspiring relic called?**
+**In a hypothetical scenario where films are made entirely by AI, which intriguing twist becomes a blockbuster genre, captivating audiences worldwide?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Compass%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Celestial Compass
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigma%20Stone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Enigma Stone
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chrono%20Sphere%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-14)** - The Chrono Sphere
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Historical%20epics%20with%20dinosaurs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-15)** - Historical epics with dinosaurs
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Musical%20thrillers%20with%20telepathic%20cats%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-15)** - Musical thrillers with telepathic cats
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Romantic%20comedies%20with%20time-traveling%20pirates%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-15)** - Romantic comedies with time-traveling pirates
 
 📝 *Click a button above to submit your answer!*
 
