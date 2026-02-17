@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.02.2026
+## 💡 Did You Know? • 17.02.2026
 
-Fun fact: Mr. Rogers was an ordained minister. 
+Today's discovery: The volume of the earth's moon is the same as the volume of the Pacific Ocean. 
 
 ---
 
-## 🎯 Today's Trivia • 16.02.2026
+## 🎯 Today's Trivia • 17.02.2026
 
-**In a world where colors are living beings, which hue is believed to wield the mysterious power to inspire dreams when whispered to at twilight?**
+**Which mysterious substance in the human body, if harnessed, could theoretically power a small city for a day?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Amber%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-16)** - Amber
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Indigo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-16)** - Indigo
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Crimson%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-16)** - Crimson
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Adipose%20tissue%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-17)** - Adipose tissue
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20ATP%20molecules%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-17)** - ATP molecules
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Collagen%20fibers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-17)** - Collagen fibers
 
 📝 *Click a button above to submit your answer!*
 
