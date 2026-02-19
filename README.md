@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.02.2026
+## 💡 Did You Know? • 19.02.2026
 
-Little known fact: If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
+Fun fact: Babies are most likely to be born on Tuesdays.
 
 ---
 
-## 🎯 Today's Trivia • 18.02.2026
+## 🎯 Today's Trivia • 19.02.2026
 
-**What astounding ability does the human body possess, allowing it to communicate internally through a secret coded language that's more complex than Morse code?**
+**In a groundbreaking revelation, scientists discovered a new state of matter that defies the laws of classical physics. What is the mind-bending name given to this enigmatic state?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Transmitting%20thoughts%20directly%20between%20organs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-18)** - Transmitting thoughts directly between organs
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Using%20electrical%20impulses%20that%20carry%20intricate%20information%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-18)** - Using electrical impulses that carry intricate information
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Converting%20emotions%20into%20chemical%20signals%20for%20faster%20response%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-18)** - Converting emotions into chemical signals for faster response
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Foam%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-19)** - Quantum Foam
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Hyper%20Plasma%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-19)** - Hyper Plasma
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ethereal%20Solid%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-19)** - Ethereal Solid
 
 📝 *Click a button above to submit your answer!*
 
