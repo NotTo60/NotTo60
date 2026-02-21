@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.02.2026
+## 💡 Did You Know? • 21.02.2026
 
-Mind-blowing fact: The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow
+Fun fact: A skunk's smell can be detected by a human a mile away.
 
 ---
 
-## 🎯 Today's Trivia • 20.02.2026
+## 🎯 Today's Trivia • 21.02.2026
 
-**In the realm of fictional universes written entirely in invisible ink, which phenomenon allows readers to perceive and immerse themselves in the hidden narratives?**
+**In a mind-bending twist of history, which astounding invention was inspired by the dreams of its inventor, leading to its revolutionary impact on communication?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Wind%20of%20Words%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-20)** - The Whispering Wind of Words
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Luminescent%20Lens%20of%20Lore%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-20)** - The Luminescent Lens of Lore
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Gaze%20of%20Imagination%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-20)** - The Enchanted Gaze of Imagination
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20telephone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The telephone
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20radio%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The radio
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20television%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The television
 
 📝 *Click a button above to submit your answer!*
 
