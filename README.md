@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.02.2026
+## 💡 Did You Know? • 22.02.2026
 
-Fun fact: A skunk's smell can be detected by a human a mile away.
+Did you know? The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
 
 ---
 
-## 🎯 Today's Trivia • 21.02.2026
+## 🎯 Today's Trivia • 22.02.2026
 
-**In a mind-bending twist of history, which astounding invention was inspired by the dreams of its inventor, leading to its revolutionary impact on communication?**
+**Which imaginary line separates the only two continents that, despite touching each other, are not connected by any landmass?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20telephone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The telephone
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20radio%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The radio
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20television%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-21)** - The television
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Meridian%20of%20Atlantis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Meridian of Atlantis
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Equatorial%20Divide%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Equatorial Divide
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Meridian%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Phantom Meridian
 
 📝 *Click a button above to submit your answer!*
 
