@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.02.2026
+## 💡 Did You Know? • 23.02.2026
 
-Did you know? The Ramses brand condom is named after the great pharoh Ramses II who fathered over 160 children.
+Incredible fact: Our eyes are always the same size from birth, but our nose and ears never stop growing.
 
 ---
 
-## 🎯 Today's Trivia • 22.02.2026
+## 🎯 Today's Trivia • 23.02.2026
 
-**Which imaginary line separates the only two continents that, despite touching each other, are not connected by any landmass?**
+**In the symphony of the universe, which instrument is said to play the 'Harmony of Stars' that resonates through the cosmos, creating an ethereal melody that guides the rhythm of celestial movements?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Meridian%20of%20Atlantis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Meridian of Atlantis
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Equatorial%20Divide%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Equatorial Divide
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Meridian%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-22)** - The Phantom Meridian
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Harp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Celestial Harp
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Galactic%20Violin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Galactic Violin
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Stellar%20Flute%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Stellar Flute
 
 📝 *Click a button above to submit your answer!*
 
