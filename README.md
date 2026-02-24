@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.02.2026
+## 💡 Did You Know? • 24.02.2026
 
-Incredible fact: Our eyes are always the same size from birth, but our nose and ears never stop growing.
+Here's something interesting: Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates
 
 ---
 
-## 🎯 Today's Trivia • 23.02.2026
+## 🎯 Today's Trivia • 24.02.2026
 
-**In the symphony of the universe, which instrument is said to play the 'Harmony of Stars' that resonates through the cosmos, creating an ethereal melody that guides the rhythm of celestial movements?**
+**What mysterious celestial phenomenon is theorized to be so powerful that it can warp time and potentially allow glimpses into the universe's hidden dimensions?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Harp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Celestial Harp
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Galactic%20Violin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Galactic Violin
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Stellar%20Flute%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-23)** - Stellar Flute
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Temporal%20vortexes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-24)** - Temporal vortexes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Cosmic%20mirrors%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-24)** - Cosmic mirrors
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Star%20echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-24)** - Star echoes
 
 📝 *Click a button above to submit your answer!*
 
