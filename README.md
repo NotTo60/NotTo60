@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 25.02.2026
+## 💡 Did You Know? • 26.02.2026
 
-Here's something interesting: Los Angeles’ full name is “El Pueblo de Nuestra Senora la Reina de los Angeles de Porciuncula”.
+Here's something interesting: The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.
 
 ---
 
-## 🎯 Today's Trivia • 25.02.2026
+## 🎯 Today's Trivia • 26.02.2026
 
-**In a mythical library where every book ever written contains the secrets of the past, present, and future, which title unlocks the door to this realm of endless knowledge?**
+**In a hidden chamber beneath a famed gallery, a mysterious painting was discovered that appears to alter its colors based on the viewer's emotions. What is this enigmatic artwork rumored to be called?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Manuscript%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-25)** - The Eternal Manuscript
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Timeless%20Codex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-25)** - The Timeless Codex
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Chronicle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-25)** - The Celestial Chronicle
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Canvas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-26)** - The Echoing Canvas
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shifting%20Spectrum%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-26)** - The Shifting Spectrum
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Emotional%20Chameleon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-26)** - The Emotional Chameleon
 
 📝 *Click a button above to submit your answer!*
 
