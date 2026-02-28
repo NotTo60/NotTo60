@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 27.02.2026
+## 💡 Did You Know? • 28.02.2026
 
-Did you know? Each year in America there are about 300,000 deaths that can be attributed to obesity.
+Incredible fact: The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.
 
 ---
 
-## 🎯 Today's Trivia • 27.02.2026
+## 🎯 Today's Trivia • 28.02.2026
 
-**In an alternate universe where time-traveling historians secretly influenced major events, which mind-bending action led to the peaceful resolution of the most intense fictional conflict known as the 'Battle of Timelines'?**
+**What mysterious phenomenon holds the record for the longest documented duration of an unexplained natural occurrence?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Introducing%20futuristic%20technology%20to%20both%20sides%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-27)** - Introducing futuristic technology to both sides
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Whispering%20forgotten%20ancient%20wisdom%20into%20the%20ears%20of%20leaders%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-27)** - Whispering forgotten ancient wisdom into the ears of leaders
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Creating%20an%20illusion%20of%20a%20celestial%20prophecy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-27)** - Creating an illusion of a celestial prophecy
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Lightning%20Storm%20of%20Venezuela%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-28)** - The Eternal Lightning Storm of Venezuela
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Luminescent%20Waves%20of%20the%20Bioluminescent%20Bay%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-28)** - The Luminescent Waves of the Bioluminescent Bay
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Neverending%20Sand%20Song%20of%20the%20Sahara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-02-28)** - The Neverending Sand Song of the Sahara
 
 📝 *Click a button above to submit your answer!*
 
