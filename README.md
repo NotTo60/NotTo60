@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.03.2026
+## 💡 Did You Know? • 05.03.2026
 
-Today's discovery: "Dreamt" is the only English word that ends in the letters "mt." 
+Little known fact: The Vatican city registered 0 births in 1983
 
 ---
 
-## 🎯 Today's Trivia • 04.03.2026
+## 🎯 Today's Trivia • 05.03.2026
 
-**In an unprecedented twist of nature's wonders, what mysterious phenomenon allows oceans to carry whispers of ancient secrets across the globe, connecting continents in an enigmatic dance?**
+**In a dazzling twist of fate, which ancient civilization is rumored to have designed intricate clockwork mechanisms, centuries before the first mechanical clock was invented?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Oceanic%20Resonance%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-04)** - Oceanic Resonance
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Marine%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-04)** - Marine Echoes
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Abyssal%20Murmurs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-04)** - Abyssal Murmurs
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mesopotamians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Mesopotamians
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Greeks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Greeks
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Egyptians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Egyptians
 
 📝 *Click a button above to submit your answer!*
 
