@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 05.03.2026
+## 💡 Did You Know? • 06.03.2026
 
-Little known fact: The Vatican city registered 0 births in 1983
+Amazing discovery: The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.
 
 ---
 
-## 🎯 Today's Trivia • 05.03.2026
+## 🎯 Today's Trivia • 06.03.2026
 
-**In a dazzling twist of fate, which ancient civilization is rumored to have designed intricate clockwork mechanisms, centuries before the first mechanical clock was invented?**
+**In a hypothetical universe where quantum particles could dance, which mind-bending behavior would they exhibit that defies our current understanding of physics?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mesopotamians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Mesopotamians
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Greeks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Greeks
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Egyptians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-05)** - The Egyptians
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20could%20simultaneously%20exist%20in%20every%20possible%20state%20until%20observed.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles could simultaneously exist in every possible state until observed.
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20would%20emit%20light%20only%20when%20moving%20slower%20than%20a%20snail%27s%20pace.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles would emit light only when moving slower than a snail's pace.
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20would%20form%20perfect%20geometric%20shapes%20that%20never%20change%2C%20regardless%20of%20external%20forces.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles would form perfect geometric shapes that never change, regardless of external forces.
 
 📝 *Click a button above to submit your answer!*
 
