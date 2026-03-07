@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 06.03.2026
+## 💡 Did You Know? • 07.03.2026
 
-Amazing discovery: The first bomb the Allies dropped on Berlin in WWII killed the only elephant in the Berlin Zoo.
+Little known fact: When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.
 
 ---
 
-## 🎯 Today's Trivia • 06.03.2026
+## 🎯 Today's Trivia • 07.03.2026
 
-**In a hypothetical universe where quantum particles could dance, which mind-bending behavior would they exhibit that defies our current understanding of physics?**
+**In a parallel universe where colors are alive and exhibit emotions, which hue is rumored to have the power to inspire creativity within artists merely by its presence?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20could%20simultaneously%20exist%20in%20every%20possible%20state%20until%20observed.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles could simultaneously exist in every possible state until observed.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20would%20emit%20light%20only%20when%20moving%20slower%20than%20a%20snail%27s%20pace.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles would emit light only when moving slower than a snail's pace.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Particles%20would%20form%20perfect%20geometric%20shapes%20that%20never%20change%2C%20regardless%20of%20external%20forces.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-06)** - Particles would form perfect geometric shapes that never change, regardless of external forces.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Envious%20Emerald%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Envious Emerald
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Muse%20Magenta%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Muse Magenta
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Serene%20Sapphire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Serene Sapphire
 
 📝 *Click a button above to submit your answer!*
 
