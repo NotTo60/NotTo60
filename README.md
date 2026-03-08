@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.03.2026
+## 💡 Did You Know? • 08.03.2026
 
-Little known fact: When the University of Nebraska Cornhuskers play football at home, the stadium becomes the state`s third largest city.
+Surprising fact: The average human blinks their eyes 6,205,000 times each year.
 
 ---
 
-## 🎯 Today's Trivia • 07.03.2026
+## 🎯 Today's Trivia • 08.03.2026
 
-**In a parallel universe where colors are alive and exhibit emotions, which hue is rumored to have the power to inspire creativity within artists merely by its presence?**
+**In a hypothetical universe where time travel is possible, what extreme event could create a reality-bending paradox?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Envious%20Emerald%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Envious Emerald
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Muse%20Magenta%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Muse Magenta
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Serene%20Sapphire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-07)** - The Serene Sapphire
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Meeting%20your%20past%20self%20and%20sharing%20future%20lottery%20numbers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-08)** - Meeting your past self and sharing future lottery numbers
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Saving%20a%20historical%20figure%20from%20a%20famous%20disaster%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-08)** - Saving a historical figure from a famous disaster
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Convincing%20your%20ancestor%20to%20never%20have%20children%2C%20including%20your%20lineage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-08)** - Convincing your ancestor to never have children, including your lineage
 
 📝 *Click a button above to submit your answer!*
 
