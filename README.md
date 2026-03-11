@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.03.2026
+## 💡 Did You Know? • 11.03.2026
 
-Mind-blowing fact: You were born with 300 bones, but by the time you are an adult you will only have 206.
+Surprising fact: Dogs and cats consume over $11 billion worth of pet food a year
 
 ---
 
-## 🎯 Today's Trivia • 10.03.2026
+## 🎯 Today's Trivia • 11.03.2026
 
-**Imagine a future where scientists have discovered a way to transmit emotions directly through devices. What groundbreaking term is coined for this technology?**
+**Which mythical mountain, said to touch the sky, is believed to be the birthplace of the world's most elusive phoenix?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Emotiwave%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-10)** - Emotiwave
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20FeelNet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-10)** - FeelNet
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20MoodCast%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-10)** - MoodCast
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Aetherius%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Aetherius
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Solstice%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Solstice
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Luminara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Luminara
 
 📝 *Click a button above to submit your answer!*
 
