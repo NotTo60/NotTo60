@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.03.2026
+## 💡 Did You Know? • 12.03.2026
 
-Surprising fact: Dogs and cats consume over $11 billion worth of pet food a year
+Mind-blowing fact: Average life span of a major league baseball: 7 pitches.
 
 ---
 
-## 🎯 Today's Trivia • 11.03.2026
+## 🎯 Today's Trivia • 12.03.2026
 
-**Which mythical mountain, said to touch the sky, is believed to be the birthplace of the world's most elusive phoenix?**
+**What extraordinary record-breaking feat involves defying gravity using only one pinky finger?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Aetherius%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Aetherius
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Solstice%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Solstice
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Luminara%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-11)** - Mount Luminara
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Balancing%20a%20full%20grown%20elephant%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-12)** - Balancing a full grown elephant
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Rotating%20a%20planet-sized%20marble%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-12)** - Rotating a planet-sized marble
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Supporting%20a%20human%20body%20for%20an%20entire%20minute%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-12)** - Supporting a human body for an entire minute
 
 📝 *Click a button above to submit your answer!*
 
