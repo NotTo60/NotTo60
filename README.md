@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 14.03.2026
+## 💡 Did You Know? • 15.03.2026
 
-Fascinating tidbit: Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.
+Amazing discovery: 11% of the world is left-handed.
 
 ---
 
-## 🎯 Today's Trivia • 14.03.2026
+## 🎯 Today's Trivia • 15.03.2026
 
-**In an alternate history where the Great Civilizations never fell, which empire would be known for constructing a colossal monument of celestial alignment that could predict solar eclipses with exact precision?**
+**What astonishing discovery revealed a hidden world beneath our very feet that rewrote the book of life as we know it?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mesopotamian%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-14)** - The Mesopotamian Empire
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Atlantean%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-14)** - The Atlantean Empire
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Incan%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-14)** - The Incan Empire
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20new%20species%20of%20plants%20capable%20of%20photosynthesis%20without%20sunlight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-15)** - A new species of plants capable of photosynthesis without sunlight
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20network%20of%20underground%20rivers%20with%20bioluminescent%20bacteria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-15)** - A network of underground rivers with bioluminescent bacteria
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20ecosystem%20of%20microorganisms%20thriving%20in%20Earth%27s%20deep%20crust%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-15)** - An ecosystem of microorganisms thriving in Earth's deep crust
 
 📝 *Click a button above to submit your answer!*
 
