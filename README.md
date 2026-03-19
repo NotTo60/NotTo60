@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.03.2026
+## 💡 Did You Know? • 19.03.2026
 
-Surprising fact: The first toilet ever seen on television was on "Leave It to Beaver."
+Fun fact: You share your birthday with at least 9 million other people in the world.
 
 ---
 
-## 🎯 Today's Trivia • 18.03.2026
+## 🎯 Today's Trivia • 19.03.2026
 
-**What revolutionary invention was inspired by observing how light refracts in a raindrop, leading to the creation of a device that transforms sunlight into a spectrum of colors?**
+**Which mythical-sounding creature has the ability to change the color of its entire body at will, creating breathtaking displays that mesmerize its peers in a dazzling dance of survival?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20prism%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-18)** - The prism
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20kaleidoscope%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-18)** - The kaleidoscope
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20magnifying%20glass%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-18)** - The magnifying glass
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Luminescent%20Dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-19)** - The Luminescent Dragon
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chromatic%20Chameleon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-19)** - The Chromatic Chameleon
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Spectral%20Serpent%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-19)** - The Spectral Serpent
 
 📝 *Click a button above to submit your answer!*
 
