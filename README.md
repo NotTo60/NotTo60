@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.03.2026
+## 💡 Did You Know? • 21.03.2026
 
-Here's something interesting: "Venus observa" is the technical term for the "missionary position."
+Fun fact: Lithuania has the highest suicide rate in the world.
 
 ---
 
-## 🎯 Today's Trivia • 20.03.2026
+## 🎯 Today's Trivia • 21.03.2026
 
-**In the realm of jaw-dropping innovations, which mind-bending invention was originally inspired by the intricate flight patterns of a hummingbird?**
+**In an astonishing twist of nature's brilliance, which mystical phenomenon allows certain trees to communicate and share nutrients through an underground network, often referred to as the 'Wood Wide Web'?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Helicopter%20rotor%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-20)** - Helicopter rotor
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Jet%20engine%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-20)** - Jet engine
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quadcopter%20drone%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-20)** - Quadcopter drone
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mycorrhizal%20networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Mycorrhizal networks
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Root%20sonar%20signaling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Root sonar signaling
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Leaf-to-leaf%20telepathy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Leaf-to-leaf telepathy
 
 📝 *Click a button above to submit your answer!*
 
