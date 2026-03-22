@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.03.2026
+## 💡 Did You Know? • 22.03.2026
 
-Fun fact: Lithuania has the highest suicide rate in the world.
+Fun fact: About 200,000,000 M&Ms are sold each day in the United States.
 
 ---
 
-## 🎯 Today's Trivia • 21.03.2026
+## 🎯 Today's Trivia • 22.03.2026
 
-**In an astonishing twist of nature's brilliance, which mystical phenomenon allows certain trees to communicate and share nutrients through an underground network, often referred to as the 'Wood Wide Web'?**
+**In an alternate universe where ancient civilizations discovered a secret element that allowed them to build unbreakable bridges across oceans, which empire would have likely first harnessed this power to dominate global trade routes?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mycorrhizal%20networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Mycorrhizal networks
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Root%20sonar%20signaling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Root sonar signaling
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Leaf-to-leaf%20telepathy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-21)** - Leaf-to-leaf telepathy
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mighty%20empire%20of%20the%20Aztecs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The mighty empire of the Aztecs
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20innovative%20maritime%20empire%20of%20the%20Phoenicians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The innovative maritime empire of the Phoenicians
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20legendary%20empire%20of%20the%20Incas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The legendary empire of the Incas
 
 📝 *Click a button above to submit your answer!*
 
