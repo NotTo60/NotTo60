@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.03.2026
+## 💡 Did You Know? • 23.03.2026
 
-Fun fact: About 200,000,000 M&Ms are sold each day in the United States.
+Little known fact: On average, 100 people choke to death on ballpoint pens every year.
 
 ---
 
-## 🎯 Today's Trivia • 22.03.2026
+## 🎯 Today's Trivia • 23.03.2026
 
-**In an alternate universe where ancient civilizations discovered a secret element that allowed them to build unbreakable bridges across oceans, which empire would have likely first harnessed this power to dominate global trade routes?**
+**Which invisible phenomenon holds the title for the longest continuous journey without stopping or losing speed, defying the laws of physics?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mighty%20empire%20of%20the%20Aztecs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The mighty empire of the Aztecs
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20innovative%20maritime%20empire%20of%20the%20Phoenicians%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The innovative maritime empire of the Phoenicians
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20legendary%20empire%20of%20the%20Incas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-22)** - The legendary empire of the Incas
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20sonic%20boom%20echoing%20through%20a%20canyon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A sonic boom echoing through a canyon
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20photon%20traveling%20through%20the%20vacuum%20of%20space%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A photon traveling through the vacuum of space
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20magnetic%20field%20line%20swirling%20around%20a%20planet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A magnetic field line swirling around a planet
 
 📝 *Click a button above to submit your answer!*
 
