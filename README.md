@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.03.2026
+## 💡 Did You Know? • 24.03.2026
 
-Little known fact: On average, 100 people choke to death on ballpoint pens every year.
+Mind-blowing fact: Bats always turn left when exiting a cave.
 
 ---
 
-## 🎯 Today's Trivia • 23.03.2026
+## 🎯 Today's Trivia • 24.03.2026
 
-**Which invisible phenomenon holds the title for the longest continuous journey without stopping or losing speed, defying the laws of physics?**
+**What mind-blowing phenomenon allows a single grain of sand to theoretically contain the energy equivalent to an entire star's lifetime?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20sonic%20boom%20echoing%20through%20a%20canyon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A sonic boom echoing through a canyon
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20photon%20traveling%20through%20the%20vacuum%20of%20space%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A photon traveling through the vacuum of space
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20magnetic%20field%20line%20swirling%20around%20a%20planet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-23)** - A magnetic field line swirling around a planet
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Echo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-24)** - Quantum Echo
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Zero-Point%20Energy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-24)** - Zero-Point Energy
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Photon%20Rebound%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-24)** - Photon Rebound
 
 📝 *Click a button above to submit your answer!*
 
