@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.03.2026
+## 💡 Did You Know? • 27.03.2026
 
-Fun fact: In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.
+Surprising fact: “Canada” is an Indian word meaning “Big Village”.
 
 ---
 
-## 🎯 Today's Trivia • 26.03.2026
+## 🎯 Today's Trivia • 27.03.2026
 
-**In the enigmatic world of cosmic enigmas, which mystical phenomenon is said to mysteriously erase memories of those who witness it?**
+**What astounding discovery revealed that a single microscopic structure holds the secret to ancient civilizations' technological prowess?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Veil%20of%20Void%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-26)** - The Veil of Void
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Pulsar%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-26)** - The Phantom Pulsar
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Eclipse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-26)** - The Celestial Eclipse
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Sand%20of%20Time%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-27)** - The Quantum Sand of Time
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Genetic%20Crystal%20Grid%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-27)** - The Genetic Crystal Grid
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Electromagnetic%20Stone%20Matrix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-27)** - The Electromagnetic Stone Matrix
 
 📝 *Click a button above to submit your answer!*
 
