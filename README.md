@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 29.03.2026
+## 💡 Did You Know? • 30.03.2026
 
-Amazing discovery: The average person's left hand does 56% of the typing. 
+Here's something interesting: On the ground, a group of geese is a gaggle, in the sky it is a skein.
 
 ---
 
-## 🎯 Today's Trivia • 29.03.2026
+## 🎯 Today's Trivia • 30.03.2026
 
-**In a universe where the rules of reality are pushed to their limits, which would be the most extreme feat of nature?**
+**Which mysterious island appears to defy the laws of nature by spontaneously altering its entire shape and size every decade?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20mountain%20that%20grows%20an%20inch%20every%20day%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-29)** - A mountain that grows an inch every day
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20ocean%20that%20evaporates%20completely%20every%20night%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-29)** - An ocean that evaporates completely every night
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20forest%20that%20changes%20its%20color%20with%20every%20heartbeat%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-29)** - A forest that changes its color with every heartbeat
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Isles%20of%20Euphoria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Enchanted Isles of Euphoria
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shifting%20Sands%20of%20Solitude%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Shifting Sands of Solitude
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Island%20of%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Phantom Island of Mirage
 
 📝 *Click a button above to submit your answer!*
 
