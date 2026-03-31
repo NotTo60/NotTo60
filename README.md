@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 30.03.2026
+## 💡 Did You Know? • 31.03.2026
 
-Here's something interesting: On the ground, a group of geese is a gaggle, in the sky it is a skein.
+Fascinating tidbit: Chinese Crested dogs can get acne. 
 
 ---
 
-## 🎯 Today's Trivia • 30.03.2026
+## 🎯 Today's Trivia • 31.03.2026
 
-**Which mysterious island appears to defy the laws of nature by spontaneously altering its entire shape and size every decade?**
+**In an alternate reality where squirrels are renowned filmmakers, their most celebrated film swept the universe by storm for its groundbreaking use of what unique element?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Isles%20of%20Euphoria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Enchanted Isles of Euphoria
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shifting%20Sands%20of%20Solitude%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Shifting Sands of Solitude
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phantom%20Island%20of%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-30)** - The Phantom Island of Mirage
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Time-traveling%20acorn%20technology%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Time-traveling acorn technology
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Intergalactic%20nut%20trade%20drama%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Intergalactic nut trade drama
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Epic%20turf%20wars%20over%20treehouse%20studios%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Epic turf wars over treehouse studios
 
 📝 *Click a button above to submit your answer!*
 
