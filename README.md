@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 31.03.2026
+## 💡 Did You Know? • 01.04.2026
 
-Fascinating tidbit: Chinese Crested dogs can get acne. 
+Today's discovery: The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.
 
 ---
 
-## 🎯 Today's Trivia • 31.03.2026
+## 🎯 Today's Trivia • 01.04.2026
 
-**In an alternate reality where squirrels are renowned filmmakers, their most celebrated film swept the universe by storm for its groundbreaking use of what unique element?**
+**In an alternate universe where mountains grow with every secret whispered to them, which type of mountain would dominate the landscape, ensnaring all who dare to keep their mysteries hidden?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Time-traveling%20acorn%20technology%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Time-traveling acorn technology
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Intergalactic%20nut%20trade%20drama%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Intergalactic nut trade drama
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Epic%20turf%20wars%20over%20treehouse%20studios%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-03-31)** - Epic turf wars over treehouse studios
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20glow%20with%20each%20sunrise%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that glow with each sunrise
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20whisper%20back%20with%20the%20echoes%20of%20secrets%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that whisper back with the echoes of secrets
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20change%20color%20with%20the%20seasons%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that change color with the seasons
 
 📝 *Click a button above to submit your answer!*
 
