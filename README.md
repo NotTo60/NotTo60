@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.04.2026
+## 💡 Did You Know? • 02.04.2026
 
-Today's discovery: The Nullarbor Plain of Australia covers 100,000 square miles (160,900 km) without a tree.
+Incredible fact: A `jiffy` is a unit of time for 1/100th of a second.
 
 ---
 
-## 🎯 Today's Trivia • 01.04.2026
+## 🎯 Today's Trivia • 02.04.2026
 
-**In an alternate universe where mountains grow with every secret whispered to them, which type of mountain would dominate the landscape, ensnaring all who dare to keep their mysteries hidden?**
+**In the realm of sheer geological wonder, which mythical mountain is said to hold the key to eternal youth, hidden within its misty peaks?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20glow%20with%20each%20sunrise%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that glow with each sunrise
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20whisper%20back%20with%20the%20echoes%20of%20secrets%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that whisper back with the echoes of secrets
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20that%20change%20color%20with%20the%20seasons%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-01)** - Mountains that change color with the seasons
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Summit%20of%20Eldoria%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-02)** - The Enchanted Summit of Eldoria
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Timeless%20Pinnacle%20of%20Aethernia%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-02)** - The Timeless Pinnacle of Aethernia
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Secret%20Heights%20of%20Arcano%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-02)** - The Secret Heights of Arcano
 
 📝 *Click a button above to submit your answer!*
 
