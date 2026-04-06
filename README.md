@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 05.04.2026
+## 💡 Did You Know? • 06.04.2026
 
-Fun fact: Grapes explode when you put them in the microwave. Go on, try it then
+Amazing discovery: The first license plate on a car in the United States was issued in Denver, Colorado in 1908.
 
 ---
 
-## 🎯 Today's Trivia • 05.04.2026
+## 🎯 Today's Trivia • 06.04.2026
 
-**In the mythical realm of literature, which mysterious book is said to only reveal its contents to those who have never spoken a lie?**
+**Which legendary feat holds the record for defying gravity the longest?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Tome%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-05)** - The Whispering Tome
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silent%20Lexicon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-05)** - The Silent Lexicon
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Veracity%20Codex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-05)** - The Veracity Codex
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20longest%20continuous%20human%20levitation%20by%20a%20magician%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-06)** - The longest continuous human levitation by a magician
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20highest%20altitude%20achieved%20by%20a%20hot%20air%20balloon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-06)** - The highest altitude achieved by a hot air balloon
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20longest%20duration%20a%20person%20has%20balanced%20on%20a%20tightrope%20suspended%20between%20two%20skyscrapers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-06)** - The longest duration a person has balanced on a tightrope suspended between two skyscrapers
 
 📝 *Click a button above to submit your answer!*
 
