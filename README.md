@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.04.2026
+## 💡 Did You Know? • 08.04.2026
 
-Incredible fact: There is a city called Rome on every continent.
+Amazing discovery: Thirty-five percent of the people who use personal ads for dating are already married.
 
 ---
 
-## 🎯 Today's Trivia • 07.04.2026
+## 🎯 Today's Trivia • 08.04.2026
 
-**In an electrifying twist of fate, what seemingly impossible record was broken by a synchronized team of humans working in perfect harmony?**
+**In the realm of mind-bending records, what is the most extraordinary feat achieved by a human in one continuous breath?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Knitting%20a%20mile-long%20scarf%20in%20under%20an%20hour%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-07)** - Knitting a mile-long scarf in under an hour
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Simultaneously%20flipping%20a%20coin%20to%20land%20on%20heads%2010%2C000%20times%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-07)** - Simultaneously flipping a coin to land on heads 10,000 times
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Building%20a%20life-sized%20castle%20from%20playing%20cards%20in%20a%20single%20day%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-07)** - Building a life-sized castle from playing cards in a single day
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Traveling%20over%20400%20meters%20underwater%20without%20surfacing%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Traveling over 400 meters underwater without surfacing
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holding%20a%20note%20continuously%20for%20over%2010%20minutes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Holding a note continuously for over 10 minutes
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Inflating%20a%20giant%20balloon%20to%20the%20size%20of%20a%20small%20car%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Inflating a giant balloon to the size of a small car
 
 📝 *Click a button above to submit your answer!*
 
