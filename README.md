@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.04.2026
+## 💡 Did You Know? • 09.04.2026
 
-Amazing discovery: Thirty-five percent of the people who use personal ads for dating are already married.
+Incredible fact: The pupils of a goat`s eyes are square.
 
 ---
 
-## 🎯 Today's Trivia • 08.04.2026
+## 🎯 Today's Trivia • 09.04.2026
 
-**In the realm of mind-bending records, what is the most extraordinary feat achieved by a human in one continuous breath?**
+**In a dazzling twist of biological magic, which part of the human body can regenerate something akin to its own original structure after injury, like a mythical creature's power?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Traveling%20over%20400%20meters%20underwater%20without%20surfacing%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Traveling over 400 meters underwater without surfacing
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holding%20a%20note%20continuously%20for%20over%2010%20minutes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Holding a note continuously for over 10 minutes
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Inflating%20a%20giant%20balloon%20to%20the%20size%20of%20a%20small%20car%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-08)** - Inflating a giant balloon to the size of a small car
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20liver%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-09)** - The liver
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heart%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-09)** - The heart
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20spinal%20cord%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-09)** - The spinal cord
 
 📝 *Click a button above to submit your answer!*
 
