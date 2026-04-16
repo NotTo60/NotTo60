@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.04.2026
+## 💡 Did You Know? • 16.04.2026
 
-Did you know? The town of Calma, Chile in the Atacama Desert has never had rain.
+Today's discovery: China has more English speakers than the United States.
 
 ---
 
-## 🎯 Today's Trivia • 15.04.2026
+## 🎯 Today's Trivia • 16.04.2026
 
-**In the fictional universe where words unlock the secrets of time, which mysterious tome is said to grant its reader the ability to converse with their past and future selves?**
+**In an astonishing twist of fate, which legendary empire was rumored to have a secret ritual involving the blessing of their battlegrounds with the dance of a thousand flamingos?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chrono%20Lexicon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-15)** - The Chrono Lexicon
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eternal%20Dialogue%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-15)** - The Eternal Dialogue
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Book%20of%20Temporal%20Whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-15)** - The Book of Temporal Whispers
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Carthaginian%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Carthaginian Empire
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aztec%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Aztec Empire
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mongol%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Mongol Empire
 
 📝 *Click a button above to submit your answer!*
 
