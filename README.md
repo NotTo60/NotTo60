@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.04.2026
+## 💡 Did You Know? • 17.04.2026
 
-Today's discovery: China has more English speakers than the United States.
+Incredible fact: The sperm of a mouse is actually longer than the sperm of an elephant.
 
 ---
 
-## 🎯 Today's Trivia • 16.04.2026
+## 🎯 Today's Trivia • 17.04.2026
 
-**In an astonishing twist of fate, which legendary empire was rumored to have a secret ritual involving the blessing of their battlegrounds with the dance of a thousand flamingos?**
+**In a world where books hold the secret to ultimate power, which mythical creature is said to have written the very first story that ignites the magic of imagination?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Carthaginian%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Carthaginian Empire
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aztec%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Aztec Empire
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mongol%20Empire%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-16)** - The Mongol Empire
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Phoenix%2C%20reborn%20from%20the%20ashes%20with%20tales%20of%20renewal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Phoenix, reborn from the ashes with tales of renewal
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Sphinx%2C%20weaving%20mysteries%20into%20the%20fabric%20of%20existence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Sphinx, weaving mysteries into the fabric of existence
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Unicorn%2C%20stamping%20its%20hooves%20to%20create%20enchanted%20verses%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Unicorn, stamping its hooves to create enchanted verses
 
 📝 *Click a button above to submit your answer!*
 
