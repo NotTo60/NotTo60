@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.04.2026
+## 💡 Did You Know? • 18.04.2026
 
-Incredible fact: The sperm of a mouse is actually longer than the sperm of an elephant.
+Fun fact: American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.
 
 ---
 
-## 🎯 Today's Trivia • 17.04.2026
+## 🎯 Today's Trivia • 18.04.2026
 
-**In a world where books hold the secret to ultimate power, which mythical creature is said to have written the very first story that ignites the magic of imagination?**
+**In a thrilling race to the extremes, which fictional city is renowned for having the tallest skyscraper imagined, so high it pierces the atmosphere?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Phoenix%2C%20reborn%20from%20the%20ashes%20with%20tales%20of%20renewal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Phoenix, reborn from the ashes with tales of renewal
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Sphinx%2C%20weaving%20mysteries%20into%20the%20fabric%20of%20existence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Sphinx, weaving mysteries into the fabric of existence
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20Unicorn%2C%20stamping%20its%20hooves%20to%20create%20enchanted%20verses%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-17)** - A Unicorn, stamping its hooves to create enchanted verses
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Skyhaven%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Skyhaven
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nimbus%20Heights%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Nimbus Heights
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Zenith%20City%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Zenith City
 
 📝 *Click a button above to submit your answer!*
 
