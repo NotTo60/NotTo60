@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.04.2026
+## 💡 Did You Know? • 19.04.2026
 
-Fun fact: American Airlines saved $40,000 in 1987 by taking out an olive from First Class salads.
+Fascinating tidbit: 60% of electrocutions occur while talking on the telephone during a thunderstorm.
 
 ---
 
-## 🎯 Today's Trivia • 18.04.2026
+## 🎯 Today's Trivia • 19.04.2026
 
-**In a thrilling race to the extremes, which fictional city is renowned for having the tallest skyscraper imagined, so high it pierces the atmosphere?**
+**In an alternate universe where gravity affects only the speed of athletes, which sport would see competitors reaching Mach speeds without any technological aid?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Skyhaven%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Skyhaven
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nimbus%20Heights%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Nimbus Heights
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Zenith%20City%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-18)** - Zenith City
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Track%20and%20Field%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Track and Field
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Swimming%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Swimming
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Weightlifting%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Weightlifting
 
 📝 *Click a button above to submit your answer!*
 
