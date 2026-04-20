@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.04.2026
+## 💡 Did You Know? • 20.04.2026
 
-Fascinating tidbit: 60% of electrocutions occur while talking on the telephone during a thunderstorm.
+Here's something interesting: The average person falls asleep in seven minutes.
 
 ---
 
-## 🎯 Today's Trivia • 19.04.2026
+## 🎯 Today's Trivia • 20.04.2026
 
-**In an alternate universe where gravity affects only the speed of athletes, which sport would see competitors reaching Mach speeds without any technological aid?**
+**In a mind-bending feat of cosmic architecture, what is theoretically possible within the heart of a galaxy, surpassing even the wildest science fiction dreams?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Track%20and%20Field%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Track and Field
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Swimming%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Swimming
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Weightlifting%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-19)** - Weightlifting
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20planet-sized%20diamond%20formed%20from%20compressed%20stardust%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-20)** - A planet-sized diamond formed from compressed stardust
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20chain%20of%20solar%20systems%20linked%20by%20gravitational%20bridges%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-20)** - A chain of solar systems linked by gravitational bridges
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20colossal%20library%20of%20billions%20of%20parallel%20universes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-20)** - A colossal library of billions of parallel universes
 
 📝 *Click a button above to submit your answer!*
 
