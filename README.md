@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.04.2026
+## 💡 Did You Know? • 22.04.2026
 
-Fascinating tidbit: Most toilets flush in E flat.
+Fascinating tidbit: Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
 
 ---
 
-## 🎯 Today's Trivia • 21.04.2026
+## 🎯 Today's Trivia • 22.04.2026
 
-**In a hypothetical universe where gravity is a tactile force, what unimaginable phenomenon would occur every time you touch an object?**
+**In a mysterious and groundbreaking experiment, researchers uncovered a material that defies the laws of physics by doing what astonishing feat?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20You%20gain%20the%20object%27s%20molecular%20memory%20and%20can%20reshape%20it%20at%20will%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-21)** - You gain the object's molecular memory and can reshape it at will
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20You%20experience%20a%20momentary%20vision%20of%20every%20gravitational%20interaction%20in%20the%20cosmos%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-21)** - You experience a momentary vision of every gravitational interaction in the cosmos
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20You%20temporarily%20increase%20the%20gravitational%20pull%20of%20the%20object%2C%20affecting%20its%20local%20environment%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-21)** - You temporarily increase the gravitational pull of the object, affecting its local environment
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Changing%20colors%20in%20absolute%20darkness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-22)** - Changing colors in absolute darkness
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Emitting%20sound%20waves%20that%20heal%20wounds%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-22)** - Emitting sound waves that heal wounds
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Floating%20above%20a%20superconductor%20without%20any%20energy%20input%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-22)** - Floating above a superconductor without any energy input
 
 📝 *Click a button above to submit your answer!*
 
