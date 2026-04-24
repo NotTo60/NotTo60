@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.04.2026
+## 💡 Did You Know? • 24.04.2026
 
-Fun fact: A dime has 118 ridges around the edge. A quarter has 119.
+Incredible fact: %60 of all people using the Internet, use it for pornography.
 
 ---
 
-## 🎯 Today's Trivia • 23.04.2026
+## 🎯 Today's Trivia • 24.04.2026
 
-**In a futuristic realm where quantum computing merges with ancient alchemy, what groundbreaking device shatters the boundaries of time itself by harnessing the energy of the universe's entangled particles?**
+**In an extraordinary twist of innovation, which mythical creature-inspired device was envisioned to revolutionize underwater exploration with its mysterious propulsion technology?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chrono%20Lens%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-23)** - The Chrono Lens
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Temporal%20Prism%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-23)** - The Temporal Prism
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Quantum%20Nexus%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-23)** - The Quantum Nexus
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Kraken%20Submersible%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Kraken Submersible
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%20Glider%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Griffin Glider
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Leviathan%20Jetstream%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Leviathan Jetstream
 
 📝 *Click a button above to submit your answer!*
 
