@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 24.04.2026
+## 💡 Did You Know? • 25.04.2026
 
-Incredible fact: %60 of all people using the Internet, use it for pornography.
+Amazing discovery: Relative to size, the strongest muscle in the body is the tongue.
 
 ---
 
-## 🎯 Today's Trivia • 24.04.2026
+## 🎯 Today's Trivia • 25.04.2026
 
-**In an extraordinary twist of innovation, which mythical creature-inspired device was envisioned to revolutionize underwater exploration with its mysterious propulsion technology?**
+**In a mythical land where athletes possess otherworldly abilities, which legendary sport involves players using telekinesis to control a shimmering, fiery orb?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Kraken%20Submersible%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Kraken Submersible
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%20Glider%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Griffin Glider
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Leviathan%20Jetstream%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-24)** - The Leviathan Jetstream
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aetherball%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-25)** - Aetherball
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Pyrokinetic%20Sphere%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-25)** - Pyrokinetic Sphere
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Luminal%20Toss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-25)** - Luminal Toss
 
 📝 *Click a button above to submit your answer!*
 
