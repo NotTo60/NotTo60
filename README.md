@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.04.2026
+## 💡 Did You Know? • 27.04.2026
 
-Fun fact: The only real person to be a PEZ head was Betsy Ross.
+Mind-blowing fact: Icelanders consume more Coca-Cola per Capita than any other nation.
 
 ---
 
-## 🎯 Today's Trivia • 26.04.2026
+## 🎯 Today's Trivia • 27.04.2026
 
-**In the grand spectacle of nature's wonders, which enigmatic phenomenon allows certain rare plants to temporarily halt their growth and burst into vibrant bloom simultaneously, seemingly in response to the celestial alignment of stars?**
+**In a remarkable twist of nature, which mysterious landform is said to be the only place on Earth where an invisible river flows uphill?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20Synchronization%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-26)** - Lunar Synchronization
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Bloom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-26)** - Celestial Bloom
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Stellar%20Pause%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-26)** - Stellar Pause
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Magnetic%20Hill%20in%20Canada%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-27)** - The Magnetic Hill in Canada
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Gravity%20Hill%20in%20Pennsylvania%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-27)** - The Gravity Hill in Pennsylvania
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enchanted%20Rock%20in%20Texas%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-27)** - The Enchanted Rock in Texas
 
 📝 *Click a button above to submit your answer!*
 
