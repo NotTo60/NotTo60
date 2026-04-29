@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 28.04.2026
+## 💡 Did You Know? • 29.04.2026
 
-Little known fact: Banging your head against a wall uses 150 calories an hour.
+Here's something interesting: In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.
 
 ---
 
-## 🎯 Today's Trivia • 28.04.2026
+## 🎯 Today's Trivia • 29.04.2026
 
-**In a whimsical tale of cosmic artistry, if mountains were sculpted by celestial artists, which of the following would be their most secret masterpiece, hidden in plain sight, yet defying the ordinary laws of geology?**
+**Which mythical-sounding creature, existing in the realm of reality, can emit a sound so powerful it stuns its prey into temporary paralysis?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mountain%20that%20sings%20with%20the%20wind%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-28)** - The mountain that sings with the wind
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mountain%20that%20changes%20color%20with%20each%20new%20dawn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-28)** - The mountain that changes color with each new dawn
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20mountain%20that%20reaches%20into%20both%20the%20Earth%20and%20the%20sky%20simultaneously%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-28)** - The mountain that reaches into both the Earth and the sky simultaneously
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Thunderclap%20Owl%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-29)** - Thunderclap Owl
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Echoing%20Fox%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-29)** - Echoing Fox
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Booming%20Shrimp%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-29)** - Booming Shrimp
 
 📝 *Click a button above to submit your answer!*
 
