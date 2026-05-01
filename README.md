@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 30.04.2026
+## 💡 Did You Know? • 01.05.2026
 
-Fascinating tidbit: The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.
+Amazing discovery: Winston Churchill was born in a ladies` room during a dance.
 
 ---
 
-## 🎯 Today's Trivia • 30.04.2026
+## 🎯 Today's Trivia • 01.05.2026
 
-**In a legendary display of endurance, what mind-bending feat holds the record for the longest continuous performance by a single person on a pogo stick?**
+**What miraculous phenomenon allows certain animals to seemingly defy gravity, letting them walk upside down on ceilings as if they were right-side up?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Astonishingly%2C%20leaping%20for%20an%20entire%20month%20without%20a%20pause%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-30)** - Astonishingly, leaping for an entire month without a pause
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bouncing%20non-stop%20for%20ten%20days%20straight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-30)** - Bouncing non-stop for ten days straight
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Keeping%20the%20rhythm%20for%20a%20week%20under%20a%20waterfall%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-04-30)** - Keeping the rhythm for a week under a waterfall
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Micro%20air%20jets%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Micro air jets
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Van%20der%20Waals%20forces%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Van der Waals forces
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magnetic%20fields%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Magnetic fields
 
 📝 *Click a button above to submit your answer!*
 
