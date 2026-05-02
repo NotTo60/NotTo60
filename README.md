@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.05.2026
+## 💡 Did You Know? • 02.05.2026
 
-Amazing discovery: Winston Churchill was born in a ladies` room during a dance.
+Little known fact: An ostrich’s eye is bigger than its brain.
 
 ---
 
-## 🎯 Today's Trivia • 01.05.2026
+## 🎯 Today's Trivia • 02.05.2026
 
-**What miraculous phenomenon allows certain animals to seemingly defy gravity, letting them walk upside down on ceilings as if they were right-side up?**
+**In a groundbreaking discovery that rewrote the laws of nature, scientists found a bizarre form of matter that defies gravity by doing what?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Micro%20air%20jets%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Micro air jets
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Van%20der%20Waals%20forces%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Van der Waals forces
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magnetic%20fields%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-01)** - Magnetic fields
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Becoming%20invisible%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-02)** - Becoming invisible
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Changing%20its%20shape%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-02)** - Changing its shape
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Levitation%20without%20energy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-02)** - Levitation without energy
 
 📝 *Click a button above to submit your answer!*
 
