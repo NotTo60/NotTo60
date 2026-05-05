@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 04.05.2026
+## 💡 Did You Know? • 05.05.2026
 
-Today's discovery: A jellyfish is 95 percent water!
+Fun fact: A female ferret will die if it goes into heat and cannot find a mate.
 
 ---
 
-## 🎯 Today's Trivia • 04.05.2026
+## 🎯 Today's Trivia • 05.05.2026
 
-**In a dazzling twist of digital fate, which revolutionary technology is theorized to unlock the ability to 'time travel' within virtual dimensions, simulating past and future realities in an instant?**
+**In a mystical library where books come to life, which genre would best unlock the secrets to the universe?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Computing%20Visions%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-04)** - Quantum Computing Visions
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holographic%20Neural%20Networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-04)** - Holographic Neural Networks
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Augmented%20Reality%20Timeframes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-04)** - Augmented Reality Timeframes
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mystery%20novels%20with%20cryptic%20puzzles%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Mystery novels with cryptic puzzles
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Fantasy%20tales%20of%20magical%20realms%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Fantasy tales of magical realms
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Philosophical%20tomes%20pondering%20existence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Philosophical tomes pondering existence
 
 📝 *Click a button above to submit your answer!*
 
