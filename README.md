@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 05.05.2026
+## 💡 Did You Know? • 06.05.2026
 
-Fun fact: A female ferret will die if it goes into heat and cannot find a mate.
+Did you know? Until 1994, world maps and globes sold in Albania only had Albania on them.
 
 ---
 
-## 🎯 Today's Trivia • 05.05.2026
+## 🎯 Today's Trivia • 06.05.2026
 
-**In a mystical library where books come to life, which genre would best unlock the secrets to the universe?**
+**What mysterious phenomenon in the universe is rumored to sing in an alien frequency only detectable by advanced civilizations, revealing secrets of cosmic harmony?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mystery%20novels%20with%20cryptic%20puzzles%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Mystery novels with cryptic puzzles
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Fantasy%20tales%20of%20magical%20realms%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Fantasy tales of magical realms
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Philosophical%20tomes%20pondering%20existence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-05)** - Philosophical tomes pondering existence
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Dark%20Matter%20Chimes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Dark Matter Chimes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nebula%20Whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Nebula Whispers
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Black%20Hole%20Symphony%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Black Hole Symphony
 
 📝 *Click a button above to submit your answer!*
 
