@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 06.05.2026
+## 💡 Did You Know? • 07.05.2026
 
-Did you know? Until 1994, world maps and globes sold in Albania only had Albania on them.
+Little known fact: A `jiffy` is a unit of time for 1/100th of a second.
 
 ---
 
-## 🎯 Today's Trivia • 06.05.2026
+## 🎯 Today's Trivia • 07.05.2026
 
-**What mysterious phenomenon in the universe is rumored to sing in an alien frequency only detectable by advanced civilizations, revealing secrets of cosmic harmony?**
+**In a parallel universe where quantum particles can sing, which of the following would create the most harmonious symphony?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Dark%20Matter%20Chimes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Dark Matter Chimes
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Nebula%20Whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Nebula Whispers
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Black%20Hole%20Symphony%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-06)** - Black Hole Symphony
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Superposition%20Serenade%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-07)** - Superposition Serenade
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Entanglement%20Echo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-07)** - Entanglement Echo
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Leap%20Lullaby%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-07)** - Quantum Leap Lullaby
 
 📝 *Click a button above to submit your answer!*
 
