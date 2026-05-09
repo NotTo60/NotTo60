@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.05.2026
+## 💡 Did You Know? • 09.05.2026
 
-Incredible fact: Most household dust is made of dead skin cells.
+Here's something interesting: "Dreamt" is the only English word that ends in the letters "mt." 
 
 ---
 
-## 🎯 Today's Trivia • 08.05.2026
+## 🎯 Today's Trivia • 09.05.2026
 
-**In a world where the impossible is often just an untapped reality, what mind-bending discovery was found to be the key to translating the language of dreams into tangible artwork?**
+**In the vast cosmos, which mind-bending phenomenon allows entire galaxies to appear in different places than where they actually are?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20harmonizing%20frequency%20of%20cosmic%20particles%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-08)** - The harmonizing frequency of cosmic particles
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20neural%20symphony%20of%20lucid%20patterns%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-08)** - The neural symphony of lucid patterns
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20quantum%20dance%20of%20shadow%20photons%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-08)** - The quantum dance of shadow photons
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Cosmic%20Echoes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-09)** - Cosmic Echoes
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Drift%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-09)** - Quantum Drift
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Gravitational%20Lensing%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-09)** - Gravitational Lensing
 
 📝 *Click a button above to submit your answer!*
 
