@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 10.05.2026
+## 💡 Did You Know? • 11.05.2026
 
-Here's something interesting: One in every 9000 people is an albino.
+Fun fact: Baby robins eat 14 feet of earthworms every day
 
 ---
 
-## 🎯 Today's Trivia • 10.05.2026
+## 🎯 Today's Trivia • 11.05.2026
 
-**In a fantastical twist of fate, which legendary kingdom, often thought to exist in mythical tales, is rumored to have once held the secret to slowing time itself?**
+**In the thrilling world of extreme sports, which mythical event is rumored to challenge competitors to surf a colossal wave formed by an annual lunar tidal phenomenon, enticing adventurers with the promise of mystical underwater treasures?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Atlantis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-10)** - Atlantis
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20El%20Dorado%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-10)** - El Dorado
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Shangri-La%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-10)** - Shangri-La
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Solar%20Cyclone%20Challenge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Solar Cyclone Challenge
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moon%27s%20Crest%20Conquest%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Moon's Crest Conquest
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Star%20Tide%20Expedition%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Star Tide Expedition
 
 📝 *Click a button above to submit your answer!*
 
