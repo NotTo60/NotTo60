@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.05.2026
+## 💡 Did You Know? • 12.05.2026
 
-Fun fact: Baby robins eat 14 feet of earthworms every day
+Did you know? 3.6 cans of Spam are consumed each second.
 
 ---
 
-## 🎯 Today's Trivia • 11.05.2026
+## 🎯 Today's Trivia • 12.05.2026
 
-**In the thrilling world of extreme sports, which mythical event is rumored to challenge competitors to surf a colossal wave formed by an annual lunar tidal phenomenon, enticing adventurers with the promise of mystical underwater treasures?**
+**In the heart of an unexplored jungle, adventurers discovered an ancient temple with walls engraved with mysterious symbols. What secret did these symbols reveal when decoded under a full moon?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Solar%20Cyclone%20Challenge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Solar Cyclone Challenge
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Moon%27s%20Crest%20Conquest%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Moon's Crest Conquest
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Star%20Tide%20Expedition%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-11)** - The Star Tide Expedition
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20map%20to%20a%20hidden%20city%20of%20gold.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A map to a hidden city of gold.
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20prophecy%20of%20an%20impending%20natural%20disaster.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A prophecy of an impending natural disaster.
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20gateway%20to%20another%20dimension.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A gateway to another dimension.
 
 📝 *Click a button above to submit your answer!*
 
