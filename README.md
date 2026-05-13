@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.05.2026
+## 💡 Did You Know? • 13.05.2026
 
-Did you know? 3.6 cans of Spam are consumed each second.
+Did you know? There are a million ants for every person on Earth.
 
 ---
 
-## 🎯 Today's Trivia • 12.05.2026
+## 🎯 Today's Trivia • 13.05.2026
 
-**In the heart of an unexplored jungle, adventurers discovered an ancient temple with walls engraved with mysterious symbols. What secret did these symbols reveal when decoded under a full moon?**
+**In an alternate history where the world's most enigmatic leader rewrote the course of time, which cryptic decree ensured perpetual peace?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20map%20to%20a%20hidden%20city%20of%20gold.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A map to a hidden city of gold.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20prophecy%20of%20an%20impending%20natural%20disaster.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A prophecy of an impending natural disaster.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20gateway%20to%20another%20dimension.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-12)** - A gateway to another dimension.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Silent%20Accord%20of%202077%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-13)** - The Silent Accord of 2077
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Edict%20of%20Eternity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-13)** - The Whispering Edict of Eternity
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chronicle%20of%20Harmonious%20Resolve%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-13)** - The Chronicle of Harmonious Resolve
 
 📝 *Click a button above to submit your answer!*
 
