@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.05.2026
+## 💡 Did You Know? • 17.05.2026
 
-Did you know? During the chariot scene in "Ben Hur," a small red car can be seen in the distance.
+Fun fact: The penguin is the only bird that can swim but can't fly.
 
 ---
 
-## 🎯 Today's Trivia • 16.05.2026
+## 🎯 Today's Trivia • 17.05.2026
 
-**What mystical phenomenon is believed to occur when the shadow of a mountain connects with the stars, creating a celestial staircase?**
+**In the mysterious dance of ecosystems, which astonishing phenomenon allows certain plants to whisper secrets to each other, orchestrating their survival against predators?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Ascension%20Path%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-16)** - The Ascension Path
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Starlit%20Bridge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-16)** - The Starlit Bridge
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Cosmic%20Veil%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-16)** - The Cosmic Veil
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chemical%20signaling%20through%20underground%20networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Chemical signaling through underground networks
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Leaf%20pattern%20mimicry%20to%20confuse%20predators%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Leaf pattern mimicry to confuse predators
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Vibrational%20communication%20through%20wind%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Vibrational communication through wind
 
 📝 *Click a button above to submit your answer!*
 
