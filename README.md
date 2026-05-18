@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.05.2026
+## 💡 Did You Know? • 18.05.2026
 
-Fun fact: The penguin is the only bird that can swim but can't fly.
+Amazing discovery: Jupiter is bigger than all the other planets in our solar system combined.
 
 ---
 
-## 🎯 Today's Trivia • 17.05.2026
+## 🎯 Today's Trivia • 18.05.2026
 
-**In the mysterious dance of ecosystems, which astonishing phenomenon allows certain plants to whisper secrets to each other, orchestrating their survival against predators?**
+**In a twist of cosmic geography, if Earth were to suddenly spin in the opposite direction, which of the following incredible phenomena would occur?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chemical%20signaling%20through%20underground%20networks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Chemical signaling through underground networks
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Leaf%20pattern%20mimicry%20to%20confuse%20predators%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Leaf pattern mimicry to confuse predators
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Vibrational%20communication%20through%20wind%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-17)** - Vibrational communication through wind
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Pacific%20Ocean%20would%20shrink%20while%20the%20Atlantic%20Ocean%20expands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - The Pacific Ocean would shrink while the Atlantic Ocean expands
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sahara%20Desert%20would%20transform%20into%20a%20lush%20rainforest%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - The Sahara Desert would transform into a lush rainforest
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Everest%20would%20become%20submerged%20underwater%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - Mount Everest would become submerged underwater
 
 📝 *Click a button above to submit your answer!*
 
