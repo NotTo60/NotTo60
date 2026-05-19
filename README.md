@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.05.2026
+## 💡 Did You Know? • 19.05.2026
 
-Amazing discovery: Jupiter is bigger than all the other planets in our solar system combined.
+Did you know? Salt Lake City, Utah has a law against carrying an unwrapped ukulele on the street.
 
 ---
 
-## 🎯 Today's Trivia • 18.05.2026
+## 🎯 Today's Trivia • 19.05.2026
 
-**In a twist of cosmic geography, if Earth were to suddenly spin in the opposite direction, which of the following incredible phenomena would occur?**
+**In a hypothetical future where technology erases the line between reality and illusion, what groundbreaking device allows humans to physically traverse digital worlds as if they were real?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Pacific%20Ocean%20would%20shrink%20while%20the%20Atlantic%20Ocean%20expands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - The Pacific Ocean would shrink while the Atlantic Ocean expands
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Sahara%20Desert%20would%20transform%20into%20a%20lush%20rainforest%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - The Sahara Desert would transform into a lush rainforest
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mount%20Everest%20would%20become%20submerged%20underwater%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-18)** - Mount Everest would become submerged underwater
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20HoloPorter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-19)** - HoloPorter
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Virtualizer%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-19)** - Virtualizer
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Reality%20Shifter%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-19)** - Reality Shifter
 
 📝 *Click a button above to submit your answer!*
 
