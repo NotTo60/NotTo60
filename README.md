@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 20.05.2026
+## 💡 Did You Know? • 21.05.2026
 
-Incredible fact: Vatican City is the smallest country in the world, with a population of 1000 and just 108.7 acres.
+Mind-blowing fact: The name Jeep comes from “GP”, the army abbreviation for General Purpose.
 
 ---
 
-## 🎯 Today's Trivia • 20.05.2026
+## 🎯 Today's Trivia • 21.05.2026
 
-**What mind-bending invention, originally intended to solve a practical problem, unexpectedly led to a groundbreaking new form of artistic expression?**
+**In a twist of fate during a fictional ancient battle, which enigmatic leader is said to have ridden into battle on a roaring creature, leaving historians bewildered by their audacity?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20collapsible%20telescope%20that%20opened%20up%20new%20perspectives%20in%20painting%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-20)** - A collapsible telescope that opened up new perspectives in painting
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20machine%20that%20could%20accurately%20mimic%20the%20human%20voice%2C%20sparking%20a%20revolution%20in%20audio%20storytelling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-20)** - A machine that could accurately mimic the human voice, sparking a revolution in audio storytelling
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20underwater%20breathing%20apparatus%20that%20inspired%20an%20entirely%20new%20genre%20of%20literature%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-20)** - An underwater breathing apparatus that inspired an entirely new genre of literature
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Thunder%20King%2C%20who%20rode%20a%20dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-21)** - The Thunder King, who rode a dragon
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Lightning%20Queen%2C%20who%20rode%20a%20lion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-21)** - The Lightning Queen, who rode a lion
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shadow%20Prince%2C%20who%20rode%20a%20giant%20eagle%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-21)** - The Shadow Prince, who rode a giant eagle
 
 📝 *Click a button above to submit your answer!*
 
