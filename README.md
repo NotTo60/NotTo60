@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 22.05.2026
+## 💡 Did You Know? • 23.05.2026
 
-Surprising fact: "Go." is the shortest complete sentence in the English language.
+Mind-blowing fact: Intelligent people have more zinc and copper in their hair.
 
 ---
 
-## 🎯 Today's Trivia • 22.05.2026
+## 🎯 Today's Trivia • 23.05.2026
 
-**If the Earth's oceans could whisper a secret that reshapes our understanding of life, which mind-blowing revelation would it be?**
+**In the exhilarating world of sports, which phenomenon is rumored to be so powerful that it can tilt the course of a game through sheer fan energy alone?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20hold%20the%20blueprint%20for%20alien%20life%20forms.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-22)** - They hold the blueprint for alien life forms.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20contain%20the%20key%20to%20eternal%20youth.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-22)** - They contain the key to eternal youth.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20are%20the%20remnants%20of%20a%20lost%20cosmic%20civilization.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-22)** - They are the remnants of a lost cosmic civilization.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Underdog%27s%20Roar%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-23)** - The Underdog's Roar
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Stadium%20Surge%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-23)** - The Stadium Surge
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Spectator%27s%20Echo%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-23)** - The Spectator's Echo
 
 📝 *Click a button above to submit your answer!*
 
