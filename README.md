@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 25.05.2026
+## 💡 Did You Know? • 26.05.2026
 
-Amazing discovery: “Canada” is an Indian word meaning “Big Village”.
+Little known fact: A duck`s quack doesn`t echo, and no one knows why.
 
 ---
 
-## 🎯 Today's Trivia • 25.05.2026
+## 🎯 Today's Trivia • 26.05.2026
 
-**In the enigmatic world of shadows and secrets, which mystical element is believed to hold the key to unraveling the universe's deepest enigmas, said to unlock the door to parallel dimensions?**
+**Which mythical phenomenon, known to ignite the skies above mountains with vibrant colors, is said to reveal the hidden realm of legendary creatures?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Crystal%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-25)** - The Whispering Crystal
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Feather%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-25)** - The Echoing Feather
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Shimmering%20Scale%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-25)** - The Shimmering Scale
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aurora%20Draconis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Aurora Draconis
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Veil%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Celestial Veil
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Summit%20Spectra%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Summit Spectra
 
 📝 *Click a button above to submit your answer!*
 
