@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.05.2026
+## 💡 Did You Know? • 27.05.2026
 
-Little known fact: A duck`s quack doesn`t echo, and no one knows why.
+Did you know? A cat has 32 muscles in each ear.
 
 ---
 
-## 🎯 Today's Trivia • 26.05.2026
+## 🎯 Today's Trivia • 27.05.2026
 
-**Which mythical phenomenon, known to ignite the skies above mountains with vibrant colors, is said to reveal the hidden realm of legendary creatures?**
+**In a legendary kingdom lost to time, it was said that a single celestial event changed the course of its history forever. What was this mythical event?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aurora%20Draconis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Aurora Draconis
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Veil%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Celestial Veil
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Summit%20Spectra%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-26)** - Summit Spectra
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20comet%20that%20split%20the%20sky%2C%20leading%20to%20a%20new%20era%20of%20enlightenment%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-27)** - A comet that split the sky, leading to a new era of enlightenment
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20solar%20eclipse%20that%20plunged%20the%20land%20into%20perpetual%20darkness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-27)** - A solar eclipse that plunged the land into perpetual darkness
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20meteor%20shower%20that%20signified%20the%20fall%20of%20its%20greatest%20ruler%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-27)** - A meteor shower that signified the fall of its greatest ruler
 
 📝 *Click a button above to submit your answer!*
 
