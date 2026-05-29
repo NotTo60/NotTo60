@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 28.05.2026
+## 💡 Did You Know? • 29.05.2026
 
-Incredible fact: There is no solid proof of who built the Taj Mahal.
+Mind-blowing fact: 15 million blood cells are destroyed in the human body every second.
 
 ---
 
-## 🎯 Today's Trivia • 28.05.2026
+## 🎯 Today's Trivia • 29.05.2026
 
-**Which of the following mystical geographical phenomena is known to reverse the direction of rivers as if by an unseen force?**
+**In an imaginary world where the oceans are composed of a liquid that glows in the dark, which of the following phenomena would most likely occur every night?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-28)** - The Whispering Vortex
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigmatic%20Confluence%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-28)** - The Enigmatic Confluence
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Illusionary%20Basin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-28)** - The Illusionary Basin
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20entire%20planet%20would%20sparkle%20like%20a%20giant%2C%20glowing%20orb%20visible%20from%20space.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - The entire planet would sparkle like a giant, glowing orb visible from space.
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Massive%20glowing%20tidal%20waves%20would%20disrupt%20global%20sleep%20patterns.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - Massive glowing tidal waves would disrupt global sleep patterns.
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20new%20species%20of%20nocturnal%20fish%20would%20evolve%20to%20camouflage%20in%20the%20glow.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - A new species of nocturnal fish would evolve to camouflage in the glow.
 
 📝 *Click a button above to submit your answer!*
 
