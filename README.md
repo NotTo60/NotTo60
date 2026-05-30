@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 29.05.2026
+## 💡 Did You Know? • 30.05.2026
 
-Mind-blowing fact: 15 million blood cells are destroyed in the human body every second.
+Surprising fact: The international telephone dialing code for Antarctica is 672.
 
 ---
 
-## 🎯 Today's Trivia • 29.05.2026
+## 🎯 Today's Trivia • 30.05.2026
 
-**In an imaginary world where the oceans are composed of a liquid that glows in the dark, which of the following phenomena would most likely occur every night?**
+**In the surreal world of entertainment, which unprecedented event could lead to an actor simultaneously winning an Oscar, a Grammy, and a Nobel Prize, creating an extraordinary career milestone?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20entire%20planet%20would%20sparkle%20like%20a%20giant%2C%20glowing%20orb%20visible%20from%20space.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - The entire planet would sparkle like a giant, glowing orb visible from space.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Massive%20glowing%20tidal%20waves%20would%20disrupt%20global%20sleep%20patterns.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - Massive glowing tidal waves would disrupt global sleep patterns.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20new%20species%20of%20nocturnal%20fish%20would%20evolve%20to%20camouflage%20in%20the%20glow.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-29)** - A new species of nocturnal fish would evolve to camouflage in the glow.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Starring%20in%20the%20longest-running%20TV%20show%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-30)** - Starring in the longest-running TV show
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Portraying%20a%20character%20who%20becomes%20a%20real-life%20world%20leader%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-30)** - Portraying a character who becomes a real-life world leader
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Creating%20a%20record-breaking%20theme%20park%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-30)** - Creating a record-breaking theme park
 
 📝 *Click a button above to submit your answer!*
 
