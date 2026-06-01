@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 31.05.2026
+## 💡 Did You Know? • 01.06.2026
 
-Mind-blowing fact: Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.
+Surprising fact: Warren Beatty and Shirley McLaine are brother and sister.
 
 ---
 
-## 🎯 Today's Trivia • 31.05.2026
+## 🎯 Today's Trivia • 01.06.2026
 
-**In a mystical forest where art comes to life, which mythical creature is said to paint the skies with vibrant hues at dawn?**
+**In a world where shadows can whisper secrets, which enigmatic location is rumored to hold the key to understanding a parallel universe?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aurora%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-31)** - The Aurora Phoenix
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-31)** - The Celestial Unicorn
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dreamweaver%20Dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-05-31)** - The Dreamweaver Dragon
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Abyss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Echoing Abyss
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mirage%20Sands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Mirage Sands
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Veil%20of%20Twilight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Veil of Twilight
 
 📝 *Click a button above to submit your answer!*
 
