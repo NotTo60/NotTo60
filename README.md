@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 01.06.2026
+## 💡 Did You Know? • 02.06.2026
 
-Surprising fact: Warren Beatty and Shirley McLaine are brother and sister.
+Did you know? John Lennon`s first girlfriend was named Thelma Pickles.
 
 ---
 
-## 🎯 Today's Trivia • 01.06.2026
+## 🎯 Today's Trivia • 02.06.2026
 
-**In a world where shadows can whisper secrets, which enigmatic location is rumored to hold the key to understanding a parallel universe?**
+**Imagine a cosmic symphony where dark matter orchestrates the universe's structure. What role does it play in this stellar performance?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Abyss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Echoing Abyss
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mirage%20Sands%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Mirage Sands
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Veil%20of%20Twilight%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-01)** - The Veil of Twilight
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Conductor%20shaping%20galaxies%20with%20invisible%20threads%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Conductor shaping galaxies with invisible threads
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Soloist%2C%20emitting%20a%20mysterious%20energy%20pulse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Soloist, emitting a mysterious energy pulse
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Audience%2C%20silently%20observing%20cosmic%20events%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Audience, silently observing cosmic events
 
 📝 *Click a button above to submit your answer!*
 
