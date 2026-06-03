@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 02.06.2026
+## 💡 Did You Know? • 03.06.2026
 
-Did you know? John Lennon`s first girlfriend was named Thelma Pickles.
+Today's discovery: Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.
 
 ---
 
-## 🎯 Today's Trivia • 02.06.2026
+## 🎯 Today's Trivia • 03.06.2026
 
-**Imagine a cosmic symphony where dark matter orchestrates the universe's structure. What role does it play in this stellar performance?**
+**Which mythical oceanic phenomenon is believed to be the source of all Earth's water, hidden in the depths of the sea?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Conductor%20shaping%20galaxies%20with%20invisible%20threads%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Conductor shaping galaxies with invisible threads
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Soloist%2C%20emitting%20a%20mysterious%20energy%20pulse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Soloist, emitting a mysterious energy pulse
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Audience%2C%20silently%20observing%20cosmic%20events%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-02)** - Audience, silently observing cosmic events
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Abyss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Celestial Abyss
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Trident%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Trident Vortex
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Siren%27s%20Spring%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Siren's Spring
 
 📝 *Click a button above to submit your answer!*
 
