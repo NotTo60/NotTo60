@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 03.06.2026
+## 💡 Did You Know? • 04.06.2026
 
-Today's discovery: Elvis had a twin brother named Garon, who died at birth, which is why Elvis middle name was Aron.
+Fascinating tidbit: The human heart creates enough pressure in the bloodstream to squirt blood 30 feet.
 
 ---
 
-## 🎯 Today's Trivia • 03.06.2026
+## 🎯 Today's Trivia • 04.06.2026
 
-**Which mythical oceanic phenomenon is believed to be the source of all Earth's water, hidden in the depths of the sea?**
+**In an alternate universe where mountains hold mystical powers, which of these has the ability to sing the ancient song of the cosmos when the moon is full?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Abyss%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Celestial Abyss
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Trident%20Vortex%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Trident Vortex
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Siren%27s%20Spring%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-03)** - The Siren's Spring
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Harmonic%20Peaks%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-04)** - The Harmonic Peaks
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Cliffs%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-04)** - The Whispering Cliffs
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Echoing%20Caves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-04)** - The Echoing Caves
 
 📝 *Click a button above to submit your answer!*
 
