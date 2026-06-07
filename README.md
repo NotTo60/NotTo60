@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 06.06.2026
+## 💡 Did You Know? • 07.06.2026
 
-Little known fact: The surface of the human skin is 6.5 square feet (2m).
+Fascinating tidbit: The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!
 
 ---
 
-## 🎯 Today's Trivia • 06.06.2026
+## 🎯 Today's Trivia • 07.06.2026
 
-**In which mesmerizing way do certain rare forest plants communicate their age to the surrounding wildlife?**
+**In a mythical corner of our Earth where borders shift with the winds, which fantastical land moves the most each year as if it's alive?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20By%20emitting%20a%20unique%20fragrance%20that%20changes%20yearly%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-06)** - By emitting a unique fragrance that changes yearly
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20By%20altering%20the%20color%20of%20their%20leaves%20seasonally%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-06)** - By altering the color of their leaves seasonally
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20By%20varying%20the%20pitch%20of%20their%20rustling%20in%20the%20wind%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-06)** - By varying the pitch of their rustling in the wind
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Wandering%20Isles%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-07)** - The Wandering Isles
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Floating%20Atlantis%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-07)** - The Floating Atlantis
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Disappearing%20Desert%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-07)** - The Disappearing Desert
 
 📝 *Click a button above to submit your answer!*
 
