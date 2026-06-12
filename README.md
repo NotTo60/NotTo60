@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.06.2026
+## 💡 Did You Know? • 12.06.2026
 
-Surprising fact: Humans are the only primates that don`t have pigment in the palms of their hands.
+Mind-blowing fact: Barbie`s full name is Barbara Millicent Roberts.
 
 ---
 
-## 🎯 Today's Trivia • 11.06.2026
+## 🎯 Today's Trivia • 12.06.2026
 
-**Which mystical creature of the animal kingdom can instantaneously change its color and pattern in response to music vibrations?**
+**In a mystical art gallery where each painting emits a unique sound when you look at it, which color, when predominating, would most likely create a symphony of silence?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Chameleonic%20Owl%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-11)** - Chameleonic Owl
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Melodic%20Moth%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-11)** - Melodic Moth
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Harmonious%20Hedgehog%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-11)** - Harmonious Hedgehog
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Vibrant%20Red%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Vibrant Red
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ethereal%20Blue%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Ethereal Blue
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Radiant%20Gold%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Radiant Gold
 
 📝 *Click a button above to submit your answer!*
 
