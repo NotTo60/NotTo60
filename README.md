@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.06.2026
+## 💡 Did You Know? • 13.06.2026
 
-Mind-blowing fact: Barbie`s full name is Barbara Millicent Roberts.
+Incredible fact: The city of Venice stands on about 120 small islands.
 
 ---
 
-## 🎯 Today's Trivia • 12.06.2026
+## 🎯 Today's Trivia • 13.06.2026
 
-**In a mystical art gallery where each painting emits a unique sound when you look at it, which color, when predominating, would most likely create a symphony of silence?**
+**In a parallel universe where computers are powered by emotions, which emotion would trigger the most powerful processing surge?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Vibrant%20Red%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Vibrant Red
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ethereal%20Blue%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Ethereal Blue
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Radiant%20Gold%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-12)** - Radiant Gold
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Happiness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-13)** - Happiness
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Sadness%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-13)** - Sadness
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Curiosity%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-13)** - Curiosity
 
 📝 *Click a button above to submit your answer!*
 
