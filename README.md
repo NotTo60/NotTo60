@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 14.06.2026
+## 💡 Did You Know? • 15.06.2026
 
-Today's discovery: A B-25 bomber crashed into the 79th floor of the Empire State Building on July 28, 1945.
+Little known fact: The skeleton of Jeremy Bentham is present at all important meetings of the University of London
 
 ---
 
-## 🎯 Today's Trivia • 14.06.2026
+## 🎯 Today's Trivia • 15.06.2026
 
-**In a mystical realm where colors come to life, which hue is said to be the secret gatekeeper unlocking the doors to hidden dimensions of creativity?**
+**Which mythical event is said to occur when the world's only luminous jaguar roars beneath a full moon, causing stars to dance across the night sky?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Majestic%20Maroon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-14)** - Majestic Maroon
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Luminous%20Lemon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-14)** - Luminous Lemon
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Enchanted%20Emerald%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-14)** - Enchanted Emerald
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aurora%27s%20Whisper%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Aurora's Whisper
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Serenade%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Celestial Serenade
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Cosmic%20Carnaval%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Cosmic Carnaval
 
 📝 *Click a button above to submit your answer!*
 
