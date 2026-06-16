@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 15.06.2026
+## 💡 Did You Know? • 16.06.2026
 
-Little known fact: The skeleton of Jeremy Bentham is present at all important meetings of the University of London
+Today's discovery: The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.
 
 ---
 
-## 🎯 Today's Trivia • 15.06.2026
+## 🎯 Today's Trivia • 16.06.2026
 
-**Which mythical event is said to occur when the world's only luminous jaguar roars beneath a full moon, causing stars to dance across the night sky?**
+**In the astonishingly vast cosmos, where does a mysterious celestial event create a symphony of gravitational waves that can actually ripple through time itself?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Aurora%27s%20Whisper%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Aurora's Whisper
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Celestial%20Serenade%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Celestial Serenade
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Cosmic%20Carnaval%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-15)** - The Cosmic Carnaval
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Inside%20a%20dormant%20asteroid%20belt%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - Inside a dormant asteroid belt
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20On%20the%20surface%20of%20a%20newly%20formed%20planet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - On the surface of a newly formed planet
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20At%20the%20heart%20of%20merging%20black%20holes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - At the heart of merging black holes
 
 📝 *Click a button above to submit your answer!*
 
