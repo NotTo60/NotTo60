@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.06.2026
+## 💡 Did You Know? • 17.06.2026
 
-Today's discovery: The top 3 health-related searches on the Internet are (in this order): Depression, Allergies, & Cancer.
+Today's discovery: King Louis XIX ruled France for 15 minutes.
 
 ---
 
-## 🎯 Today's Trivia • 16.06.2026
+## 🎯 Today's Trivia • 17.06.2026
 
-**In the astonishingly vast cosmos, where does a mysterious celestial event create a symphony of gravitational waves that can actually ripple through time itself?**
+**What incredible internal phenomenon occurs when the human heart synchronizes with another person during a deeply emotional interaction?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Inside%20a%20dormant%20asteroid%20belt%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - Inside a dormant asteroid belt
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20On%20the%20surface%20of%20a%20newly%20formed%20planet%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - On the surface of a newly formed planet
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20At%20the%20heart%20of%20merging%20black%20holes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-16)** - At the heart of merging black holes
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20hearts%20emit%20synchronized%20electromagnetic%20waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The hearts emit synchronized electromagnetic waves
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heartbeats%20synchronously%20align%20for%20a%20brief%20moment%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The heartbeats synchronously align for a brief moment
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heart%20temporarily%20increases%20its%20size%20to%20enhance%20blood%20flow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The heart temporarily increases its size to enhance blood flow
 
 📝 *Click a button above to submit your answer!*
 
