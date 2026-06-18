@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 17.06.2026
+## 💡 Did You Know? • 18.06.2026
 
-Today's discovery: King Louis XIX ruled France for 15 minutes.
+Incredible fact: Honey never spoils - archaeologists have found pots of honey in ancient Egyptian tombs!
 
 ---
 
-## 🎯 Today's Trivia • 17.06.2026
+## 🎯 Today's Trivia • 18.06.2026
 
-**What incredible internal phenomenon occurs when the human heart synchronizes with another person during a deeply emotional interaction?**
+**In the depths of the cosmos, what astonishing phenomenon allows a star to briefly outshine an entire galaxy?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20hearts%20emit%20synchronized%20electromagnetic%20waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The hearts emit synchronized electromagnetic waves
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heartbeats%20synchronously%20align%20for%20a%20brief%20moment%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The heartbeats synchronously align for a brief moment
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heart%20temporarily%20increases%20its%20size%20to%20enhance%20blood%20flow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-17)** - The heart temporarily increases its size to enhance blood flow
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20cosmic%20ribbon%20unraveling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-18)** - A cosmic ribbon unraveling
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20universal%20echo%20expanding%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-18)** - A universal echo expanding
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20supernova%20explosion%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-18)** - A supernova explosion
 
 📝 *Click a button above to submit your answer!*
 
