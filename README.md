@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.06.2026
+## 💡 Did You Know? • 20.06.2026
 
-Here's something interesting: The Falkland Isles (pop. about 2000) has over 700000 sheep (350 per person).
+Here's something interesting: A group of ferrets is called a business.
 
 ---
 
-## 🎯 Today's Trivia • 19.06.2026
+## 🎯 Today's Trivia • 20.06.2026
 
-**In a surreal twist of fate, which mythical creature is said to have inspired a secret sports tournament played only under the light of a blue moon?**
+**In an alternate universe where mythical creatures inspire epic literature, which enigmatic entity's untold stories are most likely to redefine the boundaries of imagination?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-19)** - The Phoenix
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-19)** - The Griffin
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dragon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-19)** - The Dragon
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20elusive%20Shadow%20Phoenix%2C%20whose%20feathers%20are%20woven%20into%20time%20itself%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-20)** - The elusive Shadow Phoenix, whose feathers are woven into time itself
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whispering%20Serpent%2C%20keeper%20of%20forgotten%20dreams%20and%20ancient%20truths%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-20)** - The Whispering Serpent, keeper of forgotten dreams and ancient truths
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Paradoxical%20Leviathan%2C%20swimming%20through%20the%20infinite%20seas%20of%20possibility%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-20)** - The Paradoxical Leviathan, swimming through the infinite seas of possibility
 
 📝 *Click a button above to submit your answer!*
 
