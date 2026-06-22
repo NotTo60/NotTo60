@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.06.2026
+## 💡 Did You Know? • 22.06.2026
 
-Surprising fact: Sex burns 360 calories per hour.
+Did you know? Abraham Lincoln’s ghost is said to haunt the White House.
 
 ---
 
-## 🎯 Today's Trivia • 21.06.2026
+## 🎯 Today's Trivia • 22.06.2026
 
-**In the realm of fictional universes, which legendary book is rumored to have the power to rewrite its own ending each time it is read, creating a unique narrative experience for every reader?**
+**In an astounding twist of nature, which phenomenon was discovered to be responsible for causing rivers to flow uphill during specific cosmic events?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Chronicles%20of%20Endless%20Shadows%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-21)** - The Chronicles of Endless Shadows
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Book%20of%20Infinite%20Tales%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-21)** - The Book of Infinite Tales
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Codex%20of%20Eternal%20Whispers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-21)** - The Codex of Eternal Whispers
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20gravity%20wells%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-22)** - Quantum gravity wells
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Gravitational%20lensing%20surges%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-22)** - Gravitational lensing surges
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magnetic%20ecliptic%20shifts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-22)** - Magnetic ecliptic shifts
 
 📝 *Click a button above to submit your answer!*
 
