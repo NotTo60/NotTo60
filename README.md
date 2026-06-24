@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 23.06.2026
+## 💡 Did You Know? • 24.06.2026
 
-Here's something interesting: Every acre of American crops harvested contains 100 pounds of insects.
+Fascinating tidbit: China has more English speakers than the United States.
 
 ---
 
-## 🎯 Today's Trivia • 23.06.2026
+## 🎯 Today's Trivia • 24.06.2026
 
-**In an alternate universe where films are directed by animals, which species would be most likely to create a blockbuster trilogy by filming entirely in their natural habitat?**
+**In an astounding twist of oceanic mystery, which oceanic phenomenon is said to create an underwater symphony heard from miles away?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Penguins%20creating%20an%20Antarctic%20saga%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-23)** - Penguins creating an Antarctic saga
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Elephants%20crafting%20a%20sweeping%20savanna%20epic%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-23)** - Elephants crafting a sweeping savanna epic
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Octopuses%20orchestrating%20a%20deep-sea%20odyssey%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-23)** - Octopuses orchestrating a deep-sea odyssey
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Whales%27%20Chorus%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-24)** - The Whales' Chorus
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Eel%27s%20Rhythmic%20Pulse%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-24)** - The Eel's Rhythmic Pulse
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Coral%27s%20Harmonic%20Wave%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-24)** - The Coral's Harmonic Wave
 
 📝 *Click a button above to submit your answer!*
 
