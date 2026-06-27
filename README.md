@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 26.06.2026
+## 💡 Did You Know? • 27.06.2026
 
-Incredible fact: Your tongue is the only muscle in your body that is attached at only one end.
+Mind-blowing fact: If you went out into space, you would explode before you suffocated because there`s no air pressure.
 
 ---
 
-## 🎯 Today's Trivia • 26.06.2026
+## 🎯 Today's Trivia • 27.06.2026
 
-**In a futuristic twist, which technology is rumored to have the potential to project entire virtual cities into the sky, visible to the naked eye?**
+**In a groundbreaking revelation, scientists discovered a celestial phenomenon that challenges the very fabric of time and space, suggesting the existence of what astonishing cosmic feature?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Skycasting%20Arrays%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-26)** - Skycasting Arrays
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Reflectors%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-26)** - Quantum Reflectors
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Holo-City%20Emitters%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-26)** - Holo-City Emitters
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20galaxy%20with%20stars%20that%20reverse%20their%20age%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-27)** - A galaxy with stars that reverse their age
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20planet%20that%20orbits%20two%20black%20holes%20simultaneously%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-27)** - A planet that orbits two black holes simultaneously
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20nebula%20that%20continuously%20changes%20colors%20based%20on%20cosmic%20winds%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-27)** - A nebula that continuously changes colors based on cosmic winds
 
 📝 *Click a button above to submit your answer!*
 
