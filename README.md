@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 28.06.2026
+## 💡 Did You Know? • 29.06.2026
 
-Little known fact: A family of 26 could go to the movies in Mexico city for the price of one in Tokyo.
+Fascinating tidbit: Golf courses cover 4% of North America.
 
 ---
 
-## 🎯 Today's Trivia • 28.06.2026
+## 🎯 Today's Trivia • 29.06.2026
 
-**In a fantastical world where mountains can mysteriously change colors at dawn, which mythical element is said to be responsible for this breathtaking phenomenon?**
+**In the realm of geography's greatest wonders, which mystical island is said to appear only once a century, cloaked in an eternal fog that guards its secret treasures?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Prismatic%20Ether%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-28)** - Prismatic Ether
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Mist%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-28)** - Celestial Mist
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Aurora%20Dust%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-28)** - Aurora Dust
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Isle%20of%20the%20Whispering%20Winds%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-29)** - Isle of the Whispering Winds
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Valley%20of%20the%20Lost%20Suns%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-29)** - Valley of the Lost Suns
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Phantom%20Isle%20of%20the%20Veiled%20Horizons%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-06-29)** - Phantom Isle of the Veiled Horizons
 
 📝 *Click a button above to submit your answer!*
 
