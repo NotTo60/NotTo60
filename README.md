@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 07.07.2026
+## 💡 Did You Know? • 08.07.2026
 
-Fun fact: Each year in America there are about 300,000 deaths that can be attributed to obesity.
+Little known fact: Beethoven dipped his head in cold water before he composed.
 
 ---
 
-## 🎯 Today's Trivia • 07.07.2026
+## 🎯 Today's Trivia • 08.07.2026
 
-**In a mysterious forest where trees glow in the dark, what astonishing phenomenon happens to the flowers during a moonless night?**
+**Which mythical creature holds the world record for the longest flight across the seven mystical realms?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20emit%20a%20delightful%20symphony%20of%20sounds.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-07)** - They emit a delightful symphony of sounds.
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20change%20into%20radiant%20crystals.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-07)** - They change into radiant crystals.
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20They%20release%20a%20luminescent%20mist%20that%20attracts%20glowing%20insects.%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-07)** - They release a luminescent mist that attracts glowing insects.
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%20with%20its%20fiery%20wings%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Phoenix with its fiery wings
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dragon%20with%20its%20legendary%20scales%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Dragon with its legendary scales
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%20with%20its%20majestic%20feathers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Griffin with its majestic feathers
 
 📝 *Click a button above to submit your answer!*
 
