@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 08.07.2026
+## 💡 Did You Know? • 09.07.2026
 
-Little known fact: Beethoven dipped his head in cold water before he composed.
+Mind-blowing fact: Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.
 
 ---
 
-## 🎯 Today's Trivia • 08.07.2026
+## 🎯 Today's Trivia • 09.07.2026
 
-**Which mythical creature holds the world record for the longest flight across the seven mystical realms?**
+**In the realm of quantum physics, which mind-bending phenomenon allows particles to instantaneously influence one another regardless of distance?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%20with%20its%20fiery%20wings%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Phoenix with its fiery wings
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Dragon%20with%20its%20legendary%20scales%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Dragon with its legendary scales
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%20with%20its%20majestic%20feathers%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-08)** - The Griffin with its majestic feathers
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Tunneling%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-09)** - Quantum Tunneling
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Entanglement%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-09)** - Quantum Entanglement
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Quantum%20Decay%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-09)** - Quantum Decay
 
 📝 *Click a button above to submit your answer!*
 
