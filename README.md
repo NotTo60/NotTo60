@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 11.07.2026
+## 💡 Did You Know? • 12.07.2026
 
-Surprising fact: It is illegal to eat oranges while bathing in California.
+Little known fact: Adolf Hitler was a vegetarian, and had only ONE testicle.
 
 ---
 
-## 🎯 Today's Trivia • 11.07.2026
+## 🎯 Today's Trivia • 12.07.2026
 
-**In a mysterious library where every book reveals a world of its own, which genre grants you the power to rewrite the endings of stories at will?**
+**In a mysterious twist of nature, which location defies gravity with water flowing uphill, captivating all who witness its wonder?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mystery%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-11)** - Mystery
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Fantasy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-11)** - Fantasy
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Biography%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-11)** - Biography
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mystical%20Falls%20of%20Aglowra%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Mystical Falls of Aglowra
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigmatic%20Hills%20of%20Teflonia%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Enigmatic Hills of Teflonia
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Bewildering%20Stream%20of%20Kryston%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Bewildering Stream of Kryston
 
 📝 *Click a button above to submit your answer!*
 
