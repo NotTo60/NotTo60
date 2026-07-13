@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 12.07.2026
+## 💡 Did You Know? • 13.07.2026
 
-Little known fact: Adolf Hitler was a vegetarian, and had only ONE testicle.
+Fun fact: There is actually no danger in swimming right after you eat, though it may feel uncomfortable.
 
 ---
 
-## 🎯 Today's Trivia • 12.07.2026
+## 🎯 Today's Trivia • 13.07.2026
 
-**In a mysterious twist of nature, which location defies gravity with water flowing uphill, captivating all who witness its wonder?**
+**In an alternate universe where sound waves are visible, which of these outrageous phenomena would occur due to the synchronization of musical frequencies with natural rhythms?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Mystical%20Falls%20of%20Aglowra%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Mystical Falls of Aglowra
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Enigmatic%20Hills%20of%20Teflonia%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Enigmatic Hills of Teflonia
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Bewildering%20Stream%20of%20Kryston%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-12)** - The Bewildering Stream of Kryston
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Rainbow%20sunsets%20every%20time%20a%20chord%20is%20played%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Rainbow sunsets every time a chord is played
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20spontaneously%20reshaping%20into%20musical%20instruments%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Mountains spontaneously reshaping into musical instruments
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Forests%20pulsating%20with%20colorful%20light%20shows%20during%20concerts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Forests pulsating with colorful light shows during concerts
 
 📝 *Click a button above to submit your answer!*
 
