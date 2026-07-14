@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 13.07.2026
+## 💡 Did You Know? • 14.07.2026
 
-Fun fact: There is actually no danger in swimming right after you eat, though it may feel uncomfortable.
+Surprising fact: There are 336 dimples on a regulation US golf ball. In the UK its 330.
 
 ---
 
-## 🎯 Today's Trivia • 13.07.2026
+## 🎯 Today's Trivia • 14.07.2026
 
-**In an alternate universe where sound waves are visible, which of these outrageous phenomena would occur due to the synchronization of musical frequencies with natural rhythms?**
+**In a breathtaking twist of fate, which mythical creature was once believed to have negotiated a peace treaty ending a legendary century-long conflict between two ancient empires?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Rainbow%20sunsets%20every%20time%20a%20chord%20is%20played%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Rainbow sunsets every time a chord is played
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20spontaneously%20reshaping%20into%20musical%20instruments%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Mountains spontaneously reshaping into musical instruments
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Forests%20pulsating%20with%20colorful%20light%20shows%20during%20concerts%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-13)** - Forests pulsating with colorful light shows during concerts
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Griffin
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Basilisk%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Basilisk
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Phoenix
 
 📝 *Click a button above to submit your answer!*
 
