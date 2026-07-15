@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 14.07.2026
+## 💡 Did You Know? • 15.07.2026
 
-Surprising fact: There are 336 dimples on a regulation US golf ball. In the UK its 330.
+Surprising fact: Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
 
 ---
 
-## 🎯 Today's Trivia • 14.07.2026
+## 🎯 Today's Trivia • 15.07.2026
 
-**In a breathtaking twist of fate, which mythical creature was once believed to have negotiated a peace treaty ending a legendary century-long conflict between two ancient empires?**
+**In a parallel universe where movie soundtracks dictate the laws of physics, which fictional composer is known to have unlocked the secret to time travel using just a piano and a dream?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Griffin%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Griffin
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Basilisk%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Basilisk
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-14)** - The Phoenix
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lydia%20Harmonics%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-15)** - Lydia Harmonics
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Melody%20Chronos%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-15)** - Melody Chronos
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Riff%20Timeweaver%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-15)** - Riff Timeweaver
 
 📝 *Click a button above to submit your answer!*
 
