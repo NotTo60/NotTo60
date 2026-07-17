@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 16.07.2026
+## 💡 Did You Know? • 17.07.2026
 
-Fun fact: The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.
+Mind-blowing fact: You were born with 300 bones, but by the time you are an adult you will only have 206.
 
 ---
 
-## 🎯 Today's Trivia • 16.07.2026
+## 🎯 Today's Trivia • 17.07.2026
 
-**If a parallel universe existed where gravity worked in reverse, which of these phenomena would be most likely to occur?**
+**In the realm of extreme weather, which hypothetical planet experiences storms so powerful that they create sonic booms visible from space?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Mountains%20floating%20into%20the%20sky%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-16)** - Mountains floating into the sky
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Oceans%20freezing%20instantly%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-16)** - Oceans freezing instantly
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Volcanoes%20erupting%20with%20snow%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-16)** - Volcanoes erupting with snow
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Tempestus%20Prime%3A%20A%20world%20where%20storms%20roar%20with%20the%20force%20of%20a%20thousand%20thunders%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-17)** - Tempestus Prime: A world where storms roar with the force of a thousand thunders
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Zephyrion%3A%20A%20tranquil%20planet%20known%20for%20gentle%20breezes%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-17)** - Zephyrion: A tranquil planet known for gentle breezes
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Auroron%3A%20A%20frozen%20world%20with%20serene%20light%20shows%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-17)** - Auroron: A frozen world with serene light shows
 
 📝 *Click a button above to submit your answer!*
 
