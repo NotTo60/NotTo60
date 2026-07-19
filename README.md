@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 18.07.2026
+## 💡 Did You Know? • 19.07.2026
 
-Little known fact: A “2 by 4" is really 1 1/2 by 3 1/2.
+Did you know? February 1865 is the only month in recorded history not to have a full moon.
 
 ---
 
-## 🎯 Today's Trivia • 18.07.2026
+## 🎯 Today's Trivia • 19.07.2026
 
-**What mysterious phenomenon is rumored to cause ocean water to momentarily glow with an ethereal luminescence, captivating sailors and mystics alike?**
+**In the realm of astounding animal abilities, which creature can spontaneously change its molecular structure to defy gravity and walk upside down on ceilings?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Magnetic%20tidal%20waves%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-18)** - Magnetic tidal waves
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Bioluminescent%20blooms%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-18)** - Bioluminescent blooms
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Underwater%20auroras%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-18)** - Underwater auroras
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20nimble%20tree%20frog%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The nimble tree frog
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20lightning-fast%20cheetah%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The lightning-fast cheetah
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20acrobatic%20gecko%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The acrobatic gecko
 
 📝 *Click a button above to submit your answer!*
 
