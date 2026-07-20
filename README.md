@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 19.07.2026
+## 💡 Did You Know? • 20.07.2026
 
-Did you know? February 1865 is the only month in recorded history not to have a full moon.
+Did you know? Dolphins can look in different directions with each eye. They can sleep with one eye open.
 
 ---
 
-## 🎯 Today's Trivia • 19.07.2026
+## 🎯 Today's Trivia • 20.07.2026
 
-**In the realm of astounding animal abilities, which creature can spontaneously change its molecular structure to defy gravity and walk upside down on ceilings?**
+**Imagine a colossal mountain so immense that its peak pierces the veil of time itself. Which mystical phenomenon would be most likely to occur at its summit?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20nimble%20tree%20frog%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The nimble tree frog
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20lightning-fast%20cheetah%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The lightning-fast cheetah
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20acrobatic%20gecko%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-19)** - The acrobatic gecko
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20timeless%20mirage%20reflecting%20past%20civilizations%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-20)** - A timeless mirage reflecting past civilizations
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20vortex%20revealing%20alternate%20realities%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-20)** - A vortex revealing alternate realities
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20An%20endless%20echo%20of%20ancient%20wisdom%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-20)** - An endless echo of ancient wisdom
 
 📝 *Click a button above to submit your answer!*
 
