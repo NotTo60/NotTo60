@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 21.07.2026
+## 💡 Did You Know? • 22.07.2026
 
-Incredible fact: China has more English speakers than the United States.
+Fascinating tidbit: If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.
 
 ---
 
-## 🎯 Today's Trivia • 21.07.2026
+## 🎯 Today's Trivia • 22.07.2026
 
-**In the mystical dance of bioluminescence, which incredible phenomenon allows certain creatures to summon light from darkness in the deepest parts of the ocean?**
+**In an unprecedented twist of fate, what groundbreaking discovery was made when researchers accidentally mixed two seemingly unrelated substances in a lab, leading to a revolutionary green energy source?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Luciferase%20Enchantment%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-21)** - Luciferase Enchantment
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Photon%20Mirage%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-21)** - Photon Mirage
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Glowing%20Alchemy%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-21)** - Glowing Alchemy
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20new%20catalyst%20that%20can%20convert%20plastic%20waste%20into%20edible%20protein%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-22)** - A new catalyst that can convert plastic waste into edible protein
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20self-sustaining%20material%20that%20generates%20electricity%20when%20exposed%20to%20air%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-22)** - A self-sustaining material that generates electricity when exposed to air
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20liquid%20compound%20that%20can%20make%20any%20object%20become%20weightless%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-22)** - A liquid compound that can make any object become weightless
 
 📝 *Click a button above to submit your answer!*
 
