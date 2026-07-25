@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 24.07.2026
+## 💡 Did You Know? • 25.07.2026
 
-Today's discovery: There was once an undersea post office in the Bahamas.
+Incredible fact: IBM’s motto is “Think”. Apple later made their motto “Think different”.
 
 ---
 
-## 🎯 Today's Trivia • 24.07.2026
+## 🎯 Today's Trivia • 25.07.2026
 
-**In an astonishing twist of nature, which of the following surreal phenomena can you experience at the summit of the Enigma Peaks, known for defying the boundaries between dreams and reality?**
+**In the symphony of the human body, which organ conducts an electrical orchestra with more signals per second than all the phone calls in the world combined?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20waterfall%20that%20flows%20upwards%20into%20the%20sky%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-24)** - A waterfall that flows upwards into the sky
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20forest%20of%20trees%20that%20grow%20upside%20down%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-24)** - A forest of trees that grow upside down
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20A%20lake%20where%20stars%20shimmer%20beneath%20the%20surface%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-24)** - A lake where stars shimmer beneath the surface
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20brain%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-25)** - The brain
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20heart%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-25)** - The heart
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20The%20spinal%20cord%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-25)** - The spinal cord
 
 📝 *Click a button above to submit your answer!*
 
