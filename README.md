@@ -5,20 +5,20 @@
 
 ---
 
-## 💡 Did You Know? • 30.07.2026
+## 💡 Did You Know? • 31.07.2026
 
-Surprising fact: Venus is the only planet that rotates clockwise.
+Little known fact: The world's youngest parents were 8 and 9 and lived in China in 1910.
 
 ---
 
-## 🎯 Today's Trivia • 30.07.2026
+## 🎯 Today's Trivia • 31.07.2026
 
-**In the wild kingdom, which mythical creature is said to possess the ability to transform its color based on the moon's phases?**
+**In a hypothetical dimension where athletes can channel the power of mythical creatures, which sports event would be dominated by the Phoenix's fiery rebirth?**
 
 **Options:**
-- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Lunar%20Chameleon%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-30)** - Lunar Chameleon
-- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Starlight%20Phoenix%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-30)** - Starlight Phoenix
-- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Celestial%20Unicorn%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-30)** - Celestial Unicorn
+- **[Answer A](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+A&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Ice%20Hockey%2C%20freezing%20opponents%20with%20its%20chill%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-31)** - Ice Hockey, freezing opponents with its chill
+- **[Answer B](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+B&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Marathon%2C%20outlasting%20competitors%20with%20endless%20stamina%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-31)** - Marathon, outlasting competitors with endless stamina
+- **[Answer C](https://github.com/NotTo60/NotTo60/issues/new?title=Trivia+Answer+C&body=%F0%9F%8E%AF%20Just%20click%20%27Submit%20new%20issue%27%20to%20submit%20your%20answer%21%20No%20need%20to%20change%20anything%20else%20-%20your%20choice%20is%20already%20in%20the%20title%21%20%F0%9F%9A%80%0A%0A%2A%2AAnswer%3A%2A%2A%20Volleyball%2C%20spiking%20the%20ball%20with%20thunderous%20force%0A%0A%2A%2ATrivia%20Date%3A%2A%2A%202026-07-31)** - Volleyball, spiking the ball with thunderous force
 
 📝 *Click a button above to submit your answer!*
 
